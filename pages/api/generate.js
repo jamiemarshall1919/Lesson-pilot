@@ -1,8 +1,5 @@
-// pages/api/generate.js
-
 import fs from 'fs';
 import path from 'path';
-import fetch from 'node-fetch';
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
@@ -15,14 +12,11 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: 'Missing OpenAI API key' });
   }
 
-  // Load curriculum standards
   const standardsPath = path.join(process.cwd(), 'data', `${subject.toLowerCase()}_standards.json`);
   let matchedStandard = 'Not found';
 
   try {
     const standards = JSON.parse(fs.readFileSync(standardsPath, 'utf8'));
-
-    // Simple match logic: find the first standard with matching grade and a keyword hit in description
     const gradeKey = `Grade ${grade}`;
     const keywords = input.toLowerCase().split(/\W+/);
 
@@ -66,6 +60,8 @@ Topic: "${input}"
 `;
 
   try {
+    const fetch = (await import('node-fetch')).default;
+
     const response = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: {
@@ -73,7 +69,7 @@ Topic: "${input}"
         Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
       },
       body: JSON.stringify({
-        model: "gpt-3.5-turbo", // Use gpt-3.5-turbo for faster responses
+        model: "gpt-3.5-turbo",
         messages: [
           { role: "system", content: "You are a helpful assistant that creates lesson plans." },
           { role: "user", content: prompt }
@@ -96,3 +92,4 @@ Topic: "${input}"
     res.status(500).json({ error: "Failed to generate response." });
   }
 }
+
