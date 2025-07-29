@@ -60,8 +60,6 @@ Topic: "${input}"
 `;
 
   try {
-    const fetch = (await import('node-fetch')).default;
-
     const response = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: {
@@ -92,4 +90,3 @@ Topic: "${input}"
     res.status(500).json({ error: "Failed to generate response." });
   }
 }
-
