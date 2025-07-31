@@ -191,3 +191,4 @@ const outputBoxStyle = {
   marginTop: '1rem',
   border: '1px solid #ddd',
 };
+// align/api-ui: review placeholder (no functional change)

@@ -92,3 +92,4 @@ Topic: "${input}"
     res.status(500).json({ error: "Failed to generate response." });
   }
 }
+// align/api-ui: review placeholder (no functional change)
