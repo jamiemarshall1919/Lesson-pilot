@@ -1,0 +1,340 @@
+{
+  "Grade PK": [
+    {
+      "code": "NY-1.MD.1",
+      "description": "Order three objects by length; compare the lengths of two objects indirectly by using a third object. (1-PS4-4)"
+    },
+    {
+      "code": "NY-1.MD.1",
+      "description": "Order three objects by length; compare the lengths of two objects indirectly by using a third object. (1-LS3-1)"
+    },
+    {
+      "code": "NY-1.MD.2",
+      "description": "Measure the length of an object using same-size \"length units\" placed end to end with no gaps or overlaps. Express the length of an object as a whole"
+    },
+    {
+      "code": "NY-1.MD.4",
+      "description": "Organize, represent, and interpret data with up to three categories; ask and answer questions about the total number of data points, how many in each"
+    },
+    {
+      "code": "NY-1.NBT.3",
+      "description": "Compare two two-digit numbers based on the meanings of the tens and one digits, recording the results of comparisons with the symbols >, =, and <. (1-LS1-2)"
+    },
+    {
+      "code": "NY-1.NBT.4",
+      "description": "Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10. Use concrete models or"
+    },
+    {
+      "code": "NY-1.NBT.5",
+      "description": "Given a two-digit number, mentally find 10 more or 10 less than the number, without having to count; explain the reasoning used. (1-LS1-2)"
+    },
+    {
+      "code": "NY-1.NBT.6",
+      "description": "Subtract multiples of 10 from the range 10-90 from multiples of 10 in the range 10-90 using concrete models or drawings, and strategies based on place"
+    },
+    {
+      "code": "NY-1.OA.1",
+      "description": "Use addition and subtraction within 20 to solve one step word problems involving situations of adding to, taking from, putting together, taking apart,"
+    },
+    {
+      "code": "NY-2.MD.10",
+      "description": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and"
+    },
+    {
+      "code": "NY-2.MD.10",
+      "description": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and"
+    },
+    {
+      "code": "NY-2.MD.10",
+      "description": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and"
+    },
+    {
+      "code": "NY-2.MD.5",
+      "description": "Use addition and subtraction within 100 to solve word problems involving lengths that are given in the same units, e.g., using drawings and equations with a"
+    },
+    {
+      "code": "NY-2.NBT.3",
+      "description": "Read and write numbers to 1000 using base-ten numerals, number names, and expanded form. (2-ESS2-2)"
+    },
+    {
+      "code": "NY-3.MD.2",
+      "description": "Measure and estimate liquid volumes and masses of objects using grams (g), kilograms (kg), and liters (l). Add, subtract, multiply, or divide to solve one-"
+    },
+    {
+      "code": "NY-3.MD.2",
+      "description": "Measure and estimate liquid volumes and masses of objects using grams (g), kilograms (kg), and liters (l). Add, subtract, multiply, or divide to solve one-step"
+    },
+    {
+      "code": "NY-3.MD.3",
+      "description": "Draw a scaled picture graph and a scaled bar graph to represent a data set with several categories. Solve one- and two-step \u201chow many more\u201d and \u201chow"
+    },
+    {
+      "code": "NY-3.MD.3",
+      "description": "Draw a scaled picture graph and a scaled bar graph to represent a data set with several categories. Solve one- and two-step \u201chow many more\u201d and \u201chow"
+    },
+    {
+      "code": "NY-3.MD.3",
+      "description": "Draw a scaled picture graph and a scaled bar graph to represent a data set with several categories. Solve one- and two-step \u201chow many more\u201d and \u201chow many"
+    },
+    {
+      "code": "NY-3.MD.4",
+      "description": "Generate measurement data by measuring lengths using rulers marked with halves and fourths of an inch. Show the data by making a line plot, where the"
+    },
+    {
+      "code": "NY-3.MD.4",
+      "description": "Generate measurement data by measuring lengths using rulers marked with halves and fourths of an inch. Show the data by making a line plot, where the"
+    },
+    {
+      "code": "NY-4.G.1",
+      "description": "Draw points, lines, line segments, rays, angles (right, acute, obtuse), and perpendicular and parallel lines. Identify these in two-dimensional figures. (4-PS4-1)"
+    },
+    {
+      "code": "NY-4.G.1",
+      "description": "Draw points, lines, line segments, rays, angles (right, acute, obtuse), and perpendicular and parallel lines. Identify these in two-dimensional figures. (4-LS1-1)"
+    },
+    {
+      "code": "NY-4.G.3",
+      "description": "Recognize a line of symmetry for a two-dimensional figure as a line across the figure such that the figure can be folded along the line into matching parts. Identify"
+    },
+    {
+      "code": "NY-4.MD.1",
+      "description": "Know relative sizes of measurement units: ft., in.; km, m, cm. Know the conversion factor and use it to convert measurements in a larger unit in terms of a smaller"
+    },
+    {
+      "code": "NY-4.MD.2",
+      "description": "Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money. Solve problems involving"
+    },
+    {
+      "code": "NY-4.OA.1",
+      "description": "Interpret a multiplication equation as a comparison. Represent verbal statements of multiplicative comparisons as multiplication equations. (4-ESS3-1)"
+    },
+    {
+      "code": "NY-4.OA.1",
+      "description": "Interpret a multiplication equation as a comparison. Represent verbal statements of multiplicative comparisons as multiplication equations. (4-ESS3-2)"
+    },
+    {
+      "code": "NY-4.OA.3",
+      "description": "Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders"
+    },
+    {
+      "code": "NY-5.G.2",
+      "description": "Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in"
+    },
+    {
+      "code": "NY-5.G.2",
+      "description": "Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in"
+    },
+    {
+      "code": "NY-5.MD.1",
+      "description": "Convert among different-sized standard measurement units within a given measurement system when the conversion factor is given. Use these conversions in"
+    },
+    {
+      "code": "NY-5.MD.1",
+      "description": "Convert among different-sized standard measurement units within a given measurement system when the conversion factor is given. Use these conversions"
+    },
+    {
+      "code": "NY-5.MD.3",
+      "description": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement. (5-PS1-1)"
+    },
+    {
+      "code": "NY-5.NBT.1",
+      "description": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents"
+    },
+    {
+      "code": "NY-5.NBT.2",
+      "description": "Use whole-number exponents to denote powers of 10. Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and"
+    },
+    {
+      "code": "NY-5.NF.7",
+      "description": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions. (5-PS1-1)"
+    },
+    {
+      "code": "NY-6.EE.2",
+      "description": "Write, read, and evaluate expressions in which letters stand for numbers. (MS-PS2-1),(MS-PS2-2)"
+    },
+    {
+      "code": "NY-6.EE.6",
+      "description": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem. Understand that a variable can"
+    },
+    {
+      "code": "NY-6.EE.6",
+      "description": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem. Understand that a variable can"
+    },
+    {
+      "code": "NY-6.EE.6",
+      "description": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem. Understand that a variable can"
+    },
+    {
+      "code": "NY-6.EE.6",
+      "description": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem. Understand that a variable can"
+    },
+    {
+      "code": "NY-6.EE.6",
+      "description": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem. Understand that a variable can"
+    },
+    {
+      "code": "NY-6.EE.6",
+      "description": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem. Understand that a variable can"
+    },
+    {
+      "code": "NY-6.EE.9",
+      "description": "Use variables to represent two quantities in a real-world problem that change in relationship to one another. (MS-LS1-1), (MS-LS1-2), (MS-LS1-3)"
+    },
+    {
+      "code": "NY-6.EE.9",
+      "description": "Use variables to represent two quantities in a real-world problem that change in relationship to one another. (MS-LS1-6), (MS-LS2-3)"
+    },
+    {
+      "code": "NY-6.NS.5",
+      "description": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values. Use positive and"
+    },
+    {
+      "code": "NY-6.NS.5",
+      "description": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values. Use positive and"
+    },
+    {
+      "code": "NY-6.NS.5",
+      "description": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values. Use positive and negative"
+    },
+    {
+      "code": "NY-6.RP.1",
+      "description": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. (MS-PS3-1), (MS-PS3-5), (MS-PS3-"
+    },
+    {
+      "code": "NY-6.RP.1",
+      "description": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. (MS-PS4-1)"
+    },
+    {
+      "code": "NY-6.RP.1",
+      "description": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. (MS-LS4-4),(MS-LS4-6)"
+    },
+    {
+      "code": "NY-6.RP.1",
+      "description": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. (MS-ESS1-1),(MS-ESS1-2).(MS-ESS1-"
+    },
+    {
+      "code": "NY-6.RP.1",
+      "description": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. (MS-ESS3-3),(MS-ESS3-4)"
+    },
+    {
+      "code": "NY-6.RP.2",
+      "description": "Understand the concept of a unit rate a/b associated with a ratio a:b with b \u2260 0, and use rate language in the context of a ratio relationship. (MS-"
+    },
+    {
+      "code": "NY-6.RP.3",
+      "description": "Use ratio and rate reasoning to solve real-world and mathematical problems. (MS-PS1-2),(MS-PS1-5)"
+    },
+    {
+      "code": "NY-6.RP.3",
+      "description": "Use ratio and rate reasoning to solve real-world mathematical problems. (MS-PS4-1)"
+    },
+    {
+      "code": "NY-6.RP.3",
+      "description": "Use ratio and rate reasoning to solve real-world and mathematical problems. (MS-LS2-5)"
+    },
+    {
+      "code": "NY-6.RP.4",
+      "description": "Use ratio and rate reasoning to solve real-world and mathematical problems. (MS-PS1-1),(MS-PS1-7)"
+    },
+    {
+      "code": "NY-6.SP.2",
+      "description": "Understand that a set of quantitative data collected to answer a statistical question has a distribution which can be described by its center,"
+    },
+    {
+      "code": "NY-6.SP.4",
+      "description": "Display quantitative data in plots on a number line, including dot plots, histograms, and box plots. (MS-PS1-2)"
+    },
+    {
+      "code": "NY-6.SP.4",
+      "description": "Display quantitative data in plots on a number line, including dot plots, and histograms. (MS-LS1-4),(MS-LS1-5)"
+    },
+    {
+      "code": "NY-6.SP.5",
+      "description": "Summarize quantitative data sets in relation to their context (MS-PS1-2)"
+    },
+    {
+      "code": "NY-6.SP.5",
+      "description": "Summarize quantitative data sets in relation to their context. (MS-PS3-4)"
+    },
+    {
+      "code": "NY-6.SP.5",
+      "description": "Summarize quantitative data sets in relation to their context. (MS-LS2-2)"
+    },
+    {
+      "code": "NY-6.SP.5",
+      "description": "Summarize quantitative data sets in relation to their context. (MS-LS3-2)"
+    },
+    {
+      "code": "NY-6.SP.5",
+      "description": "Summarize quantitative data sets in relation to their context. (MS-LS4-4),(MS-LS4-6)"
+    },
+    {
+      "code": "NY-7.EE.3",
+      "description": "Solve multi-step real-world and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions,"
+    },
+    {
+      "code": "NY-7.EE.3",
+      "description": "Solve multi-step real-world and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions,"
+    },
+    {
+      "code": "NY-7.EE.4",
+      "description": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve"
+    },
+    {
+      "code": "NY-7.EE.4",
+      "description": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by"
+    },
+    {
+      "code": "NY-7.EE.4",
+      "description": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by"
+    },
+    {
+      "code": "NY-7.EE.4",
+      "description": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems"
+    },
+    {
+      "code": "NY-7.EE.4",
+      "description": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by"
+    },
+    {
+      "code": "NY-7.EE.4",
+      "description": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems"
+    },
+    {
+      "code": "NY-7.RP.2",
+      "description": "Recognize and represent proportional relationships between quantities. (MS-PS3-1),(MS-PS3-5)"
+    },
+    {
+      "code": "NY-7.RP.2",
+      "description": "Recognize and represent proportional relationships between quantities. (MS-PS4-1)"
+    },
+    {
+      "code": "NY-7.RP.2",
+      "description": "Recognize and represent proportional relationships between quantities. (MS-ESS1-1),(MS-ESS1-2),(MS-ESS1-3)"
+    },
+    {
+      "code": "NY-7.RP.2",
+      "description": "Recognize and represent proportional relationships between quantities. (MS-PS4-1)"
+    },
+    {
+      "code": "NY-8.EE.1",
+      "description": "Know and apply the properties of integer exponents to generate equivalent numerical expressions. (MS-PS3-1)"
+    },
+    {
+      "code": "NY-8.EE.2",
+      "description": "Use square root and cube root symbols to represent solutions to equations of the form = p and = p, where p is a positive rational number."
+    },
+    {
+      "code": "NY-8.EE.3",
+      "description": "Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express"
+    },
+    {
+      "code": "NY-8.F.3",
+      "description": "Interpret the equation y = mx + b as defining a linear function, whose graph is a straight line. Recognize give examples of functions that are linear"
+    },
+    {
+      "code": "NY-8.F.3",
+      "description": "Interpret the equation y = mx + b as defining a linear function, whose graph is a straight line. Recognize give examples of functions that are linear"
+    }
+  ]
+}
