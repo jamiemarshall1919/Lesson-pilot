@@ -1,0 +1,1270 @@
+{
+  "Grade 1": [
+    {
+      "code": "NY-1.G.1",
+      "description": ""
+    },
+    {
+      "code": "NY-1.G.1",
+      "description": "\u2192 NY-2.G.1"
+    },
+    {
+      "code": "NY-1.G.1",
+      "description": "\u2192 NY-2.G.1 \u2192 NY-3.G.1"
+    },
+    {
+      "code": "NY-1.G.2",
+      "description": ""
+    },
+    {
+      "code": "NY-1.G.2",
+      "description": ""
+    },
+    {
+      "code": "NY-1.G.3",
+      "description": "\u2192 NY-2.G.3"
+    },
+    {
+      "code": "NY-1.G.3",
+      "description": "\u2192 NY-2.G.3 \u2192"
+    },
+    {
+      "code": "NY-1.MD.1",
+      "description": ""
+    },
+    {
+      "code": "NY-1.MD.1",
+      "description": "\u2192 NY-2.MD.4"
+    },
+    {
+      "code": "NY-1.MD.1",
+      "description": "and NY-1.MD.2 together support and provide a context for the goal of solving problems that involve comparing (NY-1.OA.1)."
+    },
+    {
+      "code": "NY-1.MD.1",
+      "description": "\u2192 NY-2.MD.4"
+    },
+    {
+      "code": "NY-1.MD.2",
+      "description": "\u2192 NY-2.MD.1"
+    },
+    {
+      "code": "NY-1.MD.2",
+      "description": "\u2192 NY-2.MD.1 \u2192 NY-3.MD.4"
+    },
+    {
+      "code": "NY-1.MD.4",
+      "description": ""
+    },
+    {
+      "code": "NY-1.MD.4",
+      "description": "\u2192 NY-2.MD.10"
+    },
+    {
+      "code": "NY-1.MD.4",
+      "description": "\u2192 NY-2.MD.10 \u2192 NY-3.MD.3"
+    },
+    {
+      "code": "NY-1.NBT.1",
+      "description": ""
+    },
+    {
+      "code": "NY-1.NBT.1",
+      "description": ""
+    },
+    {
+      "code": "NY-1.NBT.1",
+      "description": ""
+    },
+    {
+      "code": "NY-1.NBT.1",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-1.NBT.1",
+      "description": "\u2192 NY-2.NBT.2"
+    },
+    {
+      "code": "NY-1.NBT.1",
+      "description": "\u2192 NY-2.NBT.3 \u2192 NY-3.NBT.4b"
+    },
+    {
+      "code": "NY-1.NBT.2",
+      "description": ""
+    },
+    {
+      "code": "NY-1.NBT.2",
+      "description": "& 4) should be seen as an investigation and use of the structure of the number system and of"
+    },
+    {
+      "code": "NY-1.NBT.2",
+      "description": "\u2192 NY-2.NBT.1"
+    },
+    {
+      "code": "NY-1.NBT.2",
+      "description": "& 4) should be seen as an investigation and use of the structure of the number system and of"
+    },
+    {
+      "code": "NY-1.NBT.2",
+      "description": "\u2192 NY-2.NBT.1 \u2192 NY-3.NBT.4a"
+    },
+    {
+      "code": "NY-1.NBT.3",
+      "description": ""
+    },
+    {
+      "code": "NY-1.NBT.3",
+      "description": "\u2192 NY-2.NBT.4"
+    },
+    {
+      "code": "NY-1.NBT.3",
+      "description": "\u2192 NY-2.NBT.4"
+    },
+    {
+      "code": "NY-1.NBT.4",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-1.NBT.4",
+      "description": "\u2192 NY-2.NBT.5 \u2192 NY-3.NBT.2"
+    },
+    {
+      "code": "NY-1.NBT.4",
+      "description": "\u2192 NY-2.NBT.7 \u2192 NY-3.NBT.2"
+    },
+    {
+      "code": "NY-1.NBT.5",
+      "description": "\u2192 NY-2.NBT.8"
+    },
+    {
+      "code": "NY-1.NBT.5",
+      "description": ""
+    },
+    {
+      "code": "NY-1.NBT.6",
+      "description": "\u2192 NY-2.NBT.8"
+    },
+    {
+      "code": "NY-1.NBT.6",
+      "description": ""
+    },
+    {
+      "code": "NY-1.OA.1",
+      "description": ""
+    },
+    {
+      "code": "NY-1.OA.1",
+      "description": "\u2192 NY-2.OA.1"
+    },
+    {
+      "code": "NY-1.OA.1",
+      "description": "\u2192 NY-2.OA.1 \u2192 NY-3.OA.8"
+    },
+    {
+      "code": "NY-1.OA.2",
+      "description": "\u2192 NY-2.NBT.6"
+    },
+    {
+      "code": "NY-1.OA.2",
+      "description": "\u2192 NY-2.NBT.6"
+    },
+    {
+      "code": "NY-1.OA.3",
+      "description": "\u2192 NY-2.NBT.9"
+    },
+    {
+      "code": "NY-1.OA.3",
+      "description": ""
+    },
+    {
+      "code": "NY-1.OA.4",
+      "description": "\u2192 NY-2.NBT.9"
+    },
+    {
+      "code": "NY-1.OA.4",
+      "description": "being met.)"
+    },
+    {
+      "code": "NY-1.OA.4",
+      "description": "being met.)"
+    },
+    {
+      "code": "NY-1.OA.4",
+      "description": ""
+    },
+    {
+      "code": "NY-1.OA.5",
+      "description": ""
+    },
+    {
+      "code": "NY-1.OA.6",
+      "description": ""
+    },
+    {
+      "code": "NY-1.OA.6",
+      "description": ""
+    },
+    {
+      "code": "NY-1.OA.6",
+      "description": ""
+    },
+    {
+      "code": "NY-1.OA.6",
+      "description": "\u2192 NY-2.OA.2"
+    },
+    {
+      "code": "NY-1.OA.6",
+      "description": "\u2192 NY-2.OA.2"
+    }
+  ],
+  "Grade 2": [
+    {
+      "code": "NY-2.G.1",
+      "description": "\u2192 NY-3.G.1 \u2192 NY-4.G.2"
+    },
+    {
+      "code": "NY-2.G.2",
+      "description": "\u2192 NY-3.MD.6"
+    },
+    {
+      "code": "NY-2.G.2",
+      "description": "\u2192 NY-3.MD.6 \u2192 NY-5.MD.4"
+    },
+    {
+      "code": "NY-2.G.3",
+      "description": "\u2192 NY-3.NF.1 \u2192 NY-4.NF.3"
+    },
+    {
+      "code": "NY-2.G.3",
+      "description": "\u2192 NY-3.G.2"
+    },
+    {
+      "code": "NY-2.MD.10",
+      "description": "\u2192 NY-3.MD.3"
+    },
+    {
+      "code": "NY-2.MD.5",
+      "description": "\u2192 NY-3.MD.2"
+    },
+    {
+      "code": "NY-2.MD.5",
+      "description": "\u2192 NY-3.MD.2"
+    },
+    {
+      "code": "NY-2.MD.6",
+      "description": "\u2192 NY-3.NF.2"
+    },
+    {
+      "code": "NY-2.MD.6",
+      "description": "\u2192 NY-3.NF.2"
+    },
+    {
+      "code": "NY-2.MD.7",
+      "description": ""
+    },
+    {
+      "code": "NY-2.MD.7",
+      "description": "\u2192 NY-3.MD.1"
+    },
+    {
+      "code": "NY-2.MD.7",
+      "description": "\u2192 NY-3.MD.1 \u2192 NY-4.MD.2"
+    },
+    {
+      "code": "NY-2.MD.8",
+      "description": ""
+    },
+    {
+      "code": "NY-2.MD.8",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-2.MD.9",
+      "description": "\u2192 NY-3.MD.4"
+    },
+    {
+      "code": "NY-2.MD.9",
+      "description": "\u2192 NY-3.MD.4 \u2192 NY-4.MD.4"
+    },
+    {
+      "code": "NY-2.NBT.1",
+      "description": "\u2192 NY-3.NBT.4a \u2192 NY-4.NBT.1"
+    },
+    {
+      "code": "NY-2.NBT.2",
+      "description": ""
+    },
+    {
+      "code": "NY-2.NBT.3",
+      "description": ""
+    },
+    {
+      "code": "NY-2.NBT.3",
+      "description": "\u2192 NY-3.NBT.4b \u2192 NY-4.NBT.2"
+    },
+    {
+      "code": "NY-2.NBT.5",
+      "description": ""
+    },
+    {
+      "code": "NY-2.NBT.5",
+      "description": ""
+    },
+    {
+      "code": "NY-2.NBT.7",
+      "description": ""
+    },
+    {
+      "code": "NY-2.NBT.7",
+      "description": ""
+    },
+    {
+      "code": "NY-2.NBT.8",
+      "description": ""
+    },
+    {
+      "code": "NY-2.NBT.9",
+      "description": ""
+    },
+    {
+      "code": "NY-2.OA.1",
+      "description": "\u2192 NY-3.OA.8 \u2192 NY-4.OA.3"
+    },
+    {
+      "code": "NY-2.OA.3",
+      "description": "\u2192 NY-3.OA.9"
+    },
+    {
+      "code": "NY-2.OA.3",
+      "description": "\u2192 NY-3.OA.9 \u2192 NY-4.OA.5"
+    },
+    {
+      "code": "NY-2.OA.4",
+      "description": "\u2192 NY-3.OA.1"
+    },
+    {
+      "code": "NY-2.OA.4",
+      "description": "\u2192 NY-3.OA.1 \u2192 NY-4.OA.1"
+    }
+  ],
+  "Grade 3": [
+    {
+      "code": "NY-3.G.1",
+      "description": "\u2192 NY-4.G.2 \u2192 NY-5.G.3"
+    },
+    {
+      "code": "NY-3.G.2",
+      "description": ""
+    },
+    {
+      "code": "NY-3.MD.1",
+      "description": "\u2192 NY-4.MD.2"
+    },
+    {
+      "code": "NY-3.MD.4",
+      "description": "\u2192 NY-4.MD.4 \u2192 NY-5.MD.2"
+    },
+    {
+      "code": "NY-3.MD.5",
+      "description": "\u2192 NY-5.MD.3"
+    },
+    {
+      "code": "NY-3.MD.5",
+      "description": "\u2192 NY-5.MD.3"
+    },
+    {
+      "code": "NY-3.MD.6",
+      "description": "\u2192 NY-5.MD.4"
+    },
+    {
+      "code": "NY-3.MD.7",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-3.MD.7",
+      "description": ""
+    },
+    {
+      "code": "NY-3.MD.7",
+      "description": ""
+    },
+    {
+      "code": "NY-3.MD.7",
+      "description": ""
+    },
+    {
+      "code": "NY-3.MD.7",
+      "description": "\u2192 NY-5.MD.5 \u2192"
+    },
+    {
+      "code": "NY-3.MD.8",
+      "description": "\u2192 NY-4.MD.3"
+    },
+    {
+      "code": "NY-3.MD.8",
+      "description": ""
+    },
+    {
+      "code": "NY-3.NBT.1",
+      "description": "\u2192 NY-4.NBT.3"
+    },
+    {
+      "code": "NY-3.NBT.1",
+      "description": "\u2192 NY-4.NBT.3 \u2192 NY-5.NBT.4"
+    },
+    {
+      "code": "NY-3.NBT.2",
+      "description": "\u2192 NY-4.NBT.4"
+    },
+    {
+      "code": "NY-3.NBT.2",
+      "description": "\u2192 NY-4.NBT.4"
+    },
+    {
+      "code": "NY-3.NBT.3",
+      "description": "\u2192 NY-4.NBT.5"
+    },
+    {
+      "code": "NY-3.NBT.3",
+      "description": ""
+    },
+    {
+      "code": "NY-3.NF.1",
+      "description": ""
+    },
+    {
+      "code": "NY-3.NF.1",
+      "description": "\u2192 NY-4.NF.3 \u2192"
+    },
+    {
+      "code": "NY-3.NF.3",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-3.NF.3",
+      "description": "\u2192 NY-4.NF.1 \u2192 NY-5.NF.1"
+    },
+    {
+      "code": "NY-3.NF.3",
+      "description": "\u2192 NY-4.NF.5 \u2192 NY-5.NBT.7"
+    },
+    {
+      "code": "NY-3.OA.1",
+      "description": "\u2192 NY-4.OA.1 \u2192 NY-5.NF.5"
+    },
+    {
+      "code": "NY-3.OA.3",
+      "description": "\u2192 NY-4.OA.2"
+    },
+    {
+      "code": "NY-3.OA.3",
+      "description": "\u2192 NY-4.OA.2"
+    },
+    {
+      "code": "NY-3.OA.5",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-3.OA.5",
+      "description": "\u2192 NY-4.NBT.5 \u2192 NY-5.NBT.5"
+    },
+    {
+      "code": "NY-3.OA.5",
+      "description": ""
+    },
+    {
+      "code": "NY-3.OA.6",
+      "description": "\u2192 NY-4.NBT.6"
+    },
+    {
+      "code": "NY-3.OA.6",
+      "description": "\u2192 NY-4.NBT.6 \u2192 NY-5.NBT.6"
+    },
+    {
+      "code": "NY-3.OA.7",
+      "description": "\u2192 NY-4.OA.4"
+    },
+    {
+      "code": "NY-3.OA.7",
+      "description": "\u2192 NY-4.OA.4 \u2192 NY-6.NS.4"
+    },
+    {
+      "code": "NY-3.OA.8",
+      "description": "\u2192 NY-4.OA.3"
+    },
+    {
+      "code": "NY-3.OA.9",
+      "description": "\u2192 NY-4.OA.5 \u2192 NY-5.OA.3"
+    }
+  ],
+  "Grade 4": [
+    {
+      "code": "NY-4.G.2",
+      "description": "\u2192 NY-5.G.3"
+    },
+    {
+      "code": "NY-4.MD.1",
+      "description": "\u2192 NY-5.MD.1"
+    },
+    {
+      "code": "NY-4.MD.1",
+      "description": "\u2192 NY-5.MD.1 \u2192 NY-6.RP.3d"
+    },
+    {
+      "code": "NY-4.MD.1",
+      "description": ""
+    },
+    {
+      "code": "NY-4.MD.2",
+      "description": "refers to using the four operations to solve word problems involving measurement quantities such as liquid volume, mass, time, and so on. Some"
+    },
+    {
+      "code": "NY-4.MD.3",
+      "description": ""
+    },
+    {
+      "code": "NY-4.MD.3",
+      "description": ""
+    },
+    {
+      "code": "NY-4.MD.4",
+      "description": "\u2192 NY-5.MD.2 \u2192"
+    },
+    {
+      "code": "NY-4.MD.7",
+      "description": "refers to word problems involving unknown angle measures. Before this standard can be met, students must understand concepts of angle measure"
+    },
+    {
+      "code": "NY-4.NBT.1",
+      "description": "\u2192 NY-5.NBT.1"
+    },
+    {
+      "code": "NY-4.NBT.1",
+      "description": "\u2192 NY-5.NBT.1"
+    },
+    {
+      "code": "NY-4.NBT.2",
+      "description": "\u2192 NY-5.NBT.3"
+    },
+    {
+      "code": "NY-4.NBT.3",
+      "description": "\u2192 NY-5.NBT.4"
+    },
+    {
+      "code": "NY-4.NBT.5",
+      "description": ""
+    },
+    {
+      "code": "NY-4.NBT.5",
+      "description": "\u2192 NY-5.NBT.5 \u2192 NY-6.NS.3"
+    },
+    {
+      "code": "NY-4.NBT.6",
+      "description": ""
+    },
+    {
+      "code": "NY-4.NBT.6",
+      "description": "\u2192 NY-5.NBT.6 \u2192 NY-6.NS.2"
+    },
+    {
+      "code": "NY-4.NF.1",
+      "description": ""
+    },
+    {
+      "code": "NY-4.NF.1",
+      "description": ""
+    },
+    {
+      "code": "NY-4.NF.2",
+      "description": ""
+    },
+    {
+      "code": "NY-4.NF.2",
+      "description": ""
+    },
+    {
+      "code": "NY-4.NF.4",
+      "description": "\u2192 NY-5.NF.4"
+    },
+    {
+      "code": "NY-4.NF.4",
+      "description": "\u2192 NY-5.NF.4 \u2192 NY-6.G.1"
+    },
+    {
+      "code": "NY-4.NF.5",
+      "description": ""
+    },
+    {
+      "code": "NY-4.NF.5",
+      "description": "\u2192 NY-5.NBT.7 \u2192 NY-6.NS.3"
+    },
+    {
+      "code": "NY-4.NF.6",
+      "description": "\u2192 NY-5.NBT.3a"
+    },
+    {
+      "code": "NY-4.NF.6",
+      "description": ""
+    },
+    {
+      "code": "NY-4.NF.7",
+      "description": "\u2192 NY-5.NBT.3b"
+    },
+    {
+      "code": "NY-4.NF.7",
+      "description": ""
+    },
+    {
+      "code": "NY-4.OA.1",
+      "description": "\u2192 NY-5.NF.5 \u2192 NY-6.RP.1"
+    },
+    {
+      "code": "NY-4.OA.4",
+      "description": "\u2192 NY-6.NS.4"
+    },
+    {
+      "code": "NY-4.OA.5",
+      "description": "\u2192 NY-5.OA.3 \u2192 NY-6.EE.9"
+    }
+  ],
+  "Grade 5": [
+    {
+      "code": "NY-5.G.1",
+      "description": "\u2192 NY-6.NS.6"
+    },
+    {
+      "code": "NY-5.G.1",
+      "description": "\u2192 NY-6.NS.6 \u2192 NY-7.NS.1"
+    },
+    {
+      "code": "NY-5.G.2",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-5.G.2",
+      "description": "\u2192 NY-6.NS.8"
+    },
+    {
+      "code": "NY-5.G.2",
+      "description": "\u2192 NY-6.G.3"
+    },
+    {
+      "code": "NY-5.MD.1",
+      "description": "\u2192 10N0Y-6.RP.3d"
+    },
+    {
+      "code": "NY-5.MD.1",
+      "description": "74 Convert among different-sized Convert among different-sized Clarification that known"
+    },
+    {
+      "code": "NY-5.MD.2",
+      "description": "\u2192 NY-6.SP.2 \u2192 NY-7.SP.3"
+    },
+    {
+      "code": "NY-5.MD.2",
+      "description": "\u2192 NY-6.SP.4 \u2192 NY-7.SP.1"
+    },
+    {
+      "code": "NY-5.MD.5",
+      "description": ""
+    },
+    {
+      "code": "NY-5.MD.5",
+      "description": "\u2192 NY-6.G.2 \u2192 NY-7.G.6"
+    },
+    {
+      "code": "NY-5.MD.5",
+      "description": "\u2192 NY-6.G.5"
+    },
+    {
+      "code": "NY-5.NBT.2",
+      "description": "\u2192 NY-6.EE.1"
+    },
+    {
+      "code": "NY-5.NBT.2",
+      "description": "\u2192 NY-6.EE.1"
+    },
+    {
+      "code": "NY-5.NBT.5",
+      "description": ""
+    },
+    {
+      "code": "NY-5.NBT.6",
+      "description": "\u2192 NY-6.NS.2"
+    },
+    {
+      "code": "NY-5.NBT.7",
+      "description": ""
+    },
+    {
+      "code": "NY-5.NF.1",
+      "description": ""
+    },
+    {
+      "code": "NY-5.NF.1",
+      "description": ""
+    },
+    {
+      "code": "NY-5.NF.2",
+      "description": ""
+    },
+    {
+      "code": "NY-5.NF.2",
+      "description": ""
+    },
+    {
+      "code": "NY-5.NF.3",
+      "description": "\u2192 NY-6.RP.2"
+    },
+    {
+      "code": "NY-5.NF.3",
+      "description": "\u2192 NY-6.RP.2 \u2192 NY-7.RP.1"
+    },
+    {
+      "code": "NY-5.NF.4",
+      "description": "\u2192 NY-6.G.1 \u2192 NY-7.G.6"
+    },
+    {
+      "code": "NY-5.NF.4",
+      "description": "72 Apply and extend previous Apply and extend previous Clarification of the progression"
+    },
+    {
+      "code": "NY-5.NF.5",
+      "description": "\u2192 NY-6.RP.1"
+    },
+    {
+      "code": "NY-5.NF.6",
+      "description": ""
+    },
+    {
+      "code": "NY-5.NF.6",
+      "description": ""
+    },
+    {
+      "code": "NY-5.NF.7",
+      "description": "\u2192 NY-6.NS.1"
+    },
+    {
+      "code": "NY-5.NF.7",
+      "description": "\u2192 NY-6.NS.1 \u2192 NY-7.NS.2"
+    },
+    {
+      "code": "NY-5.OA.1",
+      "description": "\u2192 NY-6.EE.2"
+    },
+    {
+      "code": "NY-5.OA.1",
+      "description": ""
+    },
+    {
+      "code": "NY-5.OA.2",
+      "description": "\u2192 NY-6.EE.3"
+    },
+    {
+      "code": "NY-5.OA.2",
+      "description": ""
+    },
+    {
+      "code": "NY-5.OA.2",
+      "description": "\u2192 NY-6.EE.3 \u2192 NY-7.EE.1"
+    },
+    {
+      "code": "NY-5.OA.2",
+      "description": "\u2192 NY-6.EE.4 \u2192 NY-7.EE.2"
+    },
+    {
+      "code": "NY-5.OA.3",
+      "description": "\u2192 NY-6.EE.9"
+    }
+  ],
+  "Grade 6": [
+    {
+      "code": "NY-6.EE.2",
+      "description": ""
+    },
+    {
+      "code": "NY-6.EE.2",
+      "description": ""
+    },
+    {
+      "code": "NY-6.EE.3",
+      "description": "\u2192 NY-7.EE.1 \u2192 NY-8.EE.7"
+    },
+    {
+      "code": "NY-6.EE.4",
+      "description": ""
+    },
+    {
+      "code": "NY-6.EE.4",
+      "description": "\u2192 NY-7.EE.2 \u2192 NY-8.EE.8c"
+    },
+    {
+      "code": "NY-6.EE.7",
+      "description": "\u2192 NY-7.EE.4a"
+    },
+    {
+      "code": "NY-6.EE.7",
+      "description": "\u2192 NY-7.EE.4a \u2192"
+    },
+    {
+      "code": "NY-6.EE.8",
+      "description": "\u2192 NY-7.EE.4b"
+    },
+    {
+      "code": "NY-6.EE.8",
+      "description": "\u2192 NY-7.EE.4b"
+    },
+    {
+      "code": "NY-6.G.1",
+      "description": ""
+    },
+    {
+      "code": "NY-6.G.2",
+      "description": ""
+    },
+    {
+      "code": "NY-6.G.2",
+      "description": "\u2192 NY-7.G.6 \u2192 NY-8.G.6"
+    },
+    {
+      "code": "NY-6.G.3",
+      "description": ""
+    },
+    {
+      "code": "NY-6.G.4",
+      "description": "\u2192 NY-7.G.6"
+    },
+    {
+      "code": "NY-6.G.4",
+      "description": ""
+    },
+    {
+      "code": "NY-6.G.5",
+      "description": ""
+    },
+    {
+      "code": "NY-6.NS.1",
+      "description": "\u2192 NY-7.NS.2 \u2192 NY-8.NS.1"
+    },
+    {
+      "code": "NY-6.NS.3",
+      "description": "\u2192 NY-7.NS.3"
+    },
+    {
+      "code": "NY-6.NS.3",
+      "description": "\u2192 NY-7.NS.3"
+    },
+    {
+      "code": "NY-6.NS.5",
+      "description": "\u2192 NY-7.NS.1"
+    },
+    {
+      "code": "NY-6.NS.5",
+      "description": ""
+    },
+    {
+      "code": "NY-6.NS.6",
+      "description": "\u2192 NY-7.NS.1"
+    },
+    {
+      "code": "NY-6.NS.7",
+      "description": ""
+    },
+    {
+      "code": "NY-6.NS.7",
+      "description": "\u2192 NY-7.NS.1"
+    },
+    {
+      "code": "NY-6.NS.7",
+      "description": ""
+    },
+    {
+      "code": "NY-6.NS.8",
+      "description": ""
+    },
+    {
+      "code": "NY-6.RP.2",
+      "description": ""
+    },
+    {
+      "code": "NY-6.SP.2",
+      "description": ""
+    },
+    {
+      "code": "NY-6.SP.2",
+      "description": "\u2192 NY-7.SP.3"
+    },
+    {
+      "code": "NY-6.SP.3",
+      "description": "\u2192 NY-7.SP.4"
+    },
+    {
+      "code": "NY-6.SP.3",
+      "description": ""
+    },
+    {
+      "code": "NY-6.SP.4",
+      "description": ""
+    },
+    {
+      "code": "NY-6.SP.4",
+      "description": ""
+    },
+    {
+      "code": "NY-6.SP.8",
+      "description": "\u2192 NY-7.SP.8"
+    },
+    {
+      "code": "NY-6.SP.8",
+      "description": "\u2192 NY-7.SP.8"
+    }
+  ],
+  "Grade 7": [
+    {
+      "code": "NY-7.EE.1",
+      "description": "\u2013 4 could be divided into two phases, one centered on addition and subtraction (e.g., solving + = in relation to"
+    },
+    {
+      "code": "NY-7.EE.1",
+      "description": ""
+    },
+    {
+      "code": "NY-7.EE.2",
+      "description": "\u2192 NY-8.EE.8 \u2192"
+    },
+    {
+      "code": "NY-7.EE.3",
+      "description": "as well as the solution of linear expressions and equations (NY-"
+    },
+    {
+      "code": "NY-7.EE.3",
+      "description": "in its entirety will involve using rational number arithmetic (NY-7.NS.1 \u2013 3) and percents (NY-7.RP.3). Work leading to meeting this standard"
+    },
+    {
+      "code": "NY-7.G.4",
+      "description": "\u2192 NY-8.G.9"
+    },
+    {
+      "code": "NY-7.G.4",
+      "description": "\u2192 NY-8.G.9 \u2192"
+    },
+    {
+      "code": "NY-7.G.5",
+      "description": "\u2192 NY-8.G.5"
+    },
+    {
+      "code": "NY-7.G.5",
+      "description": "\u2192 NY-8.G.5 \u2192 GEO-G.CO.10"
+    },
+    {
+      "code": "NY-7.G.6",
+      "description": "\u2192 NY-8.G.6"
+    },
+    {
+      "code": "NY-7.NS.2",
+      "description": "\u2192 NY-8.NS.1 \u2192 AI-N.RN.3"
+    },
+    {
+      "code": "NY-7.RP.1",
+      "description": ""
+    },
+    {
+      "code": "NY-7.RP.1",
+      "description": ""
+    },
+    {
+      "code": "NY-7.RP.3",
+      "description": ""
+    },
+    {
+      "code": "NY-7.RP.3",
+      "description": ""
+    },
+    {
+      "code": "NY-7.SP.1",
+      "description": ""
+    },
+    {
+      "code": "NY-7.SP.1",
+      "description": ""
+    },
+    {
+      "code": "NY-7.SP.4",
+      "description": ""
+    },
+    {
+      "code": "NY-7.SP.4",
+      "description": ""
+    }
+  ],
+  "Grade 8": [
+    {
+      "code": "NY-8.EE.1",
+      "description": "\u2192 AI-A.SSE.2"
+    },
+    {
+      "code": "NY-8.EE.1",
+      "description": "\u2192 AI-A.SSE.2 \u2192"
+    },
+    {
+      "code": "NY-8.EE.2",
+      "description": "\u2192 AI-A.REI.4 \u2192 AII-A.REI.4b"
+    },
+    {
+      "code": "NY-8.EE.4",
+      "description": "\u2192 AI-N.Q.3"
+    },
+    {
+      "code": "NY-8.EE.4",
+      "description": "\u2192 AI-N.Q.3"
+    },
+    {
+      "code": "NY-8.EE.5",
+      "description": ""
+    },
+    {
+      "code": "NY-8.EE.5",
+      "description": ""
+    },
+    {
+      "code": "NY-8.EE.6",
+      "description": ""
+    },
+    {
+      "code": "NY-8.EE.6",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.EE.6",
+      "description": "\u2192 AI-A.REI.10"
+    },
+    {
+      "code": "NY-8.EE.6",
+      "description": "\u2192 GEO-G.GPE.5"
+    },
+    {
+      "code": "NY-8.EE.7",
+      "description": ""
+    },
+    {
+      "code": "NY-8.EE.7",
+      "description": "\u2192 AI-A.REI.3"
+    },
+    {
+      "code": "NY-8.EE.7",
+      "description": "\u2192 AI-A.REI.3"
+    },
+    {
+      "code": "NY-8.EE.8",
+      "description": "\u2192 AI-A.REI.6a \u2192 (+)-A.REI.6b"
+    },
+    {
+      "code": "NY-8.EE.8",
+      "description": "\u2192 AI-A.REI.7a \u2192 AII-A.REI.7b"
+    },
+    {
+      "code": "NY-8.F.1",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.F.1",
+      "description": "\u2192 AI-F.IF.1 \u2192 AII-F.IF.7e"
+    },
+    {
+      "code": "NY-8.F.1",
+      "description": ""
+    },
+    {
+      "code": "NY-8.F.2",
+      "description": ""
+    },
+    {
+      "code": "NY-8.F.2",
+      "description": "\u2192 AI-F.IF.9"
+    },
+    {
+      "code": "NY-8.F.2",
+      "description": "\u2192 AI-F.IF.9 \u2192 AII-F.IF.9"
+    },
+    {
+      "code": "NY-8.F.3",
+      "description": ""
+    },
+    {
+      "code": "NY-8.F.3",
+      "description": "\u2192 AI-F.LE.1b"
+    },
+    {
+      "code": "NY-8.F.3",
+      "description": "& 4)."
+    },
+    {
+      "code": "NY-8.F.3",
+      "description": "\u2192 AI-F.LE.1"
+    },
+    {
+      "code": "NY-8.F.4",
+      "description": ""
+    },
+    {
+      "code": "NY-8.F.4",
+      "description": "\u2192 AI-F.IF.6"
+    },
+    {
+      "code": "NY-8.F.4",
+      "description": "\u2192 AI-A.CED.1 \u2192 AII-A.CED.1"
+    },
+    {
+      "code": "NY-8.F.4",
+      "description": "\u2192 AI-F.IF.6 \u2192 AII-F.IF.6"
+    },
+    {
+      "code": "NY-8.F.4",
+      "description": "\u2192 AI-F.BF.1a \u2192 AII-F.BF.1a"
+    },
+    {
+      "code": "NY-8.F.5",
+      "description": ""
+    },
+    {
+      "code": "NY-8.F.5",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.F.5",
+      "description": "\u2192 AI-F.IF.4a \u2192 AII-F.IF.4b"
+    },
+    {
+      "code": "NY-8.F.5",
+      "description": "\u2192 AI-F.LE.3"
+    },
+    {
+      "code": "NY-8.G.1",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.G.1",
+      "description": ""
+    },
+    {
+      "code": "NY-8.G.1",
+      "description": "\u2192 GEO-G.CO.4"
+    },
+    {
+      "code": "NY-8.G.2",
+      "description": "\u2192 GEO-G.CO.6"
+    },
+    {
+      "code": "NY-8.G.2",
+      "description": "\u2192 GEO-G.CO.5"
+    },
+    {
+      "code": "NY-8.G.2",
+      "description": "\u2192 GEO-G.CO.6"
+    },
+    {
+      "code": "NY-8.G.2",
+      "description": "\u2192 GEO-G.CO.7"
+    },
+    {
+      "code": "NY-8.G.3",
+      "description": "\u2192 GEO-G.SRT.1"
+    },
+    {
+      "code": "NY-8.G.3",
+      "description": "\u2192 GEO-G.SRT.1"
+    },
+    {
+      "code": "NY-8.G.4",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.G.4",
+      "description": "\u2192 GEO-G.CO.3"
+    },
+    {
+      "code": "NY-8.G.4",
+      "description": "\u2192 GEO-G.SRT.2"
+    },
+    {
+      "code": "NY-8.G.5",
+      "description": "\u2192 GEO-G.CO.9"
+    },
+    {
+      "code": "NY-8.G.5",
+      "description": "\u2192 GEO-G.CO.10"
+    },
+    {
+      "code": "NY-8.G.5",
+      "description": "\u2192 GEO-G.SRT.3"
+    },
+    {
+      "code": "NY-8.G.7",
+      "description": "\u2192 GEO-G.SRT.8"
+    },
+    {
+      "code": "NY-8.G.7",
+      "description": "\u2192 GEO-G.SRT.8 \u2192 (+)-G.SRT.10"
+    },
+    {
+      "code": "NY-8.G.8",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.G.8",
+      "description": "\u2192 GEO-G.GPE.1a \u2192 (+)-G.GPE.2"
+    },
+    {
+      "code": "NY-8.G.8",
+      "description": "\u2192 GEO-G.GPE.4"
+    },
+    {
+      "code": "NY-8.G.9",
+      "description": "\u2192 GEO-G.GMD.1"
+    },
+    {
+      "code": "NY-8.G.9",
+      "description": "\u2192 GEO-G.MG.1"
+    },
+    {
+      "code": "NY-8.NS.1",
+      "description": "\u2192 AI-N.RN.3 \u2192 AII-A.APR.6"
+    },
+    {
+      "code": "NY-8.SP.1",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.SP.1",
+      "description": "\u2192 AI-S.ID.6 \u2192 AII-S.ID.6"
+    },
+    {
+      "code": "NY-8.SP.1",
+      "description": "\u2192 AI-S.ID.9"
+    },
+    {
+      "code": "NY-8.SP.2",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.SP.2",
+      "description": ""
+    },
+    {
+      "code": "NY-8.SP.2",
+      "description": "\u2192 AI-S.ID.8"
+    },
+    {
+      "code": "NY-8.SP.3",
+      "description": "\u2192"
+    },
+    {
+      "code": "NY-8.SP.3",
+      "description": ""
+    },
+    {
+      "code": "NY-8.SP.3",
+      "description": "\u2192 AI-S.ID.7"
+    }
+  ]
+}
