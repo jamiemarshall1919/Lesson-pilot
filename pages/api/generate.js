@@ -21,7 +21,7 @@ export default async function handler(req, res) {
       .json({ error: "Grade, subject, and topic are required." });
   }
 
-  // Normalize grade label to match JSON keys
+  // Normalize grade to JSON keys
   const normalizeGrade = (g) => {
     if (!g) return g;
     if (g.toLowerCase() === "kindergarten") return "Grade K";
@@ -43,26 +43,26 @@ export default async function handler(req, res) {
 
     // Technology / MST
     "Technology": "technology",
-    "Computer Science": "technology", // temp until CS PDFs are parsed
+    "Computer Science": "technology", // temporary until CS PDFs parsed
 
     // Health / PE / FCS
-    Health: "health_pe_fcs",
+    "Health": "health_pe_fcs",
     "Physical Education": "health_pe_fcs",
     "Family and Consumer Sciences": "health_pe_fcs",
 
     // Career Development (CDOS)
     "Career Development": "cdos",
 
-    // The Arts
-    Dance: "dance",
+    // Arts
+    "Dance": "dance",
     "Media Arts": "media_arts",
-    Music: "music",
-    Theatre: "theatre",
+    "Music": "music",
+    "Theatre": "theatre",
     "The Arts": "visual_arts",
     "Visual Arts": "visual_arts",
   };
 
-  // ---------- lightweight hints to improve matching ----------
+  // ---------- small hints to improve matching ----------
   const codeHints = {
     Mathematics: {
       fractions: ["NF"], fraction: ["NF"],
@@ -80,7 +80,7 @@ export default async function handler(req, res) {
       research: ["R","W"]
     },
     Science: {
-      genetics: ["LS3"], heredity: ["LS3"],
+      genetics: ["LS3"], heredity: ["LS3"], inheritance: ["LS3"],
       cells: ["LS1"], ecosystems: ["LS2"],
       evolution: ["LS4"], matter: ["PS1"],
       motion: ["PS2"], forces: ["PS2"],
@@ -99,35 +99,43 @@ export default async function handler(req, res) {
     }
   };
 
-  const uniq = (arr) => Array.from(new Set(arr));
-  const tokens = uniq(input.toLowerCase().split(/\W+/).filter(Boolean));
+  // synonyms expand user tokens for better matching
+  const synonyms = {
+    genetics: ["heredity", "inheritance", "genes", "traits"],
+    fraction: ["fractions"],
+    decimals: ["decimal"],
+    revolution: ["war", "independence"]
+  };
 
-  const fileKey = subjectKeyMap[subject];
+  const baseTokens = input.toLowerCase().split(/\W+/).filter(Boolean);
+  const extra = baseTokens.flatMap(t => synonyms[t] || []);
+  const tokens = Array.from(new Set([...baseTokens, ...extra]));
+
+  // ---------- load and choose the best standard ----------
   let matchedStandard = "Not found";
+  const fileKey = subjectKeyMap[subject];
 
   if (fileKey) {
     try {
-      const jsonPath = path.join(
-        process.cwd(),
-        "public",
-        "standards",
-        `${fileKey}_standards.json`
-      );
+      const jsonPath = path.join(process.cwd(), "public", "standards", `${fileKey}_standards.json`);
       const stdJson = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
 
-      // 1) exact grade rows
+      // 1) try the exact grade
       let rows = stdJson[gradeKey] || stdJson[grade] || [];
 
-      // 2) fallback: search across all grades if none for this grade
+      // 2) if none, search across all grades
       if (!rows.length) rows = Object.values(stdJson).flat();
 
-      // 3) score candidates
-      const descScore = (row) => {
+      const hints = codeHints[subject];
+
+      const scoreRow = (row) => {
         let s = 0;
         const d = row.description.toLowerCase();
+
+        // description keyword hits
         for (const t of tokens) if (d.includes(t)) s += 2;
 
-        const hints = codeHints[subject];
+        // code hints bonus
         if (hints) {
           for (const t of tokens) {
             const hs = hints[t];
@@ -142,9 +150,9 @@ export default async function handler(req, res) {
       };
 
       let best = null;
-      let bestScore = -1;
+      let bestScore = Number.NEGATIVE_INFINITY; // always pick something
       for (const r of rows) {
-        const sc = descScore(r);
+        const sc = scoreRow(r);
         if (sc > bestScore) {
           best = r;
           bestScore = sc;
