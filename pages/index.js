@@ -1,28 +1,74 @@
-// align/api-ui: validation, nicer formatting, same font as UI
+// align/api-ui: curriculum-first UI with dependent Subject + Grade/Year, Markdown output
 
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import Head from 'next/head';
-import { marked } from 'marked';           // install with:  npm i marked
+import { marked } from 'marked'; // npm i marked
 
 export default function Home() {
-  const [grade, setGrade] = useState('');
+  const [curriculum, setCurriculum] = useState('nys'); // default NYS
   const [subject, setSubject] = useState('');
-  const [curriculum, setCurriculum] = useState('nys');
+  const [grade, setGrade] = useState('');
   const [input, setInput] = useState('');
   const [output, setOutput] = useState('');
   const [loading, setLoading] = useState(false);
   const [copied, setCopied] = useState(false);
   const [error, setError] = useState('');
 
-  /* ------------ helpers ------------ */
+  // ----- option sets -----
+  const curriculumOptions = [
+    { value: 'nys', label: 'New York State' },
+    { value: 'england', label: 'England (KS1–4)' },
+    { value: 'common_core', label: 'Common Core' },
+    { value: 'none', label: 'None / General' },
+  ];
+
+  const subjectsByCurriculum = {
+    nys: [
+      'English Language Arts', 'Mathematics', 'Science', 'Social Studies',
+      'World Languages', 'Technology', 'Health', 'Physical Education',
+      'Family and Consumer Sciences', 'Career Development',
+      'Dance', 'Media Arts', 'Music', 'Theatre', 'Visual Arts'
+    ],
+    england: [
+      'English', 'Mathematics', 'Biology', 'Chemistry', 'Physics',
+      'Combined Science', 'Geography', 'History', 'Modern Foreign Languages',
+      'Computing', 'Design and Technology', 'Art and Design', 'Music',
+      'Physical Education', 'Religious Education', 'Citizenship'
+    ],
+    common_core: [
+      'English Language Arts', 'Mathematics', 'Science', 'Social Studies'
+    ],
+    none: [
+      'English Language Arts', 'Mathematics', 'Science', 'Social Studies'
+    ]
+  };
+
+  const gradesByCurriculum = {
+    nys: ['Kindergarten', ...Array.from({ length: 12 }, (_, i) => `Grade ${i + 1}`)],
+    england: Array.from({ length: 11 }, (_, i) => `Year ${i + 1}`), // Years 1–11
+    common_core: ['Kindergarten', ...Array.from({ length: 12 }, (_, i) => `Grade ${i + 1}`)],
+    none: ['Kindergarten', ...Array.from({ length: 12 }, (_, i) => `Grade ${i + 1}`)],
+  };
+
+  const subjectOptions = useMemo(() => subjectsByCurriculum[curriculum] || [], [curriculum]);
+  const gradeOptions = useMemo(() => gradesByCurriculum[curriculum] || [], [curriculum]);
+
+  const onCurriculumChange = (val) => {
+    setCurriculum(val);
+    setSubject('');
+    setGrade('');
+    setOutput('');
+    setError('');
+  };
+
   const generateLessonPlan = async () => {
     setLoading(true);
     setCopied(false);
     setError('');
     setOutput('');
 
-    if (!grade || !subject || !input.trim()) {
-      setError('Please select a grade, choose a subject, and enter a topic.');
+    if (!curriculum || !subject || !grade || !input.trim()) {
+      setError('Please select a curriculum, subject, grade or year, and enter a topic.');
       setLoading(false);
       return;
     }
@@ -31,7 +77,7 @@ export default function Home() {
       const response = await fetch('/api/generate', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ grade, subject, input, curriculum }),
+        body: JSON.stringify({ curriculum, subject, grade, input }),
       });
 
       if (!response.ok) {
@@ -59,11 +105,12 @@ export default function Home() {
     const blob = new Blob([output], { type: 'text/plain' });
     const link = document.createElement('a');
     link.href = URL.createObjectURL(blob);
-    link.download = `lesson-plan-${grade}-${subject}.txt`;
+    link.download = `lesson-plan-${curriculum}-${subject}-${grade}.txt`;
     link.click();
   };
 
-  /* ------------ render ------------ */
+  const gradeLabel = curriculum === 'england' ? 'Year:' : 'Grade:';
+
   return (
     <>
       <Head>
@@ -85,7 +132,7 @@ export default function Home() {
           borderRadius: '12px',
           boxShadow: '0 4px 20px rgba(0,0,0,0.05)',
           width: '100%',
-          maxWidth: '740px',
+          maxWidth: '760px',
         }}>
           <h1 style={{
             textAlign: 'center',
@@ -95,46 +142,47 @@ export default function Home() {
             color: '#1c1c1e'
           }}>Lesson Pilot</h1>
 
-          {/* ---- controls ---- */}
+          {/* Curriculum */}
           <label style={{ display: 'block', marginBottom: '1rem' }}>
-            <strong>Grade:</strong>
-            <select value={grade} onChange={(e) => setGrade(e.target.value)} style={selectStyle}>
-              <option value="">Select grade</option>
-              <option value="Kindergarten">Kindergarten</option>
-              {[...Array(12)].map((_, i) => (
-                <option key={i} value={`Grade ${i + 1}`}>Grade {i + 1}</option>
+            <strong>Curriculum:</strong>
+            <select
+              value={curriculum}
+              onChange={(e) => onCurriculumChange(e.target.value)}
+              style={selectStyle}
+            >
+              {curriculumOptions.map(opt => (
+                <option key={opt.value} value={opt.value}>{opt.label}</option>
               ))}
             </select>
           </label>
 
+          {/* Subject */}
           <label style={{ display: 'block', marginBottom: '1rem' }}>
             <strong>Subject:</strong>
-            <select value={subject} onChange={(e) => setSubject(e.target.value)} style={selectStyle}>
+            <select
+              value={subject}
+              onChange={(e) => setSubject(e.target.value)}
+              style={selectStyle}
+            >
               <option value="">Select subject</option>
-              <option value="English Language Arts">English Language Arts</option>
-              <option value="Mathematics">Mathematics</option>
-              <option value="Science">Science</option>
-              <option value="Social Studies">Social Studies</option>
-              <option value="The Arts">The Arts</option>
-              <option value="Health">Health</option>
-              <option value="Physical Education">Physical Education</option>
-              <option value="Technology">Technology</option>
-              <option value="World Languages">World Languages</option>
-              <option value="Computer Science">Computer Science</option>
-              <option value="Career Development">Career Development</option>
-              <option value="Family and Consumer Sciences">Family and Consumer Sciences</option>
+              {subjectOptions.map(s => <option key={s} value={s}>{s}</option>)}
             </select>
           </label>
 
+          {/* Grade or Year */}
           <label style={{ display: 'block', marginBottom: '1rem' }}>
-            <strong>Curriculum:</strong>
-            <select value={curriculum} onChange={(e) => setCurriculum(e.target.value)} style={selectStyle}>
-              <option value="nys">New York State</option>
-              <option value="common_core">Common Core</option>
-              <option value="none">None / General</option>
+            <strong>{gradeLabel}</strong>
+            <select
+              value={grade}
+              onChange={(e) => setGrade(e.target.value)}
+              style={selectStyle}
+            >
+              <option value="">{`Select ${curriculum === 'england' ? 'year' : 'grade'}`}</option>
+              {gradeOptions.map(g => <option key={g} value={g}>{g}</option>)}
             </select>
           </label>
 
+          {/* Topic */}
           <label style={{ display: 'block', marginBottom: '1.5rem' }}>
             <strong>What do you want to teach?</strong>
             <textarea
@@ -142,18 +190,18 @@ export default function Home() {
               style={{ width: '100%', padding: '0.75rem', borderRadius: '8px', border: '1px solid #ccc', marginTop: '0.5rem' }}
               value={input}
               onChange={(e) => setInput(e.target.value)}
+              placeholder={curriculum === 'england' ? 'e.g., Photosynthesis (Year 8 Biology)' : 'e.g., Fractions as equal parts'}
             />
           </label>
 
           <button
             onClick={generateLessonPlan}
-            style={{ ...primaryButtonStyle, opacity: (loading || !grade || !subject || !input.trim()) ? 0.6 : 1 }}
-            disabled={loading || !grade || !subject || !input.trim()}
+            style={{ ...primaryButtonStyle, opacity: (loading || !curriculum || !subject || !grade || !input.trim()) ? 0.6 : 1 }}
+            disabled={loading || !curriculum || !subject || !grade || !input.trim()}
           >
             {loading ? 'Generating…' : 'Generate Lesson Plan'}
           </button>
 
-          {/* ---- messages ---- */}
           {error && (
             <p style={{
               marginTop: '1rem',
@@ -164,11 +212,9 @@ export default function Home() {
             }}>{error}</p>
           )}
 
-          {/* ---- output ---- */}
           {!loading && output && (
             <>
               <h2 style={{ marginTop: '2.2rem', fontSize: '1.4rem', fontWeight: 600 }}>Generated Plan</h2>
-
               <article
                 style={{
                   background: '#fafafa',
@@ -182,20 +228,11 @@ export default function Home() {
                 }}
                 dangerouslySetInnerHTML={{ __html: marked.parse(output) }}
               />
-
               <div style={{ display: 'flex', gap: '1rem', marginTop: '1.2rem' }}>
-                <button
-                  onClick={copyToClipboard}
-                  style={secondaryButtonStyle}
-                  disabled={!output}
-                >
+                <button onClick={copyToClipboard} style={secondaryButtonStyle} disabled={!output}>
                   {copied ? 'Copied!' : 'Copy to Clipboard'}
                 </button>
-                <button
-                  onClick={downloadAsTxt}
-                  style={secondaryButtonStyle}
-                  disabled={!output}
-                >
+                <button onClick={downloadAsTxt} style={secondaryButtonStyle} disabled={!output}>
                   Download as .txt
                 </button>
               </div>
@@ -207,7 +244,6 @@ export default function Home() {
   );
 }
 
-/* ---------- styles ---------- */
 const selectStyle = {
   marginTop: '0.5rem',
   width: '100%',
