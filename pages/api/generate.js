@@ -1,245 +1,241 @@
-// align/api-ui: robust NYS standards lookup + upgraded prompt (no em dashes)
+// align/api-ui: curriculum-aware standards + multi-lesson & optional quiz (parallel on gpt-4.1-nano)
 
 import fs from "fs";
 import path from "path";
 
+const CHAT_MODEL = process.env.OPENAI_CHAT_MODEL || "gpt-4.1-nano";
+
 export default async function handler(req, res) {
-  if (req.method !== "POST") {
+  if (req.method !== "POST")
     return res.status(405).json({ error: "Method not allowed" });
-  }
 
-  const { grade = "", subject = "", input = "" } = req.body || {};
+  /* ---------- inputs ---------- */
+  const {
+    curriculum = "nys",
+    subject = "",
+    grade = "",
+    input = "",
+    numLessons = 1,
+    includeQuiz = false,
+  } = req.body || {};
 
-  if (!process.env.OPENAI_API_KEY) {
+  if (!process.env.OPENAI_API_KEY)
     return res.status(500).json({ error: "Missing OpenAI API key" });
-  }
 
-  // ---------- basic validation ----------
-  if (!grade.trim() || !subject.trim() || !input.trim()) {
+  if (!curriculum.trim() || !subject.trim() || !grade.trim() || !input.trim())
     return res
       .status(400)
-      .json({ error: "Grade, subject, and topic are required." });
-  }
+      .json({ error: "Curriculum, subject, grade/year, and topic are required." });
 
-  // Normalize grade to JSON keys
-  const normalizeGrade = (g) => {
+  /* ---------- grade normalisation ---------- */
+  const normaliseGrade = (cur, g) => {
     if (!g) return g;
-    if (g.toLowerCase() === "kindergarten") return "Grade K";
-    if (/^pre[-\s]?k$/i.test(g) || /^pk$/i.test(g)) return "Grade PK";
-    return g; // e.g., "Grade 3"
-  };
-  const gradeKey = normalizeGrade(grade);
-
-  // ---------- subject → JSON file key ----------
-  const subjectKeyMap = {
-    // Core academics
-    "Mathematics": "mathematics",
-    "English Language Arts": "ela",
-    "Science": "science",
-    "Social Studies": "social_studies",
-
-    // World Languages
-    "World Languages": "world_languages",
-
-    // Technology / MST
-    "Technology": "technology",
-    "Computer Science": "technology", // temporary until CS PDFs parsed
-
-    // Health / PE / FCS
-    "Health": "health_pe_fcs",
-    "Physical Education": "health_pe_fcs",
-    "Family and Consumer Sciences": "health_pe_fcs",
-
-    // Career Development (CDOS)
-    "Career Development": "cdos",
-
-    // Arts
-    "Dance": "dance",
-    "Media Arts": "media_arts",
-    "Music": "music",
-    "Theatre": "theatre",
-    "The Arts": "visual_arts",
-    "Visual Arts": "visual_arts",
-  };
-
-  // ---------- small hints to improve matching ----------
-  const codeHints = {
-    Mathematics: {
-      fractions: ["NF"], fraction: ["NF"],
-      decimal: ["NBT"], decimals: ["NBT"],
-      geometry: ["G"],
-      measurement: ["MD"], data: ["MD"],
-      ratio: ["RP"], ratios: ["RP"],
-      expressions: ["EE"], equations: ["EE"],
-      algebra: ["A"], statistics: ["SP"]
-    },
-    "English Language Arts": {
-      reading: ["R"], writing: ["W"],
-      language: ["L"], speaking: ["SL"],
-      listening: ["SL"], vocabulary: ["L"],
-      research: ["R","W"]
-    },
-    Science: {
-      genetics: ["LS3"], heredity: ["LS3"], inheritance: ["LS3"],
-      cells: ["LS1"], ecosystems: ["LS2"],
-      evolution: ["LS4"], matter: ["PS1"],
-      motion: ["PS2"], forces: ["PS2"],
-      energy: ["PS3"], waves: ["PS4"],
-      earth: ["ESS"], astronomy: ["ESS1"],
-      weather: ["ESS2"], human: ["ESS3"]
-    },
-    "Social Studies": {
-      geography: ["GEO"], civics: ["CIV"],
-      economics: ["ECO"], history: ["HIS"],
-      revolution: ["HIS"], government: ["CIV"]
-    },
-    "World Languages": {
-      communication: ["CLL","CCC","CNC"],
-      culture: ["CUL"], literacy: ["LL"]
+    if (cur === "nys" || cur === "common_core" || cur === "none") {
+      if (g.toLowerCase() === "kindergarten") return "Grade K";
+      if (/^pre[-\s]?k$/i.test(g) || /^pk$/i.test(g)) return "Grade PK";
+      return g;
     }
+    return g; // England etc.
+  };
+  const gradeKey = normaliseGrade(curriculum, grade);
+
+  /* ---------- subject → JSON key ---------- */
+  const subjectKeyMap = {
+    nys: {
+      "Mathematics": "mathematics",
+      "English Language Arts": "ela",
+      "Science": "science",
+      "Social Studies": "social_studies",
+      "World Languages": "world_languages",
+      "Technology": "technology",
+      "Computer Science": "technology",
+      "Health": "health_pe_fcs",
+      "Physical Education": "health_pe_fcs",
+      "Family and Consumer Sciences": "health_pe_fcs",
+      "Career Development": "cdos",
+      "Dance": "dance",
+      "Media Arts": "media_arts",
+      "Music": "music",
+      "Theatre": "theatre",
+      "Visual Arts": "visual_arts",
+      "The Arts": "visual_arts",
+    },
+    england: {
+      "English": "eng_english",
+      "Mathematics": "eng_mathematics",
+      "Biology": "eng_biology",
+      "Chemistry": "eng_chemistry",
+      "Physics": "eng_physics",
+      "Combined Science": "eng_combined_science",
+      "Geography": "eng_geography",
+      "History": "eng_history",
+      "Modern Foreign Languages": "eng_mfl",
+      "Computing": "eng_computing",
+      "Design and Technology": "eng_design_technology",
+      "Art and Design": "eng_art_design",
+      "Music": "eng_music",
+      "Physical Education": "eng_physical_education",
+      "Religious Education": "eng_re",
+      "Citizenship": "eng_citizenship",
+    },
+    common_core: {
+      "Mathematics": "mathematics",
+      "English Language Arts": "ela",
+      "Science": "science",
+      "Social Studies": "social_studies",
+    },
+    none: {
+      "Mathematics": "mathematics",
+      "English Language Arts": "ela",
+      "Science": "science",
+      "Social Studies": "social_studies",
+    },
   };
 
-  // synonyms expand user tokens for better matching
-  const synonyms = {
-    genetics: ["heredity", "inheritance", "genes", "traits"],
-    fraction: ["fractions"],
-    decimals: ["decimal"],
-    revolution: ["war", "independence"]
+  /* ---------- helpers ---------- */
+  const collectRows = (node, out = []) => {
+    if (!node) return out;
+    if (Array.isArray(node)) node.forEach(v => collectRows(v, out));
+    else if (typeof node === "object") {
+      if (node.code && node.description)
+        out.push({ code: String(node.code), description: String(node.description) });
+      Object.values(node).forEach(v => collectRows(v, out));
+    }
+    return out;
   };
 
-  const baseTokens = input.toLowerCase().split(/\W+/).filter(Boolean);
-  const extra = baseTokens.flatMap(t => synonyms[t] || []);
-  const tokens = Array.from(new Set([...baseTokens, ...extra]));
+  const tokensFrom = txt =>
+    Array.from(new Set(txt.toLowerCase().split(/\W+/).filter(Boolean)));
 
-  // ---------- load and choose the best standard ----------
+  const scoreRow = (row, toks) => {
+    let s = 0;
+    const d = row.description.toLowerCase();
+    toks.forEach(t => { if (d.includes(t)) s += 2; });
+    s -= Math.min(2, Math.floor(d.length / 250)); // length penalty
+    return s;
+  };
+
+  /* ---------- load standards ---------- */
+  const subjectKey = subjectKeyMap[curriculum]?.[subject];
   let matchedStandard = "Not found";
-  const fileKey = subjectKeyMap[subject];
 
-  if (fileKey) {
-    try {
-      const jsonPath = path.join(process.cwd(), "public", "standards", `${fileKey}_standards.json`);
-      const stdJson = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
+  if (subjectKey) {
+    const candidatePaths = [
+      path.join(process.cwd(), "public", "standards", curriculum, `${subjectKey}_standards.json`),
+      path.join(process.cwd(), "public", "standards", `${subjectKey}_standards.json`),
+    ];
+    let json = null;
+    for (const p of candidatePaths) {
+      try {
+        if (fs.existsSync(p)) { json = JSON.parse(fs.readFileSync(p, "utf8")); break; }
+      } catch (_) {}
+    }
 
-      // 1) try the exact grade
-      let rows = stdJson[gradeKey] || stdJson[grade] || [];
-
-      // 2) if none, search across all grades
-      if (!rows.length) rows = Object.values(stdJson).flat();
-
-      const hints = codeHints[subject];
-
-      const scoreRow = (row) => {
-        let s = 0;
-        const d = row.description.toLowerCase();
-
-        // description keyword hits
-        for (const t of tokens) if (d.includes(t)) s += 2;
-
-        // code hints bonus
-        if (hints) {
-          for (const t of tokens) {
-            const hs = hints[t];
-            if (!hs) continue;
-            for (const h of hs) if (row.code.toUpperCase().includes(h)) s += 3;
-          }
-        }
-
-        // small penalty for very long descriptions
-        s -= Math.min(2, Math.floor(d.length / 250));
-        return s;
-      };
-
-      let best = null;
-      let bestScore = Number.NEGATIVE_INFINITY; // always pick something
-      for (const r of rows) {
-        const sc = scoreRow(r);
-        if (sc > bestScore) {
-          best = r;
-          bestScore = sc;
-        }
-      }
-
+    if (json) {
+      let rows = [];
+      if (json[gradeKey]) rows = collectRows(json[gradeKey]);
+      if (!rows.length && json[grade]) rows = collectRows(json[grade]);
+      if (!rows.length) rows = collectRows(json);
+      const toks = tokensFrom(input);
+      let best = null, bestScore = -Infinity;
+      rows.forEach(r => {
+        const sc = scoreRow(r, toks);
+        if (sc > bestScore) { best = r; bestScore = sc; }
+      });
       if (best) matchedStandard = `${best.code} - ${best.description}`;
-    } catch (e) {
-      console.warn("Standard lookup failed:", e.message);
     }
   }
 
-  /* ---------- prompt ---------- */
-  const prompt = `
-You are a master teacher trained in Singapore’s structured planning approach.
-Create a **high-quality, curriculum-aligned lesson plan** in *Markdown* using
-the exact template below. For *Assessment Questions*, include a **Model Answer**
-immediately after each question, prefixed with "**Answer:**". For *Common
-Misconceptions*, list frequent mistakes for this grade/subject and add one-line
-corrections.
+  /* ---------- build prompts ---------- */
+  const sys = { role: "system", content: "You are a helpful assistant that creates lesson plans." };
+  const baseContext = `
+Teacher topic: "${input}"
+Curriculum: ${curriculum}
+Subject: ${subject}
+Grade/Year: ${grade}
+Aligned standard: ${matchedStandard}
+Use clear, concise Markdown. No em dashes.`;
 
-Template (start output after the line "BEGIN PLAN"):
+  const sectionDefs = [
+    { key: "objective",       title: "### 1. Learning Objective",            instr: "Write one clear objective aligned to the standard and appropriate for the selected grade/subject.",                                    fmt:"- One sentence objective." },
+    { key: "misconceptions",  title: "### 2. Common Misconceptions",         instr: "List 3 frequent mistakes students make on this topic, each followed by a short correction.",                                           fmt:"- mistake - one-line correction (3 bullets)" },
+    { key: "thinking",        title: "### 3. Thinking Questions",            instr: "Write 3 higher-order, inquiry-focused questions.",                                                                                        fmt:"1. ...\\n2. ...\\n3. ..." },
+    { key: "assessment",      title: "### 4. Assessment Questions (with Model Answers)", instr: "Write 3 questions to check understanding; include a model answer after each question, prefixed with **Answer:**.", fmt:"1. Q: ...\\n   **Answer:** ... (×3)" },
+    { key: "activities",      title: "### 5. Suggested Activities",          instr: "Provide 2-3 realistic, low-prep classroom activities.",                                                                                 fmt:"- Activity 1\\n- Activity 2\\n- Activity 3" },
+    { key: "diff",            title: "### 6. Differentiation Tips",          instr: "Give one support idea for struggling learners and one extension idea.",                                                                  fmt:"- **Support:** ...\\n- **Extension:** ..." },
+  ];
 
-BEGIN PLAN
-**Standard (NYS):** ${matchedStandard}
+  const lessonNos = Array.from({ length: Math.max(1, Math.min(5, +numLessons)) }, (_, i) => i + 1);
 
-### 1. Learning Objective
-• One clear, concise objective aligned to the standard and suitable for **${grade} ${subject}**.
+  const buildUserMsg = (lessonNo, sec) => ({
+    role:"user",
+    content:
+`${baseContext}
+Lesson ${lessonNo} of ${lessonNos.length}
 
-### 2. Common Misconceptions
-- Misconception 1 - short correction  
-- Misconception 2 - short correction  
-- Misconception 3 - short correction  
+Write only the ${sec.key.replace(/^./,m=>m.toUpperCase())} section.
 
-### 3. Thinking Questions
-1. ...  
-2. ...  
-3. ...  
+${sec.instr}
 
-### 4. Assessment Questions *(with Model Answers)*
-1. Q: ...  
-   **Answer:** ...  
-2. Q: ...  
-   **Answer:** ...  
-3. Q: ...  
-   **Answer:** ...  
+Format:
+${sec.fmt}`
+  });
 
-### 5. Suggested Activities
-- Activity 1  
-- Activity 2  
-- Activity 3  
+  // gather all calls
+  const calls = [];
+  lessonNos.forEach(n => {
+    sectionDefs.forEach(sec => calls.push({ lesson:n, sec, msg: buildUserMsg(n, sec) }));
+  });
+  if (includeQuiz) {
+    calls.push({
+      lesson: 0,
+      sec:{ key:"quiz", title:"## End-of-Unit Quiz" },
+      msg:{
+        role:"user",
+        content:
+`${baseContext}
 
-### 6. Differentiation Tips
-- **Support:** ...  
-- **Extension:** ...  
-END PLAN
-Topic provided by teacher: "${input}"
-`;
+Write a short **end-of-unit quiz** (5 questions). Mix multiple-choice and short-answer. Provide an answer key afterwards.`
+      }
+    });
+  }
 
-  try {
-    const response = await fetch("https://api.openai.com/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${process.env.OPENAI_API_KEY}`
-      },
-      body: JSON.stringify({
-        model: "gpt-3.5-turbo",
-        messages: [
-          { role: "system", content: "You are a helpful assistant that creates lesson plans." },
-          { role: "user", content: prompt }
-        ],
-        temperature: 0.7,
-        max_tokens: 1100
-      })
+  /* ---------- helper to call OpenAI ---------- */
+  async function chat(msg){
+    const r = await fetch("https://api.openai.com/v1/chat/completions",{
+      method:"POST",
+      headers:{ "Content-Type":"application/json", Authorization:`Bearer ${process.env.OPENAI_API_KEY}` },
+      body:JSON.stringify({ model:CHAT_MODEL, messages:[sys,msg], temperature:0.7, max_tokens:400 })
+    });
+    const d = await r.json();
+    if (d.error) throw new Error(d.error.message);
+    return d.choices?.[0]?.message?.content?.trim() || "";
+  }
+
+  /* ---------- run in parallel ---------- */
+  try{
+    const outputs = await Promise.all(calls.map(c => chat(c.msg)));
+
+    // stitch per-lesson blocks
+    const lessonBlocks = lessonNos.map(n => {
+      const secs = sectionDefs.map(sec => {
+        const idx = calls.findIndex(c => c.lesson===n && c.sec.key===sec.key);
+        return `${sec.title}\n${outputs[idx]}`;
+      });
+      return `## Lesson ${n} of ${lessonNos.length}\n` + secs.join("\n\n");
     });
 
-    const data = await response.json();
-    if (data.error) {
-      console.error("OpenAI API error:", data.error);
-      return res.status(500).json({ error: data.error.message });
+    let md = [`**Standard (NYS):** ${matchedStandard}`,"",lessonBlocks.join("\n\n")].join("\n");
+
+    if (includeQuiz) {
+      const quizIdx = calls.findIndex(c => c.sec.key==="quiz");
+      md += `\n\n${calls[quizIdx].sec.title}\n${outputs[quizIdx]}`;
     }
 
-    const plan = data.choices?.[0]?.message?.content?.trim() || "";
-    return res.status(200).json({ result: plan });
-  } catch (err) {
-    console.error("Request failed:", err);
+    return res.status(200).json({ result: md });
+
+  }catch(e){
+    console.error("Generation failed:", e);
     return res.status(500).json({ error: "Failed to generate response." });
   }
 }
