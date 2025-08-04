@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "marked": "^16.1.1",
+    "marked": "^16.1.2",
     "next": "^13.4.7",
     "node-fetch": "^2.7.0",
     "react": "^18.2.0",
