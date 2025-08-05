@@ -21,84 +21,83 @@ export default async function handler(req, res) {
 
   if (!process.env.OPENAI_API_KEY)
     return res.status(500).json({ error: "Missing OpenAI API key" });
-
   if (!curriculum.trim() || !subject.trim() || !grade.trim() || !input.trim())
     return res
       .status(400)
       .json({ error: "Curriculum, subject, grade/year, and topic are required." });
 
-  /* ---------- grade normalisation ---------- */
+  /* ---------- grade normalization ---------- */
   const normaliseGrade = (cur, g) => {
     if (!g) return g;
-    if (cur === "nys" || cur === "common_core" || cur === "none") {
+    if (["nys", "common_core", "none"].includes(cur)) {
       if (g.toLowerCase() === "kindergarten") return "Grade K";
       if (/^pre[-\s]?k$/i.test(g) || /^pk$/i.test(g)) return "Grade PK";
       return g;
     }
-    return g; // England etc.
+    return g;
   };
   const gradeKey = normaliseGrade(curriculum, grade);
 
-  /* ---------- subject → JSON key ---------- */
+  /* ---------- standards lookup ---------- */
   const subjectKeyMap = {
     nys: {
-      "Mathematics": "mathematics",
+      Mathematics: "mathematics",
       "English Language Arts": "ela",
-      "Science": "science",
+      Science: "science",
       "Social Studies": "social_studies",
       "World Languages": "world_languages",
-      "Technology": "technology",
+      Technology: "technology",
       "Computer Science": "technology",
-      "Health": "health_pe_fcs",
+      Health: "health_pe_fcs",
       "Physical Education": "health_pe_fcs",
       "Family and Consumer Sciences": "health_pe_fcs",
       "Career Development": "cdos",
-      "Dance": "dance",
+      Dance: "dance",
       "Media Arts": "media_arts",
-      "Music": "music",
-      "Theatre": "theatre",
+      Music: "music",
+      Theatre: "theatre",
       "Visual Arts": "visual_arts",
       "The Arts": "visual_arts",
     },
     england: {
-      "English": "eng_english",
-      "Mathematics": "eng_mathematics",
-      "Biology": "eng_biology",
-      "Chemistry": "eng_chemistry",
-      "Physics": "eng_physics",
+      English: "eng_english",
+      Mathematics: "eng_mathematics",
+      Biology: "eng_biology",
+      Chemistry: "eng_chemistry",
+      Physics: "eng_physics",
       "Combined Science": "eng_combined_science",
-      "Geography": "eng_geography",
-      "History": "eng_history",
+      Geography: "eng_geography",
+      History: "eng_history",
       "Modern Foreign Languages": "eng_mfl",
-      "Computing": "eng_computing",
+      Computing: "eng_computing",
       "Design and Technology": "eng_design_technology",
       "Art and Design": "eng_art_design",
-      "Music": "eng_music",
+      Music: "eng_music",
       "Physical Education": "eng_physical_education",
       "Religious Education": "eng_re",
-      "Citizenship": "eng_citizenship",
+      Citizenship: "eng_citizenship",
     },
     common_core: {
-      "Mathematics": "mathematics",
+      Mathematics: "mathematics",
       "English Language Arts": "ela",
-      "Science": "science",
+      Science: "science",
       "Social Studies": "social_studies",
     },
     none: {
-      "Mathematics": "mathematics",
+      Mathematics: "mathematics",
       "English Language Arts": "ela",
-      "Science": "science",
+      Science: "science",
       "Social Studies": "social_studies",
     },
   };
 
-  /* ---------- helpers ---------- */
   const collectRows = (node, out = []) => {
     if (!node) return out;
     if (Array.isArray(node)) node.forEach(v => collectRows(v, out));
     else if (typeof node === "object") {
-      if (node.code && node.description)
+      if (node.code && node.description) {
         out.push({ code: String(node.code), description: String(node.description) });
+      }
       Object.values(node).forEach(v => collectRows(v, out));
     }
     return out;
@@ -115,26 +114,15 @@ export default async function handler(req, res) {
     return s;
   };
 
-  /* ---------- load standards ---------- */
-  const subjectKey = subjectKeyMap[curriculum]?.[subject];
   let matchedStandard = "Not found";
-
+  const subjectKey = subjectKeyMap[curriculum]?.[subject];
   if (subjectKey) {
-    const candidatePaths = [
-      path.join(process.cwd(), "public", "standards", curriculum, `${subjectKey}_standards.json`),
-      path.join(process.cwd(), "public", "standards", `${subjectKey}_standards.json`),
-    ];
-    let json = null;
-    for (const p of candidatePaths) {
-      try {
-        if (fs.existsSync(p)) { json = JSON.parse(fs.readFileSync(p, "utf8")); break; }
-      } catch (_) {}
-    }
-
-    if (json) {
+    const stdPath = path.join(process.cwd(), "public", "standards", curriculum, `${subjectKey}_standards.json`);
+    if (fs.existsSync(stdPath)) {
+      const json = JSON.parse(fs.readFileSync(stdPath, "utf8"));
       let rows = [];
       if (json[gradeKey]) rows = collectRows(json[gradeKey]);
-      if (!rows.length && json[grade]) rows = collectRows(json[grade]);
+      if (!rows.length && json[gradeKey]) rows = collectRows(json[gradeKey]);
       if (!rows.length) rows = collectRows(json);
       const toks = tokensFrom(input);
       let best = null, bestScore = -Infinity;
@@ -146,7 +134,7 @@ export default async function handler(req, res) {
     }
   }
 
-  /* ---------- build prompts ---------- */
+  /* ---------- prompt scaffolding ---------- */
   const sys = { role: "system", content: "You are a helpful assistant that creates lesson plans." };
   const baseContext = `
 Teacher topic: "${input}"
@@ -155,86 +143,184 @@ Subject: ${subject}
 Grade/Year: ${grade}
 Aligned standard: ${matchedStandard}
 Use clear, concise Markdown. No em dashes.`;
+  const gradeLine = grade ? `Language level: suitable for students in ${grade}.` : "";
 
+  /* ---------- section definitions ---------- */
   const sectionDefs = [
-    { key: "objective",       title: "### 1. Learning Objective",            instr: "Write one clear objective aligned to the standard and appropriate for the selected grade/subject.",                                    fmt:"- One sentence objective." },
-    { key: "misconceptions",  title: "### 2. Common Misconceptions",         instr: "List 3 frequent mistakes students make on this topic, each followed by a short correction.",                                           fmt:"- mistake - one-line correction (3 bullets)" },
-    { key: "thinking",        title: "### 3. Thinking Questions",            instr: "Write 3 higher-order, inquiry-focused questions.",                                                                                        fmt:"1. ...\\n2. ...\\n3. ..." },
-    { key: "assessment",      title: "### 4. Assessment Questions (with Model Answers)", instr: "Write 3 questions to check understanding; include a model answer after each question, prefixed with **Answer:**.", fmt:"1. Q: ...\\n   **Answer:** ... (×3)" },
-    { key: "activities",      title: "### 5. Suggested Activities",          instr: "Provide 2-3 realistic, low-prep classroom activities.",                                                                                 fmt:"- Activity 1\\n- Activity 2\\n- Activity 3" },
-    { key: "diff",            title: "### 6. Differentiation Tips",          instr: "Give one support idea for struggling learners and one extension idea.",                                                                  fmt:"- **Support:** ...\\n- **Extension:** ..." },
+    /* 0. PURPOSE */
+    {
+      key: "purpose",
+      title: "### 0. Why are we learning this?",
+      instr: `Write one paragraph no longer than **70 words**.
+• Start with the big idea (e.g., “Hamlet explores moral choice under pressure”).
+• Mention how understanding it supports critical thinking or future study.
+• End with “Consider how…” to spark reflection.
+No intros like “The purpose…” and no bullet points in the output.`
+    },
+
+    /* 1. LEARNING OBJECTIVE */
+    {
+      key: "objective",
+      title: "### 1. Learning Objective",
+      instr: `Write one measurable objective that:
+• Starts with “Students will be able to…”.
+• Uses a Bloom verb appropriate for the grade.
+• References the specific concept or skill.
+• Includes a success criterion (e.g., “with 80% accuracy”).
+• Ends with the aligned standard code in parentheses (e.g., NY-ELA.9.R.1).`,
+      fmt: "- {{objective}}"
+    },
+
+    /* 2. COMMON MISCONCEPTIONS */
+    {
+      key: "misconceptions",
+      title: "### 2. Common Misconceptions",
+      instr: `List exactly **three** misconceptions routinely seen at this grade.
+For each:
+• **Student misconception** – **≤ 12 words**.
+• **Why it happens** – one sentence cause.
+• **Teacher check / fix** – one sentence diagnostic or correction activity.
+Keep it concise and teacher-focused.`,
+      fmt:
+`1. **Student misconception:** {{mis1}}
+   **Why it happens:** {{cause1}}
+   **Teacher check / fix:** {{fix1}}
+
+2. **Student misconception:** {{mis2}}
+   **Why it happens:** {{cause2}}
+   **Teacher check / fix:** {{fix2}}
+
+3. **Student misconception:** {{mis3}}
+   **Why it happens:** {{cause3}}
+   **Teacher check / fix:** {{fix3}}`
+    },
+
+    /* 3. THINKING QUESTIONS */
+    {
+      key: "thinking",
+      title: "### 3. Thinking Questions",
+      instr: `Write **three** open-ended questions at Bloom’s Analyze/Evaluate level.
+Align each to the objective and require justification or comparison.
+Do not supply answers.`,
+      fmt: "1. {{q1}}\n2. {{q2}}\n3. {{q3}}"
+    },
+
+    /* 4. ASSESSMENT */
+    {
+      key: "assessment",
+      title: "### 4. Assessment Questions (with Model Answers)",
+      instr: `Create **three** checks for understanding:
+• Vary formats (e.g., MCQ, short answer, diagram label).
+• Order from recall to application.
+• After each question, give a model answer prefixed **Answer:**.
+Start directly with item 1—no extra headings.`,
+      fmt:
+"1. Q: {{aQ1}}\n   **Answer:** {{aA1}}\n2. Q: {{aQ2}}\n   **Answer:** {{aA2}}\n3. Q: {{aQ3}}\n   **Answer:** {{aA3}}"
+    },
+
+    /* 5. ACTIVITIES */
+    {
+      key: "activities",
+      title: "### 5. Suggested Activities",
+      instr: `Provide **three** low-prep activities:
+• Include at least one hands-on/inquiry and one discussion-based task.
+• List required materials in parentheses.
+• Each activity ≤ 25 words.
+Do not repeat the section title or key in your response.`,
+      fmt: "- {{act1}}\n- {{act2}}\n- {{act3}}"
+    },
+
+    /* 6. DIFFERENTIATION TIPS */
+    {
+      key: "diff",
+      title: "### 6. Differentiation Tips",
+      instr: `Give exactly two strategies:
+• **Support:** scaffold for learners who need help (≤ 25 words).
+• **Extension:** enrichment for those ready to go deeper (≤ 25 words).
+Do not repeat the section title or key in your response.`,
+      fmt: "- **Support:** {{support}}\n- **Extension:** {{extension}}"
+    }
   ];
 
-  const lessonNos = Array.from({ length: Math.max(1, Math.min(5, +numLessons)) }, (_, i) => i + 1);
+  /* ---------- build chat calls ---------- */
+  const lessonNos = Array.from(
+    { length: Math.max(1, Math.min(5, +numLessons)) },
+    (_, i) => i + 1
+  );
 
   const buildUserMsg = (lessonNo, sec) => ({
-    role:"user",
-    content:
-`${baseContext}
+    role: "user",
+    content: `${baseContext}
+${gradeLine}
+
 Lesson ${lessonNo} of ${lessonNos.length}
 
-Write only the ${sec.key.replace(/^./,m=>m.toUpperCase())} section.
+Write only the ${sec.key.replace(/^./, m => m.toUpperCase())} section.
 
 ${sec.instr}
-
-Format:
-${sec.fmt}`
+${sec.fmt ? `\nFormat:\n${sec.fmt}` : ""}`.trim()
   });
 
-  // gather all calls
   const calls = [];
-  lessonNos.forEach(n => {
-    sectionDefs.forEach(sec => calls.push({ lesson:n, sec, msg: buildUserMsg(n, sec) }));
-  });
+  lessonNos.forEach(n =>
+    sectionDefs.forEach(sec => calls.push({ lesson: n, sec, msg: buildUserMsg(n, sec) }))
+  );
   if (includeQuiz) {
     calls.push({
       lesson: 0,
-      sec:{ key:"quiz", title:"## End-of-Unit Quiz" },
-      msg:{
-        role:"user",
-        content:
-`${baseContext}
+      sec: { key: "quiz", title: "## End-of-Unit Quiz" },
+      msg: {
+        role: "user",
+        content: `${baseContext}
+${gradeLine}
 
 Write a short **end-of-unit quiz** (5 questions). Mix multiple-choice and short-answer. Provide an answer key afterwards.`
       }
     });
   }
 
-  /* ---------- helper to call OpenAI ---------- */
-  async function chat(msg){
-    const r = await fetch("https://api.openai.com/v1/chat/completions",{
-      method:"POST",
-      headers:{ "Content-Type":"application/json", Authorization:`Bearer ${process.env.OPENAI_API_KEY}` },
-      body:JSON.stringify({ model:CHAT_MODEL, messages:[sys,msg], temperature:0.7, max_tokens:400 })
+  /* ---------- call OpenAI ---------- */
+  async function chat(msg) {
+    const r = await fetch("https://api.openai.com/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${process.env.OPENAI_API_KEY}`
+      },
+      body: JSON.stringify({
+        model: CHAT_MODEL,
+        messages: [sys, msg],
+        temperature: 0.7,
+        max_tokens: 450
+      })
     });
     const d = await r.json();
     if (d.error) throw new Error(d.error.message);
     return d.choices?.[0]?.message?.content?.trim() || "";
   }
 
-  /* ---------- run in parallel ---------- */
-  try{
+  /* ---------- run in parallel and stitch ---------- */
+  try {
     const outputs = await Promise.all(calls.map(c => chat(c.msg)));
 
-    // stitch per-lesson blocks
     const lessonBlocks = lessonNos.map(n => {
       const secs = sectionDefs.map(sec => {
-        const idx = calls.findIndex(c => c.lesson===n && c.sec.key===sec.key);
+        const idx = calls.findIndex(
+          c => c.lesson === n && c.sec.key === sec.key
+        );
         return `${sec.title}\n${outputs[idx]}`;
       });
-      return `## Lesson ${n} of ${lessonNos.length}\n` + secs.join("\n\n");
+      return `## Lesson ${n} of ${lessonNos.length}\n\n${secs.join("\n\n")}`;
     });
 
-    let md = [`**Standard (NYS):** ${matchedStandard}`,"",lessonBlocks.join("\n\n")].join("\n");
-
+    let md = [`**Standard (NYS):** ${matchedStandard}`, "", lessonBlocks.join("\n\n")].join("\n\n");
     if (includeQuiz) {
-      const quizIdx = calls.findIndex(c => c.sec.key==="quiz");
+      const quizIdx = calls.findIndex(c => c.sec.key === "quiz");
       md += `\n\n${calls[quizIdx].sec.title}\n${outputs[quizIdx]}`;
     }
 
     return res.status(200).json({ result: md });
-
-  }catch(e){
+  } catch (e) {
     console.error("Generation failed:", e);
     return res.status(500).json({ error: "Failed to generate response." });
   }
