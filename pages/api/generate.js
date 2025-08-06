@@ -1,26 +1,29 @@
 // pages/api/generate.js
-// RAG for NYS: hybrid retrieval, selector with fallback to user choice, and generation
+// RAG for NYS: retrieval + selector + user choice fallback + safe generation
+
 import fs from "fs";
 import path from "path";
 
 const CHAT_MODEL = process.env.OPENAI_CHAT_MODEL || "gpt-4.1-nano";
 const EMB_MODEL  = process.env.OPENAI_EMBEDDING_MODEL || "text-embedding-3-small";
 
-// ---------- small helpers ----------
-const tokensFrom = txt =>
-  Array.from(new Set((txt || "").toLowerCase().split(/\W+/).filter(Boolean)));
+/* ---------------- helpers ---------------- */
+
+const tokensFrom = (txt) =>
+  Array.from(new Set(String(txt || "").toLowerCase().split(/\W+/).filter(Boolean)));
 
 const lexicalScore = (row, toks) => {
   let s = 0;
-  const d = (row.description || "").toLowerCase();
-  toks.forEach(t => { if (d.includes(t)) s += 2; });
+  const d = String(row.description || "").toLowerCase();
+  toks.forEach((t) => { if (d.includes(t)) s += 2; });
   s -= Math.min(2, Math.floor(d.length / 250)); // length penalty
   return s;
 };
 
 function cosine(a, b) {
   let dot = 0, na = 0, nb = 0;
-  for (let i = 0; i < a.length; i++) { dot += a[i]*b[i]; na += a[i]*a[i]; nb += b[i]*b[i]; }
+  const n = Math.min(a.length, b.length);
+  for (let i = 0; i < n; i++) { dot += a[i] * b[i]; na += a[i] * a[i]; nb += b[i] * b[i]; }
   return dot / (Math.sqrt(na) * Math.sqrt(nb) || 1);
 }
 
@@ -63,21 +66,23 @@ STANDARD: "${standardText}"`
   }
 }
 
-// ---------- load standards index (built by scripts/build_index.mjs) ----------
+/* ---------------- load standards index ---------------- */
+
 let STD_INDEX = [];
 try {
   const idxPath = path.join(process.cwd(), "public", "standards_index.v1.json");
   if (fs.existsSync(idxPath)) {
     STD_INDEX = JSON.parse(fs.readFileSync(idxPath, "utf8"));
-    console.log(`Loaded standards index: ${STD_INDEX.length} rows`);
+    console.log("[generate] index rows:", STD_INDEX.length);
   } else {
-    console.log("No standards_index.v1.json found. Retrieval will be limited.");
+    console.log("[generate] no standards_index.v1.json found");
   }
 } catch (e) {
-  console.warn("Failed to load standards index:", e?.message);
+  console.warn("[generate] failed to load index:", e?.message);
 }
 
-// ---------- subject map and grade normalization ----------
+/* ---------------- subject map and grade normalization ---------------- */
+
 const subjectKeyMap = {
   nys: {
     Mathematics: "mathematics",
@@ -98,7 +103,7 @@ const subjectKeyMap = {
     "Visual Arts": "visual_arts",
     "The Arts": "visual_arts",
   },
-  england: { /* can add later */ },
+  england: { /* add later */ },
   common_core: { Mathematics: "mathematics", "English Language Arts": "ela", Science: "science", "Social Studies": "social_studies" },
   none:        { Mathematics: "mathematics", "English Language Arts": "ela", Science: "science", "Social Studies": "social_studies" }
 };
@@ -106,29 +111,59 @@ const subjectKeyMap = {
 const normaliseGrade = (cur, g) => {
   if (!g) return g;
   if (["nys", "common_core", "none"].includes(cur)) {
-    if (g.toLowerCase() === "kindergarten") return "Grade K";
+    const low = g.toLowerCase();
+    if (low === "kindergarten") return "Grade K";
     if (/^pre[-\s]?k$/i.test(g) || /^pk$/i.test(g)) return "Grade PK";
     return g;
   }
   return g;
 };
 
-// ---------- RAG core: retrieve + blend + rerank + select ----------
+const norm = (s) => String(s || "").toLowerCase().replace(/\s+/g, " ").trim();
+
+/* ---------------- retrieval: relaxed filters + hybrid scoring ---------------- */
+
 async function retrieveCandidates({ curriculum, subjectKey, gradeKey, input }) {
   if (!STD_INDEX.length || !subjectKey) return [];
+
+  const gradeKeyNorm = norm(gradeKey);
+
+  // Progressive pools from strict to relaxed
+  const pools = [];
+
+  // strict: curriculum + subject + grade
+  pools.push(STD_INDEX.filter(r =>
+    norm(r.curriculum) === norm(curriculum) &&
+    norm(r.subjectKey) === norm(subjectKey) &&
+    norm(r.grade) === gradeKeyNorm
+  ));
+
+  // relax grade: curriculum + subject
+  if (!pools[0].length) {
+    pools.push(STD_INDEX.filter(r =>
+      norm(r.curriculum) === norm(curriculum) &&
+      norm(r.subjectKey) === norm(subjectKey)
+    ));
+  }
+
+  // relax subject: curriculum only
+  if (!pools.at(-1).length) {
+    pools.push(STD_INDEX.filter(r => norm(r.curriculum) === norm(curriculum)));
+  }
+
+  // last resort: whole index
+  if (!pools.at(-1).length) {
+    pools.push(STD_INDEX);
+  }
+
+  const filtered = pools.find(arr => arr && arr.length) || [];
+  if (!filtered.length) return [];
+
+  // Score
   const q = `[${curriculum}][${subjectKey}][${gradeKey}] ${input}`.trim();
   const qv = await embedQuery(q);
   const toks = tokensFrom(input);
 
-  // Stage A: recall by cosine, filter by metadata
-  const filtered = STD_INDEX.filter(r =>
-    (!curriculum || r.curriculum === curriculum) &&
-    (!subjectKey || r.subjectKey === subjectKey) &&
-    (!gradeKey || r.grade === gradeKey)
-  );
-  if (!filtered.length) return [];
-
-  // Compute cosine and lexical
   let minLex = Infinity, maxLex = -Infinity;
   const interim = filtered.map(r => {
     const cos = cosine(qv, r.vector);
@@ -138,7 +173,6 @@ async function retrieveCandidates({ curriculum, subjectKey, gradeKey, input }) {
     return { ...r, _cos: cos, _lex: lex };
   });
 
-  // Blend scores: 0.7 dense + 0.3 normalized lexical
   const denom = Math.max(1e-6, maxLex - minLex);
   const blended = interim.map(r => {
     const lexNorm = (r._lex - minLex) / denom;
@@ -146,7 +180,6 @@ async function retrieveCandidates({ curriculum, subjectKey, gradeKey, input }) {
     return { ...r, scoreRecall: score };
   });
 
-  // Take top 25 for rerank
   blended.sort((a, b) => b.scoreRecall - a.scoreRecall);
   return blended.slice(0, 25);
 }
@@ -154,7 +187,6 @@ async function retrieveCandidates({ curriculum, subjectKey, gradeKey, input }) {
 async function rerankAndSelect(topic, candidates) {
   if (!candidates.length) return { needsChoice: true, ranked: [] };
 
-  // Stage B: LLM rerank top 12
   const top = candidates.slice(0, 12);
   const scored = await Promise.all(top.map(async r => {
     const s = await llmScore(topic, `${r.code}: ${r.description}`);
@@ -163,15 +195,15 @@ async function rerankAndSelect(topic, candidates) {
   scored.sort((a, b) => (b.scoreLLM - a.scoreLLM) || (b.scoreRecall - a.scoreRecall));
 
   const best = scored[0];
-  const threshold = 3.5; // 0..6 scale
+  const threshold = 3.5; // raise to 4.0 if you want more user confirmations
   if (!best || best.scoreLLM < threshold) {
-    // Ask user to pick
     return { needsChoice: true, ranked: scored.slice(0, 5) };
   }
   return { needsChoice: false, ranked: scored.slice(0, 5), chosen: best };
 }
 
-// ---------- API handler ----------
+/* ---------------- API handler ---------------- */
+
 export default async function handler(req, res) {
   if (req.method !== "POST")
     return res.status(405).json({ error: "Method not allowed" });
@@ -183,7 +215,7 @@ export default async function handler(req, res) {
     input = "",
     numLessons = 1,
     includeQuiz = false,
-    forceCode = ""               // if UI forces a specific standard code
+    forceCode = "" // when user picks a specific code
   } = req.body || {};
 
   if (!process.env.OPENAI_API_KEY)
@@ -194,17 +226,30 @@ export default async function handler(req, res) {
   const gradeKey = normaliseGrade(curriculum, grade);
   const subjectKey = subjectKeyMap[curriculum]?.[subject];
 
-  // 1) Retrieval and selection
   let chosen = null;
   let ranked = [];
 
   if (forceCode) {
-    // user selected an explicit code; find it in the index within the filtered set
-    const pool = STD_INDEX.filter(r =>
-      r.curriculum === curriculum &&
-      (!subjectKey || r.subjectKey === subjectKey) &&
-      (!gradeKey || r.grade === gradeKey)
-    );
+    // Find exact code with relaxed metadata constraints
+    const pools = [];
+
+    pools.push(STD_INDEX.filter(r =>
+      norm(r.curriculum) === norm(curriculum) &&
+      norm(r.subjectKey) === norm(subjectKey) &&
+      norm(r.grade) === norm(gradeKey)
+    ));
+    if (!pools[0].length) {
+      pools.push(STD_INDEX.filter(r =>
+        norm(r.curriculum) === norm(curriculum) &&
+        norm(r.subjectKey) === norm(subjectKey)
+      ));
+    }
+    if (!pools.at(-1).length) {
+      pools.push(STD_INDEX.filter(r => norm(r.curriculum) === norm(curriculum)));
+    }
+    if (!pools.at(-1).length) pools.push(STD_INDEX);
+
+    const pool = pools.find(arr => arr && arr.length) || [];
     chosen = pool.find(r => r.code === forceCode) || null;
     ranked = pool.slice(0, 5);
   } else {
@@ -212,6 +257,7 @@ export default async function handler(req, res) {
     const sel = await rerankAndSelect(input, candidates);
     ranked = sel.ranked;
     if (sel.needsChoice) {
+      res.setHeader("x-model-used", CHAT_MODEL);
       return res.status(200).json({
         needsChoice: true,
         candidates: ranked.map(r => ({
@@ -228,19 +274,14 @@ export default async function handler(req, res) {
     chosen = sel.chosen;
   }
 
-  // If we still have no chosen, fail safe
   if (!chosen) {
-    return res.status(200).json({
-      needsChoice: true,
-      candidates: []
-    });
+    res.setHeader("x-model-used", CHAT_MODEL);
+    return res.status(200).json({ needsChoice: true, candidates: [] });
   }
 
   const matchedStandard = `${chosen.code} - ${chosen.description}`;
 
-  // 2) Build generation calls (reuse your multi-section layout)
-  const sys = { role: "system", content: "You are a helpful assistant that creates lesson plans." };
-
+  // Prompt scaffold
   const retrievedBlock = `Context standard (do not quote in output):
 • ${chosen.code}: ${chosen.description}`;
 
@@ -260,11 +301,11 @@ Do not restate or quote the standard code or description anywhere in your output
 `Write one paragraph no longer than **70 words**.
 Start with the big idea.
 Mention how understanding it supports critical thinking or future study.
-End with “Consider how…” to spark reflection.
+End with "Consider how…" to spark reflection.
 No bullet points in the output.` },
     { key: "objective", title: "### 1. Learning Objective", instr:
 `Write one measurable objective that:
-• Starts with “Students will be able to…”.
+• Starts with "Students will be able to…".
 • Uses a Bloom verb.
 • References the specific concept or skill.
 • Ends with the standard code in parentheses (e.g., ${chosen.code}).`, fmt: "- {{objective}}" },
@@ -338,7 +379,9 @@ Provide an answer key afterwards.` }
     const r = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: { "Content-Type": "application/json", Authorization: `Bearer ${process.env.OPENAI_API_KEY}` },
-      body: JSON.stringify({ model: CHAT_MODEL, messages: [ { role:"system", content: "You are a helpful assistant that creates lesson plans." }, msg ], temperature: 0.6, max_tokens: 450 })
+      body: JSON.stringify({ model: CHAT_MODEL, messages: [
+        { role: "system", content: "You are a helpful assistant that creates lesson plans." }, msg
+      ], temperature: 0.6, max_tokens: 450 })
     });
     const d = await r.json();
     if (d.error) throw new Error(d.error.message);
@@ -360,9 +403,10 @@ Provide an answer key afterwards.` }
       md += `\n\n${calls[quizIdx].sec.title}\n${outputs[quizIdx]}`;
     }
 
-    // final guardrail: remove any accidental echoes of the standard
+    // final guard: remove any accidental echoes of the standard
     md = matchedStandard ? md.replaceAll(matchedStandard, "").trim() : md;
 
+    res.setHeader("x-model-used", CHAT_MODEL);
     return res.status(200).json({
       standard: matchedStandard,
       standards: (ranked || []).map(r => ({
