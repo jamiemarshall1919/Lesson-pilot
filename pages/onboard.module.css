@@ -1,0 +1,77 @@
+/* pages/onboard.module.css */
+
+/* full-screen centered flex container */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2rem;
+  background: #f2f2f7;
+}
+
+/* the “card” */
+.card {
+  width: 100%;
+  max-width: 400px;
+  padding: 2.5rem 2rem;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  backdrop-filter: blur(16px);
+  text-align: center;
+}
+
+/* heading */
+.title {
+  margin: 0 0 1rem;
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #1c1c1e;
+}
+
+/* small instructional text */
+.subtitle {
+  margin: 0 0 1.5rem;
+  color: #3c3c4399;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+/* styled select dropdown */
+.select {
+  width: 100%;
+  padding: 0.6rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-bottom: 1.5rem;
+}
+
+/* “Continue” button */
+.button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem 0;
+  background: #007aff;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 22px;
+  cursor: pointer;
+  transition: background 0.2s ease-in-out, transform 0.1s ease;
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.button:not(:disabled):hover {
+  background: #005ecb;
+}
+
+.button:not(:disabled):active {
+  transform: scale(0.97);
+}
