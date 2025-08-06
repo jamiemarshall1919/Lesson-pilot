@@ -42,10 +42,11 @@ export default function Home({ defaultCurriculum }) {
   const [includeQuiz,  setIncludeQuiz]  = useState(false);
 
   // response state
-  const [output,  setOutput]  = useState('');
-  const [loading, setLoading] = useState(false);
-  const [copied,  setCopied]  = useState(false);
-  const [error,   setError]   = useState('');
+  const [plan,     setPlan]     = useState('');
+  const [standard, setStandard] = useState('');
+  const [loading,  setLoading]  = useState(false);
+  const [copied,   setCopied]   = useState(false);
+  const [error,    setError]    = useState('');
 
   /* ---------- option lists ---------- */
   const curriculumOptions = [
@@ -90,12 +91,16 @@ export default function Home({ defaultCurriculum }) {
 
   const onCurriculumChange = val => {
     setCurriculum(val);
-    setSubject(''); setGrade(''); setOutput(''); setError('');
+    setSubject('');
+    setGrade('');
+    setPlan('');
+    setStandard('');
+    setError('');
   };
 
   /* ---------- generate ---------- */
   const generateLessonPlan = async () => {
-    setLoading(true); setCopied(false); setError(''); setOutput('');
+    setLoading(true); setCopied(false); setError(''); setPlan(''); setStandard('');
 
     if (!curriculum || !subject || !grade || !input.trim()) {
       setError('Please choose curriculum, subject, grade / year and enter a topic.');
@@ -114,7 +119,11 @@ export default function Home({ defaultCurriculum }) {
         throw new Error(err.error || `Request failed (${resp.status})`);
       }
       const data = await resp.json();
-      setOutput(data.result || '');
+      // Support new shape { plan, standard } and old shape { result }
+      const newPlan = data.plan || data.result || '';
+      const newStandard = data.standard || '';
+      setPlan(newPlan);
+      setStandard(newStandard);
     } catch(e) {
       setError(e.message || 'Something went wrong.');
     } finally {
@@ -123,13 +132,13 @@ export default function Home({ defaultCurriculum }) {
   };
 
   const copyToClipboard = () => {
-    navigator.clipboard.writeText(output).then(() => {
+    navigator.clipboard.writeText(plan).then(() => {
       setCopied(true); setTimeout(() => setCopied(false), 2000);
     });
   };
 
   const downloadAsTxt = () => {
-    const blob = new Blob([output], {type:'text/plain'});
+    const blob = new Blob([plan], {type:'text/plain'});
     const link = document.createElement('a');
     link.href = URL.createObjectURL(blob);
     link.download = `lesson-plan-${curriculum}-${subject}-${grade}.txt`;
@@ -312,30 +321,42 @@ export default function Home({ defaultCurriculum }) {
             )}
 
             {/* Output */}
-            {!loading && output && (
+            {!loading && (plan || standard) && (
               <>
                 <h2 style={{
                   marginTop:'2.2rem',fontSize:'1.4rem',fontWeight:600
                 }}>
                   Generated Plan
                 </h2>
+
+                {standard && (
+                  <details style={{margin:'0 0 1rem'}}>
+                    <summary><strong>Aligned Standard</strong></summary>
+                    <pre style={{
+                      background:'#fff',border:'1px solid #eee',padding:'0.75rem',
+                      borderRadius:8,whiteSpace:'pre-wrap',lineHeight:1.5
+                    }}>{standard}</pre>
+                  </details>
+                )}
+
                 <article style={{
                   background:'#fafafa',padding:'1.35rem',borderRadius:10,
                   border:'1px solid #ddd',maxHeight:520,overflowY:'auto',
                   lineHeight:1.65,fontSize:16
-                }} dangerouslySetInnerHTML={{__html: marked.parse(output)}}/>
+                }} dangerouslySetInnerHTML={{__html: marked.parse(plan)}}/>
+
                 <div style={{display:'flex',gap:'1rem',marginTop:'1.2rem'}}>
                   <button
                     onClick={copyToClipboard}
                     style={secondaryButtonStyle}
-                    disabled={!output}
+                    disabled={!plan}
                   >
                     {copied ? 'Copied!' : 'Copy to Clipboard'}
                   </button>
                   <button
                     onClick={downloadAsTxt}
                     style={secondaryButtonStyle}
-                    disabled={!output}
+                    disabled={!plan}
                   >
                     Download as .txt
                   </button>

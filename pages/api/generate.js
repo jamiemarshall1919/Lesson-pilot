@@ -122,7 +122,6 @@ export default async function handler(req, res) {
       const json = JSON.parse(fs.readFileSync(stdPath, "utf8"));
       let rows = [];
       if (json[gradeKey]) rows = collectRows(json[gradeKey]);
-      if (!rows.length && json[gradeKey]) rows = collectRows(json[gradeKey]);
       if (!rows.length) rows = collectRows(json);
       const toks = tokensFrom(input);
       let best = null, bestScore = -Infinity;
@@ -142,7 +141,8 @@ Curriculum: ${curriculum}
 Subject: ${subject}
 Grade/Year: ${grade}
 Aligned standard: ${matchedStandard}
-Use clear, concise Markdown. No em dashes.`;
+Use clear, concise Markdown. No em dashes.
+Do not restate or quote the aligned standard anywhere in your output.`;
   const gradeLine = grade ? `Language level: suitable for students in ${grade}.` : "";
 
   /* ---------- section definitions ---------- */
@@ -166,7 +166,6 @@ No intros like “The purpose…” and no bullet points in the output.`
 • Starts with “Students will be able to…”.
 • Uses a Bloom verb appropriate for the grade.
 • References the specific concept or skill.
-• Includes a success criterion (e.g., “with 80% accuracy”).
 • Ends with the aligned standard code in parentheses (e.g., NY-ELA.9.R.1).`,
       fmt: "- {{objective}}"
     },
@@ -313,13 +312,19 @@ Write a short **end-of-unit quiz** (5 questions). Mix multiple-choice and short-
       return `## Lesson ${n} of ${lessonNos.length}\n\n${secs.join("\n\n")}`;
     });
 
-    let md = [`**Standard (NYS):** ${matchedStandard}`, "", lessonBlocks.join("\n\n")].join("\n\n");
+    let md = lessonBlocks.join("\n\n");
     if (includeQuiz) {
       const quizIdx = calls.findIndex(c => c.sec.key === "quiz");
       md += `\n\n${calls[quizIdx].sec.title}\n${outputs[quizIdx]}`;
     }
 
-    return res.status(200).json({ result: md });
+    // Guardrail: strip any accidental echoes of the standard
+    const stripEcho = (text) =>
+      text.replaceAll(matchedStandard, "").replace(/\*\*Standard.*?\n/i, "");
+
+    md = stripEcho(md).trim();
+
+    return res.status(200).json({ standard: matchedStandard, plan: md });
   } catch (e) {
     console.error("Generation failed:", e);
     return res.status(500).json({ error: "Failed to generate response." });
