@@ -66,19 +66,48 @@ STANDARD: "${standardText}"`
   }
 }
 
-/* ---------------- load standards index ---------------- */
+/* ---------------- lazy-load standards index (works local + Vercel) ---------------- */
 
-let STD_INDEX = [];
-try {
-  const idxPath = path.join(process.cwd(), "public", "standards_index.v1.json");
-  if (fs.existsSync(idxPath)) {
-    STD_INDEX = JSON.parse(fs.readFileSync(idxPath, "utf8"));
-    console.log("[generate] index rows:", STD_INDEX.length);
-  } else {
-    console.log("[generate] no standards_index.v1.json found");
+let STD_INDEX = null;
+
+async function loadIndex(req) {
+  if (STD_INDEX && Array.isArray(STD_INDEX) && STD_INDEX.length) return STD_INDEX;
+
+  // Try filesystem first (local dev)
+  try {
+    const idxPath = path.join(process.cwd(), "public", "standards_index.v1.json");
+    if (fs.existsSync(idxPath)) {
+      STD_INDEX = JSON.parse(fs.readFileSync(idxPath, "utf8"));
+      console.log("[generate] index loaded from FS:", STD_INDEX.length);
+      return STD_INDEX;
+    }
+  } catch (_) {
+    // ignore and try HTTP
   }
-} catch (e) {
-  console.warn("[generate] failed to load index:", e?.message);
+
+  // Serverless: fetch via HTTP. Prefer an explicit base URL if set.
+  const base =
+    process.env.NEXT_PUBLIC_BASE_URL ||
+    process.env.NEXTAUTH_URL ||
+    (req?.headers?.host ? `https://${req.headers.host}` : "");
+  const url = base ? `${base.replace(/\/$/, "")}/standards_index.v1.json` : "";
+
+  if (!url) {
+    console.warn("[generate] cannot resolve index URL");
+    STD_INDEX = [];
+    return STD_INDEX;
+  }
+
+  try {
+    const r = await fetch(url, { cache: "no-store" });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    STD_INDEX = await r.json();
+    console.log("[generate] index loaded via HTTP:", STD_INDEX.length, url);
+  } catch (e) {
+    console.warn("[generate] failed to fetch index:", url, e?.message);
+    STD_INDEX = [];
+  }
+  return STD_INDEX;
 }
 
 /* ---------------- subject map and grade normalization ---------------- */
@@ -124,7 +153,7 @@ const norm = (s) => String(s || "").toLowerCase().replace(/\s+/g, " ").trim();
 /* ---------------- retrieval: relaxed filters + hybrid scoring ---------------- */
 
 async function retrieveCandidates({ curriculum, subjectKey, gradeKey, input }) {
-  if (!STD_INDEX.length || !subjectKey) return [];
+  if (!STD_INDEX?.length || !subjectKey) return [];
 
   const gradeKeyNorm = norm(gradeKey);
 
@@ -223,6 +252,15 @@ export default async function handler(req, res) {
   if (!curriculum.trim() || !subject.trim() || !grade.trim() || !input.trim())
     return res.status(400).json({ error: "Curriculum, subject, grade/year, and topic are required." });
 
+  // Ensure index is available in this runtime
+  const INDEX = await loadIndex(req);
+  res.setHeader("x-index-rows", String(INDEX.length || 0));
+  if (!INDEX.length) {
+    // No index available, avoid hallucination
+    res.setHeader("x-model-used", CHAT_MODEL);
+    return res.status(200).json({ needsChoice: true, candidates: [] });
+  }
+
   const gradeKey = normaliseGrade(curriculum, grade);
   const subjectKey = subjectKeyMap[curriculum]?.[subject];
 
@@ -232,7 +270,6 @@ export default async function handler(req, res) {
   if (forceCode) {
     // Find exact code with relaxed metadata constraints
     const pools = [];
-
     pools.push(STD_INDEX.filter(r =>
       norm(r.curriculum) === norm(curriculum) &&
       norm(r.subjectKey) === norm(subjectKey) &&
@@ -248,7 +285,6 @@ export default async function handler(req, res) {
       pools.push(STD_INDEX.filter(r => norm(r.curriculum) === norm(curriculum)));
     }
     if (!pools.at(-1).length) pools.push(STD_INDEX);
-
     const pool = pools.find(arr => arr && arr.length) || [];
     chosen = pool.find(r => r.code === forceCode) || null;
     ranked = pool.slice(0, 5);
@@ -403,10 +439,11 @@ Provide an answer key afterwards.` }
       md += `\n\n${calls[quizIdx].sec.title}\n${outputs[quizIdx]}`;
     }
 
-    // final guard: remove any accidental echoes of the standard
+    // final guard
     md = matchedStandard ? md.replaceAll(matchedStandard, "").trim() : md;
 
     res.setHeader("x-model-used", CHAT_MODEL);
+    res.setHeader("x-index-rows", String(STD_INDEX?.length || 0));
     return res.status(200).json({
       standard: matchedStandard,
       standards: (ranked || []).map(r => ({
