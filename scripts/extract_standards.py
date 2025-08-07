@@ -1,71 +1,108 @@
 #!/usr/bin/env python3
 """
-Generate *_standards.json files from every PDF in `pdfs/`
-One JSON per subject →  public/standards/nys/<subject>_standards.json
+Extract curriculum-standards tables from every PDF in ./pdfs
+and write one JSON per subject:
+
+  • public/standards/nys/<subject_key>_standards.json
+  • public/standards/england/<subject_key>_standards.json
 """
 
 import json, re, itertools, pdfplumber
 from pathlib import Path
-from tqdm import tqdm
 
-# ────────────────────────────────────────────────────────────────
-#  1.  Map <subject_key>  →  <PDF filename in pdfs/>
-#      -------------------------------------------
-#      Edit ONLY the right-hand filenames so they match exactly
-#      whatever you saved inside the  pdfs/  folder.
-# ────────────────────────────────────────────────────────────────
+# ════════════════════════════════════════════════════════════════
+#  1.  Map  <subject_key>  →  <exact PDF filename in pdfs/>
+#      ────────────  (EDIT ONLY FILENAMES)  ────────────
+# ════════════════════════════════════════════════════════════════
+
 PDF_INFO = {
-    # The Arts
-    "dance":              "dance_standards.pdf",
-    "media_arts":         "media_arts_standards.pdf",
-    "music":              "music_standards.pdf",
-    "theatre":            "theatre_standards.pdf",
-    "visual_arts":        "visual_arts_standards.pdf",
+    # ─────── NYS ────────────────────────────────────────────────
+    "dance":                    "dance_standards.pdf",
+    "media_arts":               "media_arts_standards.pdf",
+    "music":                    "music_standards.pdf",
+    "theatre":                  "theatre_standards.pdf",
+    "visual_arts":              "visual_arts_standards.pdf",
+    "cdos":                     "cdos_standards.pdf",
+    "mathematics":              "mathematics_standards.pdf",
+    "ela":                      "ela_standards.pdf",
+    "science":                  "science_standards.pdf",
+    "social_studies_k8":        "social_studies_k8_standards.pdf",
+    "social_studies_hs":        "social_studies_hs_standards.pdf",
+    "computer_science":         "computer_science_standards.pdf",
+    "world_languages":          "world_languages_standards.pdf",
+    "health_pe_fcs":            "health_pe_fcs_standards.pdf",
+    "physical_education":       "physical_education_standards.pdf",
+    "technology":               "technology_standards.pdf",
 
-    # Career Development
-    "cdos":               "cdos_standards.pdf",
+    # ─────── England – English ─────────────────────────────────
+    "eng_english_primary":      "eng_english_primary.pdf",
+    "eng_english_secondary":    "eng_english_secondary.pdf",
+    "eng_english_ks4":          "eng_english_ks4.pdf",
+    "eng_reading_framework":    "reading_framework.pdf",
+    "eng_letters_sounds":       "letters_and_sounds.pdf",
+    "eng_gcse_english_aqa":     "aqa_gcse_eng_lang_spec.pdf",
 
-    # Core
-    "mathematics":        "mathematics_standards.pdf",
-    "ela":                "ela_standards.pdf",
-    "science":            "science_standards.pdf",
-    "social_studies_k8":  "social_studies_k8_standards.pdf",
-    "social_studies_hs":  "social_studies_hs_standards.pdf",
+    # ─────── England – Maths ───────────────────────────────────
+    "eng_mathematics_primary":  "eng_mathematics_primary.pdf",
+    "eng_mathematics_secondary":"eng_mathematics_secondary.pdf",
+    "eng_mathematics_ks4":      "eng_mathematics_ks4.pdf",
+    "eng_mathematics_appendix1":"eng_mathematics_appendix1.pdf",
 
-    # Extra subjects
-    "computer_science":   "computer_science_standards.pdf",
-    "world_languages":    "world_languages_standards.pdf",
-    "health_pe_fcs":      "health_pe_fcs_standards.pdf",
-    "physical_education": "physical_education_standards.pdf",
-    "technology":         "technology_standards.pdf",
+    # ─────── England – Science ─────────────────────────────────
+    "eng_science_primary":      "eng_science_primary.pdf",
+    "eng_science_secondary":    "eng_science_secondary.pdf",
+    "eng_science_ks4":          "eng_science_ks4.pdf",
+
+    # ─────── England – Humanities & Arts ───────────────────────
+    "eng_geography_primary":    "eng_geography_primary.pdf",
+    "eng_geography_secondary":  "eng_geography_secondary.pdf",
+    "eng_history_primary":      "eng_history_primary.pdf",
+    "eng_history_secondary":    "eng_history_secondary.pdf",
+    "eng_art_design_primary":   "eng_art_design_primary.pdf",
+    "eng_art_design_secondary": "eng_art_design_secondary.pdf",
+    "eng_music_primary":        "eng_music_primary.pdf",
+    "eng_music_secondary":      "eng_music_secondary.pdf",
+
+    # ─────── England – PE, DT, Computing, MFL, Citizenship ────
+    "eng_pe_primary":           "eng_pe_primary.pdf",
+    "eng_pe_secondary":         "eng_pe_secondary.pdf",
+    "eng_design_technology_primary":   "eng_design_technology_primary.pdf",
+    "eng_design_technology_secondary": "eng_design_technology_secondary.pdf",
+    "eng_computing_primary":    "eng_computing_primary.pdf",
+    "eng_computing_secondary":  "eng_computing_secondary.pdf",
+    "eng_mfl_primary":          "eng_mfl_primary.pdf",
+    "eng_mfl_secondary":        "eng_mfl_secondary.pdf",
+    "eng_citizenship":          "eng_citizenship_secondary.pdf",
 }
 
-# ────────────────────────────────────────────────────────────────
-#  2.  Regex patterns that recognise each standards code
-# ────────────────────────────────────────────────────────────────
+# ════════════════════════════════════════════════════════════════
+#  2.  Regex – recognise a standards code
+# ════════════════════════════════════════════════════════════════
 CODE_RE = re.compile(
     r"^(?:"
-    r"[DMTVA]{2}:[A-Z][a-zA-Z]*\.\d+\.\w+"      # Arts
-    r"|CDOS\s?\d(?:\.\d)?[a-z]?"                # CDOS 1 / 1.1a …
-    r"|NY-\d+[A-Z]?\.[A-Z]{1,4}\.[0-9A-Z]+"     # Math / ELA
-    r"|NYSSLS-[0-9A-Z\-]+"                      # Science
-    r"|SS\.[0-9A-Z\-]+"                         # Social Studies
-    r"|WL\.[A-Z]{2,4}\.\d+"                     # World Languages
+    r"[DMTVA]{2}:[A-Z][a-zA-Z]*\.\d+\.\w+"         # NYS Arts
+    r"|CDOS\s?\d(?:\.\d)?[a-z]?"                   # CDOS
+    r"|NY-\d+[A-Z]?\.[A-Z]{1,4}\.[0-9A-Z]+"        # NYS Math / ELA
+    r"|NYSSLS-[0-9A-Z\-]+"                         # NYS Science
+    r"|SS\.[0-9A-Z\-]+"                            # NYS Soc. Studies
+    r"|WL\.[A-Z]{2,4}\.\d+"                        # NYS WL
+    r"|[A-Z]{2}\d(?:\.\d)?"                        # simple KS codes
     r")$"
 )
 
-# fallback grade hints for Arts table layout
+# ----- fallback grade hints for NYS arts column layout ----------
 BREAKS = [180, 270, 345, 415, 485, 555, 625, 695, 765, 835]
 GRADES  = ["Grade PK","Grade K","Grade 1","Grade 2","Grade 3",
            "Grade 4","Grade 5","Grade 6","Grade 7","Grade 8","HSI"]
 
-def col_to_grade(x):
+def col_to_grade(x):                # (used only for NYS Arts tables)
     for idx, br in enumerate(BREAKS):
-        if x < br: return GRADES[idx]
+        if x < br:
+            return GRADES[idx]
     return GRADES[-1]
 
 def infer_grade(subject_key: str, code: str, fallback: str) -> str:
-    """Extract a grade from the code when possible"""
+    """Infer a grade / year from the code when possible (NYS only)."""
     if subject_key in ("mathematics", "ela"):
         m = re.search(r"NY-(\d+)", code)
         if m: return f"Grade {m.group(1)}"
@@ -77,11 +114,11 @@ def infer_grade(subject_key: str, code: str, fallback: str) -> str:
         if m: return f"Grade {m.group(1)}"
     return fallback
 
-# ────────────────────────────────────────────────────────────────
-#  3.  Extract one PDF → dict{grade:[{code,description},…]}
-# ────────────────────────────────────────────────────────────────
+# ════════════════════════════════════════════════════════════════
+#  3.  Extract one PDF → {grade_or_ks:[{code,description},…]}
+# ════════════════════════════════════════════════════════════════
 def extract(pdf_path: Path, subject_key: str) -> dict:
-    data = {}
+    data: dict[str, list] = {}
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             words = page.extract_words()
@@ -93,11 +130,26 @@ def extract(pdf_path: Path, subject_key: str) -> dict:
                 if not code_word:
                     continue
 
-                # For CDOS, everything is K-12 (no discrete grades)
-                grade_guess = "K-12" if subject_key == "cdos" else col_to_grade(code_word["x0"])
-                grade       = infer_grade(subject_key, code_word["text"], grade_guess)
+                # Determine grade / key-stage label
+                if subject_key == "cdos":
+                    grade = "K-12"
+                elif subject_key.startswith("eng_"):
+                    # England: use KS label from the PDF file name
+                    if "_primary" in subject_key:
+                        grade = "KS1-2"
+                    elif "_secondary" in subject_key:
+                        grade = "KS3-4"
+                    elif "_ks4" in subject_key or "_gcse" in subject_key:
+                        grade = "KS4"
+                    else:
+                        grade = "KS?"
+                else:  # NYS fallback
+                    grade_guess = col_to_grade(code_word["x0"])
+                    grade = infer_grade(subject_key, code_word["text"], grade_guess)
 
-                desc = " ".join(w["text"] for w in row if w["x0"] > code_word["x1"]).strip()
+                desc = " ".join(
+                    w["text"] for w in row if w["x0"] > code_word["x1"]
+                ).strip()
                 data.setdefault(grade, []).append(
                     {"code": code_word["text"], "description": desc}
                 )
@@ -106,22 +158,26 @@ def extract(pdf_path: Path, subject_key: str) -> dict:
         data[g] = sorted(data[g], key=lambda d: d["code"])
     return data
 
-# ────────────────────────────────────────────────────────────────
-#  4.  Run over every PDF → JSON
-# ────────────────────────────────────────────────────────────────
-OUT_DIR = Path("public/standards/nys")
-OUT_DIR.mkdir(parents=True, exist_ok=True)
-
+# ════════════════════════════════════════════════════════════════
+#  4.  Walk every entry in PDF_INFO → write JSON
+# ════════════════════════════════════════════════════════════════
 for key, fname in PDF_INFO.items():
     pdf_path = Path("pdfs") / fname
     if not pdf_path.exists():
-        print(f"⚠️  {fname} not found in pdfs/ – skipping")
+        print(f"⚠️  {fname} not found – skipping")
         continue
 
-    print(f"Extracting {key:>18}  ⇢  {fname}")
+    # Decide output directory by curriculum prefix
+    if key.startswith("eng_"):
+        out_dir = Path("public/standards/england")
+    else:
+        out_dir = Path("public/standards/nys")
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    print(f"Extracting {key:>30}  ↦  {fname}")
+    out_file = out_dir / f"{key}_standards.json"
     json_data = extract(pdf_path, key)
-    out_file  = OUT_DIR / f"{key}_standards.json"
     out_file.write_text(json.dumps(json_data, indent=2))
-    print(f"  → wrote {out_file}")
+print(f"    → wrote {out_file}")
 
 print("All done 🎉")
