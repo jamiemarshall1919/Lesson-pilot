@@ -1,143 +1,131 @@
 // scripts/build_index.mjs
-// Build a vector index from public/standards/**/**_standards.json
-// Output: public/standards_index.v1.json
-// Requires: OPENAI_API_KEY in your environment
+// Build public/standards_index.v1.json from every *_standards.json under public/standards/**
+//
+//   • requires:   OPENAI_API_KEY
+//   • optional:   OPENAI_EMBEDDING_MODEL   (default: text-embedding-3-small)
+//                 EMBED_BATCH              (default: 64)
 
-import fs from "fs";
+import fs   from "fs";
 import path from "path";
 
-const ROOT = path.join(process.cwd(), "public", "standards");
-const OUT  = path.join(process.cwd(), "public", "standards_index.v1.json");
-const MODEL = process.env.OPENAI_EMBEDDING_MODEL || "text-embedding-3-small";
-const BATCH = Number(process.env.EMBED_BATCH || 128);
+const ROOT   = path.join(process.cwd(), "public", "standards");
+const OUT    = path.join(process.cwd(), "public", "standards_index.v1.json");
+const MODEL  = process.env.OPENAI_EMBEDDING_MODEL || "text-embedding-3-small";
+const BATCH  = Number(process.env.EMBED_BATCH || 64);          // ↓ safer default
 
-/* ---------------- utils ---------------- */
+/* ──────────── helpers ──────────── */
 
-function isDir(p) {
-  try { return fs.statSync(p).isDirectory(); } catch { return false; }
-}
-function isFile(p) {
-  try { return fs.statSync(p).isFile(); } catch { return false; }
-}
+function isDir(p)  { try { return fs.statSync(p).isDirectory(); } catch { return false; } }
+function isFile(p) { try { return fs.statSync(p).isFile();      } catch { return false; } }
 
-/** Recursively find all *_standards.json under ROOT */
 function findStandardsJson(dir, out = []) {
   if (!isDir(dir)) return out;
   for (const name of fs.readdirSync(dir)) {
     const full = path.join(dir, name);
-    if (isDir(full)) {
-      findStandardsJson(full, out);
-    } else if (isFile(full) && /_standards\.json$/i.test(name)) {
-      out.push(full);
-    }
+    if (isDir(full)) findStandardsJson(full, out);
+    else if (isFile(full) && /_standards\.json$/i.test(name)) out.push(full);
   }
   return out;
 }
 
-/** Depth-first collect rows with {code, description} from arbitrary JSON */
 function collectRows(node, out = []) {
   if (!node) return out;
-  if (Array.isArray(node)) {
-    for (const v of node) collectRows(v, out);
-  } else if (typeof node === "object") {
-    if (node.code && node.description) {
+  if (Array.isArray(node)) node.forEach(v => collectRows(v, out));
+  else if (typeof node === "object") {
+    if (node.code && node.description)
       out.push({ code: String(node.code), description: String(node.description) });
-    }
-    for (const v of Object.values(node)) collectRows(v, out);
+    Object.values(node).forEach(v => collectRows(v, out));
   }
   return out;
 }
 
-/** Normalize text for embedding */
-function textOf(row) {
-  const desc = String(row.description || "").replace(/\s+/g, " ").trim();
-  return `[${row.curriculum}][${row.subjectKey}][${row.grade}] ${row.code}: ${desc}`;
+function textOf(r) {
+  const desc = String(r.description || "").replace(/\s+/g, " ").trim();
+  return `[${r.curriculum}][${r.subjectKey}][${r.grade}] ${r.code}: ${desc}`;
 }
 
-/** Call OpenAI embeddings for a batch of strings */
+/* ──────────── OpenAI embed with retries ──────────── */
 async function embedBatch(texts) {
-  const r = await fetch("https://api.openai.com/v1/embeddings", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
-    },
-    body: JSON.stringify({ model: MODEL, input: texts }),
-  });
-  const d = await r.json();
-  if (d.error) throw new Error(d.error.message);
-  return d.data.map(x => x.embedding);
+  for (let attempt = 0; attempt < 5; attempt++) {
+    try {
+      const r = await fetch("https://api.openai.com/v1/embeddings", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`
+        },
+        body: JSON.stringify({ model: MODEL, input: texts })
+      });
+
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+
+      const d = await r.json();
+      if (!d?.data) throw new Error("No data field");
+      return d.data.map(x => x.embedding);
+    } catch (err) {
+      const wait = 1500 * (attempt + 1);
+      console.warn(`Embed attempt ${attempt + 1} failed (${err.message}); retrying in ${wait} ms…`);
+      await new Promise(res => setTimeout(res, wait));
+    }
+  }
+  throw new Error("embedBatch failed after 5 retries");
 }
 
-/* --------------- main build --------------- */
-
+/* ──────────── main ──────────── */
 (async () => {
   if (!process.env.OPENAI_API_KEY) {
-    console.error("OPENAI_API_KEY is not set");
-    process.exit(1);
-  }
-  if (!fs.existsSync(ROOT)) {
-    console.error(`Standards root not found: ${ROOT}`);
-    process.exit(1);
+    console.error("❌  OPENAI_API_KEY not set"); process.exit(1);
   }
 
-  // Discover all standards JSON files
+  if (!fs.existsSync(ROOT)) {
+    console.error(`❌  standards root missing: ${ROOT}`); process.exit(1);
+  }
+
   const files = findStandardsJson(ROOT);
   if (!files.length) {
-    console.log("No *_standards.json files found under public/standards");
-    process.exit(0);
+    console.log("No *_standards.json found – nothing to index"); process.exit(0);
   }
 
-  // Read and flatten rows across all files
-  /** @type {Array<{code:string,description:string,curriculum:string,subjectKey:string,grade:string}>} */
   const rowsAll = [];
-
   for (const file of files) {
-    const rel = path.relative(ROOT, file);           // e.g., "nys/mathematics_standards.json"
-    const parts = rel.split(path.sep);
-    const curriculum = parts.length > 1 ? parts[0] : ""; // folder name if present
+    const rel        = path.relative(ROOT, file);                 // eg: nys/mathematics_standards.json
+    const curriculum = rel.split(path.sep)[0];                     // nys / england / …
     const subjectKey = path.basename(file).replace(/_standards\.json$/i, "");
-    const json = JSON.parse(fs.readFileSync(file, "utf8"));
+    const json       = JSON.parse(fs.readFileSync(file, "utf8"));
 
     for (const [grade, tree] of Object.entries(json)) {
-      const rows = collectRows(tree, []);
-      for (const r of rows) {
-        rowsAll.push({
-          code: r.code,
-          description: r.description,
-          curriculum,
-          subjectKey,
-          grade,
-        });
-      }
+      collectRows(tree).forEach(r =>
+        rowsAll.push({ ...r, curriculum, subjectKey, grade })
+      );
     }
   }
 
-  if (!rowsAll.length) {
-    console.log("No standards rows found in the JSON files");
-    process.exit(0);
-  }
+  if (!rowsAll.length) { console.log("No rows – abort"); process.exit(0); }
 
-  // Embed in batches
+  /* ── embed & build index ── */
   const out = [];
   for (let i = 0; i < rowsAll.length; i += BATCH) {
-    const batch = rowsAll.slice(i, i + BATCH);
-    const inputs = batch.map(textOf);
+    const batch   = rowsAll.slice(i, i + BATCH);
+    const inputs  = batch.map(textOf);
     const vectors = await embedBatch(inputs);
+
     for (let j = 0; j < batch.length; j++) {
-      out.push({
-        ...batch[j],
-        text: inputs[j],
-        vector: vectors[j], // number[]
-      });
+      out.push({ ...batch[j], text: inputs[j], vector: vectors[j] });
     }
-    const done = Math.min(i + BATCH, rowsAll.length);
-    console.log(`Indexed ${done} / ${rowsAll.length}`);
+    console.log(`Indexed ${Math.min(i + BATCH, rowsAll.length)} / ${rowsAll.length}`);
   }
 
-  // Write index
-  fs.writeFileSync(OUT, JSON.stringify(out));
-  console.log(`Wrote ${OUT}`);
+  /* ── write (streaming) ── */
+  console.log(`Writing ${out.length.toLocaleString()} rows → ${OUT}`);
+  const ws = fs.createWriteStream(OUT, { encoding: "utf8" });
+  ws.write("[\n");
+  out.forEach((row, i) => {
+    ws.write(JSON.stringify(row));
+    if (i !== out.length - 1) ws.write(",\n");
+  });
+  ws.write("\n]\n");
+  ws.end();
+  console.log("✔  done");
 })().catch(err => {
   console.error(err);
   process.exit(1);

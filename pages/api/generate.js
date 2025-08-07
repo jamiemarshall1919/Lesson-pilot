@@ -144,8 +144,55 @@ const subjectKeyMap = {
     "The Arts":                  "visual_arts"
   },
 
-  /* ---------------- England (add later) ---------------- */
-  england: { /* add later */ },
+/* ---------------- England ---------------- */
+england: {
+  // Core subjects
+  English:                    "eng_english_primary",      // KS1-2
+  "English KS3":              "eng_english_secondary",    // KS3
+  "English KS4":              "eng_english_ks4",          // KS4 PoS
+  "GCSE English (AQA)":       "eng_gcse_english_aqa",     // exam-board spec
+  "Reading Framework":        "eng_reading_framework",    // DfE guidance
+  "Letters & Sounds":         "eng_letters_sounds",       // phonics
+
+  Mathematics:                "eng_mathematics_primary",
+  "Mathematics KS3":          "eng_mathematics_secondary",
+  "Mathematics KS4":          "eng_mathematics_ks4",
+
+  Science:                    "eng_science_primary",
+  "Science KS3":              "eng_science_secondary",
+  "Science KS4":              "eng_science_ks4",
+
+  // Humanities
+  Geography:                  "eng_geography_primary",
+  "Geography KS3/4":          "eng_geography_secondary",
+
+  History:                    "eng_history_primary",
+  "History KS3":              "eng_history_secondary",
+
+  // Languages
+  "Modern Foreign Languages":       "eng_mfl_primary",
+  "Modern Foreign Languages KS3":   "eng_mfl_secondary",
+
+  // Arts
+  "Art and Design":           "eng_art_design_primary",
+  "Art and Design KS3":       "eng_art_design_secondary",
+  Music:                      "eng_music_primary",
+  "Music KS3":                "eng_music_secondary",
+
+  // PE & health
+  "Physical Education":       "eng_pe_primary",
+  "Physical Education KS3/4": "eng_pe_secondary",
+
+  // Technology & Computing
+  "Design and Technology":           "eng_design_technology_primary",
+  "Design and Technology KS3/4":     "eng_design_technology_secondary",
+  Computing:                         "eng_computing_primary",
+  "Computing KS3/4":                 "eng_computing_secondary",
+
+  // Citizenship
+  Citizenship:                "eng_citizenship",
+},
+
 
   /* ---------------- Common Core & None ---------------- */
   common_core: {
@@ -165,11 +212,22 @@ const subjectKeyMap = {
 
 const normaliseGrade = (cur, g) => {
   if (!g) return g;
+
+  if (cur === "england") {
+    const y = parseInt(String(g).replace(/[^0-9]/g, ""), 10);
+    if (y >= 1 && y <= 2)   return "KS1";
+    if (y >= 3 && y <= 6)   return "KS2";
+    if (y >= 7 && y <= 9)   return "KS3";
+    if (y >= 10 && y <= 11) return "KS4";
+    if (y >= 12 && y <= 13) return "KS5";
+    return g;                         // e.g. "KS3" already
+  }
+
+  // existing NYS / Common Core logic
   if (["nys", "common_core", "none"].includes(cur)) {
     const low = g.toLowerCase();
     if (low === "kindergarten") return "Grade K";
     if (/^pre[-\s]?k$/i.test(g) || /^pk$/i.test(g)) return "Grade PK";
-    return g;
   }
   return g;
 };
