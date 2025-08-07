@@ -33,7 +33,7 @@ PDF_INFO = {
     "social_studies_hs":  "social_studies_hs_standards.pdf",
 
     # Extra subjects
-    "computer_science":   "computer_science.pdf",
+    "computer_science":   "computer_science_standards.pdf",
     "world_languages":    "world_languages_standards.pdf",
     "health_pe_fcs":      "health_pe_fcs_standards.pdf",
     "physical_education": "physical_education_standards.pdf",
