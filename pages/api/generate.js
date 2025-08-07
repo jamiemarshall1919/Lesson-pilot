@@ -110,32 +110,58 @@ async function loadIndex(req) {
   return STD_INDEX;
 }
 
-/* ---------------- subject map and grade normalization ---------------- */
-
 const subjectKeyMap = {
+  /* ---------------- NYS ---------------- */
   nys: {
+    // Core
+    Mathematics:                 "mathematics",
+    "English Language Arts":     "ela",
+    Science:                     "science",
+
+    // Social-studies PDFs are split K-8 and HS
+    "Social Studies (K-8)":      "social_studies_k8",
+    "Social Studies (HS)":       "social_studies_hs",
+
+    // Languages & Tech
+    "World Languages":           "world_languages",
+    Technology:                  "technology",
+    "Computer Science":          "computer_science",
+
+    // Health / PE / FCS
+    Health:                      "health_pe_fcs",
+    "Physical Education":        "physical_education",
+    "Family and Consumer Sciences": "health_pe_fcs",
+
+    // Career & CDOS
+    "Career Development":        "cdos",
+
+    // The Arts
+    Dance:                       "dance",
+    "Media Arts":                "media_arts",
+    Music:                       "music",
+    Theatre:                     "theatre",
+    "Visual Arts":               "visual_arts",
+    "The Arts":                  "visual_arts"
+  },
+
+  /* ---------------- England (add later) ---------------- */
+  england: { /* add later */ },
+
+  /* ---------------- Common Core & None ---------------- */
+  common_core: {
     Mathematics: "mathematics",
     "English Language Arts": "ela",
     Science: "science",
-    "Social Studies": "social_studies",
-    "World Languages": "world_languages",
-    Technology: "technology",
-    "Computer Science": "technology",
-    Health: "health_pe_fcs",
-    "Physical Education": "health_pe_fcs",
-    "Family and Consumer Sciences": "health_pe_fcs",
-    "Career Development": "cdos",
-    Dance: "dance",
-    "Media Arts": "media_arts",
-    Music: "music",
-    Theatre: "theatre",
-    "Visual Arts": "visual_arts",
-    "The Arts": "visual_arts",
+    "Social Studies": "social_studies_k8"   // default to K-8 set
   },
-  england: { /* add later */ },
-  common_core: { Mathematics: "mathematics", "English Language Arts": "ela", Science: "science", "Social Studies": "social_studies" },
-  none:        { Mathematics: "mathematics", "English Language Arts": "ela", Science: "science", "Social Studies": "social_studies" }
+  none: {
+    Mathematics: "mathematics",
+    "English Language Arts": "ela",
+    Science: "science",
+    "Social Studies": "social_studies_k8"
+  }
 };
+
 
 const normaliseGrade = (cur, g) => {
   if (!g) return g;
