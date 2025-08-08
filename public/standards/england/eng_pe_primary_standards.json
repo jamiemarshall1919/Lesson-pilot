@@ -1,1 +1,336 @@
-{}
+{
+  "KS1-2": [
+    {
+      "code": "KS1-2-PE-001",
+      "description": "Physical education programmes"
+    },
+    {
+      "code": "KS1-2-PE-002",
+      "description": "of study: key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-PE-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS1-2-PE-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS1-2-PE-005",
+      "description": "A high-quality physical education curriculum inspires all pupils to succeed and excel in"
+    },
+    {
+      "code": "KS1-2-PE-006",
+      "description": "competitive sport and other physically-demanding activities. It should provide opportunities"
+    },
+    {
+      "code": "KS1-2-PE-007",
+      "description": "for pupils to become physically confident in a way which supports their health and fitness."
+    },
+    {
+      "code": "KS1-2-PE-008",
+      "description": "Opportunities to compete in sport and other activities build character and help to embed"
+    },
+    {
+      "code": "KS1-2-PE-009",
+      "description": "values such as fairness and respect."
+    },
+    {
+      "code": "KS1-2-PE-010",
+      "description": "Aims"
+    },
+    {
+      "code": "KS1-2-PE-011",
+      "description": "The national curriculum for physical education aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS1-2-PE-012",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-013",
+      "description": "develop competence to excel in a broad range of physical activities"
+    },
+    {
+      "code": "KS1-2-PE-014",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-015",
+      "description": "are physically active for sustained periods of time"
+    },
+    {
+      "code": "KS1-2-PE-016",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-017",
+      "description": "engage in competitive sports and activities"
+    },
+    {
+      "code": "KS1-2-PE-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-019",
+      "description": "lead healthy, active lives."
+    },
+    {
+      "code": "KS1-2-PE-020",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS1-2-PE-021",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS1-2-PE-022",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS1-2-PE-023",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS1-2-PE-024",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS1-2-PE-025",
+      "description": "Physical education \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-PE-026",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS1-2-PE-027",
+      "description": "Key stage 1"
+    },
+    {
+      "code": "KS1-2-PE-028",
+      "description": "Pupils should develop fundamental movement skills, become increasingly competent and"
+    },
+    {
+      "code": "KS1-2-PE-029",
+      "description": "confident and access a broad range of opportunities to extend their agility, balance and"
+    },
+    {
+      "code": "KS1-2-PE-030",
+      "description": "coordination, individually and with others. They should be able to engage in competitive"
+    },
+    {
+      "code": "KS1-2-PE-031",
+      "description": "(both against self and against others) and co-operative physical activities, in a range of"
+    },
+    {
+      "code": "KS1-2-PE-032",
+      "description": "increasingly challenging situations."
+    },
+    {
+      "code": "KS1-2-PE-033",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-PE-034",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-035",
+      "description": "master basic movements including running, jumping, throwing and catching, as well as"
+    },
+    {
+      "code": "KS1-2-PE-036",
+      "description": "developing balance, agility and co-ordination, and begin to apply these in a range of"
+    },
+    {
+      "code": "KS1-2-PE-037",
+      "description": "activities"
+    },
+    {
+      "code": "KS1-2-PE-038",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-039",
+      "description": "participate in team games, developing simple tactics for attacking and defending"
+    },
+    {
+      "code": "KS1-2-PE-040",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-041",
+      "description": "perform dances using simple movement patterns."
+    },
+    {
+      "code": "KS1-2-PE-042",
+      "description": "Key stage 2"
+    },
+    {
+      "code": "KS1-2-PE-043",
+      "description": "Pupils should continue to apply and develop a broader range of skills, learning how to use"
+    },
+    {
+      "code": "KS1-2-PE-044",
+      "description": "them in different ways and to link them to make actions and sequences of movement."
+    },
+    {
+      "code": "KS1-2-PE-045",
+      "description": "They should enjoy communicating, collaborating and competing with each other. They"
+    },
+    {
+      "code": "KS1-2-PE-046",
+      "description": "should develop an understanding of how to improve in different physical activities and"
+    },
+    {
+      "code": "KS1-2-PE-047",
+      "description": "sports and learn how to evaluate and recognise their own success."
+    },
+    {
+      "code": "KS1-2-PE-048",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-PE-049",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-050",
+      "description": "use running, jumping, throwing and catching in isolation and in combination"
+    },
+    {
+      "code": "KS1-2-PE-051",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-052",
+      "description": "play competitive games, modified where appropriate [for example, badminton,"
+    },
+    {
+      "code": "KS1-2-PE-053",
+      "description": "basketball, cricket, football, hockey, netball, rounders and tennis], and apply basic"
+    },
+    {
+      "code": "KS1-2-PE-054",
+      "description": "principles suitable for attacking and defending"
+    },
+    {
+      "code": "KS1-2-PE-055",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-056",
+      "description": "develop flexibility, strength, technique, control and balance [for example, through"
+    },
+    {
+      "code": "KS1-2-PE-057",
+      "description": "athletics and gymnastics]"
+    },
+    {
+      "code": "KS1-2-PE-058",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-059",
+      "description": "perform dances using a range of movement patterns"
+    },
+    {
+      "code": "KS1-2-PE-060",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-061",
+      "description": "take part in outdoor and adventurous activity challenges both individually and within a"
+    },
+    {
+      "code": "KS1-2-PE-062",
+      "description": "team"
+    },
+    {
+      "code": "KS1-2-PE-063",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-064",
+      "description": "compare their performances with previous ones and demonstrate improvement to"
+    },
+    {
+      "code": "KS1-2-PE-065",
+      "description": "achieve their personal best."
+    },
+    {
+      "code": "KS1-2-PE-066",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-PE-067",
+      "description": "Physical education \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-PE-068",
+      "description": "Swimming and water safety"
+    },
+    {
+      "code": "KS1-2-PE-069",
+      "description": "All schools must provide swimming instruction either in key stage 1 or key stage 2."
+    },
+    {
+      "code": "KS1-2-PE-070",
+      "description": "In particular, pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-PE-071",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-072",
+      "description": "swim competently, confidently and proficiently over a distance of at least 25 metres"
+    },
+    {
+      "code": "KS1-2-PE-073",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-074",
+      "description": "use a range of strokes effectively [for example, front crawl, backstroke and"
+    },
+    {
+      "code": "KS1-2-PE-075",
+      "description": "breaststroke]"
+    },
+    {
+      "code": "KS1-2-PE-076",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-PE-077",
+      "description": "perform safe self-rescue in different water-based situations."
+    },
+    {
+      "code": "KS1-2-PE-078",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS1-2-PE-079",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS1-2-PE-080",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS1-2-PE-081",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS1-2-PE-082",
+      "description": "Reference: DFE-00176-2013"
+    },
+    {
+      "code": "KS1-2-PE-083",
+      "description": "3"
+    }
+  ]
+}

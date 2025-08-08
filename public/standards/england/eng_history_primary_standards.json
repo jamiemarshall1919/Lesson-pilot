@@ -1,1 +1,784 @@
-{}
+{
+  "KS1-2": [
+    {
+      "code": "KS1-2-HI-001",
+      "description": "History programmes of study:"
+    },
+    {
+      "code": "KS1-2-HI-002",
+      "description": "key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-HI-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS1-2-HI-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS1-2-HI-005",
+      "description": "A high-quality history education will help pupils gain a coherent knowledge and"
+    },
+    {
+      "code": "KS1-2-HI-006",
+      "description": "understanding of Britain\u2019s past and that of the wider world. It should inspire pupils\u2019 curiosity"
+    },
+    {
+      "code": "KS1-2-HI-007",
+      "description": "to know more about the past. Teaching should equip pupils to ask perceptive questions,"
+    },
+    {
+      "code": "KS1-2-HI-008",
+      "description": "think critically, weigh evidence, sift arguments, and develop perspective and judgement."
+    },
+    {
+      "code": "KS1-2-HI-009",
+      "description": "History helps pupils to understand the complexity of people\u2019s lives, the process of change,"
+    },
+    {
+      "code": "KS1-2-HI-010",
+      "description": "the diversity of societies and relationships between different groups, as well as their own"
+    },
+    {
+      "code": "KS1-2-HI-011",
+      "description": "identity and the challenges of their time."
+    },
+    {
+      "code": "KS1-2-HI-012",
+      "description": "Aims"
+    },
+    {
+      "code": "KS1-2-HI-013",
+      "description": "The national curriculum for history aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS1-2-HI-014",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-015",
+      "description": "know and understand the history of these islands as a coherent, chronological"
+    },
+    {
+      "code": "KS1-2-HI-016",
+      "description": "narrative, from the earliest times to the present day: how people\u2019s lives have shaped"
+    },
+    {
+      "code": "KS1-2-HI-017",
+      "description": "this nation and how Britain has influenced and been influenced by the wider world"
+    },
+    {
+      "code": "KS1-2-HI-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-019",
+      "description": "know and understand significant aspects of the history of the wider world: the nature of"
+    },
+    {
+      "code": "KS1-2-HI-020",
+      "description": "ancient civilisations; the expansion and dissolution of empires; characteristic features"
+    },
+    {
+      "code": "KS1-2-HI-021",
+      "description": "of past non-European societies; achievements and follies of mankind"
+    },
+    {
+      "code": "KS1-2-HI-022",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-023",
+      "description": "gain and deploy a historically grounded understanding of abstract terms such as"
+    },
+    {
+      "code": "KS1-2-HI-024",
+      "description": "\u2018empire\u2019, \u2018civilisation\u2019, \u2018parliament\u2019 and \u2018peasantry\u2019"
+    },
+    {
+      "code": "KS1-2-HI-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-026",
+      "description": "understand historical concepts such as continuity and change, cause and"
+    },
+    {
+      "code": "KS1-2-HI-027",
+      "description": "consequence, similarity, difference and significance, and use them to make"
+    },
+    {
+      "code": "KS1-2-HI-028",
+      "description": "connections, draw contrasts, analyse trends, frame historically-valid questions and"
+    },
+    {
+      "code": "KS1-2-HI-029",
+      "description": "create their own structured accounts, including written narratives and analyses"
+    },
+    {
+      "code": "KS1-2-HI-030",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-031",
+      "description": "understand the methods of historical enquiry, including how evidence is used rigorously"
+    },
+    {
+      "code": "KS1-2-HI-032",
+      "description": "to make historical claims, and discern how and why contrasting arguments and"
+    },
+    {
+      "code": "KS1-2-HI-033",
+      "description": "interpretations of the past have been constructed"
+    },
+    {
+      "code": "KS1-2-HI-034",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS1-2-HI-035",
+      "description": "History \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-HI-036",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-037",
+      "description": "gain historical perspective by placing their growing knowledge into different contexts,"
+    },
+    {
+      "code": "KS1-2-HI-038",
+      "description": "understanding the connections between local, regional, national and international"
+    },
+    {
+      "code": "KS1-2-HI-039",
+      "description": "history; between cultural, economic, military, political, religious and social history; and"
+    },
+    {
+      "code": "KS1-2-HI-040",
+      "description": "between short- and long-term timescales."
+    },
+    {
+      "code": "KS1-2-HI-041",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS1-2-HI-042",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS1-2-HI-043",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS1-2-HI-044",
+      "description": "Schools are not required by law to teach the example content in [square brackets]"
+    },
+    {
+      "code": "KS1-2-HI-045",
+      "description": "or the content indicated as being \u2018non-statutory\u2019."
+    },
+    {
+      "code": "KS1-2-HI-046",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS1-2-HI-047",
+      "description": "Key stage 1"
+    },
+    {
+      "code": "KS1-2-HI-048",
+      "description": "Pupils should develop an awareness of the past, using common words and phrases"
+    },
+    {
+      "code": "KS1-2-HI-049",
+      "description": "relating to the passing of time. They should know where the people and events they study"
+    },
+    {
+      "code": "KS1-2-HI-050",
+      "description": "fit within a chronological framework and identify similarities and differences between ways"
+    },
+    {
+      "code": "KS1-2-HI-051",
+      "description": "of life in different periods. They should use a wide vocabulary of everyday historical terms."
+    },
+    {
+      "code": "KS1-2-HI-052",
+      "description": "They should ask and answer questions, choosing and using parts of stories and other"
+    },
+    {
+      "code": "KS1-2-HI-053",
+      "description": "sources to show that they know and understand key features of events. They should"
+    },
+    {
+      "code": "KS1-2-HI-054",
+      "description": "understand some of the ways in which we find out about the past and identify different"
+    },
+    {
+      "code": "KS1-2-HI-055",
+      "description": "ways in which it is represented."
+    },
+    {
+      "code": "KS1-2-HI-056",
+      "description": "In planning to ensure the progression described above through teaching about the people,"
+    },
+    {
+      "code": "KS1-2-HI-057",
+      "description": "events and changes outlined below, teachers are often introducing pupils to historical"
+    },
+    {
+      "code": "KS1-2-HI-058",
+      "description": "periods that they will study more fully at key stages 2 and 3."
+    },
+    {
+      "code": "KS1-2-HI-059",
+      "description": "Pupils should be taught about:"
+    },
+    {
+      "code": "KS1-2-HI-060",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-061",
+      "description": "changes within living memory. Where appropriate, these should be used to reveal"
+    },
+    {
+      "code": "KS1-2-HI-062",
+      "description": "aspects of change in national life"
+    },
+    {
+      "code": "KS1-2-HI-063",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-064",
+      "description": "events beyond living memory that are significant nationally or globally [for example, the"
+    },
+    {
+      "code": "KS1-2-HI-065",
+      "description": "Great Fire of London, the first aeroplane flight or events commemorated through"
+    },
+    {
+      "code": "KS1-2-HI-066",
+      "description": "festivals or anniversaries]"
+    },
+    {
+      "code": "KS1-2-HI-067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-068",
+      "description": "the lives of significant individuals in the past who have contributed to national and"
+    },
+    {
+      "code": "KS1-2-HI-069",
+      "description": "international achievements. Some should be used to compare aspects of life in"
+    },
+    {
+      "code": "KS1-2-HI-070",
+      "description": "different periods [for example, Elizabeth I and Queen Victoria, Christopher Columbus"
+    },
+    {
+      "code": "KS1-2-HI-071",
+      "description": "and Neil Armstrong, William Caxton and Tim Berners-Lee, Pieter Bruegel the Elder and"
+    },
+    {
+      "code": "KS1-2-HI-072",
+      "description": "LS Lowry, Rosa Parks and Emily Davison, Mary Seacole and/or Florence Nightingale"
+    },
+    {
+      "code": "KS1-2-HI-073",
+      "description": "and Edith Cavell]"
+    },
+    {
+      "code": "KS1-2-HI-074",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-075",
+      "description": "significant historical events, people and places in their own locality."
+    },
+    {
+      "code": "KS1-2-HI-076",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-HI-077",
+      "description": "History \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-HI-078",
+      "description": "Key stage 2"
+    },
+    {
+      "code": "KS1-2-HI-079",
+      "description": "Pupils should continue to develop a chronologically secure knowledge and understanding"
+    },
+    {
+      "code": "KS1-2-HI-080",
+      "description": "of British, local and world history, establishing clear narratives within and across the"
+    },
+    {
+      "code": "KS1-2-HI-081",
+      "description": "periods they study. They should note connections, contrasts and trends over time and"
+    },
+    {
+      "code": "KS1-2-HI-082",
+      "description": "develop the appropriate use of historical terms. They should regularly address and"
+    },
+    {
+      "code": "KS1-2-HI-083",
+      "description": "sometimes devise historically valid questions about change, cause, similarity and"
+    },
+    {
+      "code": "KS1-2-HI-084",
+      "description": "difference, and significance. They should construct informed responses that involve"
+    },
+    {
+      "code": "KS1-2-HI-085",
+      "description": "thoughtful selection and organisation of relevant historical information. They should"
+    },
+    {
+      "code": "KS1-2-HI-086",
+      "description": "understand how our knowledge of the past is constructed from a range of sources."
+    },
+    {
+      "code": "KS1-2-HI-087",
+      "description": "In planning to ensure the progression described above through teaching the British, local"
+    },
+    {
+      "code": "KS1-2-HI-088",
+      "description": "and world history outlined below, teachers should combine overview and depth studies to"
+    },
+    {
+      "code": "KS1-2-HI-089",
+      "description": "help pupils understand both the long arc of development and the complexity of specific"
+    },
+    {
+      "code": "KS1-2-HI-090",
+      "description": "aspects of the content."
+    },
+    {
+      "code": "KS1-2-HI-091",
+      "description": "Pupils should be taught about:"
+    },
+    {
+      "code": "KS1-2-HI-092",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-093",
+      "description": "changes in Britain from the Stone Age to the Iron Age"
+    },
+    {
+      "code": "KS1-2-HI-094",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS1-2-HI-095",
+      "description": "This could include:"
+    },
+    {
+      "code": "KS1-2-HI-096",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-097",
+      "description": "late Neolithic hunter-gatherers and early farmers, for example, Skara Brae"
+    },
+    {
+      "code": "KS1-2-HI-098",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-099",
+      "description": "Bronze Age religion, technology and travel, for example, Stonehenge"
+    },
+    {
+      "code": "KS1-2-HI-100",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-101",
+      "description": "Iron Age hill forts: tribal kingdoms, farming, art and culture"
+    },
+    {
+      "code": "KS1-2-HI-102",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-103",
+      "description": "the Roman Empire and its impact on Britain"
+    },
+    {
+      "code": "KS1-2-HI-104",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS1-2-HI-105",
+      "description": "This could include:"
+    },
+    {
+      "code": "KS1-2-HI-106",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-107",
+      "description": "Julius Caesar\u2019s attempted invasion in 55-54 BC"
+    },
+    {
+      "code": "KS1-2-HI-108",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-109",
+      "description": "the Roman Empire by AD 42 and the power of its army"
+    },
+    {
+      "code": "KS1-2-HI-110",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-111",
+      "description": "successful invasion by Claudius and conquest, including Hadrian\u2019s Wall"
+    },
+    {
+      "code": "KS1-2-HI-112",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-113",
+      "description": "British resistance, for example, Boudica"
+    },
+    {
+      "code": "KS1-2-HI-114",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-115",
+      "description": "\u2018Romanisation\u2019 of Britain: sites such as Caerwent and the impact of technology,"
+    },
+    {
+      "code": "KS1-2-HI-116",
+      "description": "culture and beliefs, including early Christianity"
+    },
+    {
+      "code": "KS1-2-HI-117",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-HI-118",
+      "description": "History \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-HI-119",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-120",
+      "description": "Britain\u2019s settlement by Anglo-Saxons and Scots"
+    },
+    {
+      "code": "KS1-2-HI-121",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS1-2-HI-122",
+      "description": "This could include:"
+    },
+    {
+      "code": "KS1-2-HI-123",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-124",
+      "description": "Roman withdrawal from Britain in c. AD 410 and the fall of the western Roman"
+    },
+    {
+      "code": "KS1-2-HI-125",
+      "description": "Empire"
+    },
+    {
+      "code": "KS1-2-HI-126",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-127",
+      "description": "Scots invasions from Ireland to north Britain (now Scotland)"
+    },
+    {
+      "code": "KS1-2-HI-128",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-129",
+      "description": "Anglo-Saxon invasions, settlements and kingdoms: place names and village life"
+    },
+    {
+      "code": "KS1-2-HI-130",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-131",
+      "description": "Anglo-Saxon art and culture"
+    },
+    {
+      "code": "KS1-2-HI-132",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-133",
+      "description": "Christian conversion \u2013 Canterbury, Iona and Lindisfarne"
+    },
+    {
+      "code": "KS1-2-HI-134",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-135",
+      "description": "the Viking and Anglo-Saxon struggle for the Kingdom of England to the time of Edward"
+    },
+    {
+      "code": "KS1-2-HI-136",
+      "description": "the Confessor"
+    },
+    {
+      "code": "KS1-2-HI-137",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS1-2-HI-138",
+      "description": "This could include:"
+    },
+    {
+      "code": "KS1-2-HI-139",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-140",
+      "description": "Viking raids and invasion"
+    },
+    {
+      "code": "KS1-2-HI-141",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-142",
+      "description": "resistance by Alfred the Great and Athelstan, first king of England"
+    },
+    {
+      "code": "KS1-2-HI-143",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-144",
+      "description": "further Viking invasions and Danegeld"
+    },
+    {
+      "code": "KS1-2-HI-145",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-146",
+      "description": "Anglo-Saxon laws and justice"
+    },
+    {
+      "code": "KS1-2-HI-147",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-148",
+      "description": "Edward the Confessor and his death in 1066"
+    },
+    {
+      "code": "KS1-2-HI-149",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-150",
+      "description": "a local history study"
+    },
+    {
+      "code": "KS1-2-HI-151",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS1-2-HI-152",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-153",
+      "description": "a depth study linked to one of the British areas of study listed above"
+    },
+    {
+      "code": "KS1-2-HI-154",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-155",
+      "description": "a study over time tracing how several aspects of national history are reflected in"
+    },
+    {
+      "code": "KS1-2-HI-156",
+      "description": "the locality (this can go beyond 1066)"
+    },
+    {
+      "code": "KS1-2-HI-157",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-158",
+      "description": "a study of an aspect of history or a site dating from a period beyond 1066 that is"
+    },
+    {
+      "code": "KS1-2-HI-159",
+      "description": "significant in the locality."
+    },
+    {
+      "code": "KS1-2-HI-160",
+      "description": "4"
+    },
+    {
+      "code": "KS1-2-HI-161",
+      "description": "History \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-HI-162",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-163",
+      "description": "a study of an aspect or theme in British history that extends pupils\u2019 chronological"
+    },
+    {
+      "code": "KS1-2-HI-164",
+      "description": "knowledge beyond 1066"
+    },
+    {
+      "code": "KS1-2-HI-165",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS1-2-HI-166",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-167",
+      "description": "the changing power of monarchs using case studies such as John, Anne and"
+    },
+    {
+      "code": "KS1-2-HI-168",
+      "description": "Victoria"
+    },
+    {
+      "code": "KS1-2-HI-169",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-170",
+      "description": "changes in an aspect of social history, such as crime and punishment from the"
+    },
+    {
+      "code": "KS1-2-HI-171",
+      "description": "20th"
+    },
+    {
+      "code": "KS1-2-HI-172",
+      "description": "Anglo-Saxons to the present or leisure and entertainment in the Century"
+    },
+    {
+      "code": "KS1-2-HI-173",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-174",
+      "description": "the legacy of Greek or Roman culture (art, architecture or literature) on later"
+    },
+    {
+      "code": "KS1-2-HI-175",
+      "description": "periods in British history, including the present day"
+    },
+    {
+      "code": "KS1-2-HI-176",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-177",
+      "description": "a significant turning point in British history, for example, the first railways or the"
+    },
+    {
+      "code": "KS1-2-HI-178",
+      "description": "Battle of Britain"
+    },
+    {
+      "code": "KS1-2-HI-179",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-180",
+      "description": "the achievements of the earliest civilizations \u2013 an overview of where and when the first"
+    },
+    {
+      "code": "KS1-2-HI-181",
+      "description": "civilizations appeared and a depth study of one of the following: Ancient Sumer; The"
+    },
+    {
+      "code": "KS1-2-HI-182",
+      "description": "Indus Valley; Ancient Egypt; The Shang Dynasty of Ancient China"
+    },
+    {
+      "code": "KS1-2-HI-183",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-184",
+      "description": "Ancient Greece \u2013 a study of Greek life and achievements and their influence on the"
+    },
+    {
+      "code": "KS1-2-HI-185",
+      "description": "western world"
+    },
+    {
+      "code": "KS1-2-HI-186",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-HI-187",
+      "description": "a non-European society that provides contrasts with British history \u2013 one study chosen"
+    },
+    {
+      "code": "KS1-2-HI-188",
+      "description": "from: early Islamic civilization, including a study of Baghdad c. AD 900; Mayan"
+    },
+    {
+      "code": "KS1-2-HI-189",
+      "description": "civilization c. AD 900; Benin (West Africa) c. AD 900-1300."
+    },
+    {
+      "code": "KS1-2-HI-190",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS1-2-HI-191",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS1-2-HI-192",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS1-2-HI-193",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS1-2-HI-194",
+      "description": "Reference: DFE-00173-2013"
+    },
+    {
+      "code": "KS1-2-HI-195",
+      "description": "5"
+    }
+  ]
+}

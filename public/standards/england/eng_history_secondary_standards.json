@@ -1,1 +1,812 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-HI-001",
+      "description": "History programmes of study:"
+    },
+    {
+      "code": "KS3-HI-002",
+      "description": "key stage 3"
+    },
+    {
+      "code": "KS3-HI-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-HI-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-HI-005",
+      "description": "A high-quality history education will help pupils gain a coherent knowledge and"
+    },
+    {
+      "code": "KS3-HI-006",
+      "description": "understanding of Britain\u2019s past and that of the wider world. It should inspire pupils\u2019 curiosity"
+    },
+    {
+      "code": "KS3-HI-007",
+      "description": "to know more about the past. Teaching should equip pupils to ask perceptive questions,"
+    },
+    {
+      "code": "KS3-HI-008",
+      "description": "think critically, weigh evidence, sift arguments, and develop perspective and judgement."
+    },
+    {
+      "code": "KS3-HI-009",
+      "description": "History helps pupils to understand the complexity of people\u2019s lives, the process of change,"
+    },
+    {
+      "code": "KS3-HI-010",
+      "description": "the diversity of societies and relationships between different groups, as well as their own"
+    },
+    {
+      "code": "KS3-HI-011",
+      "description": "identity and the challenges of their time."
+    },
+    {
+      "code": "KS3-HI-012",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-HI-013",
+      "description": "The national curriculum for history aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-HI-014",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-015",
+      "description": "know and understand the history of these islands as a coherent, chronological"
+    },
+    {
+      "code": "KS3-HI-016",
+      "description": "narrative, from the earliest times to the present day: how people\u2019s lives have shaped"
+    },
+    {
+      "code": "KS3-HI-017",
+      "description": "this nation and how Britain has influenced and been influenced by the wider world"
+    },
+    {
+      "code": "KS3-HI-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-019",
+      "description": "know and understand significant aspects of the history of the wider world: the nature of"
+    },
+    {
+      "code": "KS3-HI-020",
+      "description": "ancient civilisations; the expansion and dissolution of empires; characteristic features"
+    },
+    {
+      "code": "KS3-HI-021",
+      "description": "of past non-European societies; achievements and follies of mankind"
+    },
+    {
+      "code": "KS3-HI-022",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-023",
+      "description": "gain and deploy a historically grounded understanding of abstract terms such as"
+    },
+    {
+      "code": "KS3-HI-024",
+      "description": "\u2018empire\u2019, \u2018civilisation\u2019, \u2018parliament\u2019 and \u2018peasantry\u2019"
+    },
+    {
+      "code": "KS3-HI-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-026",
+      "description": "understand historical concepts such as continuity and change, cause and"
+    },
+    {
+      "code": "KS3-HI-027",
+      "description": "consequence, similarity, difference and significance, and use them to make"
+    },
+    {
+      "code": "KS3-HI-028",
+      "description": "connections, draw contrasts, analyse trends, frame historically-valid questions and"
+    },
+    {
+      "code": "KS3-HI-029",
+      "description": "create their own structured accounts, including written narratives and analyses"
+    },
+    {
+      "code": "KS3-HI-030",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-031",
+      "description": "understand the methods of historical enquiry, including how evidence is used rigorously"
+    },
+    {
+      "code": "KS3-HI-032",
+      "description": "to make historical claims, and discern how and why contrasting arguments and"
+    },
+    {
+      "code": "KS3-HI-033",
+      "description": "interpretations of the past have been constructed"
+    },
+    {
+      "code": "KS3-HI-034",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS3-HI-035",
+      "description": "History \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-HI-036",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-037",
+      "description": "gain historical perspective by placing their growing knowledge into different contexts,"
+    },
+    {
+      "code": "KS3-HI-038",
+      "description": "understanding the connections between local, regional, national and international"
+    },
+    {
+      "code": "KS3-HI-039",
+      "description": "history; between cultural, economic, military, political, religious and social history; and"
+    },
+    {
+      "code": "KS3-HI-040",
+      "description": "between short- and long-term timescales."
+    },
+    {
+      "code": "KS3-HI-041",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-HI-042",
+      "description": "By the end of key stage 3, pupils are expected to know, apply and understand the matters,"
+    },
+    {
+      "code": "KS3-HI-043",
+      "description": "skills and processes specified in the programme of study."
+    },
+    {
+      "code": "KS3-HI-044",
+      "description": "Schools are not required by law to teach the example content in [square brackets]"
+    },
+    {
+      "code": "KS3-HI-045",
+      "description": "or the content indicated as being \u2018non-statutory\u2019."
+    },
+    {
+      "code": "KS3-HI-046",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-HI-047",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-HI-048",
+      "description": "Pupils should extend and deepen their chronologically secure knowledge and"
+    },
+    {
+      "code": "KS3-HI-049",
+      "description": "understanding of British, local and world history, so that it provides a well-informed context"
+    },
+    {
+      "code": "KS3-HI-050",
+      "description": "for wider learning. Pupils should identify significant events, make connections, draw"
+    },
+    {
+      "code": "KS3-HI-051",
+      "description": "contrasts, and analyse trends within periods and over long arcs of time. They should use"
+    },
+    {
+      "code": "KS3-HI-052",
+      "description": "historical terms and concepts in increasingly sophisticated ways. They should pursue"
+    },
+    {
+      "code": "KS3-HI-053",
+      "description": "historically valid enquiries including some they have framed themselves, and create"
+    },
+    {
+      "code": "KS3-HI-054",
+      "description": "relevant, structured and evidentially supported accounts in response. They should"
+    },
+    {
+      "code": "KS3-HI-055",
+      "description": "understand how different types of historical sources are used rigorously to make historical"
+    },
+    {
+      "code": "KS3-HI-056",
+      "description": "claims and discern how and why contrasting arguments and interpretations of the past"
+    },
+    {
+      "code": "KS3-HI-057",
+      "description": "have been constructed."
+    },
+    {
+      "code": "KS3-HI-058",
+      "description": "In planning to ensure the progression described above through teaching the British, local"
+    },
+    {
+      "code": "KS3-HI-059",
+      "description": "and world history outlined below, teachers should combine overview and depth studies to"
+    },
+    {
+      "code": "KS3-HI-060",
+      "description": "help pupils understand both the long arc of development and the complexity of specific"
+    },
+    {
+      "code": "KS3-HI-061",
+      "description": "aspects of the content."
+    },
+    {
+      "code": "KS3-HI-062",
+      "description": "Pupils should be taught about:"
+    },
+    {
+      "code": "KS3-HI-063",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-064",
+      "description": "the development of Church, state and society in Medieval Britain 1066-1509"
+    },
+    {
+      "code": "KS3-HI-065",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS3-HI-066",
+      "description": "This could include:"
+    },
+    {
+      "code": "KS3-HI-067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-068",
+      "description": "the Norman Conquest"
+    },
+    {
+      "code": "KS3-HI-069",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-070",
+      "description": "Christendom, the importance of religion and the Crusades"
+    },
+    {
+      "code": "KS3-HI-071",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-072",
+      "description": "the struggle between Church and crown"
+    },
+    {
+      "code": "KS3-HI-073",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-074",
+      "description": "Magna Carta and the emergence of Parliament"
+    },
+    {
+      "code": "KS3-HI-075",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-076",
+      "description": "the English campaigns to conquer Wales and Scotland up to 1314"
+    },
+    {
+      "code": "KS3-HI-077",
+      "description": "2"
+    },
+    {
+      "code": "KS3-HI-078",
+      "description": "History \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-HI-079",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS3-HI-080",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-081",
+      "description": "society, economy and culture: for example, feudalism, religion in daily life"
+    },
+    {
+      "code": "KS3-HI-082",
+      "description": "(parishes, monasteries, abbeys), farming, trade and towns (especially the wool"
+    },
+    {
+      "code": "KS3-HI-083",
+      "description": "trade), art, architecture and literature"
+    },
+    {
+      "code": "KS3-HI-084",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-085",
+      "description": "the Black Death and its social and economic impact"
+    },
+    {
+      "code": "KS3-HI-086",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-087",
+      "description": "the Peasants\u2019 Revolt"
+    },
+    {
+      "code": "KS3-HI-088",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-089",
+      "description": "the Hundred Years War"
+    },
+    {
+      "code": "KS3-HI-090",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-091",
+      "description": "the Wars of the Roses; Henry VII and attempts to restore stability"
+    },
+    {
+      "code": "KS3-HI-092",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-093",
+      "description": "the development of Church, state and society in Britain 1509-1745"
+    },
+    {
+      "code": "KS3-HI-094",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS3-HI-095",
+      "description": "This could include:"
+    },
+    {
+      "code": "KS3-HI-096",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-097",
+      "description": "Renaissance and Reformation in Europe"
+    },
+    {
+      "code": "KS3-HI-098",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-099",
+      "description": "the English Reformation and Counter Reformation (Henry VIII to Mary I)"
+    },
+    {
+      "code": "KS3-HI-100",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-101",
+      "description": "the Elizabethan religious settlement and conflict with Catholics (including"
+    },
+    {
+      "code": "KS3-HI-102",
+      "description": "Scotland, Spain and Ireland)"
+    },
+    {
+      "code": "KS3-HI-103",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-104",
+      "description": "the first colony in America and first contact with India"
+    },
+    {
+      "code": "KS3-HI-105",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-106",
+      "description": "the causes and events of the civil wars throughout Britain"
+    },
+    {
+      "code": "KS3-HI-107",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-108",
+      "description": "the Interregnum (including Cromwell in Ireland)"
+    },
+    {
+      "code": "KS3-HI-109",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-110",
+      "description": "the Restoration, \u2018Glorious Revolution\u2019 and power of Parliament"
+    },
+    {
+      "code": "KS3-HI-111",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-112",
+      "description": "the Act of Union of 1707, the Hanoverian succession and the Jacobite rebellions"
+    },
+    {
+      "code": "KS3-HI-113",
+      "description": "of 1715 and 1745"
+    },
+    {
+      "code": "KS3-HI-114",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-115",
+      "description": "society, economy and culture across the period: for example, work and leisure in"
+    },
+    {
+      "code": "KS3-HI-116",
+      "description": "town and country, religion and superstition in daily life, theatre, art, music and"
+    },
+    {
+      "code": "KS3-HI-117",
+      "description": "literature"
+    },
+    {
+      "code": "KS3-HI-118",
+      "description": "3"
+    },
+    {
+      "code": "KS3-HI-119",
+      "description": "History \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-HI-120",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-121",
+      "description": "ideas, political power, industry and empire: Britain, 1745-1901"
+    },
+    {
+      "code": "KS3-HI-122",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS3-HI-123",
+      "description": "This could include:"
+    },
+    {
+      "code": "KS3-HI-124",
+      "description": "17th-Century"
+    },
+    {
+      "code": "KS3-HI-125",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-126",
+      "description": "the Enlightenment in Europe and Britain, with links back to thinkers"
+    },
+    {
+      "code": "KS3-HI-127",
+      "description": "and scientists and the founding of the Royal Society"
+    },
+    {
+      "code": "KS3-HI-128",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-129",
+      "description": "Britain\u2019s transatlantic slave trade: its effects and its eventual abolition"
+    },
+    {
+      "code": "KS3-HI-130",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-131",
+      "description": "the Seven Years War and The American War of Independence"
+    },
+    {
+      "code": "KS3-HI-132",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-133",
+      "description": "the French Revolutionary wars"
+    },
+    {
+      "code": "KS3-HI-134",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-135",
+      "description": "Britain as the first industrial nation \u2013 the impact on society"
+    },
+    {
+      "code": "KS3-HI-136",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-137",
+      "description": "party politics, extension of the franchise and social reform"
+    },
+    {
+      "code": "KS3-HI-138",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-139",
+      "description": "the development of the British Empire with a depth study (for example, of India)"
+    },
+    {
+      "code": "KS3-HI-140",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-141",
+      "description": "Ireland and Home Rule"
+    },
+    {
+      "code": "KS3-HI-142",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-143",
+      "description": "Darwin\u2019s \u2018On The Origin of Species\u2019"
+    },
+    {
+      "code": "KS3-HI-144",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-145",
+      "description": "challenges for Britain, Europe and the wider world 1901 to the present day"
+    },
+    {
+      "code": "KS3-HI-146",
+      "description": "In addition to studying the Holocaust, this could include:"
+    },
+    {
+      "code": "KS3-HI-147",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS3-HI-148",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-149",
+      "description": "women\u2019s suffrage"
+    },
+    {
+      "code": "KS3-HI-150",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-151",
+      "description": "the First World War and the Peace Settlement"
+    },
+    {
+      "code": "KS3-HI-152",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-153",
+      "description": "the inter-war years: the Great Depression and the rise of dictators"
+    },
+    {
+      "code": "KS3-HI-154",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-155",
+      "description": "the Second World War and the wartime leadership of Winston Churchill"
+    },
+    {
+      "code": "KS3-HI-156",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-157",
+      "description": "the creation of the Welfare State"
+    },
+    {
+      "code": "KS3-HI-158",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-159",
+      "description": "Indian independence and end of Empire"
+    },
+    {
+      "code": "KS3-HI-160",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-161",
+      "description": "social, cultural and technological change in post-war British society"
+    },
+    {
+      "code": "KS3-HI-162",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-163",
+      "description": "Britain\u2019s place in the world since 1945"
+    },
+    {
+      "code": "KS3-HI-164",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-165",
+      "description": "a local history study"
+    },
+    {
+      "code": "KS3-HI-166",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS3-HI-167",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-168",
+      "description": "a depth study linked to one of the British areas of study listed above"
+    },
+    {
+      "code": "KS3-HI-169",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-170",
+      "description": "a study over time, testing how far sites in their locality reflect aspects of national"
+    },
+    {
+      "code": "KS3-HI-171",
+      "description": "history (some sites may predate 1066)"
+    },
+    {
+      "code": "KS3-HI-172",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-173",
+      "description": "a study of an aspect or site in local history dating from a period before 1066"
+    },
+    {
+      "code": "KS3-HI-174",
+      "description": "4"
+    },
+    {
+      "code": "KS3-HI-175",
+      "description": "History \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-HI-176",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-177",
+      "description": "the study of an aspect or theme in British history that consolidates and extends pupils\u2019"
+    },
+    {
+      "code": "KS3-HI-178",
+      "description": "chronological knowledge from before 1066"
+    },
+    {
+      "code": "KS3-HI-179",
+      "description": "Examples (non-statutory)"
+    },
+    {
+      "code": "KS3-HI-180",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-181",
+      "description": "the changing nature of political power in Britain, traced through selective case"
+    },
+    {
+      "code": "KS3-HI-182",
+      "description": "studies from the Iron Age to the present"
+    },
+    {
+      "code": "KS3-HI-183",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-184",
+      "description": "Britain\u2019s changing landscape from the Iron Age to the present"
+    },
+    {
+      "code": "KS3-HI-185",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-186",
+      "description": "a study of an aspect of social history, such as the impact through time of the"
+    },
+    {
+      "code": "KS3-HI-187",
+      "description": "migration of people to, from and within the British Isles"
+    },
+    {
+      "code": "KS3-HI-188",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-189",
+      "description": "a study in depth into a significant turning point: for example, the Neolithic"
+    },
+    {
+      "code": "KS3-HI-190",
+      "description": "Revolution"
+    },
+    {
+      "code": "KS3-HI-191",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-HI-192",
+      "description": "at least one study of a significant society or issue in world history and its"
+    },
+    {
+      "code": "KS3-HI-193",
+      "description": "interconnections with other world developments [for example, Mughal India 1526-1857;"
+    },
+    {
+      "code": "KS3-HI-194",
+      "description": "China\u2019s Qing dynasty 1644-1911; Changing Russian empires c.1800-1989; USA in the"
+    },
+    {
+      "code": "KS3-HI-195",
+      "description": "20th"
+    },
+    {
+      "code": "KS3-HI-196",
+      "description": "Century]."
+    },
+    {
+      "code": "KS3-HI-197",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-HI-198",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS3-HI-199",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS3-HI-200",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-HI-201",
+      "description": "Reference: DFE-00194-2013"
+    },
+    {
+      "code": "KS3-HI-202",
+      "description": "5"
+    }
+  ]
+}

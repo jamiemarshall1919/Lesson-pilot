@@ -1,1 +1,372 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-MF-001",
+      "description": "Languages programmes of study:"
+    },
+    {
+      "code": "KS3-MF-002",
+      "description": "key stage 3"
+    },
+    {
+      "code": "KS3-MF-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-MF-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-MF-005",
+      "description": "Learning a foreign language is a liberation from insularity and provides an opening to other"
+    },
+    {
+      "code": "KS3-MF-006",
+      "description": "cultures. A high-quality languages education should foster pupils\u2019 curiosity and deepen"
+    },
+    {
+      "code": "KS3-MF-007",
+      "description": "their understanding of the world. The teaching should enable pupils to express their ideas"
+    },
+    {
+      "code": "KS3-MF-008",
+      "description": "and thoughts in another language and to understand and respond to its speakers, both in"
+    },
+    {
+      "code": "KS3-MF-009",
+      "description": "speech and in writing. It should also provide opportunities for them to communicate for"
+    },
+    {
+      "code": "KS3-MF-010",
+      "description": "practical purposes, learn new ways of thinking and read great literature in the original"
+    },
+    {
+      "code": "KS3-MF-011",
+      "description": "language. Language teaching should provide the foundation for learning further"
+    },
+    {
+      "code": "KS3-MF-012",
+      "description": "languages, equipping pupils to study and work in other countries."
+    },
+    {
+      "code": "KS3-MF-013",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-MF-014",
+      "description": "The national curriculum for languages aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-MF-015",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-016",
+      "description": "understand and respond to spoken and written language from a variety of authentic"
+    },
+    {
+      "code": "KS3-MF-017",
+      "description": "sources"
+    },
+    {
+      "code": "KS3-MF-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-019",
+      "description": "speak with increasing confidence, fluency and spontaneity, finding ways of"
+    },
+    {
+      "code": "KS3-MF-020",
+      "description": "communicating what they want to say, including through discussion and asking"
+    },
+    {
+      "code": "KS3-MF-021",
+      "description": "questions, and continually improving the accuracy of their pronunciation and intonation"
+    },
+    {
+      "code": "KS3-MF-022",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-023",
+      "description": "can write at varying length, for different purposes and audiences, using the variety of"
+    },
+    {
+      "code": "KS3-MF-024",
+      "description": "grammatical structures that they have learnt"
+    },
+    {
+      "code": "KS3-MF-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-026",
+      "description": "discover and develop an appreciation of a range of writing in the language studied."
+    },
+    {
+      "code": "KS3-MF-027",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-MF-028",
+      "description": "By the end of key stage 3, pupils are expected to know, apply and understand the matters,"
+    },
+    {
+      "code": "KS3-MF-029",
+      "description": "skills and processes specified in the programme of study."
+    },
+    {
+      "code": "KS3-MF-030",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS3-MF-031",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS3-MF-032",
+      "description": "Languages \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MF-033",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-MF-034",
+      "description": "Key stage 3: Modern foreign language"
+    },
+    {
+      "code": "KS3-MF-035",
+      "description": "Teaching may be of any modern foreign language and should build on the foundations of"
+    },
+    {
+      "code": "KS3-MF-036",
+      "description": "language learning laid at key stage 2, whether pupils continue with the same language or"
+    },
+    {
+      "code": "KS3-MF-037",
+      "description": "take up a new one. Teaching should focus on developing the breadth and depth of pupils\u2019"
+    },
+    {
+      "code": "KS3-MF-038",
+      "description": "competence in listening, speaking, reading and writing, based on a sound foundation of"
+    },
+    {
+      "code": "KS3-MF-039",
+      "description": "core grammar and vocabulary. It should enable pupils to understand and communicate"
+    },
+    {
+      "code": "KS3-MF-040",
+      "description": "personal and factual information that goes beyond their immediate needs and interests,"
+    },
+    {
+      "code": "KS3-MF-041",
+      "description": "developing and justifying points of view in speech and writing, with increased spontaneity,"
+    },
+    {
+      "code": "KS3-MF-042",
+      "description": "independence and accuracy. It should provide suitable preparation for further study."
+    },
+    {
+      "code": "KS3-MF-043",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MF-044",
+      "description": "Grammar and vocabulary"
+    },
+    {
+      "code": "KS3-MF-045",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-046",
+      "description": "identify and use tenses or other structures which convey the present, past, and future"
+    },
+    {
+      "code": "KS3-MF-047",
+      "description": "as appropriate to the language being studied"
+    },
+    {
+      "code": "KS3-MF-048",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-049",
+      "description": "use and manipulate a variety of key grammatical structures and patterns, including"
+    },
+    {
+      "code": "KS3-MF-050",
+      "description": "voices and moods, as appropriate"
+    },
+    {
+      "code": "KS3-MF-051",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-052",
+      "description": "develop and use a wide-ranging and deepening vocabulary that goes beyond their"
+    },
+    {
+      "code": "KS3-MF-053",
+      "description": "immediate needs and interests, allowing them to give and justify opinions and take part"
+    },
+    {
+      "code": "KS3-MF-054",
+      "description": "in discussion about wider issues"
+    },
+    {
+      "code": "KS3-MF-055",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-056",
+      "description": "use accurate grammar, spelling and punctuation."
+    },
+    {
+      "code": "KS3-MF-057",
+      "description": "Linguistic competence"
+    },
+    {
+      "code": "KS3-MF-058",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-059",
+      "description": "listen to a variety of forms of spoken language to obtain information and respond"
+    },
+    {
+      "code": "KS3-MF-060",
+      "description": "appropriately"
+    },
+    {
+      "code": "KS3-MF-061",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-062",
+      "description": "transcribe words and short sentences that they hear with increasing accuracy"
+    },
+    {
+      "code": "KS3-MF-063",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-064",
+      "description": "initiate and develop conversations, coping with unfamiliar language and unexpected"
+    },
+    {
+      "code": "KS3-MF-065",
+      "description": "responses, making use of important social conventions such as formal modes of"
+    },
+    {
+      "code": "KS3-MF-066",
+      "description": "address"
+    },
+    {
+      "code": "KS3-MF-067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-068",
+      "description": "express and develop ideas clearly and with increasing accuracy, both orally and in"
+    },
+    {
+      "code": "KS3-MF-069",
+      "description": "writing"
+    },
+    {
+      "code": "KS3-MF-070",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-071",
+      "description": "speak coherently and confidently, with increasingly accurate pronunciation and"
+    },
+    {
+      "code": "KS3-MF-072",
+      "description": "intonation"
+    },
+    {
+      "code": "KS3-MF-073",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-074",
+      "description": "read and show comprehension of original and adapted materials from a range of"
+    },
+    {
+      "code": "KS3-MF-075",
+      "description": "different sources, understanding the purpose, important ideas and details, and provide"
+    },
+    {
+      "code": "KS3-MF-076",
+      "description": "an accurate English translation of short, suitable material"
+    },
+    {
+      "code": "KS3-MF-077",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-078",
+      "description": "read literary texts in the language [such as stories, songs, poems and letters], to"
+    },
+    {
+      "code": "KS3-MF-079",
+      "description": "stimulate ideas, develop creative expression and expand understanding of the"
+    },
+    {
+      "code": "KS3-MF-080",
+      "description": "language and culture"
+    },
+    {
+      "code": "KS3-MF-081",
+      "description": "2"
+    },
+    {
+      "code": "KS3-MF-082",
+      "description": "Languages \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MF-083",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MF-084",
+      "description": "write prose using an increasingly wide range of grammar and vocabulary, write"
+    },
+    {
+      "code": "KS3-MF-085",
+      "description": "creatively to express their own ideas and opinions, and translate short written text"
+    },
+    {
+      "code": "KS3-MF-086",
+      "description": "accurately into the foreign language."
+    },
+    {
+      "code": "KS3-MF-087",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-MF-088",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS3-MF-089",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS3-MF-090",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-MF-091",
+      "description": "Reference: DFE-00195-2013"
+    },
+    {
+      "code": "KS3-MF-092",
+      "description": "3"
+    }
+  ]
+}

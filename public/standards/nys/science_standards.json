@@ -1,46 +1,6 @@
 {
   "Grade PK": [
     {
-      "code": "KR1",
-      "description": "Develop and answer questions about a text. (K-PS1-1)"
-    },
-    {
-      "code": "KR1",
-      "description": "Develop and answer questions about a text. (K-PS2-2)"
-    },
-    {
-      "code": "KR1",
-      "description": "Develop and answer questions about a text. (K-ESS2-2)"
-    },
-    {
-      "code": "KR1",
-      "description": "Develop and answer questions about a text. (K-ESS3-2)"
-    },
-    {
-      "code": "KW1",
-      "description": "Use a combination of drawing, dictating, oral expression and/or emergent writing to state an opinion pieces about a familiar topic, personal experience"
-    },
-    {
-      "code": "KW2",
-      "description": "Use a combination of drawing, dictating, oral expression, and/or emergent writing to name a familiar topic and supply information. (K-ESS2-2),(K-ESS2-3)"
-    },
-    {
-      "code": "KW6",
-      "description": "Develop questions and participate in shared research and exploration to answer questions and to build and share knowledge. (K-PS1-1)"
-    },
-    {
-      "code": "KW6",
-      "description": "Develop questions and participate in shared research and exploration to answer questions and to build and share knowledge. (K-PS2-1)"
-    },
-    {
-      "code": "KW6",
-      "description": "Develop questions and participate in shared research and exploration to answer questions and to build and share knowledge. (K-PS3-1),(K-PS3-2),(K-"
-    },
-    {
-      "code": "KW7",
-      "description": "Develop questions and participate in shared research and exploration to answer questions and to build and share knowledge. (K-LS1-1)"
-    },
-    {
       "code": "NY-1.MD.1",
       "description": "Order three objects by length; compare the lengths of two objects indirectly by using a third object. (1-PS4-4)"
     },
@@ -375,12 +335,6 @@
     {
       "code": "NY-8.F.3",
       "description": "Interpret the equation y = mx + b as defining a linear function, whose graph is a straight line. Recognize give examples of functions that are linear"
-    }
-  ],
-  "Grade 2": [
-    {
-      "code": "LS1",
-      "description": "1)"
     }
   ]
 }

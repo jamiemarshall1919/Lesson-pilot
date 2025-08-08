@@ -1,72 +1,3032 @@
 {
   "KS4": [
     {
-      "code": "AO1",
-      "description": "2.5 7.5 N/A 10"
+      "code": "KS4-GC-001",
+      "description": "GCSE"
     },
     {
-      "code": "AO2",
-      "description": "and AO4 for reading, and AO5 and AO6 for"
+      "code": "KS4-GC-002",
+      "description": "Get help and support"
     },
     {
-      "code": "AO2",
-      "description": "and AO3 for reading, and AO5 and AO6 for"
+      "code": "KS4-GC-003",
+      "description": "Visit our website for information, guidance, support and resources at aqa.org.uk/8700"
     },
     {
-      "code": "AO2",
-      "description": "10 7.5 N/A 17.5"
+      "code": "KS4-GC-004",
+      "description": "ENGLISH"
     },
     {
-      "code": "AO3",
-      "description": "N/A 10 N/A 10"
+      "code": "KS4-GC-005",
+      "description": "You can talk directly to the GCSE English subject team"
     },
     {
-      "code": "AO4",
-      "description": "12.5 N/A N/A 12.5"
+      "code": "KS4-GC-006",
+      "description": "LANGUAGE"
     },
     {
-      "code": "AO5",
-      "description": "15 15 N/A 30"
+      "code": "KS4-GC-007",
+      "description": "E: english-gcse@aqa.org.uk"
     },
     {
-      "code": "AO6",
-      "description": "10 10 N/A 20"
+      "code": "KS4-GC-008",
+      "description": "T: 0161 953 7504"
     },
     {
-      "code": "AO7",
-      "description": "N/A N/A endorsement 0"
+      "code": "KS4-GC-009",
+      "description": "(8700)"
     },
     {
-      "code": "AO7",
-      "description": "\u2013 demonstrate presentation skills in a formal setting"
+      "code": "KS4-GC-010",
+      "description": "Specification"
     },
     {
-      "code": "AO8",
-      "description": "and AO9 for spoken"
+      "code": "KS4-GC-011",
+      "description": "For teaching from September 2015 onwards"
     },
     {
-      "code": "AO8",
-      "description": "N/A N/A endorsement 0"
+      "code": "KS4-GC-012",
+      "description": "For exams in May/June 2017 onwards"
     },
     {
-      "code": "AO8",
-      "description": "\u2013 listen and respond appropriately to spoken language, including questions and"
+      "code": "KS4-GC-013",
+      "description": "Version 1.5 14 October 2021"
     },
     {
-      "code": "AO9",
-      "description": "N/A N/A endorsement 0"
+      "code": "KS4-GC-014",
+      "description": "aqa.org.uk"
     },
     {
-      "code": "AO9",
-      "description": "\u2013 use spoken Standard English effectively in speeches and presentations."
+      "code": "KS4-GC-015",
+      "description": "Copyright \u00a9 2016 AQA and its licensors. All rights reserved."
     },
     {
-      "code": "KS3",
-      "description": "resource about 19th century texts helping you to develop progression through KS3"
+      "code": "KS4-GC-016",
+      "description": "AQA retains the copyright on all its publications, including the specifications. However, schools and colleges registered with AQA are permitted to copy"
     },
     {
-      "code": "KS4",
-      "description": ""
+      "code": "KS4-GC-017",
+      "description": "material from this specification for their own internal use."
+    },
+    {
+      "code": "KS4-GC-018",
+      "description": "G00400"
+    },
+    {
+      "code": "KS4-GC-019",
+      "description": "AQA Education (AQA) is a registered charity (number 1073334) and a company limited by guarantee registered in England and Wales (company number"
+    },
+    {
+      "code": "KS4-GC-020",
+      "description": "3644723). Our registered address is AQA, Devas Street, Manchester M15 6EX."
+    },
+    {
+      "code": "KS4-GC-021",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-022",
+      "description": "Contents"
+    },
+    {
+      "code": "KS4-GC-023",
+      "description": "1 Introduction 5"
+    },
+    {
+      "code": "KS4-GC-024",
+      "description": "1.1 Why choose AQA for GCSE English Language 5"
+    },
+    {
+      "code": "KS4-GC-025",
+      "description": "1.2 Support and resources to help you teach 6"
+    },
+    {
+      "code": "KS4-GC-026",
+      "description": "2 Specification at a glance 8"
+    },
+    {
+      "code": "KS4-GC-027",
+      "description": "3 Subject content 11"
+    },
+    {
+      "code": "KS4-GC-028",
+      "description": "3.1 Scope of study 11"
+    },
+    {
+      "code": "KS4-GC-029",
+      "description": "4 Scheme of assessment 13"
+    },
+    {
+      "code": "KS4-GC-030",
+      "description": "4.1 Aims and learning outcomes 13"
+    },
+    {
+      "code": "KS4-GC-031",
+      "description": "4.2 Explorations in creative reading and writing 14"
+    },
+    {
+      "code": "KS4-GC-032",
+      "description": "4.3 Writers\u2019 viewpoints and perspectives 14"
+    },
+    {
+      "code": "KS4-GC-033",
+      "description": "4.4 Non-exam assessment 15"
+    },
+    {
+      "code": "KS4-GC-034",
+      "description": "4.5 Assessment objectives 16"
+    },
+    {
+      "code": "KS4-GC-035",
+      "description": "4.6 Assessment weightings 17"
+    },
+    {
+      "code": "KS4-GC-036",
+      "description": "5 Non-exam assessment administration 19"
+    },
+    {
+      "code": "KS4-GC-037",
+      "description": "5.1 Avoiding Malpractice 19"
+    },
+    {
+      "code": "KS4-GC-038",
+      "description": "5.2 Teacher Standardisation 20"
+    },
+    {
+      "code": "KS4-GC-039",
+      "description": "5.3 Internal standardisation 20"
+    },
+    {
+      "code": "KS4-GC-040",
+      "description": "5.4 Submitting marks 20"
+    },
+    {
+      "code": "KS4-GC-041",
+      "description": "5.5 Moderation 20"
+    },
+    {
+      "code": "KS4-GC-042",
+      "description": "5.6 After moderation 21"
+    },
+    {
+      "code": "KS4-GC-043",
+      "description": "6 General administration 23"
+    },
+    {
+      "code": "KS4-GC-044",
+      "description": "6.1 Entries and codes 23"
+    },
+    {
+      "code": "KS4-GC-045",
+      "description": "6.2 Overlaps with other qualifications 23"
+    },
+    {
+      "code": "KS4-GC-046",
+      "description": "6.3 Awarding grades and reporting results 23"
+    },
+    {
+      "code": "KS4-GC-047",
+      "description": "6.4 Re-sits and shelf life 23"
+    },
+    {
+      "code": "KS4-GC-048",
+      "description": "6.5 Previous learning and prerequisites 24"
+    },
+    {
+      "code": "KS4-GC-049",
+      "description": "6.6 Access to assessment: diversity and inclusion 24"
+    },
+    {
+      "code": "KS4-GC-050",
+      "description": "6.7 Safeguarding 25"
+    },
+    {
+      "code": "KS4-GC-051",
+      "description": "6.8 Working with AQA for the first time 25"
+    },
+    {
+      "code": "KS4-GC-052",
+      "description": "6.9 Private candidates 25"
+    },
+    {
+      "code": "KS4-GC-053",
+      "description": "3"
+    },
+    {
+      "code": "KS4-GC-054",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-055",
+      "description": "Are you using the latest version of this specification?"
+    },
+    {
+      "code": "KS4-GC-056",
+      "description": "\u2022 You will always find the most up-to-date version of this specification on our website at"
+    },
+    {
+      "code": "KS4-GC-057",
+      "description": "\u2022 We will write to you if there are significant changes to the specification."
+    },
+    {
+      "code": "KS4-GC-058",
+      "description": "4"
+    },
+    {
+      "code": "KS4-GC-059",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-060",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-061",
+      "description": "1"
+    },
+    {
+      "code": "KS4-GC-062",
+      "description": "Introduction"
+    },
+    {
+      "code": "KS4-GC-063",
+      "description": "1.1 GCSE English Language"
+    },
+    {
+      "code": "KS4-GC-064",
+      "description": "Why choose AQA for"
+    },
+    {
+      "code": "KS4-GC-065",
+      "description": "A specification designed for you and your students"
+    },
+    {
+      "code": "KS4-GC-066",
+      "description": "Our assessments have been designed to inspire and motivate students, providing appropriate"
+    },
+    {
+      "code": "KS4-GC-067",
+      "description": "stretch and challenge whilst ensuring, as far as possible, that the assessment and texts are"
+    },
+    {
+      "code": "KS4-GC-068",
+      "description": "accessible to the full range of students."
+    },
+    {
+      "code": "KS4-GC-069",
+      "description": "The specification will enable students of all abilities to develop the skills they need to read,"
+    },
+    {
+      "code": "KS4-GC-070",
+      "description": "understand and analyse a wide range of different texts covering the 19th, 20th and 21st century"
+    },
+    {
+      "code": "KS4-GC-071",
+      "description": "time periods as well as to write clearly, coherently and accurately using a range of vocabulary and"
+    },
+    {
+      "code": "KS4-GC-072",
+      "description": "sentence structures."
+    },
+    {
+      "code": "KS4-GC-073",
+      "description": "Dynamic and engaging content"
+    },
+    {
+      "code": "KS4-GC-074",
+      "description": "The specification offers the attraction of two equally-balanced papers, relating reading sources to"
+    },
+    {
+      "code": "KS4-GC-075",
+      "description": "the topic and theme of writing tasks. The reading sources act as stimulus for writing tasks,"
+    },
+    {
+      "code": "KS4-GC-076",
+      "description": "providing students with a clear route through each paper."
+    },
+    {
+      "code": "KS4-GC-077",
+      "description": "Each paper has a distinct identity to better support high quality provision and engaging teaching"
+    },
+    {
+      "code": "KS4-GC-078",
+      "description": "and learning. Paper 1, Explorations in Creative Reading and Writing, looks at how writers use"
+    },
+    {
+      "code": "KS4-GC-079",
+      "description": "narrative and descriptive techniques to engage the interest of readers. Paper 2, Writers' Viewpoints"
+    },
+    {
+      "code": "KS4-GC-080",
+      "description": "and Perspectives, looks at how different writers present a similar topic over time."
+    },
+    {
+      "code": "KS4-GC-081",
+      "description": "Our approach to spoken language (previously speaking and listening) will emphasise the"
+    },
+    {
+      "code": "KS4-GC-082",
+      "description": "importance of the wider benefits that speaking and listening skills have for students. The endorsed"
+    },
+    {
+      "code": "KS4-GC-083",
+      "description": "unit will draw on good practice to suggest how engaging formative tasks can lead to a single"
+    },
+    {
+      "code": "KS4-GC-084",
+      "description": "summative assessment."
+    },
+    {
+      "code": "KS4-GC-085",
+      "description": "Skills-based approach"
+    },
+    {
+      "code": "KS4-GC-086",
+      "description": "The specification offers a skills-based approach to the study of English Language in an untiered"
+    },
+    {
+      "code": "KS4-GC-087",
+      "description": "context. Questions are designed to take students on an assessment journey through lower tariff"
+    },
+    {
+      "code": "KS4-GC-088",
+      "description": "tasks to more extended responses."
+    },
+    {
+      "code": "KS4-GC-089",
+      "description": "Teach Language and Literature together"
+    },
+    {
+      "code": "KS4-GC-090",
+      "description": "The specification is fully co-teachable with GCSE English Literature. Students who choose to study"
+    },
+    {
+      "code": "KS4-GC-091",
+      "description": "both will benefit from the transferable skills developed across the two subjects."
+    },
+    {
+      "code": "KS4-GC-092",
+      "description": "We\u2019re behind you every step of the way"
+    },
+    {
+      "code": "KS4-GC-093",
+      "description": "After careful consultation with practising teachers, subject associations and employers, we have"
+    },
+    {
+      "code": "KS4-GC-094",
+      "description": "designed the specification to meet the needs of students and teachers, providing high quality"
+    },
+    {
+      "code": "KS4-GC-095",
+      "description": "assessment and good provision for English. It offers excellent preparation for AS and A-level"
+    },
+    {
+      "code": "KS4-GC-096",
+      "description": "English, as well as equipping students with essential life-skills and the best progression route to"
+    },
+    {
+      "code": "KS4-GC-097",
+      "description": "future employment."
+    },
+    {
+      "code": "KS4-GC-098",
+      "description": "5"
+    },
+    {
+      "code": "KS4-GC-099",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-100",
+      "description": "With AQA you can rest assured that your students will receive the grade that fairly represents their"
+    },
+    {
+      "code": "KS4-GC-101",
+      "description": "attainment and reflects the skills that they have demonstrated."
+    },
+    {
+      "code": "KS4-GC-102",
+      "description": "aqa.org.uk/english. You can find out about all our English qualifications at"
+    },
+    {
+      "code": "KS4-GC-103",
+      "description": "1.2"
+    },
+    {
+      "code": "KS4-GC-104",
+      "description": "Support and resources to help you teach"
+    },
+    {
+      "code": "KS4-GC-105",
+      "description": "We know that support and resources are vital for your teaching and that you have limited time to"
+    },
+    {
+      "code": "KS4-GC-106",
+      "description": "find or develop good quality materials. So we\u2019ve worked with experienced teachers to provide you"
+    },
+    {
+      "code": "KS4-GC-107",
+      "description": "with a range of resources that will help you confidently plan, teach and prepare for exams."
+    },
+    {
+      "code": "KS4-GC-108",
+      "description": "Teaching resources"
+    },
+    {
+      "code": "KS4-GC-109",
+      "description": "aqa.org.uk/8700 to see them We have too many English Language resources to list here so visit"
+    },
+    {
+      "code": "KS4-GC-110",
+      "description": "all. They include:"
+    },
+    {
+      "code": "KS4-GC-111",
+      "description": "\u2022 English Language reading support booklet. This will include a wide range of texts from the"
+    },
+    {
+      "code": "KS4-GC-112",
+      "description": "19th, 20th and 21st century and some suggested teaching activities to support you in"
+    },
+    {
+      "code": "KS4-GC-113",
+      "description": "preparing students for the reading sections of both papers"
+    },
+    {
+      "code": "KS4-GC-114",
+      "description": "\u2022 a KS3 resource about 19th century texts helping you to develop progression through KS3"
+    },
+    {
+      "code": "KS4-GC-115",
+      "description": "into KS4"
+    },
+    {
+      "code": "KS4-GC-116",
+      "description": "\u2022 a digital anthology which will include resources to support the teaching of English Language"
+    },
+    {
+      "code": "KS4-GC-117",
+      "description": "and English Literature"
+    },
+    {
+      "code": "KS4-GC-118",
+      "description": "\u2022 provision of resources to teach speaking and listening skills, in recognition of the wider"
+    },
+    {
+      "code": "KS4-GC-119",
+      "description": "benefits that these skills have for your students"
+    },
+    {
+      "code": "KS4-GC-120",
+      "description": "\u2022 marked and annotated student responses to the questions on our specimen papers with"
+    },
+    {
+      "code": "KS4-GC-121",
+      "description": "senior examiner commentaries"
+    },
+    {
+      "code": "KS4-GC-122",
+      "description": "\u2022 Subject Advocates who will support you in the transition to the new specification and facilitate"
+    },
+    {
+      "code": "KS4-GC-123",
+      "description": "local and regional network and update meetings"
+    },
+    {
+      "code": "KS4-GC-124",
+      "description": "\u2022 student textbooks and digital resources that have been checked and endorsed by AQA"
+    },
+    {
+      "code": "KS4-GC-125",
+      "description": "\u2022 training courses to help you deliver AQA GCSE English Language and GCSE English"
+    },
+    {
+      "code": "KS4-GC-126",
+      "description": "Literature qualifications"
+    },
+    {
+      "code": "KS4-GC-127",
+      "description": "\u2022 subject expertise courses for all teachers; from newly-qualified teachers who are just getting"
+    },
+    {
+      "code": "KS4-GC-128",
+      "description": "started to experienced teachers looking for fresh inspiration."
+    },
+    {
+      "code": "KS4-GC-129",
+      "description": "Preparing for exams"
+    },
+    {
+      "code": "KS4-GC-130",
+      "description": "Visit aqa.org.uk/8700 for everything you need to prepare for our exams, including:"
+    },
+    {
+      "code": "KS4-GC-131",
+      "description": "\u2022 past papers, mark schemes and examiners\u2019 reports"
+    },
+    {
+      "code": "KS4-GC-132",
+      "description": "\u2022 specimen papers and mark schemes for new courses"
+    },
+    {
+      "code": "KS4-GC-133",
+      "description": "\u2022 Exampro: a searchable bank of past AQA exam questions"
+    },
+    {
+      "code": "KS4-GC-134",
+      "description": "\u2022 exemplar student answers with examiner commentaries."
+    },
+    {
+      "code": "KS4-GC-135",
+      "description": "Analyse your students' results with Enhanced Results Analysis (ERA)"
+    },
+    {
+      "code": "KS4-GC-136",
+      "description": "Find out which questions were the most challenging, how the results compare to previous years"
+    },
+    {
+      "code": "KS4-GC-137",
+      "description": "and where your students need to improve. ERA, our free online results analysis tool, will help you"
+    },
+    {
+      "code": "KS4-GC-138",
+      "description": "see where to focus your teaching. Register at aqa.org.uk/era"
+    },
+    {
+      "code": "KS4-GC-139",
+      "description": "For information about results, including maintaining standards over time, grade boundaries and our"
+    },
+    {
+      "code": "KS4-GC-140",
+      "description": "aqa.org.uk/results post-results services, visit"
+    },
+    {
+      "code": "KS4-GC-141",
+      "description": "6"
+    },
+    {
+      "code": "KS4-GC-142",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-143",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-144",
+      "description": "Keep your skills up to date with professional development"
+    },
+    {
+      "code": "KS4-GC-145",
+      "description": "Wherever you are in your career, there\u2019s always something new to learn. As well as subject-"
+    },
+    {
+      "code": "KS4-GC-146",
+      "description": "specific training, we offer a range of courses to help boost your skills:"
+    },
+    {
+      "code": "KS4-GC-147",
+      "description": "\u2022 improve your teaching skills in areas including differentiation, teaching literacy and meeting"
+    },
+    {
+      "code": "KS4-GC-148",
+      "description": "Ofsted requirements"
+    },
+    {
+      "code": "KS4-GC-149",
+      "description": "\u2022 help you prepare for a new role with our leadership and management courses."
+    },
+    {
+      "code": "KS4-GC-150",
+      "description": "You can attend a course at venues around the country, in your school or online \u2013 whatever suits"
+    },
+    {
+      "code": "KS4-GC-151",
+      "description": "coursesandevents.aqa.org.uk your needs and availability. Find out more at"
+    },
+    {
+      "code": "KS4-GC-152",
+      "description": "Get help and support"
+    },
+    {
+      "code": "KS4-GC-153",
+      "description": "aqa.org.uk/8700 Visit our website for information, guidance, support and resources at"
+    },
+    {
+      "code": "KS4-GC-154",
+      "description": "You can talk directly to the English Language subject team:"
+    },
+    {
+      "code": "KS4-GC-155",
+      "description": "english-gcse@aqa.org.uk E:"
+    },
+    {
+      "code": "KS4-GC-156",
+      "description": "T: 0161 953 7504"
+    },
+    {
+      "code": "KS4-GC-157",
+      "description": "7"
+    },
+    {
+      "code": "KS4-GC-158",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-159",
+      "description": "2"
+    },
+    {
+      "code": "KS4-GC-160",
+      "description": "Specification at a glance"
+    },
+    {
+      "code": "KS4-GC-161",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS4-GC-162",
+      "description": "Explorations in creative reading and writing (page 14) 1"
+    },
+    {
+      "code": "KS4-GC-163",
+      "description": "2 Writers\u2019 viewpoints and perspectives (page 14)"
+    },
+    {
+      "code": "KS4-GC-164",
+      "description": "3 Non-exam assessment (page 15)"
+    },
+    {
+      "code": "KS4-GC-165",
+      "description": "For the award of the GCSE in English Language students must offer all three assessments."
+    },
+    {
+      "code": "KS4-GC-166",
+      "description": "Assessments"
+    },
+    {
+      "code": "KS4-GC-167",
+      "description": "All texts in the examination will be unseen."
+    },
+    {
+      "code": "KS4-GC-168",
+      "description": "Paper 1: Explorations in Creative Reading and Writing"
+    },
+    {
+      "code": "KS4-GC-169",
+      "description": "What's assessed"
+    },
+    {
+      "code": "KS4-GC-170",
+      "description": "Section A: Reading"
+    },
+    {
+      "code": "KS4-GC-171",
+      "description": "\u2022 one literature fiction text"
+    },
+    {
+      "code": "KS4-GC-172",
+      "description": "Section B: Writing"
+    },
+    {
+      "code": "KS4-GC-173",
+      "description": "\u2022 descriptive or narrative writing"
+    },
+    {
+      "code": "KS4-GC-174",
+      "description": "Assessed"
+    },
+    {
+      "code": "KS4-GC-175",
+      "description": "\u2022 written exam: 1 hour 45 minutes"
+    },
+    {
+      "code": "KS4-GC-176",
+      "description": "\u2022 80 marks"
+    },
+    {
+      "code": "KS4-GC-177",
+      "description": "\u2022 50% of GCSE"
+    },
+    {
+      "code": "KS4-GC-178",
+      "description": "Questions"
+    },
+    {
+      "code": "KS4-GC-179",
+      "description": "Reading (40 marks) (25%)\u2013 one single text"
+    },
+    {
+      "code": "KS4-GC-180",
+      "description": "\u2022 1 short form question (1 x 4 marks)"
+    },
+    {
+      "code": "KS4-GC-181",
+      "description": "\u2022 2 longer form questions (2 x 8 marks)"
+    },
+    {
+      "code": "KS4-GC-182",
+      "description": "\u2022 1 extended question (1 x 20 marks)"
+    },
+    {
+      "code": "KS4-GC-183",
+      "description": "Writing (40 marks) (25%)"
+    },
+    {
+      "code": "KS4-GC-184",
+      "description": "\u2022 1 extended writing question (24 marks for content, 16 marks for technical accuracy)"
+    },
+    {
+      "code": "KS4-GC-185",
+      "description": "8"
+    },
+    {
+      "code": "KS4-GC-186",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-187",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-188",
+      "description": "Paper 2: Writers' Viewpoints and Perspectives"
+    },
+    {
+      "code": "KS4-GC-189",
+      "description": "What's assessed"
+    },
+    {
+      "code": "KS4-GC-190",
+      "description": "Section A: Reading"
+    },
+    {
+      "code": "KS4-GC-191",
+      "description": "\u2022 one non-fiction text and one literary non-fiction text"
+    },
+    {
+      "code": "KS4-GC-192",
+      "description": "Section B: Writing"
+    },
+    {
+      "code": "KS4-GC-193",
+      "description": "\u2022 writing to present a viewpoint"
+    },
+    {
+      "code": "KS4-GC-194",
+      "description": "Assessed"
+    },
+    {
+      "code": "KS4-GC-195",
+      "description": "\u2022 written exam: 1 hour 45 minutes"
+    },
+    {
+      "code": "KS4-GC-196",
+      "description": "\u2022 80 marks"
+    },
+    {
+      "code": "KS4-GC-197",
+      "description": "\u2022 50% of GCSE"
+    },
+    {
+      "code": "KS4-GC-198",
+      "description": "Questions"
+    },
+    {
+      "code": "KS4-GC-199",
+      "description": "Reading (40 marks) (25%) \u2013 two linked texts"
+    },
+    {
+      "code": "KS4-GC-200",
+      "description": "\u2022 1 short form question (1 x 4 marks)"
+    },
+    {
+      "code": "KS4-GC-201",
+      "description": "\u2022 2 longer form questions (1 x 8, 1 x 12 marks)"
+    },
+    {
+      "code": "KS4-GC-202",
+      "description": "\u2022 1 extended question (1 x 16 marks)"
+    },
+    {
+      "code": "KS4-GC-203",
+      "description": "Writing (40 marks) (25%)"
+    },
+    {
+      "code": "KS4-GC-204",
+      "description": "\u2022 1 extended writing question (24 marks for content, 16 marks for technical accuracy)"
+    },
+    {
+      "code": "KS4-GC-205",
+      "description": "Non-examination Assessment: Spoken Language"
+    },
+    {
+      "code": "KS4-GC-206",
+      "description": "What's assessed"
+    },
+    {
+      "code": "KS4-GC-207",
+      "description": "(AO7\u2013AO9)"
+    },
+    {
+      "code": "KS4-GC-208",
+      "description": "\u2022 presenting"
+    },
+    {
+      "code": "KS4-GC-209",
+      "description": "\u2022 responding to questions and feedback"
+    },
+    {
+      "code": "KS4-GC-210",
+      "description": "\u2022 use of Standard English"
+    },
+    {
+      "code": "KS4-GC-211",
+      "description": "Assessed"
+    },
+    {
+      "code": "KS4-GC-212",
+      "description": "\u2022 teacher set throughout course"
+    },
+    {
+      "code": "KS4-GC-213",
+      "description": "\u2022 marked by teacher"
+    },
+    {
+      "code": "KS4-GC-214",
+      "description": "\u2022 separate endorsement (0% weighting of GCSE)"
+    },
+    {
+      "code": "KS4-GC-215",
+      "description": "9"
+    },
+    {
+      "code": "KS4-GC-216",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-217",
+      "description": "10"
+    },
+    {
+      "code": "KS4-GC-218",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-219",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-220",
+      "description": "3"
+    },
+    {
+      "code": "KS4-GC-221",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS4-GC-222",
+      "description": "Students will draw upon a range of texts as reading stimulus and engage with creative as well as"
+    },
+    {
+      "code": "KS4-GC-223",
+      "description": "real and relevant contexts. Students will have opportunities to develop higher-order reading and"
+    },
+    {
+      "code": "KS4-GC-224",
+      "description": "critical thinking skills that encourage genuine enquiry into different topics and themes."
+    },
+    {
+      "code": "KS4-GC-225",
+      "description": "This specification will ensure that students can read fluently and write effectively. Students will be"
+    },
+    {
+      "code": "KS4-GC-226",
+      "description": "able to demonstrate a confident control of Standard English and write grammatically correct"
+    },
+    {
+      "code": "KS4-GC-227",
+      "description": "sentences, deploying figurative language and analysing texts."
+    },
+    {
+      "code": "KS4-GC-228",
+      "description": "For GCSE English Language students should:"
+    },
+    {
+      "code": "KS4-GC-229",
+      "description": "\u2022 read fluently, and with good understanding, a wide range of texts from the 19th, 20th and"
+    },
+    {
+      "code": "KS4-GC-230",
+      "description": "21st centuries, including literature and literary non-fiction as well as other writing such as"
+    },
+    {
+      "code": "KS4-GC-231",
+      "description": "reviews and journalism"
+    },
+    {
+      "code": "KS4-GC-232",
+      "description": "\u2022 read and evaluate texts critically and make comparisons between texts"
+    },
+    {
+      "code": "KS4-GC-233",
+      "description": "\u2022 summarise and synthesise information or ideas from texts"
+    },
+    {
+      "code": "KS4-GC-234",
+      "description": "\u2022 use knowledge gained from wide reading to inform and improve their own writing"
+    },
+    {
+      "code": "KS4-GC-235",
+      "description": "\u2022 write effectively and coherently using Standard English appropriately"
+    },
+    {
+      "code": "KS4-GC-236",
+      "description": "\u2022 use grammar correctly and punctuate and spell accurately"
+    },
+    {
+      "code": "KS4-GC-237",
+      "description": "\u2022 acquire and apply a wide vocabulary, alongside a knowledge and understanding of"
+    },
+    {
+      "code": "KS4-GC-238",
+      "description": "grammatical terminology, and linguistic conventions for reading, writing and spoken language"
+    },
+    {
+      "code": "KS4-GC-239",
+      "description": "\u2022 listen to and understand spoken language and use spoken Standard English effectively."
+    },
+    {
+      "code": "KS4-GC-240",
+      "description": "GCSE English Language is designed on the basis that students should read and be assessed on"
+    },
+    {
+      "code": "KS4-GC-241",
+      "description": "high-quality, challenging texts from the 19th, 20th and 21st centuries. Each text studied must"
+    },
+    {
+      "code": "KS4-GC-242",
+      "description": "represent a substantial piece of writing, making significant demands on students in terms of"
+    },
+    {
+      "code": "KS4-GC-243",
+      "description": "content, structure and the quality of language. The texts, across a range of genres and types,"
+    },
+    {
+      "code": "KS4-GC-244",
+      "description": "should support students in developing their own writing by providing effective models. The texts"
+    },
+    {
+      "code": "KS4-GC-245",
+      "description": "must include literature and extended literary non-fiction, and other writing such as essays, reviews"
+    },
+    {
+      "code": "KS4-GC-246",
+      "description": "and journalism (both printed and online). Texts that are essentially transient, such as instant news"
+    },
+    {
+      "code": "KS4-GC-247",
+      "description": "feeds, must not be included. The number and types of texts, and their length, are not prescribed."
+    },
+    {
+      "code": "KS4-GC-248",
+      "description": "3.1"
+    },
+    {
+      "code": "KS4-GC-249",
+      "description": "Scope of study"
+    },
+    {
+      "code": "KS4-GC-250",
+      "description": "This GCSE specification in English Language will require students to study the following content:"
+    },
+    {
+      "code": "KS4-GC-251",
+      "description": "3.1.1"
+    },
+    {
+      "code": "KS4-GC-252",
+      "description": "Critical reading and comprehension"
+    },
+    {
+      "code": "KS4-GC-253",
+      "description": "\u2022 critical reading and comprehension: identifying and interpreting themes, ideas and"
+    },
+    {
+      "code": "KS4-GC-254",
+      "description": "information in a range of literature and other high-quality writing; reading in different ways for"
+    },
+    {
+      "code": "KS4-GC-255",
+      "description": "different purposes, and comparing and evaluating the usefulness, relevance and"
+    },
+    {
+      "code": "KS4-GC-256",
+      "description": "presentation of content for these purposes; drawing inferences and justifying these with"
+    },
+    {
+      "code": "KS4-GC-257",
+      "description": "evidence; supporting a point of view by referring to evidence within the text; identifying bias"
+    },
+    {
+      "code": "KS4-GC-258",
+      "description": "and misuse of evidence, including distinguishing between statements that are supported by"
+    },
+    {
+      "code": "KS4-GC-259",
+      "description": "evidence and those that are not; reflecting critically and evaluatively on text, using the"
+    },
+    {
+      "code": "KS4-GC-260",
+      "description": "context of the text and drawing on knowledge and skills gained from wider reading;"
+    },
+    {
+      "code": "KS4-GC-261",
+      "description": "recognising the possibility of different responses to a text"
+    },
+    {
+      "code": "KS4-GC-262",
+      "description": "\u2022 summary and synthesis: identifying the main theme or themes; summarising ideas and"
+    },
+    {
+      "code": "KS4-GC-263",
+      "description": "information from a single text; synthesising from more than one text"
+    },
+    {
+      "code": "KS4-GC-264",
+      "description": "11"
+    },
+    {
+      "code": "KS4-GC-265",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-266",
+      "description": "\u2022 evaluation of a writer\u2019s choice of vocabulary, form, grammatical and structural features:"
+    },
+    {
+      "code": "KS4-GC-267",
+      "description": "explaining and illustrating how vocabulary and grammar contribute to effectiveness and"
+    },
+    {
+      "code": "KS4-GC-268",
+      "description": "impact, using linguistic and literary terminology accurately to do so and paying attention to"
+    },
+    {
+      "code": "KS4-GC-269",
+      "description": "detail; analysing and evaluating how form and structure contribute to the effectiveness and"
+    },
+    {
+      "code": "KS4-GC-270",
+      "description": "impact of a text"
+    },
+    {
+      "code": "KS4-GC-271",
+      "description": "\u2022 comparing texts: comparing two or more texts critically with respect to the above."
+    },
+    {
+      "code": "KS4-GC-272",
+      "description": "3.1.2"
+    },
+    {
+      "code": "KS4-GC-273",
+      "description": "Writing"
+    },
+    {
+      "code": "KS4-GC-274",
+      "description": "\u2022 producing clear and coherent text: writing effectively for different purposes and audiences: to"
+    },
+    {
+      "code": "KS4-GC-275",
+      "description": "describe, narrate, explain, instruct, give and respond to information, and argue; selecting"
+    },
+    {
+      "code": "KS4-GC-276",
+      "description": "vocabulary, grammar, form, and structural and organisational features judiciously to reflect"
+    },
+    {
+      "code": "KS4-GC-277",
+      "description": "audience, purpose and context; using language imaginatively and creatively; using"
+    },
+    {
+      "code": "KS4-GC-278",
+      "description": "information provided by others to write in different forms; maintaining a consistent point of"
+    },
+    {
+      "code": "KS4-GC-279",
+      "description": "view; maintaining coherence and consistency across a text"
+    },
+    {
+      "code": "KS4-GC-280",
+      "description": "\u2022 writing for impact: selecting, organising and emphasising facts, ideas and key points; citing"
+    },
+    {
+      "code": "KS4-GC-281",
+      "description": "evidence and quotation effectively and pertinently to support views; creating emotional"
+    },
+    {
+      "code": "KS4-GC-282",
+      "description": "impact; using language creatively, imaginatively and persuasively, including rhetorical"
+    },
+    {
+      "code": "KS4-GC-283",
+      "description": "devices (such as rhetorical questions, antithesis, parenthesis)."
+    },
+    {
+      "code": "KS4-GC-284",
+      "description": "3.1.3"
+    },
+    {
+      "code": "KS4-GC-285",
+      "description": "Spoken language"
+    },
+    {
+      "code": "KS4-GC-286",
+      "description": "\u2022 presenting information and ideas: selecting and organising information and ideas effectively"
+    },
+    {
+      "code": "KS4-GC-287",
+      "description": "and persuasively for prepared spoken presentations; planning effectively for different"
+    },
+    {
+      "code": "KS4-GC-288",
+      "description": "purposes and audiences; making presentations and speeches"
+    },
+    {
+      "code": "KS4-GC-289",
+      "description": "\u2022 responding to spoken language: listening to and responding appropriately to any questions"
+    },
+    {
+      "code": "KS4-GC-290",
+      "description": "and feedback"
+    },
+    {
+      "code": "KS4-GC-291",
+      "description": "\u2022 spoken Standard English: expressing ideas using Standard English whenever and wherever"
+    },
+    {
+      "code": "KS4-GC-292",
+      "description": "appropriate."
+    },
+    {
+      "code": "KS4-GC-293",
+      "description": "12"
+    },
+    {
+      "code": "KS4-GC-294",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-295",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-296",
+      "description": "4"
+    },
+    {
+      "code": "KS4-GC-297",
+      "description": "Scheme of assessment"
+    },
+    {
+      "code": "KS4-GC-298",
+      "description": "Find past papers and mark schemes, and specimen papers for new courses, on our website at"
+    },
+    {
+      "code": "KS4-GC-299",
+      "description": "aqa.org.uk/pastpapers"
+    },
+    {
+      "code": "KS4-GC-300",
+      "description": "This specification is designed to be taken over two years with all assessments taken at the end of"
+    },
+    {
+      "code": "KS4-GC-301",
+      "description": "the course."
+    },
+    {
+      "code": "KS4-GC-302",
+      "description": "GCSE exams and certification for this specification are available for the first time in May/June 2017"
+    },
+    {
+      "code": "KS4-GC-303",
+      "description": "and then every May/June and November for the life of the specification."
+    },
+    {
+      "code": "KS4-GC-304",
+      "description": "This is a linear qualification. In order to achieve the award, students must complete all exams in"
+    },
+    {
+      "code": "KS4-GC-305",
+      "description": "November or May/June in a single year. All assessments must be taken in the same series."
+    },
+    {
+      "code": "KS4-GC-306",
+      "description": "November entries will only be available to students who were at least 16 on the previous 31"
+    },
+    {
+      "code": "KS4-GC-307",
+      "description": "August. See Resits and shelf life in the General administration section for November entry"
+    },
+    {
+      "code": "KS4-GC-308",
+      "description": "restrictions."
+    },
+    {
+      "code": "KS4-GC-309",
+      "description": "In designing and setting the assessments for this specification we have ensured that taken"
+    },
+    {
+      "code": "KS4-GC-310",
+      "description": "together, these assessments include questions or tasks which will allow students to:"
+    },
+    {
+      "code": "KS4-GC-311",
+      "description": "\u2022 provide extended responses"
+    },
+    {
+      "code": "KS4-GC-312",
+      "description": "\u2022 demonstrate their ability to draw together different areas of knowledge, skills and/or"
+    },
+    {
+      "code": "KS4-GC-313",
+      "description": "understanding from across a full course of study for this qualification."
+    },
+    {
+      "code": "KS4-GC-314",
+      "description": "The final reading question on each paper - Question 4 on Paper 1 and Question 4 on Paper 2"
+    },
+    {
+      "code": "KS4-GC-315",
+      "description": "allows students to fulfill this requirement."
+    },
+    {
+      "code": "KS4-GC-316",
+      "description": "All materials are available in English only."
+    },
+    {
+      "code": "KS4-GC-317",
+      "description": "4.1"
+    },
+    {
+      "code": "KS4-GC-318",
+      "description": "Aims and learning outcomes"
+    },
+    {
+      "code": "KS4-GC-319",
+      "description": "Courses based on this specification should encourage students to:"
+    },
+    {
+      "code": "KS4-GC-320",
+      "description": "read fluently and write effectively. They should be able to demonstrate a confident control of"
+    },
+    {
+      "code": "KS4-GC-321",
+      "description": "Standard English and they should be able to write grammatically correct sentences, deploy"
+    },
+    {
+      "code": "KS4-GC-322",
+      "description": "figurative language and analyse texts."
+    },
+    {
+      "code": "KS4-GC-323",
+      "description": "Courses based on this specification should enable students to:"
+    },
+    {
+      "code": "KS4-GC-324",
+      "description": "\u2022 read a wide range of texts, fluently and with good understanding"
+    },
+    {
+      "code": "KS4-GC-325",
+      "description": "\u2022 read critically, and use knowledge gained from wide reading to inform and improve their own"
+    },
+    {
+      "code": "KS4-GC-326",
+      "description": "writing"
+    },
+    {
+      "code": "KS4-GC-327",
+      "description": "\u2022 write effectively and coherently using Standard English appropriately"
+    },
+    {
+      "code": "KS4-GC-328",
+      "description": "\u2022 use grammar correctly, punctuate and spell accurately"
+    },
+    {
+      "code": "KS4-GC-329",
+      "description": "\u2022 acquire and apply a wide vocabulary, alongside a knowledge and understanding of"
+    },
+    {
+      "code": "KS4-GC-330",
+      "description": "grammatical terminology, and linguistic conventions for reading, writing and spoken"
+    },
+    {
+      "code": "KS4-GC-331",
+      "description": "language."
+    },
+    {
+      "code": "KS4-GC-332",
+      "description": "In addition, they must enable students to:"
+    },
+    {
+      "code": "KS4-GC-333",
+      "description": "\u2022 listen to and understand spoken language, and use spoken Standard English effectively."
+    },
+    {
+      "code": "KS4-GC-334",
+      "description": "The Spoken Language endorsement will be reported on as part of the qualification, but it will not"
+    },
+    {
+      "code": "KS4-GC-335",
+      "description": "form part of the final mark and grade."
+    },
+    {
+      "code": "KS4-GC-336",
+      "description": "13"
+    },
+    {
+      "code": "KS4-GC-337",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-338",
+      "description": "4.2"
+    },
+    {
+      "code": "KS4-GC-339",
+      "description": "Explorations in creative reading and writing"
+    },
+    {
+      "code": "KS4-GC-340",
+      "description": "The aim of this paper is to engage students in a creative text and inspire them to write creatively"
+    },
+    {
+      "code": "KS4-GC-341",
+      "description": "themselves by:"
+    },
+    {
+      "code": "KS4-GC-342",
+      "description": "\u2022 in section A, reading a literature fiction text in order to consider how established writers use"
+    },
+    {
+      "code": "KS4-GC-343",
+      "description": "narrative and descriptive techniques to capture the interest of readers"
+    },
+    {
+      "code": "KS4-GC-344",
+      "description": "\u2022 in section B, writing their own creative text, inspired by the topic that they have responded to"
+    },
+    {
+      "code": "KS4-GC-345",
+      "description": "in section A to demonstrate their narrative and descriptive skills in response to a written"
+    },
+    {
+      "code": "KS4-GC-346",
+      "description": "prompt, scenario or visual image."
+    },
+    {
+      "code": "KS4-GC-347",
+      "description": "The paper will assess in this sequence, AO1, AO2 and AO4 for reading, and AO5 and AO6 for"
+    },
+    {
+      "code": "KS4-GC-348",
+      "description": "writing. Section A will be allocated 40 marks, and Section B will be allocated 40 marks to give an"
+    },
+    {
+      "code": "KS4-GC-349",
+      "description": "equal weighting to the reading and writing tasks."
+    },
+    {
+      "code": "KS4-GC-350",
+      "description": "Content"
+    },
+    {
+      "code": "KS4-GC-351",
+      "description": "The source for the reading questions will be a literature fiction text. It will be drawn from either the"
+    },
+    {
+      "code": "KS4-GC-352",
+      "description": "20th or 21st century. Its genre will be prose fiction. It will include extracts from novels and short"
+    },
+    {
+      "code": "KS4-GC-353",
+      "description": "stories and focus on openings, endings, narrative perspectives and points of view, narrative or"
+    },
+    {
+      "code": "KS4-GC-354",
+      "description": "descriptive passages, character, atmospheric descriptions and other appropriate narrative and"
+    },
+    {
+      "code": "KS4-GC-355",
+      "description": "descriptive approaches."
+    },
+    {
+      "code": "KS4-GC-356",
+      "description": "As a stimulus for students\u2019 own writing, there will be a choice of scenario, written prompt or visual"
+    },
+    {
+      "code": "KS4-GC-357",
+      "description": "image that is related to the topic of the reading text in section A. The scenario sets out a context for"
+    },
+    {
+      "code": "KS4-GC-358",
+      "description": "writing with a designated audience, purpose and form that will differ to those specified on Paper 2."
+    },
+    {
+      "code": "KS4-GC-359",
+      "description": "4.3"
+    },
+    {
+      "code": "KS4-GC-360",
+      "description": "Writers\u2019 viewpoints and perspectives"
+    },
+    {
+      "code": "KS4-GC-361",
+      "description": "The aim of this paper is to develop students\u2019 insights into how writers have particular viewpoints"
+    },
+    {
+      "code": "KS4-GC-362",
+      "description": "and perspectives on issues or themes that are important to the way we think and live our lives. It"
+    },
+    {
+      "code": "KS4-GC-363",
+      "description": "will encourage students to demonstrate their skills by:"
+    },
+    {
+      "code": "KS4-GC-364",
+      "description": "\u2022 in section A, reading two linked sources from different time periods and genres in order to"
+    },
+    {
+      "code": "KS4-GC-365",
+      "description": "consider how each presents a perspective or viewpoint to influence the reader"
+    },
+    {
+      "code": "KS4-GC-366",
+      "description": "\u2022 in section B, producing a written text to a specified audience, purpose and form in which they"
+    },
+    {
+      "code": "KS4-GC-367",
+      "description": "give their own perspective on the theme that has been introduced to them in section A."
+    },
+    {
+      "code": "KS4-GC-368",
+      "description": "The paper will assess in this sequence, AO1, AO2 and AO3 for reading, and AO5 and AO6 for"
+    },
+    {
+      "code": "KS4-GC-369",
+      "description": "writing. Section A will be allocated 40 marks, and section B will be allocated 40 marks to give an"
+    },
+    {
+      "code": "KS4-GC-370",
+      "description": "equal weighting to the reading and writing tasks."
+    },
+    {
+      "code": "KS4-GC-371",
+      "description": "Content"
+    },
+    {
+      "code": "KS4-GC-372",
+      "description": "The sources for the reading questions will be non-fiction and literary non-fiction texts. They will be"
+    },
+    {
+      "code": "KS4-GC-373",
+      "description": "drawn from the 19th century, and either the 20th or 21st century depending on the time period"
+    },
+    {
+      "code": "KS4-GC-374",
+      "description": "assessed in Paper 1 in each particular series. The combination selected will always provide"
+    },
+    {
+      "code": "KS4-GC-375",
+      "description": "students with an opportunity to consider viewpoints and perspectives over time. Choice of genre"
+    },
+    {
+      "code": "KS4-GC-376",
+      "description": "will include high quality journalism, articles, reports, essays, travel writing, accounts, sketches,"
+    },
+    {
+      "code": "KS4-GC-377",
+      "description": "letters, diaries, autobiography and biographical passages or other appropriate non-fiction and"
+    },
+    {
+      "code": "KS4-GC-378",
+      "description": "literary non-fiction forms."
+    },
+    {
+      "code": "KS4-GC-379",
+      "description": "14"
+    },
+    {
+      "code": "KS4-GC-380",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-381",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-382",
+      "description": "In section B, there will be a single writing task related to the theme of section A. It will specify"
+    },
+    {
+      "code": "KS4-GC-383",
+      "description": "audience, purpose and form, and will use a range of opinions, statements and writing scenarios to"
+    },
+    {
+      "code": "KS4-GC-384",
+      "description": "provoke a response."
+    },
+    {
+      "code": "KS4-GC-385",
+      "description": "4.4"
+    },
+    {
+      "code": "KS4-GC-386",
+      "description": "Non-exam assessment"
+    },
+    {
+      "code": "KS4-GC-387",
+      "description": "The aim of the assessment is to allow students to demonstrate their speaking and listening skills"
+    },
+    {
+      "code": "KS4-GC-388",
+      "description": "by:"
+    },
+    {
+      "code": "KS4-GC-389",
+      "description": "\u2022 giving a presentation in a formal context"
+    },
+    {
+      "code": "KS4-GC-390",
+      "description": "\u2022 responding appropriately to questions and to feedback, asking questions themselves to elicit"
+    },
+    {
+      "code": "KS4-GC-391",
+      "description": "clarification"
+    },
+    {
+      "code": "KS4-GC-392",
+      "description": "\u2022 using spoken Standard English."
+    },
+    {
+      "code": "KS4-GC-393",
+      "description": "The assessment will be separately endorsed and will cover AO7, AO8 and AO9 for spoken"
+    },
+    {
+      "code": "KS4-GC-394",
+      "description": "language."
+    },
+    {
+      "code": "KS4-GC-395",
+      "description": "Content"
+    },
+    {
+      "code": "KS4-GC-396",
+      "description": "Students must undertake a prepared spoken presentation on a specific topic. The topic is at the"
+    },
+    {
+      "code": "KS4-GC-397",
+      "description": "discretion. As a guide, the duration should be no more than ten minutes. The key requirements"
+    },
+    {
+      "code": "KS4-GC-398",
+      "description": "are:"
+    },
+    {
+      "code": "KS4-GC-399",
+      "description": "\u2022 presentations must be formal but may take a wide variety of forms, including talks, debates,"
+    },
+    {
+      "code": "KS4-GC-400",
+      "description": "speeches and dialogues"
+    },
+    {
+      "code": "KS4-GC-401",
+      "description": "\u2022 students must identify the subject for their presentations in advance and agree it with their"
+    },
+    {
+      "code": "KS4-GC-402",
+      "description": "teacher"
+    },
+    {
+      "code": "KS4-GC-403",
+      "description": "\u2022 presentations must be planned and organised. Students should be advised that that lack of"
+    },
+    {
+      "code": "KS4-GC-404",
+      "description": "preparation is likely to prevent access to the criteria for the higher grades"
+    },
+    {
+      "code": "KS4-GC-405",
+      "description": "\u2022 students may use pre-prepared notes, powerpoint etc. to assist them during their"
+    },
+    {
+      "code": "KS4-GC-406",
+      "description": "presentations but this is not a requirement"
+    },
+    {
+      "code": "KS4-GC-407",
+      "description": "\u2022 as part of, or following, the presentation students must listen to and respond appropriately to"
+    },
+    {
+      "code": "KS4-GC-408",
+      "description": "questions and feedback"
+    },
+    {
+      "code": "KS4-GC-409",
+      "description": "\u2022 where the audience is the teacher only, the presentation and dialogue must be designed in"
+    },
+    {
+      "code": "KS4-GC-410",
+      "description": "such a way that it could have a potentially wider audience than just one person (eg it"
+    },
+    {
+      "code": "KS4-GC-411",
+      "description": "replicates a television interview)."
+    },
+    {
+      "code": "KS4-GC-412",
+      "description": "Assessment"
+    },
+    {
+      "code": "KS4-GC-413",
+      "description": "No marks will be assigned to a student\u2019s performance \u2013 it will be assessed holistically as a grade,"
+    },
+    {
+      "code": "KS4-GC-414",
+      "description": "using a \u2018competency\u2019 basis on criteria which are provided below. Competency means that a"
+    },
+    {
+      "code": "KS4-GC-415",
+      "description": "student must hit all the criteria in one grade before moving on to the next. Students who do not"
+    },
+    {
+      "code": "KS4-GC-416",
+      "description": "reach the Pass standard must be recorded as Not Classified."
+    },
+    {
+      "code": "KS4-GC-417",
+      "description": "General criteria"
+    },
+    {
+      "code": "KS4-GC-418",
+      "description": "To be awarded a Pass, Merit or Distinction a learner must:"
+    },
+    {
+      "code": "KS4-GC-419",
+      "description": "\u2022 be audible"
+    },
+    {
+      "code": "KS4-GC-420",
+      "description": "\u2022 use Spoken Standard English which, for the purposes of the spoken language assessment,"
+    },
+    {
+      "code": "KS4-GC-421",
+      "description": "means that a learner must \u2013"
+    },
+    {
+      "code": "KS4-GC-422",
+      "description": "\u2022 be intelligible"
+    },
+    {
+      "code": "KS4-GC-423",
+      "description": "\u2022 generally use language appropriate to the formal setting of the presentation."
+    },
+    {
+      "code": "KS4-GC-424",
+      "description": "15"
+    },
+    {
+      "code": "KS4-GC-425",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-426",
+      "description": "Pass Merit Distinction"
+    },
+    {
+      "code": "KS4-GC-427",
+      "description": "In addition to the general criteria, In addition to the general In addition to the general criteria,"
+    },
+    {
+      "code": "KS4-GC-428",
+      "description": "to be awarded a Distinction a to be awarded a Merit a Learner\u2019s criteria, to be awarded a"
+    },
+    {
+      "code": "KS4-GC-429",
+      "description": "Learner\u2019s performance in his or performance in his or her spoken Pass a Learner\u2019s"
+    },
+    {
+      "code": "KS4-GC-430",
+      "description": "her spoken language assessment language assessment must meet performance in his or her"
+    },
+    {
+      "code": "KS4-GC-431",
+      "description": "must meet all of the following all of the following criteria: spoken language"
+    },
+    {
+      "code": "KS4-GC-432",
+      "description": "criteria: assessment must meet all"
+    },
+    {
+      "code": "KS4-GC-433",
+      "description": "\u2022 expresses challenging"
+    },
+    {
+      "code": "KS4-GC-434",
+      "description": "of the following criteria:"
+    },
+    {
+      "code": "KS4-GC-435",
+      "description": "\u2022 expresses sophisticated ideas/information/feelings"
+    },
+    {
+      "code": "KS4-GC-436",
+      "description": "ideas/information/feelings using a range of vocabulary \u2022 expresses"
+    },
+    {
+      "code": "KS4-GC-437",
+      "description": "using a sophisticated straightforward"
+    },
+    {
+      "code": "KS4-GC-438",
+      "description": "\u2022 organises and structures his"
+    },
+    {
+      "code": "KS4-GC-439",
+      "description": "repertoire of vocabulary ideas/information/"
+    },
+    {
+      "code": "KS4-GC-440",
+      "description": "or her presentation clearly"
+    },
+    {
+      "code": "KS4-GC-441",
+      "description": "feelings"
+    },
+    {
+      "code": "KS4-GC-442",
+      "description": "\u2022 organises and structures his and appropriately to meet"
+    },
+    {
+      "code": "KS4-GC-443",
+      "description": "or her presentation using an the needs of the audience \u2022 makes an attempt to"
+    },
+    {
+      "code": "KS4-GC-444",
+      "description": "effective range of strategies organise and"
+    },
+    {
+      "code": "KS4-GC-445",
+      "description": "\u2022 achieves the purpose of his"
+    },
+    {
+      "code": "KS4-GC-446",
+      "description": "to engage the audience structure his or her"
+    },
+    {
+      "code": "KS4-GC-447",
+      "description": "or her presentation"
+    },
+    {
+      "code": "KS4-GC-448",
+      "description": "presentation"
+    },
+    {
+      "code": "KS4-GC-449",
+      "description": "\u2022 achieves the purpose of his"
+    },
+    {
+      "code": "KS4-GC-450",
+      "description": "\u2022 listens to questions/"
+    },
+    {
+      "code": "KS4-GC-451",
+      "description": "or her presentation \u2022 makes an attempt to"
+    },
+    {
+      "code": "KS4-GC-452",
+      "description": "feedback responding"
+    },
+    {
+      "code": "KS4-GC-453",
+      "description": "meet the needs of"
+    },
+    {
+      "code": "KS4-GC-454",
+      "description": "\u2022 listens to questions/ formally and in some detail."
+    },
+    {
+      "code": "KS4-GC-455",
+      "description": "the audience"
+    },
+    {
+      "code": "KS4-GC-456",
+      "description": "feedback, responds"
+    },
+    {
+      "code": "KS4-GC-457",
+      "description": "perceptively and if \u2022 listens to questions/"
+    },
+    {
+      "code": "KS4-GC-458",
+      "description": "appropriate elaborates with feedback and"
+    },
+    {
+      "code": "KS4-GC-459",
+      "description": "further ideas and provides an"
+    },
+    {
+      "code": "KS4-GC-460",
+      "description": "information. appropriate"
+    },
+    {
+      "code": "KS4-GC-461",
+      "description": "response in a"
+    },
+    {
+      "code": "KS4-GC-462",
+      "description": "straight forward"
+    },
+    {
+      "code": "KS4-GC-463",
+      "description": "manner."
+    },
+    {
+      "code": "KS4-GC-464",
+      "description": "4.5"
+    },
+    {
+      "code": "KS4-GC-465",
+      "description": "Assessment objectives"
+    },
+    {
+      "code": "KS4-GC-466",
+      "description": "Assessment objectives (AOs) are set by Ofqual and are the same across all GCSE English"
+    },
+    {
+      "code": "KS4-GC-467",
+      "description": "Language specifications and all exam boards."
+    },
+    {
+      "code": "KS4-GC-468",
+      "description": "The exams and Spoken Language endorsement will measure how students have achieved the"
+    },
+    {
+      "code": "KS4-GC-469",
+      "description": "following assessment objectives."
+    },
+    {
+      "code": "KS4-GC-470",
+      "description": "\u2022 AO1:"
+    },
+    {
+      "code": "KS4-GC-471",
+      "description": "\u2022 identify and interpret explicit and implicit information and ideas"
+    },
+    {
+      "code": "KS4-GC-472",
+      "description": "\u2022 select and synthesise evidence from different texts"
+    },
+    {
+      "code": "KS4-GC-473",
+      "description": "\u2022 AO2: Explain, comment on and analyse how writers use language and structure to achieve"
+    },
+    {
+      "code": "KS4-GC-474",
+      "description": "effects and influence readers, using relevant subject terminology to support their views"
+    },
+    {
+      "code": "KS4-GC-475",
+      "description": "\u2022 AO3: Compare writers\u2019 ideas and perspectives, as well as how these are conveyed, across"
+    },
+    {
+      "code": "KS4-GC-476",
+      "description": "two or more texts"
+    },
+    {
+      "code": "KS4-GC-477",
+      "description": "\u2022 AO4: Evaluate texts critically and support this with appropriate textual references"
+    },
+    {
+      "code": "KS4-GC-478",
+      "description": "\u2022 AO5: Communicate clearly, effectively and imaginatively, selecting and adapting tone, style"
+    },
+    {
+      "code": "KS4-GC-479",
+      "description": "and register for different forms, purposes and audiences. Organise information and ideas,"
+    },
+    {
+      "code": "KS4-GC-480",
+      "description": "using structural and grammatical features to support coherence and cohesion of texts"
+    },
+    {
+      "code": "KS4-GC-481",
+      "description": "\u2022 AO6: Candidates must use a range of vocabulary and sentence structures for clarity, purpose"
+    },
+    {
+      "code": "KS4-GC-482",
+      "description": "and effect, with accurate spelling and punctuation. (This requirement must constitute 20% of"
+    },
+    {
+      "code": "KS4-GC-483",
+      "description": "the marks for each specification as a whole.)"
+    },
+    {
+      "code": "KS4-GC-484",
+      "description": "16"
+    },
+    {
+      "code": "KS4-GC-485",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-486",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-487",
+      "description": "\u2022 AO7: Demonstrate presentation skills in a formal setting"
+    },
+    {
+      "code": "KS4-GC-488",
+      "description": "\u2022 AO8: Listen and respond appropriately to spoken language, including to questions and"
+    },
+    {
+      "code": "KS4-GC-489",
+      "description": "feedback on presentations"
+    },
+    {
+      "code": "KS4-GC-490",
+      "description": "\u2022 AO9: Use spoken Standard English effectively in speeches and presentations."
+    },
+    {
+      "code": "KS4-GC-491",
+      "description": "English Language"
+    },
+    {
+      "code": "KS4-GC-492",
+      "description": "Weighting of assessment objectives for GCSE"
+    },
+    {
+      "code": "KS4-GC-493",
+      "description": "Assessment objectives (AOs) Component weightings (approx Overall"
+    },
+    {
+      "code": "KS4-GC-494",
+      "description": "%) weighting"
+    },
+    {
+      "code": "KS4-GC-495",
+      "description": "(approx %)"
+    },
+    {
+      "code": "KS4-GC-496",
+      "description": "Paper 1 Paper 2 Spoken"
+    },
+    {
+      "code": "KS4-GC-497",
+      "description": "Language"
+    },
+    {
+      "code": "KS4-GC-498",
+      "description": "NEA"
+    },
+    {
+      "code": "KS4-GC-499",
+      "description": "AO1 2.5 7.5 N/A 10"
+    },
+    {
+      "code": "KS4-GC-500",
+      "description": "AO2 10 7.5 N/A 17.5"
+    },
+    {
+      "code": "KS4-GC-501",
+      "description": "AO3 N/A 10 N/A 10"
+    },
+    {
+      "code": "KS4-GC-502",
+      "description": "AO4 12.5 N/A N/A 12.5"
+    },
+    {
+      "code": "KS4-GC-503",
+      "description": "AO5 15 15 N/A 30"
+    },
+    {
+      "code": "KS4-GC-504",
+      "description": "AO6 10 10 N/A 20"
+    },
+    {
+      "code": "KS4-GC-505",
+      "description": "AO7 N/A N/A endorsement 0"
+    },
+    {
+      "code": "KS4-GC-506",
+      "description": "AO8 N/A N/A endorsement 0"
+    },
+    {
+      "code": "KS4-GC-507",
+      "description": "AO9 N/A N/A endorsement 0"
+    },
+    {
+      "code": "KS4-GC-508",
+      "description": "Overall weighting of components 50 50 0 100"
+    },
+    {
+      "code": "KS4-GC-509",
+      "description": "4.6"
+    },
+    {
+      "code": "KS4-GC-510",
+      "description": "Assessment weightings"
+    },
+    {
+      "code": "KS4-GC-511",
+      "description": "The marks awarded on the papers will be scaled to meet the weighting of the components."
+    },
+    {
+      "code": "KS4-GC-512",
+      "description": "Students\u2019 final marks will be calculated by adding together the scaled marks for each component."
+    },
+    {
+      "code": "KS4-GC-513",
+      "description": "Grade boundaries will be set using this total scaled mark. The scaling and total scaled marks are"
+    },
+    {
+      "code": "KS4-GC-514",
+      "description": "shown in the table below."
+    },
+    {
+      "code": "KS4-GC-515",
+      "description": "Maximum Scaling Maximum Component"
+    },
+    {
+      "code": "KS4-GC-516",
+      "description": "raw mark factor scaled mark"
+    },
+    {
+      "code": "KS4-GC-517",
+      "description": "Paper 1: Explorations in Creative Reading and 80 x1 80"
+    },
+    {
+      "code": "KS4-GC-518",
+      "description": "Writing"
+    },
+    {
+      "code": "KS4-GC-519",
+      "description": "Paper 2: Writers' Viewpoints and Perspectives 80 x1 80"
+    },
+    {
+      "code": "KS4-GC-520",
+      "description": "Total scaled 160"
+    },
+    {
+      "code": "KS4-GC-521",
+      "description": "mark:"
+    },
+    {
+      "code": "KS4-GC-522",
+      "description": "17"
+    },
+    {
+      "code": "KS4-GC-523",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-524",
+      "description": "18"
+    },
+    {
+      "code": "KS4-GC-525",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-526",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-527",
+      "description": "5"
+    },
+    {
+      "code": "KS4-GC-528",
+      "description": "Non-exam assessment"
+    },
+    {
+      "code": "KS4-GC-529",
+      "description": "administration"
+    },
+    {
+      "code": "KS4-GC-530",
+      "description": "The preparation and assessment of Spoken Language is a compulsory requirement of the course"
+    },
+    {
+      "code": "KS4-GC-531",
+      "description": "of study. It will appear on all students' certificates as a separately reported grade, alongside the"
+    },
+    {
+      "code": "KS4-GC-532",
+      "description": "overall grade issued. Performance will be assessed against common criteria issued by all exam"
+    },
+    {
+      "code": "KS4-GC-533",
+      "description": "boards."
+    },
+    {
+      "code": "KS4-GC-534",
+      "description": "The criteria will address the following assessment objectives:"
+    },
+    {
+      "code": "KS4-GC-535",
+      "description": "\u2022 AO7 \u2013 demonstrate presentation skills in a formal setting"
+    },
+    {
+      "code": "KS4-GC-536",
+      "description": "\u2022 AO8 \u2013 listen and respond appropriately to spoken language, including questions and"
+    },
+    {
+      "code": "KS4-GC-537",
+      "description": "feedback to presentations"
+    },
+    {
+      "code": "KS4-GC-538",
+      "description": "\u2022 AO9 \u2013 use spoken Standard English effectively in speeches and presentations."
+    },
+    {
+      "code": "KS4-GC-539",
+      "description": "For first teaching in September 2015, GCSE English Language will have an endorsed component"
+    },
+    {
+      "code": "KS4-GC-540",
+      "description": "covering Spoken Language. This endorsement has a number of features which distinguish it from"
+    },
+    {
+      "code": "KS4-GC-541",
+      "description": "most general qualifications components, in particular:"
+    },
+    {
+      "code": "KS4-GC-542",
+      "description": "\u2022 it will be reported as a separate grade (Pass, Merit, Distinction or Not Classified) and will not"
+    },
+    {
+      "code": "KS4-GC-543",
+      "description": "contribute to the result of the GCSE English Language qualification"
+    },
+    {
+      "code": "KS4-GC-544",
+      "description": "\u2022 no marks will be assigned \u2013 it will be assessed holistically as a grade"
+    },
+    {
+      "code": "KS4-GC-545",
+      "description": "\u2022 it will be assessed on a \u2018competency\u2019 basis using agreed common criteria \u2013 to be awarded a"
+    },
+    {
+      "code": "KS4-GC-546",
+      "description": "grade students must achieve all of the criteria for that grade."
+    },
+    {
+      "code": "KS4-GC-547",
+      "description": "5.1"
+    },
+    {
+      "code": "KS4-GC-548",
+      "description": "Avoiding Malpractice"
+    },
+    {
+      "code": "KS4-GC-549",
+      "description": "Please inform your students of the AQA regulations concerning malpractice. They must not:"
+    },
+    {
+      "code": "KS4-GC-550",
+      "description": "\u2022 submit work which is not their own"
+    },
+    {
+      "code": "KS4-GC-551",
+      "description": "\u2022 make available their work to other students through any medium"
+    },
+    {
+      "code": "KS4-GC-552",
+      "description": "\u2022 allow other students to have access to their own independently sourced material"
+    },
+    {
+      "code": "KS4-GC-553",
+      "description": "\u2022 assist other students to produce work"
+    },
+    {
+      "code": "KS4-GC-554",
+      "description": "\u2022 use books, the internet or other sources without acknowledgement or attribution"
+    },
+    {
+      "code": "KS4-GC-555",
+      "description": "\u2022 submit work that has been word processed by a third party without acknowledgement"
+    },
+    {
+      "code": "KS4-GC-556",
+      "description": "\u2022 include inappropriate, offensive or obscene material."
+    },
+    {
+      "code": "KS4-GC-557",
+      "description": "These actions constitute malpractice and a penalty will be given (for example, disqualification)."
+    },
+    {
+      "code": "KS4-GC-558",
+      "description": "With respect to this endorsement:"
+    },
+    {
+      "code": "KS4-GC-559",
+      "description": "\u2022 if it comes to light that a teacher has awarded a grade to a student who has not in fact carried"
+    },
+    {
+      "code": "KS4-GC-560",
+      "description": "out a presentation in the required manner, the head of centre will be asked to carry out an"
+    },
+    {
+      "code": "KS4-GC-561",
+      "description": "investigation of the circumstances and report to the awarding body. Results from some or all"
+    },
+    {
+      "code": "KS4-GC-562",
+      "description": "students at the centre may be withheld"
+    },
+    {
+      "code": "KS4-GC-563",
+      "description": "\u2022 failure on the part of the head of centre to give all students the opportunity to undertake a"
+    },
+    {
+      "code": "KS4-GC-564",
+      "description": "Spoken Language presentation is a breach of specification requirements. The awarding body"
+    },
+    {
+      "code": "KS4-GC-565",
+      "description": "will inform other awarding bodies and the regulator, and the centre\u2019s arrangements for the"
+    },
+    {
+      "code": "KS4-GC-566",
+      "description": "19"
+    },
+    {
+      "code": "KS4-GC-567",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-568",
+      "description": "next cohort will be closely monitored. A grade of Not Classified will be recorded for the"
+    },
+    {
+      "code": "KS4-GC-569",
+      "description": "endorsement in the case of any GCSE English Language students who do not attempt it"
+    },
+    {
+      "code": "KS4-GC-570",
+      "description": "\u2022 because of the nature of the work required, opportunities for student malpractice are"
+    },
+    {
+      "code": "KS4-GC-571",
+      "description": "lessened, but in circumstances where it occurs the standard published malpractice"
+    },
+    {
+      "code": "KS4-GC-572",
+      "description": "procedures apply."
+    },
+    {
+      "code": "KS4-GC-573",
+      "description": "5.2"
+    },
+    {
+      "code": "KS4-GC-574",
+      "description": "Teacher Standardisation"
+    },
+    {
+      "code": "KS4-GC-575",
+      "description": "We will provide support for using the marking criteria through some inter-board produced"
+    },
+    {
+      "code": "KS4-GC-576",
+      "description": "aqa.org.uk/8700 standardising material. This is available at"
+    },
+    {
+      "code": "KS4-GC-577",
+      "description": "5.3"
+    },
+    {
+      "code": "KS4-GC-578",
+      "description": "Internal standardisation"
+    },
+    {
+      "code": "KS4-GC-579",
+      "description": "You must ensure that you have consistent marking standards for all students. One person must"
+    },
+    {
+      "code": "KS4-GC-580",
+      "description": "manage this process and the must sign the Centre declaration sheet to confirm that internal"
+    },
+    {
+      "code": "KS4-GC-581",
+      "description": "standardisation has taken place."
+    },
+    {
+      "code": "KS4-GC-582",
+      "description": "Internal standardisation may involve:"
+    },
+    {
+      "code": "KS4-GC-583",
+      "description": "\u2022 all teachers marking some sample presentations to identify differences in marking standards"
+    },
+    {
+      "code": "KS4-GC-584",
+      "description": "\u2022 discussing any differences in marking at a training meeting for all teachers involved"
+    },
+    {
+      "code": "KS4-GC-585",
+      "description": "\u2022 referring to reference material, such as examples of presentations provided by the awarding"
+    },
+    {
+      "code": "KS4-GC-586",
+      "description": "bodies."
+    },
+    {
+      "code": "KS4-GC-587",
+      "description": "5.4"
+    },
+    {
+      "code": "KS4-GC-588",
+      "description": "Submitting marks"
+    },
+    {
+      "code": "KS4-GC-589",
+      "description": "There is no formal requirement to submit any supporting evidence such as a record form or"
+    },
+    {
+      "code": "KS4-GC-590",
+      "description": "paperwork alongside the recordings of the presentations of a sample of students."
+    },
+    {
+      "code": "KS4-GC-591",
+      "description": "The deadline for submitting the total mark for each student is given at aqa.org.uk/keydates"
+    },
+    {
+      "code": "KS4-GC-592",
+      "description": "5.5"
+    },
+    {
+      "code": "KS4-GC-593",
+      "description": "Moderation"
+    },
+    {
+      "code": "KS4-GC-594",
+      "description": "You must provide audio-visual recordings of a sample of students by the specified date given at"
+    },
+    {
+      "code": "KS4-GC-595",
+      "description": "aqa.org.uk/deadlines"
+    },
+    {
+      "code": "KS4-GC-596",
+      "description": "The sample is selected by the school. The recording of each student\u2019s presentation, including"
+    },
+    {
+      "code": "KS4-GC-597",
+      "description": "questions and feedback from the audience, must be complete and unedited."
+    },
+    {
+      "code": "KS4-GC-598",
+      "description": "Using their knowledge of students\u2019 likely performance, centres should select the sample following"
+    },
+    {
+      "code": "KS4-GC-599",
+      "description": "the guidance shown in Table 1 and its footnotes. Centres are recommended to aim to record"
+    },
+    {
+      "code": "KS4-GC-600",
+      "description": "slightly more than the minimum number at each grade to allow for students whose performance is"
+    },
+    {
+      "code": "KS4-GC-601",
+      "description": "awarded a higher or lower grade than the centre had anticipated. However, a centre whose sample"
+    },
+    {
+      "code": "KS4-GC-602",
+      "description": "at a particular grade is ultimately slightly smaller than the minimum specified in the table is not"
+    },
+    {
+      "code": "KS4-GC-603",
+      "description": "required to take further action (ie record further students) to rectify the sample. Awarding bodies"
+    },
+    {
+      "code": "KS4-GC-604",
+      "description": "will provide details regarding the storage and submission of recordings."
+    },
+    {
+      "code": "KS4-GC-605",
+      "description": "Table 1 \u2013 Sample sizes"
+    },
+    {
+      "code": "KS4-GC-606",
+      "description": "20"
+    },
+    {
+      "code": "KS4-GC-607",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-608",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-609",
+      "description": "No. of students No. of students whose Minimum no. of students at"
+    },
+    {
+      "code": "KS4-GC-610",
+      "description": "presentations must be recorded each grade (D, M, P)+"
+    },
+    {
+      "code": "KS4-GC-611",
+      "description": "at centre"
+    },
+    {
+      "code": "KS4-GC-612",
+      "description": "30 or fewer All students 10++"
+    },
+    {
+      "code": "KS4-GC-613",
+      "description": "Over 30 30 10+++"
+    },
+    {
+      "code": "KS4-GC-614",
+      "description": "+ All students at a grade if the centre has fewer than the stated minimum. Students assessed as"
+    },
+    {
+      "code": "KS4-GC-615",
+      "description": "Not Classified should not be included."
+    },
+    {
+      "code": "KS4-GC-616",
+      "description": "++ For example, if a school or college has 15 D students, 11 M students and 3 P students, all of"
+    },
+    {
+      "code": "KS4-GC-617",
+      "description": "these students will be in the sample."
+    },
+    {
+      "code": "KS4-GC-618",
+      "description": "+++ For example:"
+    },
+    {
+      "code": "KS4-GC-619",
+      "description": "(a) if a school or college has 21 D students, 14 M students and 3 P students, the sample will"
+    },
+    {
+      "code": "KS4-GC-620",
+      "description": "consist of 10 of the D students, 10 of the M students and all of the P students, with 7 additional"
+    },
+    {
+      "code": "KS4-GC-621",
+      "description": "students (from D and/or M) to make the overall sample up to 30"
+    },
+    {
+      "code": "KS4-GC-622",
+      "description": "(b) if a school or college has no D students, 7 M students and 60 P students, the sample will"
+    },
+    {
+      "code": "KS4-GC-623",
+      "description": "consist of all of the M students and 23 of the P students."
+    },
+    {
+      "code": "KS4-GC-624",
+      "description": "The monitor appointed by AQA will view some or all of a school or college\u2019s recordings and there"
+    },
+    {
+      "code": "KS4-GC-625",
+      "description": "will be a statistical analysis of the school or college\u2019s assessments."
+    },
+    {
+      "code": "KS4-GC-626",
+      "description": "5.6"
+    },
+    {
+      "code": "KS4-GC-627",
+      "description": "After moderation"
+    },
+    {
+      "code": "KS4-GC-628",
+      "description": "You will not receive a report on the endorsement when the results are issued."
+    },
+    {
+      "code": "KS4-GC-629",
+      "description": "If there are concerns as a result of monitoring, the centre will be provided with additional support"
+    },
+    {
+      "code": "KS4-GC-630",
+      "description": "through a centre visit by a monitor in the following academic year. In the future, this may lead to"
+    },
+    {
+      "code": "KS4-GC-631",
+      "description": "enhanced monitoring arrangements which may include an earlier deadline for submission of"
+    },
+    {
+      "code": "KS4-GC-632",
+      "description": "assessments or a requirement to record the presentations of all students."
+    },
+    {
+      "code": "KS4-GC-633",
+      "description": "21"
+    },
+    {
+      "code": "KS4-GC-634",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-635",
+      "description": "22"
+    },
+    {
+      "code": "KS4-GC-636",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-637",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-638",
+      "description": "6"
+    },
+    {
+      "code": "KS4-GC-639",
+      "description": "General administration"
+    },
+    {
+      "code": "KS4-GC-640",
+      "description": "You can find information about all aspects of administration, as well as all the forms you need, at"
+    },
+    {
+      "code": "KS4-GC-641",
+      "description": "aqa.org.uk/examsadmin"
+    },
+    {
+      "code": "KS4-GC-642",
+      "description": "6.1"
+    },
+    {
+      "code": "KS4-GC-643",
+      "description": "Entries and codes"
+    },
+    {
+      "code": "KS4-GC-644",
+      "description": "You only need to make one entry for each qualification \u2013 this will cover all the question papers,"
+    },
+    {
+      "code": "KS4-GC-645",
+      "description": "coursework and certification."
+    },
+    {
+      "code": "KS4-GC-646",
+      "description": "Every specification is given a national discount (classification) code by the Department for"
+    },
+    {
+      "code": "KS4-GC-647",
+      "description": "Education (DfE), which indicates its subject area."
+    },
+    {
+      "code": "KS4-GC-648",
+      "description": "If a student takes two specifications with the same discount code, Further and Higher Education"
+    },
+    {
+      "code": "KS4-GC-649",
+      "description": "providers are likely to take the view that they have only achieved one of the two qualifications."
+    },
+    {
+      "code": "KS4-GC-650",
+      "description": "Please check this before your students start their course. Where two specifications have the same"
+    },
+    {
+      "code": "KS4-GC-651",
+      "description": "discount code, only one of them will be counted for the purpose of the School and College"
+    },
+    {
+      "code": "KS4-GC-652",
+      "description": "Performance tables \u2013 the DfE\u2019s rules on \u2018early entry\u2019 will determine which one."
+    },
+    {
+      "code": "KS4-GC-653",
+      "description": "AQA DfE Qualification title"
+    },
+    {
+      "code": "KS4-GC-654",
+      "description": "entry discount"
+    },
+    {
+      "code": "KS4-GC-655",
+      "description": "code code"
+    },
+    {
+      "code": "KS4-GC-656",
+      "description": "AQA GCSE in English Language 8700 FK2B"
+    },
+    {
+      "code": "KS4-GC-657",
+      "description": "This specification complies with Ofqual\u2019s:"
+    },
+    {
+      "code": "KS4-GC-658",
+      "description": "\u2022 General Conditions of Recognition that apply to all regulated qualifications"
+    },
+    {
+      "code": "KS4-GC-659",
+      "description": "\u2022 GCSE qualification conditions that apply to all GCSEs"
+    },
+    {
+      "code": "KS4-GC-660",
+      "description": "\u2022 GCSE English Language conditions that apply to all GCSEs in this subject."
+    },
+    {
+      "code": "KS4-GC-661",
+      "description": "The Ofqual qualification accreditation number (QAN) is 601/4292/3"
+    },
+    {
+      "code": "KS4-GC-662",
+      "description": "6.2"
+    },
+    {
+      "code": "KS4-GC-663",
+      "description": "Overlaps with other qualifications"
+    },
+    {
+      "code": "KS4-GC-664",
+      "description": "This specification overlaps with the AQA Level 1/Level 2 Certificate in English Language."
+    },
+    {
+      "code": "KS4-GC-665",
+      "description": "6.3"
+    },
+    {
+      "code": "KS4-GC-666",
+      "description": "Awarding grades and reporting results"
+    },
+    {
+      "code": "KS4-GC-667",
+      "description": "The qualification will be graded on a nine-point scale: 1 to 9 \u2013 where 9 is the best grade."
+    },
+    {
+      "code": "KS4-GC-668",
+      "description": "Students who fail to reach the minimum standard for grade 1 will be recorded as U (unclassified)"
+    },
+    {
+      "code": "KS4-GC-669",
+      "description": "and will not receive a qualification certificate."
+    },
+    {
+      "code": "KS4-GC-670",
+      "description": "6.4"
+    },
+    {
+      "code": "KS4-GC-671",
+      "description": "Re-sits and shelf life"
+    },
+    {
+      "code": "KS4-GC-672",
+      "description": "Students can re-sit the qualification as many times as they wish, within the shelf life of the"
+    },
+    {
+      "code": "KS4-GC-673",
+      "description": "qualification. November entries will only be available to students who were at least 16 on the"
+    },
+    {
+      "code": "KS4-GC-674",
+      "description": "23"
+    },
+    {
+      "code": "KS4-GC-675",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-676",
+      "description": "previous 31 August, as set out in Ofqual's GCSE subject level conditions and requirements for"
+    },
+    {
+      "code": "KS4-GC-677",
+      "description": "English Language, and we will make reasonable checks to ensure schools and colleges comply"
+    },
+    {
+      "code": "KS4-GC-678",
+      "description": "with this requirement."
+    },
+    {
+      "code": "KS4-GC-679",
+      "description": "6.5"
+    },
+    {
+      "code": "KS4-GC-680",
+      "description": "Previous learning and prerequisites"
+    },
+    {
+      "code": "KS4-GC-681",
+      "description": "There are no previous learning requirements. Candidates are not required to have taken any"
+    },
+    {
+      "code": "KS4-GC-682",
+      "description": "particular qualifications before taking this course. Any requirements for entry to a course based on"
+    },
+    {
+      "code": "KS4-GC-683",
+      "description": "this specification are at the discretion of schools and colleges."
+    },
+    {
+      "code": "KS4-GC-684",
+      "description": "However, as English Language is taught in progressively greater depth over the course of Key"
+    },
+    {
+      "code": "KS4-GC-685",
+      "description": "Stage 3 and Key Stage 4, GCSE outcomes may reflect or build upon subject content that is"
+    },
+    {
+      "code": "KS4-GC-686",
+      "description": "typically taught at Key Stage 3. There is no expectation that teaching of such content should be"
+    },
+    {
+      "code": "KS4-GC-687",
+      "description": "repeated during the GCSE course where it has already been taught effectively at an earlier stage."
+    },
+    {
+      "code": "KS4-GC-688",
+      "description": "6.6"
+    },
+    {
+      "code": "KS4-GC-689",
+      "description": "Access to assessment: diversity and inclusion"
+    },
+    {
+      "code": "KS4-GC-690",
+      "description": "General qualifications are designed to prepare students for a wide range of occupations and"
+    },
+    {
+      "code": "KS4-GC-691",
+      "description": "further study. Therefore our qualifications must assess a wide range of competences."
+    },
+    {
+      "code": "KS4-GC-692",
+      "description": "The subject criteria have been assessed to see if any of the skills or knowledge required present"
+    },
+    {
+      "code": "KS4-GC-693",
+      "description": "any possible difficulty to any students, whatever their ethnic background, religion, sex, age,"
+    },
+    {
+      "code": "KS4-GC-694",
+      "description": "disability or sexuality. If any difficulties were encountered, the criteria were reviewed again to make"
+    },
+    {
+      "code": "KS4-GC-695",
+      "description": "sure that tests of specific competences were only included if they were important to the subject."
+    },
+    {
+      "code": "KS4-GC-696",
+      "description": "As members of the Joint Council for Qualifications (JCQ) we participate in the production of the"
+    },
+    {
+      "code": "KS4-GC-697",
+      "description": "JCQ document Access Arrangements and Reasonable Adjustments: General and Vocational"
+    },
+    {
+      "code": "KS4-GC-698",
+      "description": "qualifications. We follow these guidelines when assessing the needs of individual students who"
+    },
+    {
+      "code": "KS4-GC-699",
+      "description": "may require an access arrangement or reasonable adjustment. This document is published on the"
+    },
+    {
+      "code": "KS4-GC-700",
+      "description": "JCQ website at jcq.org.uk"
+    },
+    {
+      "code": "KS4-GC-701",
+      "description": "Students with special needs"
+    },
+    {
+      "code": "KS4-GC-702",
+      "description": "We can make arrangements for students with special needs to help them access the assessments,"
+    },
+    {
+      "code": "KS4-GC-703",
+      "description": "as long as the competences being tested are not changed. These arrangements must be made"
+    },
+    {
+      "code": "KS4-GC-704",
+      "description": "before the exam. For example, we can agree to a reader for an individual student with learning"
+    },
+    {
+      "code": "KS4-GC-705",
+      "description": "difficulties. This would be classed as an access arrangement."
+    },
+    {
+      "code": "KS4-GC-706",
+      "description": "Students with disabilities"
+    },
+    {
+      "code": "KS4-GC-707",
+      "description": "We can make reasonable adjustments for disabled students. For example, a Braille paper would"
+    },
+    {
+      "code": "KS4-GC-708",
+      "description": "be a reasonable adjustment for a Braille reader but not for a student who does not read Braille. We"
+    },
+    {
+      "code": "KS4-GC-709",
+      "description": "are required by the Equality Act 2010 to make reasonable adjustments to remove or lessen any"
+    },
+    {
+      "code": "KS4-GC-710",
+      "description": "disadvantage that affects a disabled student."
+    },
+    {
+      "code": "KS4-GC-711",
+      "description": "If you have students who need access arrangements or reasonable adjustments, you can apply"
+    },
+    {
+      "code": "KS4-GC-712",
+      "description": "using the Access arrangements online service at aqa.org.uk/eaqa"
+    },
+    {
+      "code": "KS4-GC-713",
+      "description": "Special consideration"
+    },
+    {
+      "code": "KS4-GC-714",
+      "description": "We can give special consideration to students who have been disadvantaged at the time of the"
+    },
+    {
+      "code": "KS4-GC-715",
+      "description": "exam through no fault of their own \u2013 for example a temporary illness, injury or serious problem"
+    },
+    {
+      "code": "KS4-GC-716",
+      "description": "such as the death of a relative. We can only do this after the exam."
+    },
+    {
+      "code": "KS4-GC-717",
+      "description": "24"
+    },
+    {
+      "code": "KS4-GC-718",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-719",
+      "description": "AQA GCSE English Language 8700. GCSE exams June 2017 onwards. Version 1.5 14 October 2021"
+    },
+    {
+      "code": "KS4-GC-720",
+      "description": "Your exams officer should apply online for special consideration at aqa.org.uk/eaqa"
+    },
+    {
+      "code": "KS4-GC-721",
+      "description": "For more information and advice about access arrangements, reasonable adjustments and special"
+    },
+    {
+      "code": "KS4-GC-722",
+      "description": "aqa.org.uk/access or email accessarrangementsqueries@aqa.org.uk consideration please see"
+    },
+    {
+      "code": "KS4-GC-723",
+      "description": "6.7"
+    },
+    {
+      "code": "KS4-GC-724",
+      "description": "Safeguarding"
+    },
+    {
+      "code": "KS4-GC-725",
+      "description": "Some of the content within this curriculum may generate discussions or disclosures from students"
+    },
+    {
+      "code": "KS4-GC-726",
+      "description": "which raise safeguarding concerns. If this happens, please follow your centre\u2019s safeguarding policy"
+    },
+    {
+      "code": "KS4-GC-727",
+      "description": "to arrange support."
+    },
+    {
+      "code": "KS4-GC-728",
+      "description": "6.8"
+    },
+    {
+      "code": "KS4-GC-729",
+      "description": "Working with AQA for the first time"
+    },
+    {
+      "code": "KS4-GC-730",
+      "description": "If your school or college has not previously offered any AQA specification, you need to register as"
+    },
+    {
+      "code": "KS4-GC-731",
+      "description": "aqa.org.uk/becomeacentre an AQA centre to offer our exams to your students. Find out how at"
+    },
+    {
+      "code": "KS4-GC-732",
+      "description": "If your school or college is new to this specification, please let us know by completing an Intention"
+    },
+    {
+      "code": "KS4-GC-733",
+      "description": "to enter form. The easiest way to do this is via e-AQA at aqa.org.uk/eaqa"
+    },
+    {
+      "code": "KS4-GC-734",
+      "description": "6.9"
+    },
+    {
+      "code": "KS4-GC-735",
+      "description": "Private candidates"
+    },
+    {
+      "code": "KS4-GC-736",
+      "description": "A private candidate is someone who enters for exams through an AQA-approved school or college"
+    },
+    {
+      "code": "KS4-GC-737",
+      "description": "but is not enrolled as a student there."
+    },
+    {
+      "code": "KS4-GC-738",
+      "description": "If you are a private candidate you may be self-taught, home-schooled or have private tuition, either"
+    },
+    {
+      "code": "KS4-GC-739",
+      "description": "with a tutor or through a distance learning organisation. You must be based in the UK."
+    },
+    {
+      "code": "KS4-GC-740",
+      "description": "If you have any queries as a private candidate, you can:"
+    },
+    {
+      "code": "KS4-GC-741",
+      "description": "\u2022 speak to the exams officer at the school or college where you intend to take your exams"
+    },
+    {
+      "code": "KS4-GC-742",
+      "description": "\u2022 visit our website at aqa.org.uk/examsadmin"
+    },
+    {
+      "code": "KS4-GC-743",
+      "description": "\u2022 email: privatecandidates@aqa.org.uk"
+    },
+    {
+      "code": "KS4-GC-744",
+      "description": "25"
+    },
+    {
+      "code": "KS4-GC-745",
+      "description": "Visit for the most up-to-date specification, resources, support and administration"
+    },
+    {
+      "code": "KS4-GC-746",
+      "description": "Get help and support"
+    },
+    {
+      "code": "KS4-GC-747",
+      "description": "Visit our website for information, guidance, support and resources at"
+    },
+    {
+      "code": "KS4-GC-748",
+      "description": "You can talk directly to the English Language subject team:"
+    },
+    {
+      "code": "KS4-GC-749",
+      "description": "english-gcse@aqa.org.uk E:"
+    },
+    {
+      "code": "KS4-GC-750",
+      "description": "T: 0161 953 7504"
+    },
+    {
+      "code": "KS4-GC-751",
+      "description": "aqa.org.uk"
+    },
+    {
+      "code": "KS4-GC-752",
+      "description": "Copyright 2021 AQA and its licensors. All rights reserved."
+    },
+    {
+      "code": "KS4-GC-753",
+      "description": "\u00a9"
+    },
+    {
+      "code": "KS4-GC-754",
+      "description": "AQA retains the copyright on all its publications, including the specifications. However, schools and colleges registered with AQA are"
+    },
+    {
+      "code": "KS4-GC-755",
+      "description": "permitted to copy material from this specification for their own internal use."
+    },
+    {
+      "code": "KS4-GC-756",
+      "description": "AQA Education (AQA) is a registered charity (number 1073334) and a company limited by guarantee registered in England and Wales"
+    },
+    {
+      "code": "KS4-GC-757",
+      "description": "(company number 3644723). Our registered address is AQA, Devas Street, Manchester M15 6EX."
     }
   ]
 }

@@ -1,1 +1,1852 @@
-{}
+{
+  "KS4": [
+    {
+      "code": "KS4-MA-001",
+      "description": "Mathematics"
+    },
+    {
+      "code": "KS4-MA-002",
+      "description": "programmes of"
+    },
+    {
+      "code": "KS4-MA-003",
+      "description": "study: key stage 4"
+    },
+    {
+      "code": "KS4-MA-004",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS4-MA-005",
+      "description": "July 2014"
+    },
+    {
+      "code": "KS4-MA-006",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-007",
+      "description": "Contents"
+    },
+    {
+      "code": "KS4-MA-008",
+      "description": "Purpose of study 3"
+    },
+    {
+      "code": "KS4-MA-009",
+      "description": "Aims 3"
+    },
+    {
+      "code": "KS4-MA-010",
+      "description": "Information and communication technology (ICT) 4"
+    },
+    {
+      "code": "KS4-MA-011",
+      "description": "Spoken language 4"
+    },
+    {
+      "code": "KS4-MA-012",
+      "description": "Working mathematically 5"
+    },
+    {
+      "code": "KS4-MA-013",
+      "description": "Develop fluency 5"
+    },
+    {
+      "code": "KS4-MA-014",
+      "description": "Reason mathematically 5"
+    },
+    {
+      "code": "KS4-MA-015",
+      "description": "Solve problems 6"
+    },
+    {
+      "code": "KS4-MA-016",
+      "description": "Subject content 7"
+    },
+    {
+      "code": "KS4-MA-017",
+      "description": "Number 7"
+    },
+    {
+      "code": "KS4-MA-018",
+      "description": "Algebra 7"
+    },
+    {
+      "code": "KS4-MA-019",
+      "description": "Ratio, proportion and rates of change 9"
+    },
+    {
+      "code": "KS4-MA-020",
+      "description": "Geometry and measures 9"
+    },
+    {
+      "code": "KS4-MA-021",
+      "description": "Probability 10"
+    },
+    {
+      "code": "KS4-MA-022",
+      "description": "Statistics 10"
+    },
+    {
+      "code": "KS4-MA-023",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-024",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS4-MA-025",
+      "description": "Mathematics is a creative and highly inter-connected discipline that has been developed"
+    },
+    {
+      "code": "KS4-MA-026",
+      "description": "over centuries, providing the solution to some of history\u2019s most intriguing problems. It is"
+    },
+    {
+      "code": "KS4-MA-027",
+      "description": "essential to everyday life, critical to science, technology and engineering, and necessary"
+    },
+    {
+      "code": "KS4-MA-028",
+      "description": "for financial literacy and most forms of employment. A high-quality mathematics"
+    },
+    {
+      "code": "KS4-MA-029",
+      "description": "education therefore provides a foundation for understanding the world, the ability to"
+    },
+    {
+      "code": "KS4-MA-030",
+      "description": "reason mathematically, an appreciation of the beauty and power of mathematics, and a"
+    },
+    {
+      "code": "KS4-MA-031",
+      "description": "sense of enjoyment and curiosity about the subject."
+    },
+    {
+      "code": "KS4-MA-032",
+      "description": "Aims"
+    },
+    {
+      "code": "KS4-MA-033",
+      "description": "The national curriculum for mathematics aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS4-MA-034",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-035",
+      "description": "become in the fundamentals of mathematics, including through varied and"
+    },
+    {
+      "code": "KS4-MA-036",
+      "description": "fluent"
+    },
+    {
+      "code": "KS4-MA-037",
+      "description": "frequent practice with increasingly complex problems over time, so that pupils develop"
+    },
+    {
+      "code": "KS4-MA-038",
+      "description": "conceptual understanding and the ability to recall and apply knowledge rapidly and"
+    },
+    {
+      "code": "KS4-MA-039",
+      "description": "accurately."
+    },
+    {
+      "code": "KS4-MA-040",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-041",
+      "description": "by following a line of enquiry, conjecturing relationships and"
+    },
+    {
+      "code": "KS4-MA-042",
+      "description": "reason mathematically"
+    },
+    {
+      "code": "KS4-MA-043",
+      "description": "generalisations, and developing an argument, justification or proof using mathematical"
+    },
+    {
+      "code": "KS4-MA-044",
+      "description": "language"
+    },
+    {
+      "code": "KS4-MA-045",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-046",
+      "description": "can by applying their mathematics to a variety of routine and non-"
+    },
+    {
+      "code": "KS4-MA-047",
+      "description": "solve problems"
+    },
+    {
+      "code": "KS4-MA-048",
+      "description": "routine problems with increasing sophistication, including breaking down problems into"
+    },
+    {
+      "code": "KS4-MA-049",
+      "description": "a series of simpler steps and persevering in seeking solutions."
+    },
+    {
+      "code": "KS4-MA-050",
+      "description": "Mathematics is an interconnected subject in which pupils need to be able to move"
+    },
+    {
+      "code": "KS4-MA-051",
+      "description": "fluently between representations of mathematical ideas. The programme of study for key"
+    },
+    {
+      "code": "KS4-MA-052",
+      "description": "stage 4 is organised into apparently distinct domains, but pupils should develop and"
+    },
+    {
+      "code": "KS4-MA-053",
+      "description": "consolidate connections across mathematical ideas. They should build on learning from"
+    },
+    {
+      "code": "KS4-MA-054",
+      "description": "key stage 3 to further develop fluency, mathematical reasoning and competence in"
+    },
+    {
+      "code": "KS4-MA-055",
+      "description": "solving increasingly sophisticated problems. They should also apply their mathematical"
+    },
+    {
+      "code": "KS4-MA-056",
+      "description": "knowledge wherever relevant in other subjects and in financial contexts."
+    },
+    {
+      "code": "KS4-MA-057",
+      "description": "The expectation is that the majority of pupils will move through the programme of study at"
+    },
+    {
+      "code": "KS4-MA-058",
+      "description": "broadly the same pace. However, decisions about when to progress should always be"
+    },
+    {
+      "code": "KS4-MA-059",
+      "description": "based on the security of pupils\u2019 understanding and their readiness to progress. Pupils"
+    },
+    {
+      "code": "KS4-MA-060",
+      "description": "who grasp concepts rapidly should be challenged through being offered rich and"
+    },
+    {
+      "code": "KS4-MA-061",
+      "description": "sophisticated problems before any acceleration through new content. Those who are not"
+    },
+    {
+      "code": "KS4-MA-062",
+      "description": "sufficiently fluent with earlier material should consolidate their understanding, including"
+    },
+    {
+      "code": "KS4-MA-063",
+      "description": "through additional practice, before moving on."
+    },
+    {
+      "code": "KS4-MA-064",
+      "description": "This programme of study specifies:"
+    },
+    {
+      "code": "KS4-MA-065",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-066",
+      "description": "the mathematical content that should be taught to all pupils, in standard type; and"
+    },
+    {
+      "code": "KS4-MA-067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-068",
+      "description": "additional mathematical content to be taught to more highly attaining pupils, in"
+    },
+    {
+      "code": "KS4-MA-069",
+      "description": "bold"
+    },
+    {
+      "code": "KS4-MA-070",
+      "description": "type and braces { }."
+    },
+    {
+      "code": "KS4-MA-071",
+      "description": "3"
+    },
+    {
+      "code": "KS4-MA-072",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-073",
+      "description": "Together, the mathematical content set out in the key stage 3 and key stage 4"
+    },
+    {
+      "code": "KS4-MA-074",
+      "description": "programmes of study covers the full range of material contained in the GCSE"
+    },
+    {
+      "code": "KS4-MA-075",
+      "description": "Mathematics qualification. Wherever it is appropriate, given pupils\u2019 security of"
+    },
+    {
+      "code": "KS4-MA-076",
+      "description": "understanding and readiness to progress, pupils should be taught the full content set out"
+    },
+    {
+      "code": "KS4-MA-077",
+      "description": "in this programme of study."
+    },
+    {
+      "code": "KS4-MA-078",
+      "description": "Information and communication technology (ICT)"
+    },
+    {
+      "code": "KS4-MA-079",
+      "description": "Calculators should not be used as a substitute for good written and mental arithmetic. In"
+    },
+    {
+      "code": "KS4-MA-080",
+      "description": "secondary schools, teachers should use their judgement about when ICT tools should be"
+    },
+    {
+      "code": "KS4-MA-081",
+      "description": "used."
+    },
+    {
+      "code": "KS4-MA-082",
+      "description": "Spoken language"
+    },
+    {
+      "code": "KS4-MA-083",
+      "description": "The national curriculum for mathematics reflects the importance of spoken language in"
+    },
+    {
+      "code": "KS4-MA-084",
+      "description": "pupils\u2019 development across the whole curriculum \u2013 cognitively, socially and linguistically."
+    },
+    {
+      "code": "KS4-MA-085",
+      "description": "The quality and variety of language that pupils hear and speak are key factors in"
+    },
+    {
+      "code": "KS4-MA-086",
+      "description": "developing their mathematical vocabulary and presenting a mathematical justification,"
+    },
+    {
+      "code": "KS4-MA-087",
+      "description": "argument or proof. They must be assisted in making their thinking clear to themselves as"
+    },
+    {
+      "code": "KS4-MA-088",
+      "description": "well as others and teachers should ensure that pupils build secure foundations by using"
+    },
+    {
+      "code": "KS4-MA-089",
+      "description": "discussion to probe and remedy their misconceptions."
+    },
+    {
+      "code": "KS4-MA-090",
+      "description": "Schools are not required by law to teach the example content in [square brackets]"
+    },
+    {
+      "code": "KS4-MA-091",
+      "description": "or the content indicated as being \u2018non-statutory\u2019."
+    },
+    {
+      "code": "KS4-MA-092",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-093",
+      "description": "Key stage 4"
+    },
+    {
+      "code": "KS4-MA-094",
+      "description": "Working mathematically"
+    },
+    {
+      "code": "KS4-MA-095",
+      "description": "Through the mathematics content, pupils should be taught to:"
+    },
+    {
+      "code": "KS4-MA-096",
+      "description": "Develop fluency"
+    },
+    {
+      "code": "KS4-MA-097",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-098",
+      "description": "consolidate their numerical and mathematical capability from key stage 3 and extend"
+    },
+    {
+      "code": "KS4-MA-099",
+      "description": "their understanding of the number system to include powers, roots {and"
+    },
+    {
+      "code": "KS4-MA-100",
+      "description": "fractional"
+    },
+    {
+      "code": "KS4-MA-101",
+      "description": "indices}"
+    },
+    {
+      "code": "KS4-MA-102",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-103",
+      "description": "select and use appropriate calculation strategies to solve increasingly complex"
+    },
+    {
+      "code": "KS4-MA-104",
+      "description": "\u03c0"
+    },
+    {
+      "code": "KS4-MA-105",
+      "description": "problems, including exact calculations involving multiples of {and surds}, use of"
+    },
+    {
+      "code": "KS4-MA-106",
+      "description": "standard form and application and interpretation of limits of accuracy"
+    },
+    {
+      "code": "KS4-MA-107",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-108",
+      "description": "consolidate their algebraic capability from key stage 3 and extend their understanding"
+    },
+    {
+      "code": "KS4-MA-109",
+      "description": "of algebraic simplification and manipulation to include quadratic expressions, {and"
+    },
+    {
+      "code": "KS4-MA-110",
+      "description": "fractions}"
+    },
+    {
+      "code": "KS4-MA-111",
+      "description": "expressions involving surds and algebraic"
+    },
+    {
+      "code": "KS4-MA-112",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-113",
+      "description": "extend fluency with expressions and equations from key stage 3, to include quadratic"
+    },
+    {
+      "code": "KS4-MA-114",
+      "description": "equations, simultaneous equations and inequalities"
+    },
+    {
+      "code": "KS4-MA-115",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-116",
+      "description": "move freely between different numerical, algebraic, graphical and diagrammatic"
+    },
+    {
+      "code": "KS4-MA-117",
+      "description": "representations, including of linear, quadratic, reciprocal, {exponential"
+    },
+    {
+      "code": "KS4-MA-118",
+      "description": "and"
+    },
+    {
+      "code": "KS4-MA-119",
+      "description": "trigonometric} functions"
+    },
+    {
+      "code": "KS4-MA-120",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-121",
+      "description": "use mathematical language and properties precisely."
+    },
+    {
+      "code": "KS4-MA-122",
+      "description": "Reason mathematically"
+    },
+    {
+      "code": "KS4-MA-123",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-124",
+      "description": "extend and formalise their knowledge of ratio and proportion, including trigonometric"
+    },
+    {
+      "code": "KS4-MA-125",
+      "description": "ratios, in working with measures and geometry, and in working with proportional"
+    },
+    {
+      "code": "KS4-MA-126",
+      "description": "relations algebraically and graphically"
+    },
+    {
+      "code": "KS4-MA-127",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-128",
+      "description": "extend their ability to identify variables and express relations between variables"
+    },
+    {
+      "code": "KS4-MA-129",
+      "description": "algebraically and graphically"
+    },
+    {
+      "code": "KS4-MA-130",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-131",
+      "description": "make and test conjectures about the generalisations that underlie patterns and"
+    },
+    {
+      "code": "KS4-MA-132",
+      "description": "relationships; look for proofs or counter-examples; begin to use algebra to support"
+    },
+    {
+      "code": "KS4-MA-133",
+      "description": "and construct arguments {and proofs}"
+    },
+    {
+      "code": "KS4-MA-134",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-135",
+      "description": "reason deductively in geometry, number and algebra, including using geometrical"
+    },
+    {
+      "code": "KS4-MA-136",
+      "description": "constructions"
+    },
+    {
+      "code": "KS4-MA-137",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-138",
+      "description": "interpret when the structure of a numerical problem requires additive, multiplicative or"
+    },
+    {
+      "code": "KS4-MA-139",
+      "description": "proportional reasoning"
+    },
+    {
+      "code": "KS4-MA-140",
+      "description": "5"
+    },
+    {
+      "code": "KS4-MA-141",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-142",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-143",
+      "description": "explore what can and cannot be inferred in statistical and probabilistic settings, and"
+    },
+    {
+      "code": "KS4-MA-144",
+      "description": "express their arguments formally"
+    },
+    {
+      "code": "KS4-MA-145",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-146",
+      "description": "assess the validity of an argument and the accuracy of a given way of presenting"
+    },
+    {
+      "code": "KS4-MA-147",
+      "description": "information."
+    },
+    {
+      "code": "KS4-MA-148",
+      "description": "Solve problems"
+    },
+    {
+      "code": "KS4-MA-149",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-150",
+      "description": "develop their mathematical knowledge, in part through solving problems and"
+    },
+    {
+      "code": "KS4-MA-151",
+      "description": "evaluating the outcomes, including multi-step problems"
+    },
+    {
+      "code": "KS4-MA-152",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-153",
+      "description": "develop their use of formal mathematical knowledge to interpret and solve problems,"
+    },
+    {
+      "code": "KS4-MA-154",
+      "description": "including in financial contexts"
+    },
+    {
+      "code": "KS4-MA-155",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-156",
+      "description": "make and use connections between different parts of mathematics to solve problems"
+    },
+    {
+      "code": "KS4-MA-157",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-158",
+      "description": "model situations mathematically and express the results using a range of formal"
+    },
+    {
+      "code": "KS4-MA-159",
+      "description": "mathematical representations, reflecting on how their solutions may have been"
+    },
+    {
+      "code": "KS4-MA-160",
+      "description": "affected by any modelling assumptions"
+    },
+    {
+      "code": "KS4-MA-161",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-162",
+      "description": "select appropriate concepts, methods and techniques to apply to unfamiliar and non-"
+    },
+    {
+      "code": "KS4-MA-163",
+      "description": "routine problems; interpret their solution in the context of the given problem."
+    },
+    {
+      "code": "KS4-MA-164",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-165",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS4-MA-166",
+      "description": "Number"
+    },
+    {
+      "code": "KS4-MA-167",
+      "description": "In addition to consolidating subject content from key stage 3, pupils should be taught to:"
+    },
+    {
+      "code": "KS4-MA-168",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-169",
+      "description": "apply systematic listing strategies, {including counting}"
+    },
+    {
+      "code": "KS4-MA-170",
+      "description": "use of the product rule for"
+    },
+    {
+      "code": "KS4-MA-171",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-172",
+      "description": "{estimate number}"
+    },
+    {
+      "code": "KS4-MA-173",
+      "description": "powers and roots of any given positive"
+    },
+    {
+      "code": "KS4-MA-174",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-175",
+      "description": "calculate with roots, and with integer {and fractional} indices"
+    },
+    {
+      "code": "KS4-MA-176",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-177",
+      "description": "\u03c0;"
+    },
+    {
+      "code": "KS4-MA-178",
+      "description": "calculate exactly with fractions, {surds} and multiples of {simplify"
+    },
+    {
+      "code": "KS4-MA-179",
+      "description": "surd"
+    },
+    {
+      "code": "KS4-MA-180",
+      "description": "= 4\u00d73 = 4\u00d7 ="
+    },
+    {
+      "code": "KS4-MA-181",
+      "description": "12 3 2 3]"
+    },
+    {
+      "code": "KS4-MA-182",
+      "description": "expressions involving squares [for example and"
+    },
+    {
+      "code": "KS4-MA-183",
+      "description": "denominators}"
+    },
+    {
+      "code": "KS4-MA-184",
+      "description": "rationalise"
+    },
+    {
+      "code": "KS4-MA-185",
+      "description": "\u00d710n,"
+    },
+    {
+      "code": "KS4-MA-186",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-187",
+      "description": "calculate with numbers in standard form A where 1 \u2264 A < 10 and n is an integer"
+    },
+    {
+      "code": "KS4-MA-188",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-189",
+      "description": "{change versa}"
+    },
+    {
+      "code": "KS4-MA-190",
+      "description": "recurring decimals into their corresponding fractions and vice"
+    },
+    {
+      "code": "KS4-MA-191",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-192",
+      "description": "identify and work with fractions in ratio problems"
+    },
+    {
+      "code": "KS4-MA-193",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-194",
+      "description": "apply and interpret limits of accuracy when rounding or truncating, {including"
+    },
+    {
+      "code": "KS4-MA-195",
+      "description": "upper"
+    },
+    {
+      "code": "KS4-MA-196",
+      "description": "bounds}."
+    },
+    {
+      "code": "KS4-MA-197",
+      "description": "and lower"
+    },
+    {
+      "code": "KS4-MA-198",
+      "description": "Algebra"
+    },
+    {
+      "code": "KS4-MA-199",
+      "description": "In addition to consolidating subject content from key stage 3, pupils should be taught to:"
+    },
+    {
+      "code": "KS4-MA-200",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-MA-201",
+      "description": "simplify and manipulate algebraic expressions (including those involving surds {and"
+    },
+    {
+      "code": "KS4-MA-202",
+      "description": "fractions}) by:"
+    },
+    {
+      "code": "KS4-MA-203",
+      "description": "algebraic"
+    },
+    {
+      "code": "KS4-MA-204",
+      "description": "x2"
+    },
+    {
+      "code": "KS4-MA-205",
+      "description": "+bx+c,"
+    },
+    {
+      "code": "KS4-MA-206",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-207",
+      "description": "factorising quadratic expressions of the form including the"
+    },
+    {
+      "code": "KS4-MA-208",
+      "description": "difference of two squares; {factorising"
+    },
+    {
+      "code": "KS4-MA-209",
+      "description": "quadratic expressions of the form"
+    },
+    {
+      "code": "KS4-MA-210",
+      "description": "ax2"
+    },
+    {
+      "code": "KS4-MA-211",
+      "description": "+bx+c}"
+    },
+    {
+      "code": "KS4-MA-212",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-213",
+      "description": "simplifying expressions involving sums, products and powers, including the laws"
+    },
+    {
+      "code": "KS4-MA-214",
+      "description": "of indices"
+    },
+    {
+      "code": "KS4-MA-215",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-216",
+      "description": "know the difference between an equation and an identity; argue mathematically to"
+    },
+    {
+      "code": "KS4-MA-217",
+      "description": "show algebraic expressions are equivalent, and use algebra to support and construct"
+    },
+    {
+      "code": "KS4-MA-218",
+      "description": "arguments {and proofs}"
+    },
+    {
+      "code": "KS4-MA-219",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-220",
+      "description": "where appropriate, interpret simple expressions as functions with inputs and outputs;"
+    },
+    {
+      "code": "KS4-MA-221",
+      "description": "{interpret"
+    },
+    {
+      "code": "KS4-MA-222",
+      "description": "the reverse process as the \u2018inverse function\u2019; interpret the succession"
+    },
+    {
+      "code": "KS4-MA-223",
+      "description": "function\u2019}"
+    },
+    {
+      "code": "KS4-MA-224",
+      "description": "of two functions as a \u2018composite"
+    },
+    {
+      "code": "KS4-MA-225",
+      "description": "7"
+    },
+    {
+      "code": "KS4-MA-226",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-227",
+      "description": "=mx+c"
+    },
+    {
+      "code": "KS4-MA-228",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-229",
+      "description": "y"
+    },
+    {
+      "code": "KS4-MA-230",
+      "description": "use the form to identify parallel {and perpendicular} lines; find the"
+    },
+    {
+      "code": "KS4-MA-231",
+      "description": "equation of the line through two given points, or through one point with a given"
+    },
+    {
+      "code": "KS4-MA-232",
+      "description": "gradient"
+    },
+    {
+      "code": "KS4-MA-233",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-234",
+      "description": "identify and interpret roots, intercepts and turning points of quadratic functions"
+    },
+    {
+      "code": "KS4-MA-235",
+      "description": "graphically; deduce roots algebraically {and"
+    },
+    {
+      "code": "KS4-MA-236",
+      "description": "turning points by completing the"
+    },
+    {
+      "code": "KS4-MA-237",
+      "description": "square}"
+    },
+    {
+      "code": "KS4-MA-238",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-239",
+      "description": "recognise, sketch and interpret graphs of linear functions, quadratic functions, simple"
+    },
+    {
+      "code": "KS4-MA-240",
+      "description": "1"
+    },
+    {
+      "code": "KS4-MA-241",
+      "description": "="
+    },
+    {
+      "code": "KS4-MA-242",
+      "description": "x \u2260 0,"
+    },
+    {
+      "code": "KS4-MA-243",
+      "description": "y"
+    },
+    {
+      "code": "KS4-MA-244",
+      "description": "cubic functions, the reciprocal function with {the"
+    },
+    {
+      "code": "KS4-MA-245",
+      "description": "exponential function"
+    },
+    {
+      "code": "KS4-MA-246",
+      "description": "x"
+    },
+    {
+      "code": "KS4-MA-247",
+      "description": "kx"
+    },
+    {
+      "code": "KS4-MA-248",
+      "description": "y="
+    },
+    {
+      "code": "KS4-MA-249",
+      "description": "k,"
+    },
+    {
+      "code": "KS4-MA-250",
+      "description": "for positive values of and the trigonometric functions (with arguments"
+    },
+    {
+      "code": "KS4-MA-251",
+      "description": "y="
+    },
+    {
+      "code": "KS4-MA-252",
+      "description": "y=sinx,"
+    },
+    {
+      "code": "KS4-MA-253",
+      "description": "y=cosx"
+    },
+    {
+      "code": "KS4-MA-254",
+      "description": "tanx"
+    },
+    {
+      "code": "KS4-MA-255",
+      "description": "size}"
+    },
+    {
+      "code": "KS4-MA-256",
+      "description": "in degrees) and for angles of any"
+    },
+    {
+      "code": "KS4-MA-257",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-258",
+      "description": "{sketch function}"
+    },
+    {
+      "code": "KS4-MA-259",
+      "description": "translations and reflections of the graph of a given"
+    },
+    {
+      "code": "KS4-MA-260",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-261",
+      "description": "plot and interpret graphs (including reciprocal graphs {and graphs}) and"
+    },
+    {
+      "code": "KS4-MA-262",
+      "description": "exponential"
+    },
+    {
+      "code": "KS4-MA-263",
+      "description": "graphs of non-standard functions in real contexts, to find approximate solutions to"
+    },
+    {
+      "code": "KS4-MA-264",
+      "description": "problems such as simple kinematic problems involving distance, speed and"
+    },
+    {
+      "code": "KS4-MA-265",
+      "description": "acceleration"
+    },
+    {
+      "code": "KS4-MA-266",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-267",
+      "description": "{calculate"
+    },
+    {
+      "code": "KS4-MA-268",
+      "description": "or estimate gradients of graphs and areas under graphs (including"
+    },
+    {
+      "code": "KS4-MA-269",
+      "description": "quadratic and other non-linear graphs), and interpret results in cases such as"
+    },
+    {
+      "code": "KS4-MA-270",
+      "description": "contexts}"
+    },
+    {
+      "code": "KS4-MA-271",
+      "description": "distance-time graphs, velocity-time graphs and graphs in financial"
+    },
+    {
+      "code": "KS4-MA-272",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-273",
+      "description": "{recognise"
+    },
+    {
+      "code": "KS4-MA-274",
+      "description": "and use the equation of a circle with centre at the origin; find the"
+    },
+    {
+      "code": "KS4-MA-275",
+      "description": "point}"
+    },
+    {
+      "code": "KS4-MA-276",
+      "description": "equation of a tangent to a circle at a given"
+    },
+    {
+      "code": "KS4-MA-277",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-278",
+      "description": "solve quadratic equations {including rearrangement}"
+    },
+    {
+      "code": "KS4-MA-279",
+      "description": "those that require"
+    },
+    {
+      "code": "KS4-MA-280",
+      "description": "algebraically by factorising, {by"
+    },
+    {
+      "code": "KS4-MA-281",
+      "description": "completing the square and by using the quadratic"
+    },
+    {
+      "code": "KS4-MA-282",
+      "description": "formula}; find approximate solutions using a graph"
+    },
+    {
+      "code": "KS4-MA-283",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-284",
+      "description": "solve two simultaneous equations in two variables (linear/linear {or linear/quadratic})"
+    },
+    {
+      "code": "KS4-MA-285",
+      "description": "algebraically; find approximate solutions using a graph"
+    },
+    {
+      "code": "KS4-MA-286",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-287",
+      "description": "{find iteration}"
+    },
+    {
+      "code": "KS4-MA-288",
+      "description": "approximate solutions to equations numerically using"
+    },
+    {
+      "code": "KS4-MA-289",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-290",
+      "description": "translate simple situations or procedures into algebraic expressions or formulae;"
+    },
+    {
+      "code": "KS4-MA-291",
+      "description": "derive an equation (or two simultaneous equations), solve the equation(s) and"
+    },
+    {
+      "code": "KS4-MA-292",
+      "description": "interpret the solution"
+    },
+    {
+      "code": "KS4-MA-293",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-294",
+      "description": "solve linear inequalities in one {or two} variable{s}, {and"
+    },
+    {
+      "code": "KS4-MA-295",
+      "description": "quadratic inequalities in"
+    },
+    {
+      "code": "KS4-MA-296",
+      "description": "variable}; represent the solution set on a number line, {using"
+    },
+    {
+      "code": "KS4-MA-297",
+      "description": "one set notation and"
+    },
+    {
+      "code": "KS4-MA-298",
+      "description": "graph}"
+    },
+    {
+      "code": "KS4-MA-299",
+      "description": "on a"
+    },
+    {
+      "code": "KS4-MA-300",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-301",
+      "description": "recognise and use sequences of triangular, square and cube numbers, simple"
+    },
+    {
+      "code": "KS4-MA-302",
+      "description": "arithmetic progressions, Fibonacci type sequences, quadratic sequences, and simple"
+    },
+    {
+      "code": "KS4-MA-303",
+      "description": "n"
+    },
+    {
+      "code": "KS4-MA-304",
+      "description": "(r n r"
+    },
+    {
+      "code": "KS4-MA-305",
+      "description": "geometric progressions where is an integer, and is a positive rational"
+    },
+    {
+      "code": "KS4-MA-306",
+      "description": "number {or surd}) {and sequences}"
+    },
+    {
+      "code": "KS4-MA-307",
+      "description": "a other"
+    },
+    {
+      "code": "KS4-MA-308",
+      "description": "nth"
+    },
+    {
+      "code": "KS4-MA-309",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-310",
+      "description": "deduce expressions to calculate the term of linear {and quadratic} sequences."
+    },
+    {
+      "code": "KS4-MA-311",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-312",
+      "description": "Ratio, proportion and rates of change"
+    },
+    {
+      "code": "KS4-MA-313",
+      "description": "In addition to consolidating subject content from key stage 3, pupils should be taught to:"
+    },
+    {
+      "code": "KS4-MA-314",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-315",
+      "description": "compare lengths, areas and volumes using ratio notation and/or scale factors; make"
+    },
+    {
+      "code": "KS4-MA-316",
+      "description": "links to similarity (including trigonometric ratios)"
+    },
+    {
+      "code": "KS4-MA-317",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-318",
+      "description": "convert between related compound units (speed, rates of pay, prices, density,"
+    },
+    {
+      "code": "KS4-MA-319",
+      "description": "pressure) in numerical and algebraic contexts"
+    },
+    {
+      "code": "KS4-MA-320",
+      "description": "1"
+    },
+    {
+      "code": "KS4-MA-321",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-322",
+      "description": "X Y X"
+    },
+    {
+      "code": "KS4-MA-323",
+      "description": "understand that is inversely proportional to is equivalent to is proportional to ;"
+    },
+    {
+      "code": "KS4-MA-324",
+      "description": "Y"
+    },
+    {
+      "code": "KS4-MA-325",
+      "description": "{construct and} interpret equations that describe direct and inverse proportion"
+    },
+    {
+      "code": "KS4-MA-326",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-327",
+      "description": "interpret the gradient of a straight line graph as a rate of change; recognise and"
+    },
+    {
+      "code": "KS4-MA-328",
+      "description": "interpret graphs that illustrate direct and inverse proportion"
+    },
+    {
+      "code": "KS4-MA-329",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-330",
+      "description": "{interpret"
+    },
+    {
+      "code": "KS4-MA-331",
+      "description": "the gradient at a point on a curve as the instantaneous rate of change;"
+    },
+    {
+      "code": "KS4-MA-332",
+      "description": "apply the concepts of instantaneous and average rate of change (gradients of"
+    },
+    {
+      "code": "KS4-MA-333",
+      "description": "contexts}"
+    },
+    {
+      "code": "KS4-MA-334",
+      "description": "tangents and chords) in numerical, algebraic and graphical"
+    },
+    {
+      "code": "KS4-MA-335",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-336",
+      "description": "set up, solve and interpret the answers in growth and decay problems, including"
+    },
+    {
+      "code": "KS4-MA-337",
+      "description": "compound interest {and processes}."
+    },
+    {
+      "code": "KS4-MA-338",
+      "description": "work with general iterative"
+    },
+    {
+      "code": "KS4-MA-339",
+      "description": "Geometry and measures"
+    },
+    {
+      "code": "KS4-MA-340",
+      "description": "In addition to consolidating subject content from key stage 3, pupils should be taught to:"
+    },
+    {
+      "code": "KS4-MA-341",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-342",
+      "description": "interpret and use fractional {and negative} scale factors for enlargements"
+    },
+    {
+      "code": "KS4-MA-343",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-344",
+      "description": "{describe"
+    },
+    {
+      "code": "KS4-MA-345",
+      "description": "the changes and invariance achieved by combinations of rotations,"
+    },
+    {
+      "code": "KS4-MA-346",
+      "description": "translations}"
+    },
+    {
+      "code": "KS4-MA-347",
+      "description": "reflections and"
+    },
+    {
+      "code": "KS4-MA-348",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-349",
+      "description": "identify and apply circle definitions and properties, including: centre, radius, chord,"
+    },
+    {
+      "code": "KS4-MA-350",
+      "description": "diameter, circumference, tangent, arc, sector and segment"
+    },
+    {
+      "code": "KS4-MA-351",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-352",
+      "description": "{apply"
+    },
+    {
+      "code": "KS4-MA-353",
+      "description": "and prove the standard circle theorems concerning angles, radii,"
+    },
+    {
+      "code": "KS4-MA-354",
+      "description": "results}"
+    },
+    {
+      "code": "KS4-MA-355",
+      "description": "tangents and chords, and use them to prove related"
+    },
+    {
+      "code": "KS4-MA-356",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-357",
+      "description": "construct and interpret plans and elevations of 3D shapes"
+    },
+    {
+      "code": "KS4-MA-358",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-359",
+      "description": "interpret and use bearings"
+    },
+    {
+      "code": "KS4-MA-360",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-361",
+      "description": "calculate arc lengths, angles and areas of sectors of circles"
+    },
+    {
+      "code": "KS4-MA-362",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-363",
+      "description": "calculate surface areas and volumes of spheres, pyramids, cones and composite"
+    },
+    {
+      "code": "KS4-MA-364",
+      "description": "solids"
+    },
+    {
+      "code": "KS4-MA-365",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-366",
+      "description": "apply the concepts of congruence and similarity, including the relationships between"
+    },
+    {
+      "code": "KS4-MA-367",
+      "description": "lengths, {areas volumes} in similar figures"
+    },
+    {
+      "code": "KS4-MA-368",
+      "description": "and"
+    },
+    {
+      "code": "KS4-MA-369",
+      "description": "9"
+    },
+    {
+      "code": "KS4-MA-370",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-371",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-372",
+      "description": "apply Pythagoras\u2019 Theorem and trigonometric ratios to find angles and lengths in"
+    },
+    {
+      "code": "KS4-MA-373",
+      "description": "right-angled triangles {and, triangles} in two {and three}"
+    },
+    {
+      "code": "KS4-MA-374",
+      "description": "where possible, general"
+    },
+    {
+      "code": "KS4-MA-375",
+      "description": "dimensional figures"
+    },
+    {
+      "code": "KS4-MA-376",
+      "description": "\u03b8=00, 300, 900;"
+    },
+    {
+      "code": "KS4-MA-377",
+      "description": "450,"
+    },
+    {
+      "code": "KS4-MA-378",
+      "description": "600"
+    },
+    {
+      "code": "KS4-MA-379",
+      "description": "sin\u03b8 cos\u03b8"
+    },
+    {
+      "code": "KS4-MA-380",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-381",
+      "description": "know the exact values of for know the and and"
+    },
+    {
+      "code": "KS4-MA-382",
+      "description": "\u03b8=00, 300,"
+    },
+    {
+      "code": "KS4-MA-383",
+      "description": "450"
+    },
+    {
+      "code": "KS4-MA-384",
+      "description": "600"
+    },
+    {
+      "code": "KS4-MA-385",
+      "description": "tan\u03b8"
+    },
+    {
+      "code": "KS4-MA-386",
+      "description": "exact value of for and"
+    },
+    {
+      "code": "KS4-MA-387",
+      "description": "a b c"
+    },
+    {
+      "code": "KS4-MA-388",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-389",
+      "description": "= ="
+    },
+    {
+      "code": "KS4-MA-390",
+      "description": "{know"
+    },
+    {
+      "code": "KS4-MA-391",
+      "description": "and apply the sine rule, , and cosine rule,"
+    },
+    {
+      "code": "KS4-MA-392",
+      "description": "sinA sinB sinC"
+    },
+    {
+      "code": "KS4-MA-393",
+      "description": "a2 =b2 +c2"
+    },
+    {
+      "code": "KS4-MA-394",
+      "description": "\u22122bccosA,"
+    },
+    {
+      "code": "KS4-MA-395",
+      "description": "angles}"
+    },
+    {
+      "code": "KS4-MA-396",
+      "description": "to find unknown lengths and"
+    },
+    {
+      "code": "KS4-MA-397",
+      "description": "1"
+    },
+    {
+      "code": "KS4-MA-398",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-399",
+      "description": "Area = absinC"
+    },
+    {
+      "code": "KS4-MA-400",
+      "description": "{know"
+    },
+    {
+      "code": "KS4-MA-401",
+      "description": "and apply to calculate the area, sides or angles of any"
+    },
+    {
+      "code": "KS4-MA-402",
+      "description": "2"
+    },
+    {
+      "code": "KS4-MA-403",
+      "description": "triangle}"
+    },
+    {
+      "code": "KS4-MA-404",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-405",
+      "description": "describe translations as 2D vectors"
+    },
+    {
+      "code": "KS4-MA-406",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-407",
+      "description": "apply addition and subtraction of vectors, multiplication of vectors by a scalar, and"
+    },
+    {
+      "code": "KS4-MA-408",
+      "description": "diagrammatic and column representations of vectors; {use"
+    },
+    {
+      "code": "KS4-MA-409",
+      "description": "vectors to construct"
+    },
+    {
+      "code": "KS4-MA-410",
+      "description": "proofs}."
+    },
+    {
+      "code": "KS4-MA-411",
+      "description": "geometric arguments and"
+    },
+    {
+      "code": "KS4-MA-412",
+      "description": "Probability"
+    },
+    {
+      "code": "KS4-MA-413",
+      "description": "In addition to consolidating subject content from key stage 3, pupils should be taught to:"
+    },
+    {
+      "code": "KS4-MA-414",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-415",
+      "description": "apply the property that the probabilities of an exhaustive set of mutually exclusive"
+    },
+    {
+      "code": "KS4-MA-416",
+      "description": "events sum to one"
+    },
+    {
+      "code": "KS4-MA-417",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-418",
+      "description": "use a probability model to predict the outcomes of future experiments; understand"
+    },
+    {
+      "code": "KS4-MA-419",
+      "description": "that empirical unbiased samples tend towards theoretical probability distributions, with"
+    },
+    {
+      "code": "KS4-MA-420",
+      "description": "increasing sample size"
+    },
+    {
+      "code": "KS4-MA-421",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-422",
+      "description": "calculate the probability of independent and dependent combined events, including"
+    },
+    {
+      "code": "KS4-MA-423",
+      "description": "using tree diagrams and other representations, and know the underlying assumptions"
+    },
+    {
+      "code": "KS4-MA-424",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-425",
+      "description": "{calculate"
+    },
+    {
+      "code": "KS4-MA-426",
+      "description": "and interpret conditional probabilities through representation using"
+    },
+    {
+      "code": "KS4-MA-427",
+      "description": "diagrams}."
+    },
+    {
+      "code": "KS4-MA-428",
+      "description": "expected frequencies with two-way tables, tree diagrams and Venn"
+    },
+    {
+      "code": "KS4-MA-429",
+      "description": "Statistics"
+    },
+    {
+      "code": "KS4-MA-430",
+      "description": "In addition to consolidating subject content from key stage 3, pupils should be taught to:"
+    },
+    {
+      "code": "KS4-MA-431",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-432",
+      "description": "infer properties of populations or distributions from a sample, whilst knowing the"
+    },
+    {
+      "code": "KS4-MA-433",
+      "description": "limitations of sampling"
+    },
+    {
+      "code": "KS4-MA-434",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-435",
+      "description": "interpret and construct tables and line graphs for time series data"
+    },
+    {
+      "code": "KS4-MA-436",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-437",
+      "description": "{construct"
+    },
+    {
+      "code": "KS4-MA-438",
+      "description": "and interpret diagrams for grouped discrete data and continuous"
+    },
+    {
+      "code": "KS4-MA-439",
+      "description": "data, i.e. histograms with equal and unequal class intervals and cumulative"
+    },
+    {
+      "code": "KS4-MA-440",
+      "description": "use}"
+    },
+    {
+      "code": "KS4-MA-441",
+      "description": "frequency graphs, and know their appropriate"
+    },
+    {
+      "code": "KS4-MA-442",
+      "description": "Mathematics \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-MA-443",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-444",
+      "description": "interpret, analyse and compare the distributions of data sets from univariate empirical"
+    },
+    {
+      "code": "KS4-MA-445",
+      "description": "distributions through:"
+    },
+    {
+      "code": "KS4-MA-446",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-447",
+      "description": "appropriate graphical representation involving discrete, continuous and"
+    },
+    {
+      "code": "KS4-MA-448",
+      "description": "grouped data, {including plots}"
+    },
+    {
+      "code": "KS4-MA-449",
+      "description": "box"
+    },
+    {
+      "code": "KS4-MA-450",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-451",
+      "description": "appropriate measures of central tendency (including modal class) and spread"
+    },
+    {
+      "code": "KS4-MA-452",
+      "description": "{including range}"
+    },
+    {
+      "code": "KS4-MA-453",
+      "description": "quartiles and inter-quartile"
+    },
+    {
+      "code": "KS4-MA-454",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-455",
+      "description": "apply statistics to describe a population"
+    },
+    {
+      "code": "KS4-MA-456",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS4-MA-457",
+      "description": "use and interpret scatter graphs of bivariate data; recognise correlation and know that"
+    },
+    {
+      "code": "KS4-MA-458",
+      "description": "it does not indicate causation; draw estimated lines of best fit; make predictions;"
+    },
+    {
+      "code": "KS4-MA-459",
+      "description": "interpolate and extrapolate apparent trends whilst knowing the dangers of so doing."
+    },
+    {
+      "code": "KS4-MA-460",
+      "description": "\u00a9 Crown copyright 2014"
+    },
+    {
+      "code": "KS4-MA-461",
+      "description": "Reference: DFE-00496-2014"
+    },
+    {
+      "code": "KS4-MA-462",
+      "description": "11"
+    }
+  ]
+}

@@ -1,1 +1,2260 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-SC-001",
+      "description": "Science programmes"
+    },
+    {
+      "code": "KS3-SC-002",
+      "description": "of study: key stage 3"
+    },
+    {
+      "code": "KS3-SC-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-SC-004",
+      "description": "September 2013"
+    },
+    {
+      "code": "KS3-SC-005",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-006",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-SC-007",
+      "description": "A high-quality science education provides the foundations for understanding the world"
+    },
+    {
+      "code": "KS3-SC-008",
+      "description": "through the specific disciplines of biology, chemistry and physics. Science has changed"
+    },
+    {
+      "code": "KS3-SC-009",
+      "description": "our lives and is vital to the world\u2019s future prosperity, and all pupils should be taught"
+    },
+    {
+      "code": "KS3-SC-010",
+      "description": "essential aspects of the knowledge, methods, processes and uses of science. Through"
+    },
+    {
+      "code": "KS3-SC-011",
+      "description": "building up a body of key foundational knowledge and concepts, pupils should be"
+    },
+    {
+      "code": "KS3-SC-012",
+      "description": "encouraged to recognise the power of rational explanation and develop a sense of"
+    },
+    {
+      "code": "KS3-SC-013",
+      "description": "excitement and curiosity about natural phenomena. They should be encouraged to"
+    },
+    {
+      "code": "KS3-SC-014",
+      "description": "understand how science can be used to explain what is occurring, predict how things will"
+    },
+    {
+      "code": "KS3-SC-015",
+      "description": "behave, and analyse causes."
+    },
+    {
+      "code": "KS3-SC-016",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-SC-017",
+      "description": "The national curriculum for science aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-SC-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-019",
+      "description": "develop through the specific"
+    },
+    {
+      "code": "KS3-SC-020",
+      "description": "scientific knowledge and conceptual understanding"
+    },
+    {
+      "code": "KS3-SC-021",
+      "description": "disciplines of biology, chemistry and physics"
+    },
+    {
+      "code": "KS3-SC-022",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-023",
+      "description": "develop understanding of the through"
+    },
+    {
+      "code": "KS3-SC-024",
+      "description": "nature, processes and methods of science"
+    },
+    {
+      "code": "KS3-SC-025",
+      "description": "different types of science enquiries that help them to answer scientific questions about"
+    },
+    {
+      "code": "KS3-SC-026",
+      "description": "the world around them"
+    },
+    {
+      "code": "KS3-SC-027",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-028",
+      "description": "are equipped with the scientific knowledge required to understand the"
+    },
+    {
+      "code": "KS3-SC-029",
+      "description": "uses and"
+    },
+    {
+      "code": "KS3-SC-030",
+      "description": "of science, today and for the future."
+    },
+    {
+      "code": "KS3-SC-031",
+      "description": "implications"
+    },
+    {
+      "code": "KS3-SC-032",
+      "description": "Scientific knowledge and conceptual understanding"
+    },
+    {
+      "code": "KS3-SC-033",
+      "description": "The programmes of study describe a sequence of knowledge and concepts. While it is"
+    },
+    {
+      "code": "KS3-SC-034",
+      "description": "important that pupils make progress, it is also vitally important that they develop secure"
+    },
+    {
+      "code": "KS3-SC-035",
+      "description": "understanding of each key block of knowledge and concepts in order to progress to the"
+    },
+    {
+      "code": "KS3-SC-036",
+      "description": "next stage. Insecure, superficial understanding will not allow genuine progression: pupils"
+    },
+    {
+      "code": "KS3-SC-037",
+      "description": "may struggle at key points of transition (such as between primary and secondary school),"
+    },
+    {
+      "code": "KS3-SC-038",
+      "description": "build up serious misconceptions, and/or have significant difficulties in understanding"
+    },
+    {
+      "code": "KS3-SC-039",
+      "description": "higher-order content."
+    },
+    {
+      "code": "KS3-SC-040",
+      "description": "Pupils should be able to describe associated processes and key characteristics in"
+    },
+    {
+      "code": "KS3-SC-041",
+      "description": "common language, but they should also be familiar with, and use, technical terminology"
+    },
+    {
+      "code": "KS3-SC-042",
+      "description": "accurately and precisely. They should build up an extended specialist vocabulary. They"
+    },
+    {
+      "code": "KS3-SC-043",
+      "description": "should also apply their mathematical knowledge to their understanding of science,"
+    },
+    {
+      "code": "KS3-SC-044",
+      "description": "including collecting, presenting and analysing data. The social and economic implications"
+    },
+    {
+      "code": "KS3-SC-045",
+      "description": "of science are important but, generally, they are taught most appropriately within the wider"
+    },
+    {
+      "code": "KS3-SC-046",
+      "description": "school curriculum: teachers will wish to use different contexts to maximise their pupils\u2019"
+    },
+    {
+      "code": "KS3-SC-047",
+      "description": "engagement with and motivation to study science."
+    },
+    {
+      "code": "KS3-SC-048",
+      "description": "The principal focus of science teaching in key stage 3 is to develop a deeper"
+    },
+    {
+      "code": "KS3-SC-049",
+      "description": "understanding of a range of scientific ideas in the subject disciplines of biology, chemistry"
+    },
+    {
+      "code": "KS3-SC-050",
+      "description": "and physics. Pupils should begin to see the connections between these subject areas and"
+    },
+    {
+      "code": "KS3-SC-051",
+      "description": "2"
+    },
+    {
+      "code": "KS3-SC-052",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-053",
+      "description": "become aware of some of the big ideas underpinning scientific knowledge and"
+    },
+    {
+      "code": "KS3-SC-054",
+      "description": "understanding. Examples of these big ideas are the links between structure and function in"
+    },
+    {
+      "code": "KS3-SC-055",
+      "description": "living organisms, the particulate model as the key to understanding the properties and"
+    },
+    {
+      "code": "KS3-SC-056",
+      "description": "interactions of matter in all its forms, and the resources and means of transfer of energy as"
+    },
+    {
+      "code": "KS3-SC-057",
+      "description": "key determinants of all of these interactions. They should be encouraged to relate"
+    },
+    {
+      "code": "KS3-SC-058",
+      "description": "scientific explanations to phenomena in the world around them and start to use modelling"
+    },
+    {
+      "code": "KS3-SC-059",
+      "description": "and abstract ideas to develop and evaluate explanations."
+    },
+    {
+      "code": "KS3-SC-060",
+      "description": "Pupils should understand that science is about working objectively, modifying explanations"
+    },
+    {
+      "code": "KS3-SC-061",
+      "description": "to take account of new evidence and ideas and subjecting results to peer review. Pupils"
+    },
+    {
+      "code": "KS3-SC-062",
+      "description": "should decide on the appropriate type of scientific enquiry to undertake to answer their"
+    },
+    {
+      "code": "KS3-SC-063",
+      "description": "own questions and develop a deeper understanding of factors to be taken into account"
+    },
+    {
+      "code": "KS3-SC-064",
+      "description": "when collecting, recording and processing data. They should evaluate their results and"
+    },
+    {
+      "code": "KS3-SC-065",
+      "description": "identify further questions arising from them."
+    },
+    {
+      "code": "KS3-SC-066",
+      "description": "\u2018Working scientifically\u2019 is described separately at the beginning of the programme of study,"
+    },
+    {
+      "code": "KS3-SC-067",
+      "description": "but must always be taught through and clearly related to substantive science content in the"
+    },
+    {
+      "code": "KS3-SC-068",
+      "description": "programme of study. Teachers should feel free to choose examples that serve a variety of"
+    },
+    {
+      "code": "KS3-SC-069",
+      "description": "purposes, from showing how scientific ideas have developed historically to reflecting"
+    },
+    {
+      "code": "KS3-SC-070",
+      "description": "modern developments in science."
+    },
+    {
+      "code": "KS3-SC-071",
+      "description": "Pupils should develop their use of scientific vocabulary, including the use of scientific"
+    },
+    {
+      "code": "KS3-SC-072",
+      "description": "nomenclature and units and mathematical representations."
+    },
+    {
+      "code": "KS3-SC-073",
+      "description": "Spoken language"
+    },
+    {
+      "code": "KS3-SC-074",
+      "description": "The national curriculum for science reflects the importance of spoken language in pupils\u2019"
+    },
+    {
+      "code": "KS3-SC-075",
+      "description": "development across the whole curriculum \u2013 cognitively, socially and linguistically. The"
+    },
+    {
+      "code": "KS3-SC-076",
+      "description": "quality and variety of language that pupils hear and speak are key factors in developing"
+    },
+    {
+      "code": "KS3-SC-077",
+      "description": "their scientific vocabulary and articulating scientific concepts clearly and precisely. They"
+    },
+    {
+      "code": "KS3-SC-078",
+      "description": "must be assisted in making their thinking clear, both to themselves and others, and"
+    },
+    {
+      "code": "KS3-SC-079",
+      "description": "teachers should ensure that pupils build secure foundations by using discussion to probe"
+    },
+    {
+      "code": "KS3-SC-080",
+      "description": "and remedy their misconceptions."
+    },
+    {
+      "code": "KS3-SC-081",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-SC-082",
+      "description": "By the end of key stage 3, pupils are expected to know, apply and understand the matters,"
+    },
+    {
+      "code": "KS3-SC-083",
+      "description": "skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS3-SC-084",
+      "description": "3"
+    },
+    {
+      "code": "KS3-SC-085",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-086",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-SC-087",
+      "description": "Working scientifically"
+    },
+    {
+      "code": "KS3-SC-088",
+      "description": "Through the content across all three disciplines, pupils should be taught to:"
+    },
+    {
+      "code": "KS3-SC-089",
+      "description": "Scientific attitudes"
+    },
+    {
+      "code": "KS3-SC-090",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-091",
+      "description": "pay attention to objectivity and concern for accuracy, precision, repeatability and"
+    },
+    {
+      "code": "KS3-SC-092",
+      "description": "reproducibility"
+    },
+    {
+      "code": "KS3-SC-093",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-094",
+      "description": "understand that scientific methods and theories develop as earlier explanations are"
+    },
+    {
+      "code": "KS3-SC-095",
+      "description": "modified to take account of new evidence and ideas, together with the importance of"
+    },
+    {
+      "code": "KS3-SC-096",
+      "description": "publishing results and peer review"
+    },
+    {
+      "code": "KS3-SC-097",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-098",
+      "description": "evaluate risks."
+    },
+    {
+      "code": "KS3-SC-099",
+      "description": "Experimental skills and investigations"
+    },
+    {
+      "code": "KS3-SC-100",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-101",
+      "description": "ask questions and develop a line of enquiry based on observations of the real world,"
+    },
+    {
+      "code": "KS3-SC-102",
+      "description": "alongside prior knowledge and experience"
+    },
+    {
+      "code": "KS3-SC-103",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-104",
+      "description": "make predictions using scientific knowledge and understanding"
+    },
+    {
+      "code": "KS3-SC-105",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-106",
+      "description": "select, plan and carry out the most appropriate types of scientific enquiries to test"
+    },
+    {
+      "code": "KS3-SC-107",
+      "description": "predictions, including identifying independent, dependent and control variables, where"
+    },
+    {
+      "code": "KS3-SC-108",
+      "description": "appropriate"
+    },
+    {
+      "code": "KS3-SC-109",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-110",
+      "description": "use appropriate techniques, apparatus, and materials during fieldwork and laboratory"
+    },
+    {
+      "code": "KS3-SC-111",
+      "description": "work, paying attention to health and safety"
+    },
+    {
+      "code": "KS3-SC-112",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-113",
+      "description": "make and record observations and measurements using a range of methods for"
+    },
+    {
+      "code": "KS3-SC-114",
+      "description": "different investigations; and evaluate the reliability of methods and suggest possible"
+    },
+    {
+      "code": "KS3-SC-115",
+      "description": "improvements"
+    },
+    {
+      "code": "KS3-SC-116",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-117",
+      "description": "apply sampling techniques."
+    },
+    {
+      "code": "KS3-SC-118",
+      "description": "Analysis and evaluation"
+    },
+    {
+      "code": "KS3-SC-119",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-120",
+      "description": "apply mathematical concepts and calculate results"
+    },
+    {
+      "code": "KS3-SC-121",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-122",
+      "description": "present observations and data using appropriate methods, including tables and graphs"
+    },
+    {
+      "code": "KS3-SC-123",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-124",
+      "description": "interpret observations and data, including identifying patterns and using observations,"
+    },
+    {
+      "code": "KS3-SC-125",
+      "description": "measurements and data to draw conclusions"
+    },
+    {
+      "code": "KS3-SC-126",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-127",
+      "description": "present reasoned explanations, including explaining data in relation to predictions and"
+    },
+    {
+      "code": "KS3-SC-128",
+      "description": "hypotheses"
+    },
+    {
+      "code": "KS3-SC-129",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-130",
+      "description": "evaluate data, showing awareness of potential sources of random and systematic error"
+    },
+    {
+      "code": "KS3-SC-131",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-132",
+      "description": "identify further questions arising from their results."
+    },
+    {
+      "code": "KS3-SC-133",
+      "description": "4"
+    },
+    {
+      "code": "KS3-SC-134",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-135",
+      "description": "Measurement"
+    },
+    {
+      "code": "KS3-SC-136",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-137",
+      "description": "understand and use SI units and IUPAC (International Union of Pure and Applied"
+    },
+    {
+      "code": "KS3-SC-138",
+      "description": "Chemistry) chemical nomenclature"
+    },
+    {
+      "code": "KS3-SC-139",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-140",
+      "description": "use and derive simple equations and carry out appropriate calculations"
+    },
+    {
+      "code": "KS3-SC-141",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-142",
+      "description": "undertake basic data analysis including simple statistical techniques."
+    },
+    {
+      "code": "KS3-SC-143",
+      "description": "Subject content \u2013 Biology"
+    },
+    {
+      "code": "KS3-SC-144",
+      "description": "Pupils should be taught about:"
+    },
+    {
+      "code": "KS3-SC-145",
+      "description": "Structure and function of living organisms"
+    },
+    {
+      "code": "KS3-SC-146",
+      "description": "Cells and organisation"
+    },
+    {
+      "code": "KS3-SC-147",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-148",
+      "description": "cells as the fundamental unit of living organisms, including how to observe, interpret"
+    },
+    {
+      "code": "KS3-SC-149",
+      "description": "and record cell structure using a light microscope"
+    },
+    {
+      "code": "KS3-SC-150",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-151",
+      "description": "the functions of the cell wall, cell membrane, cytoplasm, nucleus, vacuole,"
+    },
+    {
+      "code": "KS3-SC-152",
+      "description": "mitochondria and chloroplasts"
+    },
+    {
+      "code": "KS3-SC-153",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-154",
+      "description": "the similarities and differences between plant and animal cells"
+    },
+    {
+      "code": "KS3-SC-155",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-156",
+      "description": "the role of diffusion in the movement of materials in and between cells"
+    },
+    {
+      "code": "KS3-SC-157",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-158",
+      "description": "the structural adaptations of some unicellular organisms"
+    },
+    {
+      "code": "KS3-SC-159",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-160",
+      "description": "the hierarchical organisation of multicellular organisms: from cells to tissues to organs"
+    },
+    {
+      "code": "KS3-SC-161",
+      "description": "to systems to organisms."
+    },
+    {
+      "code": "KS3-SC-162",
+      "description": "The skeletal and muscular systems"
+    },
+    {
+      "code": "KS3-SC-163",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-164",
+      "description": "the structure and functions of the human skeleton, to include support, protection,"
+    },
+    {
+      "code": "KS3-SC-165",
+      "description": "movement and making blood cells"
+    },
+    {
+      "code": "KS3-SC-166",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-167",
+      "description": "biomechanics \u2013 the interaction between skeleton and muscles, including the"
+    },
+    {
+      "code": "KS3-SC-168",
+      "description": "measurement of force exerted by different muscles"
+    },
+    {
+      "code": "KS3-SC-169",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-170",
+      "description": "the function of muscles and examples of antagonistic muscles."
+    },
+    {
+      "code": "KS3-SC-171",
+      "description": "Nutrition and digestion"
+    },
+    {
+      "code": "KS3-SC-172",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-173",
+      "description": "content of a healthy human diet: carbohydrates, lipids (fats and oils), proteins, vitamins,"
+    },
+    {
+      "code": "KS3-SC-174",
+      "description": "minerals, dietary fibre and water, and why each is needed"
+    },
+    {
+      "code": "KS3-SC-175",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-176",
+      "description": "calculations of energy requirements in a healthy daily diet"
+    },
+    {
+      "code": "KS3-SC-177",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-178",
+      "description": "the consequences of imbalances in the diet, including obesity, starvation and"
+    },
+    {
+      "code": "KS3-SC-179",
+      "description": "deficiency diseases"
+    },
+    {
+      "code": "KS3-SC-180",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-181",
+      "description": "the tissues and organs of the human digestive system, including adaptations to"
+    },
+    {
+      "code": "KS3-SC-182",
+      "description": "function and how the digestive system digests food (enzymes simply as biological"
+    },
+    {
+      "code": "KS3-SC-183",
+      "description": "catalysts)"
+    },
+    {
+      "code": "KS3-SC-184",
+      "description": "5"
+    },
+    {
+      "code": "KS3-SC-185",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-186",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-187",
+      "description": "the importance of bacteria in the human digestive system"
+    },
+    {
+      "code": "KS3-SC-188",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-189",
+      "description": "plants making carbohydrates in their leaves by photosynthesis and gaining mineral"
+    },
+    {
+      "code": "KS3-SC-190",
+      "description": "nutrients and water from the soil via their roots."
+    },
+    {
+      "code": "KS3-SC-191",
+      "description": "Gas exchange systems"
+    },
+    {
+      "code": "KS3-SC-192",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-193",
+      "description": "the structure and functions of the gas exchange system in humans, including"
+    },
+    {
+      "code": "KS3-SC-194",
+      "description": "adaptations to function"
+    },
+    {
+      "code": "KS3-SC-195",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-196",
+      "description": "the mechanism of breathing to move air in and out of the lungs, using a pressure model"
+    },
+    {
+      "code": "KS3-SC-197",
+      "description": "to explain the movement of gases, including simple measurements of lung volume"
+    },
+    {
+      "code": "KS3-SC-198",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-199",
+      "description": "the impact of exercise, asthma and smoking on the human gas exchange system"
+    },
+    {
+      "code": "KS3-SC-200",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-201",
+      "description": "the role of leaf stomata in gas exchange in plants."
+    },
+    {
+      "code": "KS3-SC-202",
+      "description": "Reproduction"
+    },
+    {
+      "code": "KS3-SC-203",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-204",
+      "description": "reproduction in humans (as an example of a mammal), including the structure and"
+    },
+    {
+      "code": "KS3-SC-205",
+      "description": "function of the male and female reproductive systems, menstrual cycle (without details"
+    },
+    {
+      "code": "KS3-SC-206",
+      "description": "of hormones), gametes, fertilisation, gestation and birth, to include the effect of"
+    },
+    {
+      "code": "KS3-SC-207",
+      "description": "maternal lifestyle on the foetus through the placenta"
+    },
+    {
+      "code": "KS3-SC-208",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-209",
+      "description": "reproduction in plants, including flower structure, wind and insect pollination,"
+    },
+    {
+      "code": "KS3-SC-210",
+      "description": "fertilisation, seed and fruit formation and dispersal, including quantitative investigation"
+    },
+    {
+      "code": "KS3-SC-211",
+      "description": "of some dispersal mechanisms."
+    },
+    {
+      "code": "KS3-SC-212",
+      "description": "Health"
+    },
+    {
+      "code": "KS3-SC-213",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-214",
+      "description": "the effects of recreational drugs (including substance misuse) on behaviour, health and"
+    },
+    {
+      "code": "KS3-SC-215",
+      "description": "life processes."
+    },
+    {
+      "code": "KS3-SC-216",
+      "description": "Material cycles and energy"
+    },
+    {
+      "code": "KS3-SC-217",
+      "description": "Photosynthesis"
+    },
+    {
+      "code": "KS3-SC-218",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-219",
+      "description": "the reactants in, and products of, photosynthesis, and a word summary for"
+    },
+    {
+      "code": "KS3-SC-220",
+      "description": "photosynthesis"
+    },
+    {
+      "code": "KS3-SC-221",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-222",
+      "description": "the dependence of almost all life on Earth on the ability of photosynthetic organisms,"
+    },
+    {
+      "code": "KS3-SC-223",
+      "description": "such as plants and algae, to use sunlight in photosynthesis to build organic molecules"
+    },
+    {
+      "code": "KS3-SC-224",
+      "description": "that are an essential energy store and to maintain levels of oxygen and carbon dioxide"
+    },
+    {
+      "code": "KS3-SC-225",
+      "description": "in the atmosphere"
+    },
+    {
+      "code": "KS3-SC-226",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-227",
+      "description": "the adaptations of leaves for photosynthesis."
+    },
+    {
+      "code": "KS3-SC-228",
+      "description": "6"
+    },
+    {
+      "code": "KS3-SC-229",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-230",
+      "description": "Cellular respiration"
+    },
+    {
+      "code": "KS3-SC-231",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-232",
+      "description": "aerobic and anaerobic respiration in living organisms, including the breakdown of"
+    },
+    {
+      "code": "KS3-SC-233",
+      "description": "organic molecules to enable all the other chemical processes necessary for life"
+    },
+    {
+      "code": "KS3-SC-234",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-235",
+      "description": "a word summary for aerobic respiration"
+    },
+    {
+      "code": "KS3-SC-236",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-237",
+      "description": "the process of anaerobic respiration in humans and micro-organisms, including"
+    },
+    {
+      "code": "KS3-SC-238",
+      "description": "fermentation, and a word summary for anaerobic respiration"
+    },
+    {
+      "code": "KS3-SC-239",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-240",
+      "description": "the differences between aerobic and anaerobic respiration in terms of the reactants,"
+    },
+    {
+      "code": "KS3-SC-241",
+      "description": "the products formed and the implications for the organism."
+    },
+    {
+      "code": "KS3-SC-242",
+      "description": "Interactions and interdependencies"
+    },
+    {
+      "code": "KS3-SC-243",
+      "description": "Relationships in an ecosystem"
+    },
+    {
+      "code": "KS3-SC-244",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-245",
+      "description": "the interdependence of organisms in an ecosystem, including food webs and insect"
+    },
+    {
+      "code": "KS3-SC-246",
+      "description": "pollinated crops"
+    },
+    {
+      "code": "KS3-SC-247",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-248",
+      "description": "the importance of plant reproduction through insect pollination in human food security"
+    },
+    {
+      "code": "KS3-SC-249",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-250",
+      "description": "how organisms affect, and are affected by, their environment, including the"
+    },
+    {
+      "code": "KS3-SC-251",
+      "description": "accumulation of toxic materials."
+    },
+    {
+      "code": "KS3-SC-252",
+      "description": "Genetics and evolution"
+    },
+    {
+      "code": "KS3-SC-253",
+      "description": "Inheritance, chromosomes, DNA and genes"
+    },
+    {
+      "code": "KS3-SC-254",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-255",
+      "description": "heredity as the process by which genetic information is transmitted from one"
+    },
+    {
+      "code": "KS3-SC-256",
+      "description": "generation to the next"
+    },
+    {
+      "code": "KS3-SC-257",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-258",
+      "description": "a simple model of chromosomes, genes and DNA in heredity, including the part played"
+    },
+    {
+      "code": "KS3-SC-259",
+      "description": "by Watson, Crick, Wilkins and Franklin in the development of the DNA model"
+    },
+    {
+      "code": "KS3-SC-260",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-261",
+      "description": "differences between species"
+    },
+    {
+      "code": "KS3-SC-262",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-263",
+      "description": "the variation between individuals within a species being continuous or discontinuous,"
+    },
+    {
+      "code": "KS3-SC-264",
+      "description": "to include measurement and graphical representation of variation"
+    },
+    {
+      "code": "KS3-SC-265",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-266",
+      "description": "the variation between species and between individuals of the same species means"
+    },
+    {
+      "code": "KS3-SC-267",
+      "description": "some organisms compete more successfully, which can drive natural selection"
+    },
+    {
+      "code": "KS3-SC-268",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-269",
+      "description": "changes in the environment may leave individuals within a species, and some"
+    },
+    {
+      "code": "KS3-SC-270",
+      "description": "entire species, less well adapted to compete successfully and reproduce, which in turn"
+    },
+    {
+      "code": "KS3-SC-271",
+      "description": "may lead to extinction"
+    },
+    {
+      "code": "KS3-SC-272",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-273",
+      "description": "the importance of maintaining biodiversity and the use of gene banks to preserve"
+    },
+    {
+      "code": "KS3-SC-274",
+      "description": "hereditary material."
+    },
+    {
+      "code": "KS3-SC-275",
+      "description": "7"
+    },
+    {
+      "code": "KS3-SC-276",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-277",
+      "description": "Subject content \u2013 Chemistry"
+    },
+    {
+      "code": "KS3-SC-278",
+      "description": "Pupils should be taught about:"
+    },
+    {
+      "code": "KS3-SC-279",
+      "description": "The particulate nature of matter"
+    },
+    {
+      "code": "KS3-SC-280",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-281",
+      "description": "the properties of the different states of matter (solid, liquid and gas) in terms of the"
+    },
+    {
+      "code": "KS3-SC-282",
+      "description": "particle model, including gas pressure"
+    },
+    {
+      "code": "KS3-SC-283",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-284",
+      "description": "changes of state in terms of the particle model."
+    },
+    {
+      "code": "KS3-SC-285",
+      "description": "Atoms, elements and compounds"
+    },
+    {
+      "code": "KS3-SC-286",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-287",
+      "description": "a simple (Dalton) atomic model"
+    },
+    {
+      "code": "KS3-SC-288",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-289",
+      "description": "differences between atoms, elements and compounds"
+    },
+    {
+      "code": "KS3-SC-290",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-291",
+      "description": "chemical symbols and formulae for elements and compounds"
+    },
+    {
+      "code": "KS3-SC-292",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-293",
+      "description": "conservation of mass changes of state and chemical reactions."
+    },
+    {
+      "code": "KS3-SC-294",
+      "description": "Pure and impure substances"
+    },
+    {
+      "code": "KS3-SC-295",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-296",
+      "description": "the concept of a pure substance"
+    },
+    {
+      "code": "KS3-SC-297",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-298",
+      "description": "mixtures, including dissolving"
+    },
+    {
+      "code": "KS3-SC-299",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-300",
+      "description": "diffusion in terms of the particle model"
+    },
+    {
+      "code": "KS3-SC-301",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-302",
+      "description": "simple techniques for separating mixtures: filtration, evaporation, distillation and"
+    },
+    {
+      "code": "KS3-SC-303",
+      "description": "chromatography"
+    },
+    {
+      "code": "KS3-SC-304",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-305",
+      "description": "the identification of pure substances."
+    },
+    {
+      "code": "KS3-SC-306",
+      "description": "Chemical reactions"
+    },
+    {
+      "code": "KS3-SC-307",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-308",
+      "description": "chemical reactions as the rearrangement of atoms"
+    },
+    {
+      "code": "KS3-SC-309",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-310",
+      "description": "representing chemical reactions using formulae and using equations"
+    },
+    {
+      "code": "KS3-SC-311",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-312",
+      "description": "combustion, thermal decomposition, oxidation and displacement reactions"
+    },
+    {
+      "code": "KS3-SC-313",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-314",
+      "description": "defining acids and alkalis in terms of neutralisation reactions"
+    },
+    {
+      "code": "KS3-SC-315",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-316",
+      "description": "the pH scale for measuring acidity/alkalinity; and indicators"
+    },
+    {
+      "code": "KS3-SC-317",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-318",
+      "description": "reactions of acids with metals to produce a salt plus hydrogen"
+    },
+    {
+      "code": "KS3-SC-319",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-320",
+      "description": "reactions of acids with alkalis to produce a salt plus water"
+    },
+    {
+      "code": "KS3-SC-321",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-322",
+      "description": "what catalysts do."
+    },
+    {
+      "code": "KS3-SC-323",
+      "description": "Energetics"
+    },
+    {
+      "code": "KS3-SC-324",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-325",
+      "description": "energy changes on changes of state (qualitative)"
+    },
+    {
+      "code": "KS3-SC-326",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-327",
+      "description": "exothermic and endothermic chemical reactions (qualitative)."
+    },
+    {
+      "code": "KS3-SC-328",
+      "description": "8"
+    },
+    {
+      "code": "KS3-SC-329",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-330",
+      "description": "The Periodic Table"
+    },
+    {
+      "code": "KS3-SC-331",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-332",
+      "description": "the varying physical and chemical properties of different elements"
+    },
+    {
+      "code": "KS3-SC-333",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-334",
+      "description": "the principles underpinning the Mendeleev Periodic Table"
+    },
+    {
+      "code": "KS3-SC-335",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-336",
+      "description": "the Periodic Table: periods and groups; metals and non-metals"
+    },
+    {
+      "code": "KS3-SC-337",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-338",
+      "description": "how patterns in reactions can be predicted with reference to the Periodic Table"
+    },
+    {
+      "code": "KS3-SC-339",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-340",
+      "description": "the properties of metals and non-metals"
+    },
+    {
+      "code": "KS3-SC-341",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-342",
+      "description": "the chemical properties of metal and non-metal oxides with respect to acidity."
+    },
+    {
+      "code": "KS3-SC-343",
+      "description": "Materials"
+    },
+    {
+      "code": "KS3-SC-344",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-345",
+      "description": "the order of metals and carbon in the reactivity series"
+    },
+    {
+      "code": "KS3-SC-346",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-347",
+      "description": "the use of carbon in obtaining metals from metal oxides"
+    },
+    {
+      "code": "KS3-SC-348",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-349",
+      "description": "properties of ceramics, polymers and composites (qualitative)."
+    },
+    {
+      "code": "KS3-SC-350",
+      "description": "Earth and atmosphere"
+    },
+    {
+      "code": "KS3-SC-351",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-352",
+      "description": "the composition of the Earth"
+    },
+    {
+      "code": "KS3-SC-353",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-354",
+      "description": "the structure of the Earth"
+    },
+    {
+      "code": "KS3-SC-355",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-356",
+      "description": "the rock cycle and the formation of igneous, sedimentary and metamorphic rocks"
+    },
+    {
+      "code": "KS3-SC-357",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-358",
+      "description": "Earth as a source of limited resources and the efficacy of recycling"
+    },
+    {
+      "code": "KS3-SC-359",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-360",
+      "description": "the carbon cycle"
+    },
+    {
+      "code": "KS3-SC-361",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-362",
+      "description": "the composition of the atmosphere"
+    },
+    {
+      "code": "KS3-SC-363",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-364",
+      "description": "the production of carbon dioxide by human activity and the impact on climate."
+    },
+    {
+      "code": "KS3-SC-365",
+      "description": "Subject content \u2013 Physics"
+    },
+    {
+      "code": "KS3-SC-366",
+      "description": "Pupils should be taught about:"
+    },
+    {
+      "code": "KS3-SC-367",
+      "description": "Energy"
+    },
+    {
+      "code": "KS3-SC-368",
+      "description": "Calculation of fuel uses and costs in the domestic context"
+    },
+    {
+      "code": "KS3-SC-369",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-370",
+      "description": "comparing energy values of different foods (from labels) (kJ)"
+    },
+    {
+      "code": "KS3-SC-371",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-372",
+      "description": "comparing power ratings of appliances in watts (W, kW)"
+    },
+    {
+      "code": "KS3-SC-373",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-374",
+      "description": "comparing amounts of energy transferred (J, kJ, kW hour)"
+    },
+    {
+      "code": "KS3-SC-375",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-376",
+      "description": "domestic fuel bills, fuel use and costs"
+    },
+    {
+      "code": "KS3-SC-377",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-378",
+      "description": "fuels and energy resources."
+    },
+    {
+      "code": "KS3-SC-379",
+      "description": "9"
+    },
+    {
+      "code": "KS3-SC-380",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-381",
+      "description": "Energy changes and transfers"
+    },
+    {
+      "code": "KS3-SC-382",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-383",
+      "description": "simple machines give bigger force but at the expense of smaller movement (and vice"
+    },
+    {
+      "code": "KS3-SC-384",
+      "description": "versa): product of force and displacement unchanged"
+    },
+    {
+      "code": "KS3-SC-385",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-386",
+      "description": "heating and thermal equilibrium: temperature difference between two objects leading to"
+    },
+    {
+      "code": "KS3-SC-387",
+      "description": "energy transfer from the hotter to the cooler one, through contact (conduction) or"
+    },
+    {
+      "code": "KS3-SC-388",
+      "description": "radiation; such transfers tending to reduce the temperature difference: use of insulators"
+    },
+    {
+      "code": "KS3-SC-389",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-390",
+      "description": "other processes that involve energy transfer: changing motion, dropping an object,"
+    },
+    {
+      "code": "KS3-SC-391",
+      "description": "completing an electrical circuit, stretching a spring, metabolism of food, burning fuels."
+    },
+    {
+      "code": "KS3-SC-392",
+      "description": "Changes in systems"
+    },
+    {
+      "code": "KS3-SC-393",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-394",
+      "description": "energy as a quantity that can be quantified and calculated; the total energy has the"
+    },
+    {
+      "code": "KS3-SC-395",
+      "description": "same value before and after a change"
+    },
+    {
+      "code": "KS3-SC-396",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-397",
+      "description": "comparing the starting with the final conditions of a system and describing increases"
+    },
+    {
+      "code": "KS3-SC-398",
+      "description": "and decreases in the amounts of energy associated with movements, temperatures,"
+    },
+    {
+      "code": "KS3-SC-399",
+      "description": "changes in positions in a field, in elastic distortions and in chemical compositions"
+    },
+    {
+      "code": "KS3-SC-400",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-401",
+      "description": "using physical processes and mechanisms, rather than energy, to explain the"
+    },
+    {
+      "code": "KS3-SC-402",
+      "description": "intermediate steps that bring about such changes."
+    },
+    {
+      "code": "KS3-SC-403",
+      "description": "Motion and forces"
+    },
+    {
+      "code": "KS3-SC-404",
+      "description": "Describing motion"
+    },
+    {
+      "code": "KS3-SC-405",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-406",
+      "description": "speed and the quantitative relationship between average speed, distance and time"
+    },
+    {
+      "code": "KS3-SC-407",
+      "description": "(speed = distance \u00f7 time)"
+    },
+    {
+      "code": "KS3-SC-408",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-409",
+      "description": "the representation of a journey on a distance-time graph"
+    },
+    {
+      "code": "KS3-SC-410",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-411",
+      "description": "relative motion: trains and cars passing one another."
+    },
+    {
+      "code": "KS3-SC-412",
+      "description": "Forces"
+    },
+    {
+      "code": "KS3-SC-413",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-414",
+      "description": "forces as pushes or pulls, arising from the interaction between two objects"
+    },
+    {
+      "code": "KS3-SC-415",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-416",
+      "description": "using force arrows in diagrams, adding forces in one dimension, balanced and"
+    },
+    {
+      "code": "KS3-SC-417",
+      "description": "unbalanced forces"
+    },
+    {
+      "code": "KS3-SC-418",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-419",
+      "description": "moment as the turning effect of a force"
+    },
+    {
+      "code": "KS3-SC-420",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-421",
+      "description": "forces: associated with deforming objects; stretching and squashing \u2013 springs; with"
+    },
+    {
+      "code": "KS3-SC-422",
+      "description": "rubbing and friction between surfaces, with pushing things out of the way; resistance to"
+    },
+    {
+      "code": "KS3-SC-423",
+      "description": "motion of air and water"
+    },
+    {
+      "code": "KS3-SC-424",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-425",
+      "description": "forces measured in newtons, measurements of stretch or compression as force is"
+    },
+    {
+      "code": "KS3-SC-426",
+      "description": "changed"
+    },
+    {
+      "code": "KS3-SC-427",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-428",
+      "description": "force-extension linear relation; Hooke\u2019s Law as a special case"
+    },
+    {
+      "code": "KS3-SC-429",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-430",
+      "description": "work done and energy changes on deformation"
+    },
+    {
+      "code": "KS3-SC-431",
+      "description": "10"
+    },
+    {
+      "code": "KS3-SC-432",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-433",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-434",
+      "description": "non-contact forces: gravity forces acting at a distance on Earth and in space, forces"
+    },
+    {
+      "code": "KS3-SC-435",
+      "description": "between magnets and forces due to static electricity."
+    },
+    {
+      "code": "KS3-SC-436",
+      "description": "Pressure in fluids"
+    },
+    {
+      "code": "KS3-SC-437",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-438",
+      "description": "atmospheric pressure, decreases with increase of height as weight of air above"
+    },
+    {
+      "code": "KS3-SC-439",
+      "description": "decreases with height"
+    },
+    {
+      "code": "KS3-SC-440",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-441",
+      "description": "pressure in liquids, increasing with depth; upthrust effects, floating and sinking"
+    },
+    {
+      "code": "KS3-SC-442",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-443",
+      "description": "pressure measured by ratio of force over area \u2013 acting normal to any surface."
+    },
+    {
+      "code": "KS3-SC-444",
+      "description": "Balanced forces"
+    },
+    {
+      "code": "KS3-SC-445",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-446",
+      "description": "opposing forces and equilibrium: weight held by stretched spring or supported on a"
+    },
+    {
+      "code": "KS3-SC-447",
+      "description": "compressed surface."
+    },
+    {
+      "code": "KS3-SC-448",
+      "description": "Forces and motion"
+    },
+    {
+      "code": "KS3-SC-449",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-450",
+      "description": "forces being needed to cause objects to stop or start moving, or to change their speed"
+    },
+    {
+      "code": "KS3-SC-451",
+      "description": "or direction of motion (qualitative only)"
+    },
+    {
+      "code": "KS3-SC-452",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-453",
+      "description": "change depending on direction of force and its size."
+    },
+    {
+      "code": "KS3-SC-454",
+      "description": "Waves"
+    },
+    {
+      "code": "KS3-SC-455",
+      "description": "Observed waves"
+    },
+    {
+      "code": "KS3-SC-456",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-457",
+      "description": "waves on water as undulations which travel through water with transverse motion;"
+    },
+    {
+      "code": "KS3-SC-458",
+      "description": "these waves can be reflected, and add or cancel \u2013 superposition."
+    },
+    {
+      "code": "KS3-SC-459",
+      "description": "Sound waves"
+    },
+    {
+      "code": "KS3-SC-460",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-461",
+      "description": "frequencies of sound waves, measured in hertz (Hz); echoes, reflection and absorption"
+    },
+    {
+      "code": "KS3-SC-462",
+      "description": "of sound"
+    },
+    {
+      "code": "KS3-SC-463",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-464",
+      "description": "sound needs a medium to travel, the speed of sound in air, in water, in solids"
+    },
+    {
+      "code": "KS3-SC-465",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-466",
+      "description": "sound produced by vibrations of objects, in loud speakers, detected by their effects on"
+    },
+    {
+      "code": "KS3-SC-467",
+      "description": "microphone diaphragm and the ear drum; sound waves are longitudinal"
+    },
+    {
+      "code": "KS3-SC-468",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-469",
+      "description": "auditory range of humans and animals."
+    },
+    {
+      "code": "KS3-SC-470",
+      "description": "Energy and waves"
+    },
+    {
+      "code": "KS3-SC-471",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-472",
+      "description": "pressure waves transferring energy; use for cleaning and physiotherapy by ultra-sound;"
+    },
+    {
+      "code": "KS3-SC-473",
+      "description": "waves transferring information for conversion to electrical signals by microphone."
+    },
+    {
+      "code": "KS3-SC-474",
+      "description": "Light waves"
+    },
+    {
+      "code": "KS3-SC-475",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-476",
+      "description": "the similarities and differences between light waves and waves in matter"
+    },
+    {
+      "code": "KS3-SC-477",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-478",
+      "description": "light waves travelling through a vacuum; speed of light"
+    },
+    {
+      "code": "KS3-SC-479",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-480",
+      "description": "the transmission of light through materials: absorption, diffuse scattering and specular"
+    },
+    {
+      "code": "KS3-SC-481",
+      "description": "reflection at a surface"
+    },
+    {
+      "code": "KS3-SC-482",
+      "description": "11"
+    },
+    {
+      "code": "KS3-SC-483",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-484",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-485",
+      "description": "use of ray model to explain imaging in mirrors, the pinhole camera, the refraction of"
+    },
+    {
+      "code": "KS3-SC-486",
+      "description": "light and action of convex lens in focusing (qualitative); the human eye"
+    },
+    {
+      "code": "KS3-SC-487",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-488",
+      "description": "light transferring energy from source to absorber leading to chemical and electrical"
+    },
+    {
+      "code": "KS3-SC-489",
+      "description": "effects; photo-sensitive material in the retina and in cameras"
+    },
+    {
+      "code": "KS3-SC-490",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-491",
+      "description": "colours and the different frequencies of light, white light and prisms (qualitative only);"
+    },
+    {
+      "code": "KS3-SC-492",
+      "description": "differential colour effects in absorption and diffuse reflection."
+    },
+    {
+      "code": "KS3-SC-493",
+      "description": "Electricity and electromagnetism"
+    },
+    {
+      "code": "KS3-SC-494",
+      "description": "Current electricity"
+    },
+    {
+      "code": "KS3-SC-495",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-496",
+      "description": "electric current, measured in amperes, in circuits, series and parallel circuits, currents"
+    },
+    {
+      "code": "KS3-SC-497",
+      "description": "add where branches meet and current as flow of charge"
+    },
+    {
+      "code": "KS3-SC-498",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-499",
+      "description": "potential difference, measured in volts, battery and bulb ratings; resistance, measured"
+    },
+    {
+      "code": "KS3-SC-500",
+      "description": "in ohms, as the ratio of potential difference (p.d.) to current"
+    },
+    {
+      "code": "KS3-SC-501",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-502",
+      "description": "differences in resistance between conducting and insulating components (quantitative)."
+    },
+    {
+      "code": "KS3-SC-503",
+      "description": "Static electricity"
+    },
+    {
+      "code": "KS3-SC-504",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-505",
+      "description": "separation of positive or negative charges when objects are rubbed together: transfer"
+    },
+    {
+      "code": "KS3-SC-506",
+      "description": "of electrons, forces between charged objects"
+    },
+    {
+      "code": "KS3-SC-507",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-508",
+      "description": "the idea of electric field, forces acting across the space between objects not in contact."
+    },
+    {
+      "code": "KS3-SC-509",
+      "description": "Magnetism"
+    },
+    {
+      "code": "KS3-SC-510",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-511",
+      "description": "magnetic poles, attraction and repulsion"
+    },
+    {
+      "code": "KS3-SC-512",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-513",
+      "description": "magnetic fields by plotting with compass, representation by field lines"
+    },
+    {
+      "code": "KS3-SC-514",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-515",
+      "description": "Earth\u2019s magnetism, compass and navigation"
+    },
+    {
+      "code": "KS3-SC-516",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-517",
+      "description": "the magnetic effect of a current, electromagnets, D.C. motors (principles only)."
+    },
+    {
+      "code": "KS3-SC-518",
+      "description": "Matter"
+    },
+    {
+      "code": "KS3-SC-519",
+      "description": "Physical changes"
+    },
+    {
+      "code": "KS3-SC-520",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-521",
+      "description": "conservation of material and of mass, and reversibility, in melting, freezing,"
+    },
+    {
+      "code": "KS3-SC-522",
+      "description": "evaporation, sublimation, condensation, dissolving"
+    },
+    {
+      "code": "KS3-SC-523",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-524",
+      "description": "similarities and differences, including density differences, between solids, liquids and"
+    },
+    {
+      "code": "KS3-SC-525",
+      "description": "gases"
+    },
+    {
+      "code": "KS3-SC-526",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-527",
+      "description": "Brownian motion in gases"
+    },
+    {
+      "code": "KS3-SC-528",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-529",
+      "description": "diffusion in liquids and gases driven by differences in concentration"
+    },
+    {
+      "code": "KS3-SC-530",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-531",
+      "description": "the difference between chemical and physical changes."
+    },
+    {
+      "code": "KS3-SC-532",
+      "description": "12"
+    },
+    {
+      "code": "KS3-SC-533",
+      "description": "Science \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-SC-534",
+      "description": "Particle model"
+    },
+    {
+      "code": "KS3-SC-535",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-536",
+      "description": "the differences in arrangements, in motion and in closeness of particles explaining"
+    },
+    {
+      "code": "KS3-SC-537",
+      "description": "changes of state, shape and density, the anomaly of ice-water transition"
+    },
+    {
+      "code": "KS3-SC-538",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-539",
+      "description": "atoms and molecules as particles."
+    },
+    {
+      "code": "KS3-SC-540",
+      "description": "Energy in matter"
+    },
+    {
+      "code": "KS3-SC-541",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-542",
+      "description": "changes with temperature in motion and spacing of particles"
+    },
+    {
+      "code": "KS3-SC-543",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-544",
+      "description": "internal energy stored in materials."
+    },
+    {
+      "code": "KS3-SC-545",
+      "description": "Space physics"
+    },
+    {
+      "code": "KS3-SC-546",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-547",
+      "description": "gravity force, weight = mass x gravitational field strength (g), on Earth g=10 N/kg,"
+    },
+    {
+      "code": "KS3-SC-548",
+      "description": "different on other planets and stars; gravity forces between Earth and Moon, and"
+    },
+    {
+      "code": "KS3-SC-549",
+      "description": "between Earth and Sun (qualitative only)"
+    },
+    {
+      "code": "KS3-SC-550",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-551",
+      "description": "our Sun as a star, other stars in our galaxy, other galaxies"
+    },
+    {
+      "code": "KS3-SC-552",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-553",
+      "description": "the seasons and the Earth\u2019s tilt, day length at different times of year, in different"
+    },
+    {
+      "code": "KS3-SC-554",
+      "description": "hemispheres"
+    },
+    {
+      "code": "KS3-SC-555",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-SC-556",
+      "description": "the light year as a unit of astronomical distance."
+    },
+    {
+      "code": "KS3-SC-557",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-SC-558",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under"
+    },
+    {
+      "code": "KS3-SC-559",
+      "description": "the terms of the Open Government Licence. To view this licence, visit"
+    },
+    {
+      "code": "KS3-SC-560",
+      "description": "or email:"
+    },
+    {
+      "code": "KS3-SC-561",
+      "description": "http://www.nationalarchives.gov.uk/doc/open-government-licence/"
+    },
+    {
+      "code": "KS3-SC-562",
+      "description": "psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-SC-563",
+      "description": "Reference: DFE-00185-2013"
+    },
+    {
+      "code": "KS3-SC-564",
+      "description": "13"
+    }
+  ]
+}

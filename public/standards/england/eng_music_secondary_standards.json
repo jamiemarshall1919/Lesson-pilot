@@ -1,1 +1,264 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-MU-001",
+      "description": "Music programmes of study:"
+    },
+    {
+      "code": "KS3-MU-002",
+      "description": "key stage 3"
+    },
+    {
+      "code": "KS3-MU-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-MU-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-MU-005",
+      "description": "Music is a universal language that embodies one of the highest forms of creativity. A high-"
+    },
+    {
+      "code": "KS3-MU-006",
+      "description": "quality music education should engage and inspire pupils to develop a love of music and"
+    },
+    {
+      "code": "KS3-MU-007",
+      "description": "their talent as musicians, and so increase their self-confidence, creativity and sense of"
+    },
+    {
+      "code": "KS3-MU-008",
+      "description": "achievement. As pupils progress, they should develop a critical engagement with music,"
+    },
+    {
+      "code": "KS3-MU-009",
+      "description": "allowing them to compose, and to listen with discrimination to the best in the musical"
+    },
+    {
+      "code": "KS3-MU-010",
+      "description": "canon."
+    },
+    {
+      "code": "KS3-MU-011",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-MU-012",
+      "description": "The national curriculum for music aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-MU-013",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-014",
+      "description": "perform, listen to, review and evaluate music across a range of historical periods,"
+    },
+    {
+      "code": "KS3-MU-015",
+      "description": "genres, styles and traditions, including the works of the great composers and"
+    },
+    {
+      "code": "KS3-MU-016",
+      "description": "musicians"
+    },
+    {
+      "code": "KS3-MU-017",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-018",
+      "description": "learn to sing and to use their voices, to create and compose music on their own and"
+    },
+    {
+      "code": "KS3-MU-019",
+      "description": "with others, have the opportunity to learn a musical instrument, use technology"
+    },
+    {
+      "code": "KS3-MU-020",
+      "description": "appropriately and have the opportunity to progress to the next level of musical"
+    },
+    {
+      "code": "KS3-MU-021",
+      "description": "excellence"
+    },
+    {
+      "code": "KS3-MU-022",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-023",
+      "description": "understand and explore how music is created, produced and communicated, including"
+    },
+    {
+      "code": "KS3-MU-024",
+      "description": "through the inter-related dimensions: pitch, duration, dynamics, tempo, timbre, texture,"
+    },
+    {
+      "code": "KS3-MU-025",
+      "description": "structure and appropriate musical notations."
+    },
+    {
+      "code": "KS3-MU-026",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-MU-027",
+      "description": "By the end of key stage 3, pupils are expected to know, apply and understand the matters,"
+    },
+    {
+      "code": "KS3-MU-028",
+      "description": "skills and processes specified in the programme of study."
+    },
+    {
+      "code": "KS3-MU-029",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS3-MU-030",
+      "description": "Music \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MU-031",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-MU-032",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-MU-033",
+      "description": "Pupils should build on their previous knowledge and skills through performing, composing"
+    },
+    {
+      "code": "KS3-MU-034",
+      "description": "and listening. They should develop their vocal and/or instrumental fluency, accuracy and"
+    },
+    {
+      "code": "KS3-MU-035",
+      "description": "expressiveness; and understand musical structures, styles, genres and traditions,"
+    },
+    {
+      "code": "KS3-MU-036",
+      "description": "identifying the expressive use of musical dimensions. They should listen with increasing"
+    },
+    {
+      "code": "KS3-MU-037",
+      "description": "discrimination and awareness to inform their practice as musicians. They should use"
+    },
+    {
+      "code": "KS3-MU-038",
+      "description": "technologies appropriately and appreciate and understand a wide range of musical"
+    },
+    {
+      "code": "KS3-MU-039",
+      "description": "contexts and styles."
+    },
+    {
+      "code": "KS3-MU-040",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MU-041",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-042",
+      "description": "play and perform confidently in a range of solo and ensemble contexts using their"
+    },
+    {
+      "code": "KS3-MU-043",
+      "description": "voice, playing instruments musically, fluently and with accuracy and expression"
+    },
+    {
+      "code": "KS3-MU-044",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-045",
+      "description": "improvise and compose; and extend and develop musical ideas by drawing on a range"
+    },
+    {
+      "code": "KS3-MU-046",
+      "description": "of musical structures, styles, genres and traditions"
+    },
+    {
+      "code": "KS3-MU-047",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-048",
+      "description": "use staff and other relevant notations appropriately and accurately in a range of"
+    },
+    {
+      "code": "KS3-MU-049",
+      "description": "musical styles, genres and traditions"
+    },
+    {
+      "code": "KS3-MU-050",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-051",
+      "description": "identify and use the inter-related dimensions of music expressively and with increasing"
+    },
+    {
+      "code": "KS3-MU-052",
+      "description": "sophistication, including use of tonalities, different types of scales and other musical"
+    },
+    {
+      "code": "KS3-MU-053",
+      "description": "devices"
+    },
+    {
+      "code": "KS3-MU-054",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-055",
+      "description": "listen with increasing discrimination to a wide range of music from great composers"
+    },
+    {
+      "code": "KS3-MU-056",
+      "description": "and musicians"
+    },
+    {
+      "code": "KS3-MU-057",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MU-058",
+      "description": "develop a deepening understanding of the music that they perform and to which they"
+    },
+    {
+      "code": "KS3-MU-059",
+      "description": "listen, and its history."
+    },
+    {
+      "code": "KS3-MU-060",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-MU-061",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS3-MU-062",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS3-MU-063",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-MU-064",
+      "description": "Reference: DFE-00187-2013"
+    },
+    {
+      "code": "KS3-MU-065",
+      "description": "2"
+    }
+  ]
+}

@@ -1,1 +1,416 @@
-{}
+{
+  "KS?": [
+    {
+      "code": "KS?-CI-001",
+      "description": "Citizenship programmes of study:"
+    },
+    {
+      "code": "KS?-CI-002",
+      "description": "key stages 3 and 4"
+    },
+    {
+      "code": "KS?-CI-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS?-CI-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS?-CI-005",
+      "description": "A high-quality citizenship education helps to provide pupils with knowledge, skills and"
+    },
+    {
+      "code": "KS?-CI-006",
+      "description": "understanding to prepare them to play a full and active part in society. In particular,"
+    },
+    {
+      "code": "KS?-CI-007",
+      "description": "citizenship education should foster pupils\u2019 keen awareness and understanding of"
+    },
+    {
+      "code": "KS?-CI-008",
+      "description": "democracy, government and how laws are made and upheld. Teaching should equip"
+    },
+    {
+      "code": "KS?-CI-009",
+      "description": "pupils with the skills and knowledge to explore political and social issues critically, to weigh"
+    },
+    {
+      "code": "KS?-CI-010",
+      "description": "evidence, debate and make reasoned arguments. It should also prepare pupils to take"
+    },
+    {
+      "code": "KS?-CI-011",
+      "description": "their place in society as responsible citizens, manage their money well and make sound"
+    },
+    {
+      "code": "KS?-CI-012",
+      "description": "financial decisions."
+    },
+    {
+      "code": "KS?-CI-013",
+      "description": "Aims"
+    },
+    {
+      "code": "KS?-CI-014",
+      "description": "The national curriculum for citizenship aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS?-CI-015",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-016",
+      "description": "acquire a sound knowledge and understanding of how the United Kingdom is"
+    },
+    {
+      "code": "KS?-CI-017",
+      "description": "governed, its political system and how citizens participate actively in its democratic"
+    },
+    {
+      "code": "KS?-CI-018",
+      "description": "systems of government"
+    },
+    {
+      "code": "KS?-CI-019",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-020",
+      "description": "develop a sound knowledge and understanding of the role of law and the justice"
+    },
+    {
+      "code": "KS?-CI-021",
+      "description": "system in our society and how laws are shaped and enforced"
+    },
+    {
+      "code": "KS?-CI-022",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-023",
+      "description": "develop an interest in, and commitment to, participation in volunteering as well as other"
+    },
+    {
+      "code": "KS?-CI-024",
+      "description": "forms of responsible activity, that they will take with them into adulthood"
+    },
+    {
+      "code": "KS?-CI-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-026",
+      "description": "are equipped with the skills to think critically and debate political questions, to enable"
+    },
+    {
+      "code": "KS?-CI-027",
+      "description": "them to manage their money on a day-to-day basis, and plan for future financial needs."
+    },
+    {
+      "code": "KS?-CI-028",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS?-CI-029",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS?-CI-030",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS?-CI-031",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS?-CI-032",
+      "description": "Citizenship \u2013 key stages 3 and 4"
+    },
+    {
+      "code": "KS?-CI-033",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS?-CI-034",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS?-CI-035",
+      "description": "Teaching should develop pupils\u2019 understanding of democracy, government and the rights"
+    },
+    {
+      "code": "KS?-CI-036",
+      "description": "and responsibilities of citizens. Pupils should use and apply their knowledge and"
+    },
+    {
+      "code": "KS?-CI-037",
+      "description": "understanding whilst developing skills to research and interrogate evidence, debate and"
+    },
+    {
+      "code": "KS?-CI-038",
+      "description": "evaluate viewpoints, present reasoned arguments and take informed action."
+    },
+    {
+      "code": "KS?-CI-039",
+      "description": "Pupils should be taught about:"
+    },
+    {
+      "code": "KS?-CI-040",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-041",
+      "description": "the development of the political system of democratic government in the United"
+    },
+    {
+      "code": "KS?-CI-042",
+      "description": "Kingdom, including the roles of citizens, Parliament and the monarch"
+    },
+    {
+      "code": "KS?-CI-043",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-044",
+      "description": "the operation of Parliament, including voting and elections, and the role of political"
+    },
+    {
+      "code": "KS?-CI-045",
+      "description": "parties"
+    },
+    {
+      "code": "KS?-CI-046",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-047",
+      "description": "the precious liberties enjoyed by the citizens of the United Kingdom"
+    },
+    {
+      "code": "KS?-CI-048",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-049",
+      "description": "the nature of rules and laws and the justice system, including the role of the police and"
+    },
+    {
+      "code": "KS?-CI-050",
+      "description": "the operation of courts and tribunals"
+    },
+    {
+      "code": "KS?-CI-051",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-052",
+      "description": "the roles played by public institutions and voluntary groups in society, and the ways in"
+    },
+    {
+      "code": "KS?-CI-053",
+      "description": "which citizens work together to improve their communities, including opportunities to"
+    },
+    {
+      "code": "KS?-CI-054",
+      "description": "participate in school-based activities"
+    },
+    {
+      "code": "KS?-CI-055",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-056",
+      "description": "the functions and uses of money, the importance and practice of budgeting, and"
+    },
+    {
+      "code": "KS?-CI-057",
+      "description": "managing risk."
+    },
+    {
+      "code": "KS?-CI-058",
+      "description": "Key stage 4"
+    },
+    {
+      "code": "KS?-CI-059",
+      "description": "Teaching should build on the key stage 3 programme of study to deepen pupils\u2019"
+    },
+    {
+      "code": "KS?-CI-060",
+      "description": "understanding of democracy, government and the rights and responsibilities of citizens."
+    },
+    {
+      "code": "KS?-CI-061",
+      "description": "Pupils should develop their skills to be able to use a range of research strategies, weigh"
+    },
+    {
+      "code": "KS?-CI-062",
+      "description": "up evidence, make persuasive arguments and substantiate their conclusions. They should"
+    },
+    {
+      "code": "KS?-CI-063",
+      "description": "experience and evaluate different ways that citizens can act together to solve problems"
+    },
+    {
+      "code": "KS?-CI-064",
+      "description": "and contribute to society."
+    },
+    {
+      "code": "KS?-CI-065",
+      "description": "Pupils should be taught about:"
+    },
+    {
+      "code": "KS?-CI-066",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-067",
+      "description": "parliamentary democracy and the key elements of the constitution of the United"
+    },
+    {
+      "code": "KS?-CI-068",
+      "description": "Kingdom, including the power of government, the role of citizens and Parliament in"
+    },
+    {
+      "code": "KS?-CI-069",
+      "description": "holding those in power to account, and the different roles of the executive, legislature"
+    },
+    {
+      "code": "KS?-CI-070",
+      "description": "and judiciary and a free press"
+    },
+    {
+      "code": "KS?-CI-071",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-072",
+      "description": "the different electoral systems used in and beyond the United Kingdom and actions"
+    },
+    {
+      "code": "KS?-CI-073",
+      "description": "citizens can take in democratic and electoral processes to influence decisions locally,"
+    },
+    {
+      "code": "KS?-CI-074",
+      "description": "nationally and beyond"
+    },
+    {
+      "code": "KS?-CI-075",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-076",
+      "description": "other systems and forms of government, both democratic and non-democratic, beyond"
+    },
+    {
+      "code": "KS?-CI-077",
+      "description": "the United Kingdom"
+    },
+    {
+      "code": "KS?-CI-078",
+      "description": "2"
+    },
+    {
+      "code": "KS?-CI-079",
+      "description": "Citizenship \u2013 key stages 3 and 4"
+    },
+    {
+      "code": "KS?-CI-080",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-081",
+      "description": "local, regional and international governance and the United Kingdom\u2019s relations with"
+    },
+    {
+      "code": "KS?-CI-082",
+      "description": "the rest of Europe, the Commonwealth, the United Nations and the wider world"
+    },
+    {
+      "code": "KS?-CI-083",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-084",
+      "description": "human rights and international law"
+    },
+    {
+      "code": "KS?-CI-085",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-086",
+      "description": "the legal system in the UK, different sources of law and how the law helps society deal"
+    },
+    {
+      "code": "KS?-CI-087",
+      "description": "with complex problems"
+    },
+    {
+      "code": "KS?-CI-088",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-089",
+      "description": "diverse national, regional, religious and ethnic identities in the United Kingdom and the"
+    },
+    {
+      "code": "KS?-CI-090",
+      "description": "need for mutual respect and understanding"
+    },
+    {
+      "code": "KS?-CI-091",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-092",
+      "description": "the different ways in which a citizen can contribute to the improvement of his or her"
+    },
+    {
+      "code": "KS?-CI-093",
+      "description": "community, to include the opportunity to participate actively in community volunteering,"
+    },
+    {
+      "code": "KS?-CI-094",
+      "description": "as well as other forms of responsible activity"
+    },
+    {
+      "code": "KS?-CI-095",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS?-CI-096",
+      "description": "income and expenditure, credit and debt, insurance, savings and pensions, financial"
+    },
+    {
+      "code": "KS?-CI-097",
+      "description": "products and services, and how public money is raised and spent."
+    },
+    {
+      "code": "KS?-CI-098",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS?-CI-099",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS?-CI-100",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS?-CI-101",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS?-CI-102",
+      "description": "Reference: DFE-00190-2013"
+    },
+    {
+      "code": "KS?-CI-103",
+      "description": "3"
+    }
+  ]
+}

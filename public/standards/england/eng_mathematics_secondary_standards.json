@@ -1,1 +1,1512 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-MA-001",
+      "description": "Mathematics"
+    },
+    {
+      "code": "KS3-MA-002",
+      "description": "programmes of study:"
+    },
+    {
+      "code": "KS3-MA-003",
+      "description": "key stage 3"
+    },
+    {
+      "code": "KS3-MA-004",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-MA-005",
+      "description": "September 2013"
+    },
+    {
+      "code": "KS3-MA-006",
+      "description": "Mathematics \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MA-007",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-MA-008",
+      "description": "Mathematics is a creative and highly inter-connected discipline that has been developed"
+    },
+    {
+      "code": "KS3-MA-009",
+      "description": "over centuries, providing the solution to some of history\u2019s most intriguing problems. It is"
+    },
+    {
+      "code": "KS3-MA-010",
+      "description": "essential to everyday life, critical to science, technology and engineering, and necessary"
+    },
+    {
+      "code": "KS3-MA-011",
+      "description": "for financial literacy and most forms of employment. A high-quality mathematics education"
+    },
+    {
+      "code": "KS3-MA-012",
+      "description": "therefore provides a foundation for understanding the world, the ability to reason"
+    },
+    {
+      "code": "KS3-MA-013",
+      "description": "mathematically, an appreciation of the beauty and power of mathematics, and a sense of"
+    },
+    {
+      "code": "KS3-MA-014",
+      "description": "enjoyment and curiosity about the subject."
+    },
+    {
+      "code": "KS3-MA-015",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-MA-016",
+      "description": "The national curriculum for mathematics aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-MA-017",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-018",
+      "description": "become in the fundamentals of mathematics, including through varied and"
+    },
+    {
+      "code": "KS3-MA-019",
+      "description": "fluent"
+    },
+    {
+      "code": "KS3-MA-020",
+      "description": "frequent practice with increasingly complex problems over time, so that pupils develop"
+    },
+    {
+      "code": "KS3-MA-021",
+      "description": "conceptual understanding and the ability to recall and apply knowledge rapidly and"
+    },
+    {
+      "code": "KS3-MA-022",
+      "description": "accurately."
+    },
+    {
+      "code": "KS3-MA-023",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-024",
+      "description": "by following a line of enquiry, conjecturing relationships and"
+    },
+    {
+      "code": "KS3-MA-025",
+      "description": "reason mathematically"
+    },
+    {
+      "code": "KS3-MA-026",
+      "description": "generalisations, and developing an argument, justification or proof using mathematical"
+    },
+    {
+      "code": "KS3-MA-027",
+      "description": "language"
+    },
+    {
+      "code": "KS3-MA-028",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-029",
+      "description": "can by applying their mathematics to a variety of routine and non-"
+    },
+    {
+      "code": "KS3-MA-030",
+      "description": "solve problems"
+    },
+    {
+      "code": "KS3-MA-031",
+      "description": "routine problems with increasing sophistication, including breaking down problems into"
+    },
+    {
+      "code": "KS3-MA-032",
+      "description": "a series of simpler steps and persevering in seeking solutions."
+    },
+    {
+      "code": "KS3-MA-033",
+      "description": "Mathematics is an interconnected subject in which pupils need to be able to move fluently"
+    },
+    {
+      "code": "KS3-MA-034",
+      "description": "between representations of mathematical ideas. The programme of study for key stage 3"
+    },
+    {
+      "code": "KS3-MA-035",
+      "description": "is organised into apparently distinct domains, but pupils should build on key stage 2 and"
+    },
+    {
+      "code": "KS3-MA-036",
+      "description": "connections across mathematical ideas to develop fluency, mathematical reasoning and"
+    },
+    {
+      "code": "KS3-MA-037",
+      "description": "competence in solving increasingly sophisticated problems. They should also apply their"
+    },
+    {
+      "code": "KS3-MA-038",
+      "description": "mathematical knowledge in science, geography, computing and other subjects."
+    },
+    {
+      "code": "KS3-MA-039",
+      "description": "Decisions about progression should be based on the security of pupils\u2019 understanding and"
+    },
+    {
+      "code": "KS3-MA-040",
+      "description": "their readiness to progress to the next stage. Pupils who grasp concepts rapidly should be"
+    },
+    {
+      "code": "KS3-MA-041",
+      "description": "challenged through being offered rich and sophisticated problems before any acceleration"
+    },
+    {
+      "code": "KS3-MA-042",
+      "description": "through new content in preparation for key stage 4. Those who are not sufficiently fluent"
+    },
+    {
+      "code": "KS3-MA-043",
+      "description": "should consolidate their understanding, including through additional practice, before"
+    },
+    {
+      "code": "KS3-MA-044",
+      "description": "moving on."
+    },
+    {
+      "code": "KS3-MA-045",
+      "description": "Information and communication technology (ICT)"
+    },
+    {
+      "code": "KS3-MA-046",
+      "description": "Calculators should not be used as a substitute for good written and mental arithmetic. In"
+    },
+    {
+      "code": "KS3-MA-047",
+      "description": "secondary schools, teachers should use their judgement about when ICT tools should be"
+    },
+    {
+      "code": "KS3-MA-048",
+      "description": "used."
+    },
+    {
+      "code": "KS3-MA-049",
+      "description": "2"
+    },
+    {
+      "code": "KS3-MA-050",
+      "description": "Mathematics \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MA-051",
+      "description": "Spoken language"
+    },
+    {
+      "code": "KS3-MA-052",
+      "description": "The national curriculum for mathematics reflects the importance of spoken language in"
+    },
+    {
+      "code": "KS3-MA-053",
+      "description": "pupils\u2019 development across the whole curriculum \u2013 cognitively, socially and linguistically."
+    },
+    {
+      "code": "KS3-MA-054",
+      "description": "The quality and variety of language that pupils hear and speak are key factors in"
+    },
+    {
+      "code": "KS3-MA-055",
+      "description": "developing their mathematical vocabulary and presenting a mathematical justification,"
+    },
+    {
+      "code": "KS3-MA-056",
+      "description": "argument or proof. They must be assisted in making their thinking clear to themselves as"
+    },
+    {
+      "code": "KS3-MA-057",
+      "description": "well as others and teachers should ensure that pupils build secure foundations by using"
+    },
+    {
+      "code": "KS3-MA-058",
+      "description": "discussion to probe and remedy their misconceptions."
+    },
+    {
+      "code": "KS3-MA-059",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-MA-060",
+      "description": "By the end of key stage 3, pupils are expected to know, apply and understand the matters,"
+    },
+    {
+      "code": "KS3-MA-061",
+      "description": "skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS3-MA-062",
+      "description": "Schools are not required by law to teach the example content in [square brackets]"
+    },
+    {
+      "code": "KS3-MA-063",
+      "description": "or the content indicated as being \u2018non-statutory\u2019."
+    },
+    {
+      "code": "KS3-MA-064",
+      "description": "3"
+    },
+    {
+      "code": "KS3-MA-065",
+      "description": "Mathematics \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MA-066",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-MA-067",
+      "description": "Working mathematically"
+    },
+    {
+      "code": "KS3-MA-068",
+      "description": "Through the mathematics content, pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MA-069",
+      "description": "Develop fluency"
+    },
+    {
+      "code": "KS3-MA-070",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-071",
+      "description": "consolidate their numerical and mathematical capability from key stage 2 and extend"
+    },
+    {
+      "code": "KS3-MA-072",
+      "description": "their understanding of the number system and place value to include decimals,"
+    },
+    {
+      "code": "KS3-MA-073",
+      "description": "fractions, powers and roots"
+    },
+    {
+      "code": "KS3-MA-074",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-075",
+      "description": "select and use appropriate calculation strategies to solve increasingly complex"
+    },
+    {
+      "code": "KS3-MA-076",
+      "description": "problems"
+    },
+    {
+      "code": "KS3-MA-077",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-078",
+      "description": "use algebra to generalise the structure of arithmetic, including to formulate"
+    },
+    {
+      "code": "KS3-MA-079",
+      "description": "mathematical relationships"
+    },
+    {
+      "code": "KS3-MA-080",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-081",
+      "description": "substitute values in expressions, rearrange and simplify expressions, and solve"
+    },
+    {
+      "code": "KS3-MA-082",
+      "description": "equations"
+    },
+    {
+      "code": "KS3-MA-083",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-084",
+      "description": "move freely between different numerical, algebraic, graphical and diagrammatic"
+    },
+    {
+      "code": "KS3-MA-085",
+      "description": "representations [for example, equivalent fractions, fractions and decimals, and"
+    },
+    {
+      "code": "KS3-MA-086",
+      "description": "equations and graphs]"
+    },
+    {
+      "code": "KS3-MA-087",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-088",
+      "description": "develop algebraic and graphical fluency, including understanding linear and simple"
+    },
+    {
+      "code": "KS3-MA-089",
+      "description": "quadratic functions"
+    },
+    {
+      "code": "KS3-MA-090",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-091",
+      "description": "use language and properties precisely to analyse numbers, algebraic expressions, 2-D"
+    },
+    {
+      "code": "KS3-MA-092",
+      "description": "and 3-D shapes, probability and statistics."
+    },
+    {
+      "code": "KS3-MA-093",
+      "description": "Reason mathematically"
+    },
+    {
+      "code": "KS3-MA-094",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-095",
+      "description": "extend their understanding of the number system; make connections between number"
+    },
+    {
+      "code": "KS3-MA-096",
+      "description": "relationships, and their algebraic and graphical representations"
+    },
+    {
+      "code": "KS3-MA-097",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-098",
+      "description": "extend and formalise their knowledge of ratio and proportion in working with measures"
+    },
+    {
+      "code": "KS3-MA-099",
+      "description": "and geometry, and in formulating proportional relations algebraically"
+    },
+    {
+      "code": "KS3-MA-100",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-101",
+      "description": "identify variables and express relations between variables algebraically and graphically"
+    },
+    {
+      "code": "KS3-MA-102",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-103",
+      "description": "make and test conjectures about patterns and relationships; look for proofs or counter-"
+    },
+    {
+      "code": "KS3-MA-104",
+      "description": "examples"
+    },
+    {
+      "code": "KS3-MA-105",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-106",
+      "description": "begin to reason deductively in geometry, number and algebra, including using"
+    },
+    {
+      "code": "KS3-MA-107",
+      "description": "geometrical constructions"
+    },
+    {
+      "code": "KS3-MA-108",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-109",
+      "description": "interpret when the structure of a numerical problem requires additive, multiplicative or"
+    },
+    {
+      "code": "KS3-MA-110",
+      "description": "proportional reasoning"
+    },
+    {
+      "code": "KS3-MA-111",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-112",
+      "description": "explore what can and cannot be inferred in statistical and probabilistic settings, and"
+    },
+    {
+      "code": "KS3-MA-113",
+      "description": "begin to express their arguments formally."
+    },
+    {
+      "code": "KS3-MA-114",
+      "description": "4"
+    },
+    {
+      "code": "KS3-MA-115",
+      "description": "Mathematics \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MA-116",
+      "description": "Solve problems"
+    },
+    {
+      "code": "KS3-MA-117",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-118",
+      "description": "develop their mathematical knowledge, in part through solving problems and evaluating"
+    },
+    {
+      "code": "KS3-MA-119",
+      "description": "the outcomes, including multi-step problems"
+    },
+    {
+      "code": "KS3-MA-120",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-121",
+      "description": "develop their use of formal mathematical knowledge to interpret and solve problems,"
+    },
+    {
+      "code": "KS3-MA-122",
+      "description": "including in financial mathematics"
+    },
+    {
+      "code": "KS3-MA-123",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-124",
+      "description": "begin to model situations mathematically and express the results using a range of"
+    },
+    {
+      "code": "KS3-MA-125",
+      "description": "formal mathematical representations"
+    },
+    {
+      "code": "KS3-MA-126",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-127",
+      "description": "select appropriate concepts, methods and techniques to apply to unfamiliar and non-"
+    },
+    {
+      "code": "KS3-MA-128",
+      "description": "routine problems."
+    },
+    {
+      "code": "KS3-MA-129",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-MA-130",
+      "description": "Number"
+    },
+    {
+      "code": "KS3-MA-131",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MA-132",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-133",
+      "description": "understand and use place value for decimals, measures and integers of any size"
+    },
+    {
+      "code": "KS3-MA-134",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-135",
+      "description": "order positive and negative integers, decimals and fractions; use the number line as a"
+    },
+    {
+      "code": "KS3-MA-136",
+      "description": "model for ordering of the real numbers; use the symbols =, \u2260, <, >, \u2264, \u2265"
+    },
+    {
+      "code": "KS3-MA-137",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-138",
+      "description": "use the concepts and vocabulary of prime numbers, factors (or divisors), multiples,"
+    },
+    {
+      "code": "KS3-MA-139",
+      "description": "common factors, common multiples, highest common factor, lowest common multiple,"
+    },
+    {
+      "code": "KS3-MA-140",
+      "description": "prime factorisation, including using product notation and the unique factorisation"
+    },
+    {
+      "code": "KS3-MA-141",
+      "description": "property"
+    },
+    {
+      "code": "KS3-MA-142",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-143",
+      "description": "use the four operations, including formal written methods, applied to integers, decimals,"
+    },
+    {
+      "code": "KS3-MA-144",
+      "description": "proper and improper fractions, and mixed numbers, all both positive and negative"
+    },
+    {
+      "code": "KS3-MA-145",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-146",
+      "description": "use conventional notation for the priority of operations, including brackets, powers,"
+    },
+    {
+      "code": "KS3-MA-147",
+      "description": "roots and reciprocals"
+    },
+    {
+      "code": "KS3-MA-148",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-149",
+      "description": "recognise and use relationships between operations including inverse operations"
+    },
+    {
+      "code": "KS3-MA-150",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-151",
+      "description": "use integer powers and associated real roots (square, cube and higher), recognise"
+    },
+    {
+      "code": "KS3-MA-152",
+      "description": "powers of 2, 3, 4, 5 and distinguish between exact representations of roots and their"
+    },
+    {
+      "code": "KS3-MA-153",
+      "description": "decimal approximations"
+    },
+    {
+      "code": "KS3-MA-154",
+      "description": "10n"
+    },
+    {
+      "code": "KS3-MA-155",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-156",
+      "description": "interpret and compare numbers in standard form A x 1\u2264A<10, where n is a positive"
+    },
+    {
+      "code": "KS3-MA-157",
+      "description": "or negative integer or zero"
+    },
+    {
+      "code": "KS3-MA-158",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-159",
+      "description": "work interchangeably with terminating decimals and their corresponding fractions (such"
+    },
+    {
+      "code": "KS3-MA-160",
+      "description": "7 3"
+    },
+    {
+      "code": "KS3-MA-161",
+      "description": "as 3.5 and or 0.375 and )"
+    },
+    {
+      "code": "KS3-MA-162",
+      "description": "2 8"
+    },
+    {
+      "code": "KS3-MA-163",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-164",
+      "description": "define percentage as \u2018number of parts per hundred\u2019, interpret percentages and"
+    },
+    {
+      "code": "KS3-MA-165",
+      "description": "percentage changes as a fraction or a decimal, interpret these multiplicatively, express"
+    },
+    {
+      "code": "KS3-MA-166",
+      "description": "one quantity as a percentage of another, compare two quantities using percentages,"
+    },
+    {
+      "code": "KS3-MA-167",
+      "description": "and work with percentages greater than 100%"
+    },
+    {
+      "code": "KS3-MA-168",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-169",
+      "description": "interpret fractions and percentages as operators"
+    },
+    {
+      "code": "KS3-MA-170",
+      "description": "5"
+    },
+    {
+      "code": "KS3-MA-171",
+      "description": "Mathematics \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MA-172",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-173",
+      "description": "use standard units of mass, length, time, money and other measures, including with"
+    },
+    {
+      "code": "KS3-MA-174",
+      "description": "decimal quantities"
+    },
+    {
+      "code": "KS3-MA-175",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-176",
+      "description": "round numbers and measures to an appropriate degree of accuracy [for example, to a"
+    },
+    {
+      "code": "KS3-MA-177",
+      "description": "number of decimal places or significant figures]"
+    },
+    {
+      "code": "KS3-MA-178",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-179",
+      "description": "use approximation through rounding to estimate answers and calculate possible"
+    },
+    {
+      "code": "KS3-MA-180",
+      "description": "resulting errors expressed using inequality notation a<x\u2264b"
+    },
+    {
+      "code": "KS3-MA-181",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-182",
+      "description": "use a calculator and other technologies to calculate results accurately and then"
+    },
+    {
+      "code": "KS3-MA-183",
+      "description": "interpret them appropriately"
+    },
+    {
+      "code": "KS3-MA-184",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-185",
+      "description": "appreciate the infinite nature of the sets of integers, real and rational numbers."
+    },
+    {
+      "code": "KS3-MA-186",
+      "description": "Algebra"
+    },
+    {
+      "code": "KS3-MA-187",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MA-188",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-189",
+      "description": "use and interpret algebraic notation, including:"
+    },
+    {
+      "code": "KS3-MA-190",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-191",
+      "description": "ab in place of a \u00d7 b"
+    },
+    {
+      "code": "KS3-MA-192",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-193",
+      "description": "3y in place of y + y + y and 3 \u00d7 y"
+    },
+    {
+      "code": "KS3-MA-194",
+      "description": "a2 a3 a2b"
+    },
+    {
+      "code": "KS3-MA-195",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-196",
+      "description": "in place of a \u00d7 a, in place of a \u00d7 a \u00d7 a; in place of a \u00d7 a \u00d7 b"
+    },
+    {
+      "code": "KS3-MA-197",
+      "description": "a"
+    },
+    {
+      "code": "KS3-MA-198",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-199",
+      "description": "\u00f7"
+    },
+    {
+      "code": "KS3-MA-200",
+      "description": "in place of a b"
+    },
+    {
+      "code": "KS3-MA-201",
+      "description": "b"
+    },
+    {
+      "code": "KS3-MA-202",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-203",
+      "description": "coefficients written as fractions rather than as decimals"
+    },
+    {
+      "code": "KS3-MA-204",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-205",
+      "description": "brackets"
+    },
+    {
+      "code": "KS3-MA-206",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-207",
+      "description": "substitute numerical values into formulae and expressions, including scientific formulae"
+    },
+    {
+      "code": "KS3-MA-208",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-209",
+      "description": "understand and use the concepts and vocabulary of expressions, equations,"
+    },
+    {
+      "code": "KS3-MA-210",
+      "description": "inequalities, terms and factors"
+    },
+    {
+      "code": "KS3-MA-211",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-212",
+      "description": "simplify and manipulate algebraic expressions to maintain equivalence by:"
+    },
+    {
+      "code": "KS3-MA-213",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-214",
+      "description": "collecting like terms"
+    },
+    {
+      "code": "KS3-MA-215",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-216",
+      "description": "multiplying a single term over a bracket"
+    },
+    {
+      "code": "KS3-MA-217",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-218",
+      "description": "taking out common factors"
+    },
+    {
+      "code": "KS3-MA-219",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-220",
+      "description": "expanding products of two or more binomials"
+    },
+    {
+      "code": "KS3-MA-221",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-222",
+      "description": "understand and use standard mathematical formulae; rearrange formulae to change"
+    },
+    {
+      "code": "KS3-MA-223",
+      "description": "the subject"
+    },
+    {
+      "code": "KS3-MA-224",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-225",
+      "description": "model situations or procedures by translating them into algebraic expressions or"
+    },
+    {
+      "code": "KS3-MA-226",
+      "description": "formulae and by using graphs"
+    },
+    {
+      "code": "KS3-MA-227",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-228",
+      "description": "use algebraic methods to solve linear equations in one variable (including all forms that"
+    },
+    {
+      "code": "KS3-MA-229",
+      "description": "require rearrangement)"
+    },
+    {
+      "code": "KS3-MA-230",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-231",
+      "description": "work with coordinates in all four quadrants"
+    },
+    {
+      "code": "KS3-MA-232",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-233",
+      "description": "recognise, sketch and produce graphs of linear and quadratic functions of one variable"
+    },
+    {
+      "code": "KS3-MA-234",
+      "description": "with appropriate scaling, using equations in x and y and the Cartesian plane"
+    },
+    {
+      "code": "KS3-MA-235",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-236",
+      "description": "interpret mathematical relationships both algebraically and graphically"
+    },
+    {
+      "code": "KS3-MA-237",
+      "description": "6"
+    },
+    {
+      "code": "KS3-MA-238",
+      "description": "Mathematics \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MA-239",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-240",
+      "description": "reduce a given linear equation in two variables to the standard form y = mx + c;"
+    },
+    {
+      "code": "KS3-MA-241",
+      "description": "calculate and interpret gradients and intercepts of graphs of such linear equations"
+    },
+    {
+      "code": "KS3-MA-242",
+      "description": "numerically, graphically and algebraically"
+    },
+    {
+      "code": "KS3-MA-243",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-244",
+      "description": "use linear and quadratic graphs to estimate values of y for given values of x and vice"
+    },
+    {
+      "code": "KS3-MA-245",
+      "description": "versa and to find approximate solutions of simultaneous linear equations"
+    },
+    {
+      "code": "KS3-MA-246",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-247",
+      "description": "find approximate solutions to contextual problems from given graphs of a variety of"
+    },
+    {
+      "code": "KS3-MA-248",
+      "description": "functions, including piece-wise linear, exponential and reciprocal graphs"
+    },
+    {
+      "code": "KS3-MA-249",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-250",
+      "description": "generate terms of a sequence from either a term-to-term or a position-to-term rule"
+    },
+    {
+      "code": "KS3-MA-251",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-252",
+      "description": "recognise arithmetic sequences and find the nth term"
+    },
+    {
+      "code": "KS3-MA-253",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-254",
+      "description": "recognise geometric sequences and appreciate other sequences that arise."
+    },
+    {
+      "code": "KS3-MA-255",
+      "description": "Ratio, proportion and rates of change"
+    },
+    {
+      "code": "KS3-MA-256",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MA-257",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-258",
+      "description": "change freely between related standard units [for example time, length, area,"
+    },
+    {
+      "code": "KS3-MA-259",
+      "description": "volume/capacity, mass]"
+    },
+    {
+      "code": "KS3-MA-260",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-261",
+      "description": "use scale factors, scale diagrams and maps"
+    },
+    {
+      "code": "KS3-MA-262",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-263",
+      "description": "express one quantity as a fraction of another, where the fraction is less than 1 and"
+    },
+    {
+      "code": "KS3-MA-264",
+      "description": "greater than 1"
+    },
+    {
+      "code": "KS3-MA-265",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-266",
+      "description": "use ratio notation, including reduction to simplest form"
+    },
+    {
+      "code": "KS3-MA-267",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-268",
+      "description": "divide a given quantity into two parts in a given part:part or part:whole ratio; express"
+    },
+    {
+      "code": "KS3-MA-269",
+      "description": "the division of a quantity into two parts as a ratio"
+    },
+    {
+      "code": "KS3-MA-270",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-271",
+      "description": "understand that a multiplicative relationship between two quantities can be expressed"
+    },
+    {
+      "code": "KS3-MA-272",
+      "description": "as a ratio or a fraction"
+    },
+    {
+      "code": "KS3-MA-273",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-274",
+      "description": "relate the language of ratios and the associated calculations to the arithmetic of"
+    },
+    {
+      "code": "KS3-MA-275",
+      "description": "fractions and to linear functions"
+    },
+    {
+      "code": "KS3-MA-276",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-277",
+      "description": "solve problems involving percentage change, including: percentage increase, decrease"
+    },
+    {
+      "code": "KS3-MA-278",
+      "description": "and original value problems and simple interest in financial mathematics"
+    },
+    {
+      "code": "KS3-MA-279",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-280",
+      "description": "solve problems involving direct and inverse proportion, including graphical and"
+    },
+    {
+      "code": "KS3-MA-281",
+      "description": "algebraic representations"
+    },
+    {
+      "code": "KS3-MA-282",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-283",
+      "description": "use compound units such as speed, unit pricing and density to solve problems."
+    },
+    {
+      "code": "KS3-MA-284",
+      "description": "7"
+    },
+    {
+      "code": "KS3-MA-285",
+      "description": "Mathematics \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MA-286",
+      "description": "Geometry and measures"
+    },
+    {
+      "code": "KS3-MA-287",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MA-288",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-289",
+      "description": "derive and apply formulae to calculate and solve problems involving: perimeter and"
+    },
+    {
+      "code": "KS3-MA-290",
+      "description": "area of triangles, parallelograms, trapezia, volume of cuboids (including cubes) and"
+    },
+    {
+      "code": "KS3-MA-291",
+      "description": "other prisms (including cylinders)"
+    },
+    {
+      "code": "KS3-MA-292",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-293",
+      "description": "calculate and solve problems involving: perimeters of 2-D shapes (including circles),"
+    },
+    {
+      "code": "KS3-MA-294",
+      "description": "areas of circles and composite shapes"
+    },
+    {
+      "code": "KS3-MA-295",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-296",
+      "description": "draw and measure line segments and angles in geometric figures, including"
+    },
+    {
+      "code": "KS3-MA-297",
+      "description": "interpreting scale drawings"
+    },
+    {
+      "code": "KS3-MA-298",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-299",
+      "description": "derive and use the standard ruler and compass constructions (perpendicular bisector of"
+    },
+    {
+      "code": "KS3-MA-300",
+      "description": "a line segment, constructing a perpendicular to a given line from/at a given point,"
+    },
+    {
+      "code": "KS3-MA-301",
+      "description": "bisecting a given angle); recognise and use the perpendicular distance from a point to"
+    },
+    {
+      "code": "KS3-MA-302",
+      "description": "a line as the shortest distance to the line"
+    },
+    {
+      "code": "KS3-MA-303",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-304",
+      "description": "describe, sketch and draw using conventional terms and notations: points, lines,"
+    },
+    {
+      "code": "KS3-MA-305",
+      "description": "parallel lines, perpendicular lines, right angles, regular polygons, and other polygons"
+    },
+    {
+      "code": "KS3-MA-306",
+      "description": "that are reflectively and rotationally symmetric"
+    },
+    {
+      "code": "KS3-MA-307",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-308",
+      "description": "use the standard conventions for labelling the sides and angles of triangle ABC, and"
+    },
+    {
+      "code": "KS3-MA-309",
+      "description": "know and use the criteria for congruence of triangles"
+    },
+    {
+      "code": "KS3-MA-310",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-311",
+      "description": "derive and illustrate properties of triangles, quadrilaterals, circles, and other plane"
+    },
+    {
+      "code": "KS3-MA-312",
+      "description": "figures [for example, equal lengths and angles] using appropriate language and"
+    },
+    {
+      "code": "KS3-MA-313",
+      "description": "technologies"
+    },
+    {
+      "code": "KS3-MA-314",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-315",
+      "description": "identify properties of, and describe the results of, translations, rotations and reflections"
+    },
+    {
+      "code": "KS3-MA-316",
+      "description": "applied to given figures"
+    },
+    {
+      "code": "KS3-MA-317",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-318",
+      "description": "identify and construct congruent triangles, and construct similar shapes by"
+    },
+    {
+      "code": "KS3-MA-319",
+      "description": "enlargement, with and without coordinate grids"
+    },
+    {
+      "code": "KS3-MA-320",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-321",
+      "description": "apply the properties of angles at a point, angles at a point on a straight line, vertically"
+    },
+    {
+      "code": "KS3-MA-322",
+      "description": "opposite angles"
+    },
+    {
+      "code": "KS3-MA-323",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-324",
+      "description": "understand and use the relationship between parallel lines and alternate and"
+    },
+    {
+      "code": "KS3-MA-325",
+      "description": "corresponding angles"
+    },
+    {
+      "code": "KS3-MA-326",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-327",
+      "description": "derive and use the sum of angles in a triangle and use it to deduce the angle sum in"
+    },
+    {
+      "code": "KS3-MA-328",
+      "description": "any polygon, and to derive properties of regular polygons"
+    },
+    {
+      "code": "KS3-MA-329",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-330",
+      "description": "apply angle facts, triangle congruence, similarity and properties of quadrilaterals to"
+    },
+    {
+      "code": "KS3-MA-331",
+      "description": "derive results about angles and sides, including Pythagoras\u2019 Theorem, and use known"
+    },
+    {
+      "code": "KS3-MA-332",
+      "description": "results to obtain simple proofs"
+    },
+    {
+      "code": "KS3-MA-333",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-334",
+      "description": "use Pythagoras\u2019 Theorem and trigonometric ratios in similar triangles to solve problems"
+    },
+    {
+      "code": "KS3-MA-335",
+      "description": "involving right-angled triangles"
+    },
+    {
+      "code": "KS3-MA-336",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-337",
+      "description": "use the properties of faces, surfaces, edges and vertices of cubes, cuboids, prisms,"
+    },
+    {
+      "code": "KS3-MA-338",
+      "description": "cylinders, pyramids, cones and spheres to solve problems in 3-D"
+    },
+    {
+      "code": "KS3-MA-339",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-340",
+      "description": "interpret mathematical relationships both algebraically and geometrically."
+    },
+    {
+      "code": "KS3-MA-341",
+      "description": "8"
+    },
+    {
+      "code": "KS3-MA-342",
+      "description": "Mathematics \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-MA-343",
+      "description": "Probability"
+    },
+    {
+      "code": "KS3-MA-344",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MA-345",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-346",
+      "description": "record, describe and analyse the frequency of outcomes of simple probability"
+    },
+    {
+      "code": "KS3-MA-347",
+      "description": "experiments involving randomness, fairness, equally and unequally likely outcomes,"
+    },
+    {
+      "code": "KS3-MA-348",
+      "description": "using appropriate language and the 0-1 probability scale"
+    },
+    {
+      "code": "KS3-MA-349",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-350",
+      "description": "understand that the probabilities of all possible outcomes sum to 1"
+    },
+    {
+      "code": "KS3-MA-351",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-352",
+      "description": "enumerate sets and unions/intersections of sets systematically, using tables, grids and"
+    },
+    {
+      "code": "KS3-MA-353",
+      "description": "Venn diagrams"
+    },
+    {
+      "code": "KS3-MA-354",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-355",
+      "description": "generate theoretical sample spaces for single and combined events with equally likely,"
+    },
+    {
+      "code": "KS3-MA-356",
+      "description": "mutually exclusive outcomes and use these to calculate theoretical probabilities."
+    },
+    {
+      "code": "KS3-MA-357",
+      "description": "Statistics"
+    },
+    {
+      "code": "KS3-MA-358",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-MA-359",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-360",
+      "description": "describe, interpret and compare observed distributions of a single variable through:"
+    },
+    {
+      "code": "KS3-MA-361",
+      "description": "appropriate graphical representation involving discrete, continuous and grouped data;"
+    },
+    {
+      "code": "KS3-MA-362",
+      "description": "and appropriate measures of central tendency (mean, mode, median) and spread"
+    },
+    {
+      "code": "KS3-MA-363",
+      "description": "(range, consideration of outliers)"
+    },
+    {
+      "code": "KS3-MA-364",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-365",
+      "description": "construct and interpret appropriate tables, charts, and diagrams, including frequency"
+    },
+    {
+      "code": "KS3-MA-366",
+      "description": "tables, bar charts, pie charts, and pictograms for categorical data, and vertical line (or"
+    },
+    {
+      "code": "KS3-MA-367",
+      "description": "bar) charts for ungrouped and grouped numerical data"
+    },
+    {
+      "code": "KS3-MA-368",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-MA-369",
+      "description": "describe simple mathematical relationships between two variables (bivariate data) in"
+    },
+    {
+      "code": "KS3-MA-370",
+      "description": "observational and experimental contexts and illustrate using scatter graphs."
+    },
+    {
+      "code": "KS3-MA-371",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-MA-372",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under"
+    },
+    {
+      "code": "KS3-MA-373",
+      "description": "the terms of the Open Government Licence. To view this licence, visit"
+    },
+    {
+      "code": "KS3-MA-374",
+      "description": "or email: http://www.nationalarchives.gov.uk/doc/open-government-licence/"
+    },
+    {
+      "code": "KS3-MA-375",
+      "description": "psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-MA-376",
+      "description": "Reference: DFE-00179-2013"
+    },
+    {
+      "code": "KS3-MA-377",
+      "description": "9"
+    }
+  ]
+}

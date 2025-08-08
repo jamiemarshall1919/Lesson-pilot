@@ -1,1 +1,364 @@
-{}
+{
+  "KS1-2": [
+    {
+      "code": "KS1-2-MF-001",
+      "description": "Languages programmes of study:"
+    },
+    {
+      "code": "KS1-2-MF-002",
+      "description": "key stage 2"
+    },
+    {
+      "code": "KS1-2-MF-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS1-2-MF-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS1-2-MF-005",
+      "description": "Learning a foreign language is a liberation from insularity and provides an opening to other"
+    },
+    {
+      "code": "KS1-2-MF-006",
+      "description": "cultures. A high-quality languages education should foster pupils\u2019 curiosity and deepen"
+    },
+    {
+      "code": "KS1-2-MF-007",
+      "description": "their understanding of the world. The teaching should enable pupils to express their ideas"
+    },
+    {
+      "code": "KS1-2-MF-008",
+      "description": "and thoughts in another language and to understand and respond to its speakers, both in"
+    },
+    {
+      "code": "KS1-2-MF-009",
+      "description": "speech and in writing. It should also provide opportunities for them to communicate for"
+    },
+    {
+      "code": "KS1-2-MF-010",
+      "description": "practical purposes, learn new ways of thinking and read great literature in the original"
+    },
+    {
+      "code": "KS1-2-MF-011",
+      "description": "language. Language teaching should provide the foundation for learning further"
+    },
+    {
+      "code": "KS1-2-MF-012",
+      "description": "languages, equipping pupils to study and work in other countries."
+    },
+    {
+      "code": "KS1-2-MF-013",
+      "description": "Aims"
+    },
+    {
+      "code": "KS1-2-MF-014",
+      "description": "The national curriculum for languages aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS1-2-MF-015",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-016",
+      "description": "understand and respond to spoken and written language from a variety of authentic"
+    },
+    {
+      "code": "KS1-2-MF-017",
+      "description": "sources"
+    },
+    {
+      "code": "KS1-2-MF-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-019",
+      "description": "speak with increasing confidence, fluency and spontaneity, finding ways of"
+    },
+    {
+      "code": "KS1-2-MF-020",
+      "description": "communicating what they want to say, including through discussion and asking"
+    },
+    {
+      "code": "KS1-2-MF-021",
+      "description": "questions, and continually improving the accuracy of their pronunciation and intonation"
+    },
+    {
+      "code": "KS1-2-MF-022",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-023",
+      "description": "can write at varying length, for different purposes and audiences, using the variety of"
+    },
+    {
+      "code": "KS1-2-MF-024",
+      "description": "grammatical structures that they have learnt"
+    },
+    {
+      "code": "KS1-2-MF-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-026",
+      "description": "discover and develop an appreciation of a range of writing in the language studied."
+    },
+    {
+      "code": "KS1-2-MF-027",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS1-2-MF-028",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS1-2-MF-029",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS1-2-MF-030",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS1-2-MF-031",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS1-2-MF-032",
+      "description": "Languages \u2013 key stage 2"
+    },
+    {
+      "code": "KS1-2-MF-033",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS1-2-MF-034",
+      "description": "Key stage 2: Foreign language"
+    },
+    {
+      "code": "KS1-2-MF-035",
+      "description": "Teaching may be of any modern or ancient foreign language and should focus on enabling"
+    },
+    {
+      "code": "KS1-2-MF-036",
+      "description": "pupils to make substantial progress in one language. The teaching should provide an"
+    },
+    {
+      "code": "KS1-2-MF-037",
+      "description": "appropriate balance of spoken and written language and should lay the foundations for"
+    },
+    {
+      "code": "KS1-2-MF-038",
+      "description": "further foreign language teaching at key stage 3. It should enable pupils to understand and"
+    },
+    {
+      "code": "KS1-2-MF-039",
+      "description": "communicate ideas, facts and feelings in speech and writing, focused on familiar and"
+    },
+    {
+      "code": "KS1-2-MF-040",
+      "description": "routine matters, using their knowledge of phonology, grammatical structures and"
+    },
+    {
+      "code": "KS1-2-MF-041",
+      "description": "vocabulary."
+    },
+    {
+      "code": "KS1-2-MF-042",
+      "description": "The focus of study in modern languages will be on practical communication. If an ancient"
+    },
+    {
+      "code": "KS1-2-MF-043",
+      "description": "language is chosen the focus will be to provide a linguistic foundation for reading"
+    },
+    {
+      "code": "KS1-2-MF-044",
+      "description": "comprehension and an appreciation of classical civilisation. Pupils studying ancient"
+    },
+    {
+      "code": "KS1-2-MF-045",
+      "description": "languages may take part in simple oral exchanges, while discussion of what they read will"
+    },
+    {
+      "code": "KS1-2-MF-046",
+      "description": "be conducted in English. A linguistic foundation in ancient languages may support the"
+    },
+    {
+      "code": "KS1-2-MF-047",
+      "description": "study of modern languages at key stage 3."
+    },
+    {
+      "code": "KS1-2-MF-048",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MF-049",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-050",
+      "description": "listen attentively to spoken language and show understanding by joining in and"
+    },
+    {
+      "code": "KS1-2-MF-051",
+      "description": "responding"
+    },
+    {
+      "code": "KS1-2-MF-052",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-053",
+      "description": "explore the patterns and sounds of language through songs and rhymes and link the"
+    },
+    {
+      "code": "KS1-2-MF-054",
+      "description": "spelling, sound and meaning of words"
+    },
+    {
+      "code": "KS1-2-MF-055",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-056",
+      "description": "engage in conversations; ask and answer questions; express opinions and respond to"
+    },
+    {
+      "code": "KS1-2-MF-057",
+      "description": "those of others; seek clarification and help*"
+    },
+    {
+      "code": "KS1-2-MF-058",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-059",
+      "description": "speak in sentences, using familiar vocabulary, phrases and basic language structures"
+    },
+    {
+      "code": "KS1-2-MF-060",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-061",
+      "description": "develop accurate pronunciation and intonation so that others understand when they are"
+    },
+    {
+      "code": "KS1-2-MF-062",
+      "description": "reading aloud or using familiar words and phrases*"
+    },
+    {
+      "code": "KS1-2-MF-063",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-064",
+      "description": "present ideas and information orally to a range of audiences*"
+    },
+    {
+      "code": "KS1-2-MF-065",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-066",
+      "description": "read carefully and show understanding of words, phrases and simple writing"
+    },
+    {
+      "code": "KS1-2-MF-067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-068",
+      "description": "appreciate stories, songs, poems and rhymes in the language"
+    },
+    {
+      "code": "KS1-2-MF-069",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-070",
+      "description": "broaden their vocabulary and develop their ability to understand new words that are"
+    },
+    {
+      "code": "KS1-2-MF-071",
+      "description": "introduced into familiar written material, including through using a dictionary"
+    },
+    {
+      "code": "KS1-2-MF-072",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-073",
+      "description": "write phrases from memory, and adapt these to create new sentences, to express"
+    },
+    {
+      "code": "KS1-2-MF-074",
+      "description": "ideas clearly"
+    },
+    {
+      "code": "KS1-2-MF-075",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-076",
+      "description": "describe people, places, things and actions orally* and in writing"
+    },
+    {
+      "code": "KS1-2-MF-077",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MF-078",
+      "description": "Languages \u2013 key stage 2"
+    },
+    {
+      "code": "KS1-2-MF-079",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MF-080",
+      "description": "understand basic grammar appropriate to the language being studied, including (where"
+    },
+    {
+      "code": "KS1-2-MF-081",
+      "description": "relevant): feminine, masculine and neuter forms and the conjugation of high-frequency"
+    },
+    {
+      "code": "KS1-2-MF-082",
+      "description": "verbs; key features and patterns of the language; how to apply these, for instance, to"
+    },
+    {
+      "code": "KS1-2-MF-083",
+      "description": "build sentences; and how these differ from or are similar to English."
+    },
+    {
+      "code": "KS1-2-MF-084",
+      "description": "The starred (*) content above will not be applicable to ancient languages."
+    },
+    {
+      "code": "KS1-2-MF-085",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS1-2-MF-086",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS1-2-MF-087",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS1-2-MF-088",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS1-2-MF-089",
+      "description": "Reference: DFE-00174-2013"
+    },
+    {
+      "code": "KS1-2-MF-090",
+      "description": "3"
+    }
+  ]
+}

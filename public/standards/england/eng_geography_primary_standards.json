@@ -1,1 +1,592 @@
-{}
+{
+  "KS1-2": [
+    {
+      "code": "KS1-2-GE-001",
+      "description": "Geography programmes of study:"
+    },
+    {
+      "code": "KS1-2-GE-002",
+      "description": "key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-GE-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS1-2-GE-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS1-2-GE-005",
+      "description": "A high-quality geography education should inspire in pupils a curiosity and fascination"
+    },
+    {
+      "code": "KS1-2-GE-006",
+      "description": "about the world and its people that will remain with them for the rest of their lives."
+    },
+    {
+      "code": "KS1-2-GE-007",
+      "description": "Teaching should equip pupils with knowledge about diverse places, people, resources and"
+    },
+    {
+      "code": "KS1-2-GE-008",
+      "description": "natural and human environments, together with a deep understanding of the Earth\u2019s key"
+    },
+    {
+      "code": "KS1-2-GE-009",
+      "description": "physical and human processes. As pupils progress, their growing knowledge about the"
+    },
+    {
+      "code": "KS1-2-GE-010",
+      "description": "world should help them to deepen their understanding of the interaction between physical"
+    },
+    {
+      "code": "KS1-2-GE-011",
+      "description": "and human processes, and of the formation and use of landscapes and environments."
+    },
+    {
+      "code": "KS1-2-GE-012",
+      "description": "Geographical knowledge, understanding and skills provide the frameworks and"
+    },
+    {
+      "code": "KS1-2-GE-013",
+      "description": "approaches that explain how the Earth\u2019s features at different scales are shaped,"
+    },
+    {
+      "code": "KS1-2-GE-014",
+      "description": "interconnected and change over time."
+    },
+    {
+      "code": "KS1-2-GE-015",
+      "description": "Aims"
+    },
+    {
+      "code": "KS1-2-GE-016",
+      "description": "The national curriculum for geography aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS1-2-GE-017",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-018",
+      "description": "develop contextual knowledge of the location of globally significant places \u2013 both"
+    },
+    {
+      "code": "KS1-2-GE-019",
+      "description": "terrestrial and marine \u2013 including their defining physical and human characteristics and"
+    },
+    {
+      "code": "KS1-2-GE-020",
+      "description": "how these provide a geographical context for understanding the actions of processes"
+    },
+    {
+      "code": "KS1-2-GE-021",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-022",
+      "description": "understand the processes that give rise to key physical and human geographical"
+    },
+    {
+      "code": "KS1-2-GE-023",
+      "description": "features of the world, how these are interdependent and how they bring about spatial"
+    },
+    {
+      "code": "KS1-2-GE-024",
+      "description": "variation and change over time"
+    },
+    {
+      "code": "KS1-2-GE-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-026",
+      "description": "are competent in the geographical skills needed to:"
+    },
+    {
+      "code": "KS1-2-GE-027",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-028",
+      "description": "collect, analyse and communicate with a range of data gathered through"
+    },
+    {
+      "code": "KS1-2-GE-029",
+      "description": "experiences of fieldwork that deepen their understanding of geographical"
+    },
+    {
+      "code": "KS1-2-GE-030",
+      "description": "processes"
+    },
+    {
+      "code": "KS1-2-GE-031",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-032",
+      "description": "interpret a range of sources of geographical information, including maps, diagrams,"
+    },
+    {
+      "code": "KS1-2-GE-033",
+      "description": "globes, aerial photographs and Geographical Information Systems (GIS)"
+    },
+    {
+      "code": "KS1-2-GE-034",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-035",
+      "description": "communicate geographical information in a variety of ways, including through"
+    },
+    {
+      "code": "KS1-2-GE-036",
+      "description": "maps, numerical and quantitative skills and writing at length."
+    },
+    {
+      "code": "KS1-2-GE-037",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS1-2-GE-038",
+      "description": "Geography \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-GE-039",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS1-2-GE-040",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS1-2-GE-041",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS1-2-GE-042",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS1-2-GE-043",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS1-2-GE-044",
+      "description": "Key stage 1"
+    },
+    {
+      "code": "KS1-2-GE-045",
+      "description": "Pupils should develop knowledge about the world, the United Kingdom and their locality."
+    },
+    {
+      "code": "KS1-2-GE-046",
+      "description": "They should understand basic subject-specific vocabulary relating to human and physical"
+    },
+    {
+      "code": "KS1-2-GE-047",
+      "description": "geography and begin to use geographical skills, including first-hand observation, to"
+    },
+    {
+      "code": "KS1-2-GE-048",
+      "description": "enhance their locational awareness."
+    },
+    {
+      "code": "KS1-2-GE-049",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-GE-050",
+      "description": "Locational knowledge"
+    },
+    {
+      "code": "KS1-2-GE-051",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-052",
+      "description": "name and locate the world\u2019s seven continents and five oceans"
+    },
+    {
+      "code": "KS1-2-GE-053",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-054",
+      "description": "name, locate and identify characteristics of the four countries and capital cities of the"
+    },
+    {
+      "code": "KS1-2-GE-055",
+      "description": "United Kingdom and its surrounding seas"
+    },
+    {
+      "code": "KS1-2-GE-056",
+      "description": "Place knowledge"
+    },
+    {
+      "code": "KS1-2-GE-057",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-058",
+      "description": "understand geographical similarities and differences through studying the human and"
+    },
+    {
+      "code": "KS1-2-GE-059",
+      "description": "physical geography of a small area of the United Kingdom, and of a small area in a"
+    },
+    {
+      "code": "KS1-2-GE-060",
+      "description": "contrasting non-European country"
+    },
+    {
+      "code": "KS1-2-GE-061",
+      "description": "Human and physical geography"
+    },
+    {
+      "code": "KS1-2-GE-062",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-063",
+      "description": "identify seasonal and daily weather patterns in the United Kingdom and the location of"
+    },
+    {
+      "code": "KS1-2-GE-064",
+      "description": "hot and cold areas of the world in relation to the Equator and the North and South"
+    },
+    {
+      "code": "KS1-2-GE-065",
+      "description": "Poles"
+    },
+    {
+      "code": "KS1-2-GE-066",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-067",
+      "description": "use basic geographical vocabulary to refer to:"
+    },
+    {
+      "code": "KS1-2-GE-068",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-069",
+      "description": "key physical features, including: beach, cliff, coast, forest, hill, mountain, sea,"
+    },
+    {
+      "code": "KS1-2-GE-070",
+      "description": "ocean, river, soil, valley, vegetation, season and weather"
+    },
+    {
+      "code": "KS1-2-GE-071",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-072",
+      "description": "key human features, including: city, town, village, factory, farm, house, office, port,"
+    },
+    {
+      "code": "KS1-2-GE-073",
+      "description": "harbour and shop"
+    },
+    {
+      "code": "KS1-2-GE-074",
+      "description": "Geographical skills and fieldwork"
+    },
+    {
+      "code": "KS1-2-GE-075",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-076",
+      "description": "use world maps, atlases and globes to identify the United Kingdom and its countries,"
+    },
+    {
+      "code": "KS1-2-GE-077",
+      "description": "as well as the countries, continents and oceans studied at this key stage"
+    },
+    {
+      "code": "KS1-2-GE-078",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-079",
+      "description": "use simple compass directions (North, South, East and West) and locational and"
+    },
+    {
+      "code": "KS1-2-GE-080",
+      "description": "directional language [for example, near and far; left and right], to describe the location"
+    },
+    {
+      "code": "KS1-2-GE-081",
+      "description": "of features and routes on a map"
+    },
+    {
+      "code": "KS1-2-GE-082",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-GE-083",
+      "description": "Geography \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-GE-084",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-085",
+      "description": "use aerial photographs and plan perspectives to recognise landmarks and basic"
+    },
+    {
+      "code": "KS1-2-GE-086",
+      "description": "human and physical features; devise a simple map; and use and construct basic"
+    },
+    {
+      "code": "KS1-2-GE-087",
+      "description": "symbols in a key"
+    },
+    {
+      "code": "KS1-2-GE-088",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-089",
+      "description": "use simple fieldwork and observational skills to study the geography of their school and"
+    },
+    {
+      "code": "KS1-2-GE-090",
+      "description": "its grounds and the key human and physical features of its surrounding environment."
+    },
+    {
+      "code": "KS1-2-GE-091",
+      "description": "Key stage 2"
+    },
+    {
+      "code": "KS1-2-GE-092",
+      "description": "Pupils should extend their knowledge and understanding beyond the local area to include"
+    },
+    {
+      "code": "KS1-2-GE-093",
+      "description": "the United Kingdom and Europe, North and South America. This will include the location"
+    },
+    {
+      "code": "KS1-2-GE-094",
+      "description": "and characteristics of a range of the world\u2019s most significant human and physical features."
+    },
+    {
+      "code": "KS1-2-GE-095",
+      "description": "They should develop their use of geographical knowledge, understanding and skills to"
+    },
+    {
+      "code": "KS1-2-GE-096",
+      "description": "enhance their locational and place knowledge."
+    },
+    {
+      "code": "KS1-2-GE-097",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-GE-098",
+      "description": "Locational knowledge"
+    },
+    {
+      "code": "KS1-2-GE-099",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-100",
+      "description": "locate the world\u2019s countries, using maps to focus on Europe (including the location of"
+    },
+    {
+      "code": "KS1-2-GE-101",
+      "description": "Russia) and North and South America, concentrating on their environmental regions,"
+    },
+    {
+      "code": "KS1-2-GE-102",
+      "description": "key physical and human characteristics, countries, and major cities"
+    },
+    {
+      "code": "KS1-2-GE-103",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-104",
+      "description": "name and locate counties and cities of the United Kingdom, geographical regions and"
+    },
+    {
+      "code": "KS1-2-GE-105",
+      "description": "their identifying human and physical characteristics, key topographical features"
+    },
+    {
+      "code": "KS1-2-GE-106",
+      "description": "(including hills, mountains, coasts and rivers), and land-use patterns; and understand"
+    },
+    {
+      "code": "KS1-2-GE-107",
+      "description": "how some of these aspects have changed over time"
+    },
+    {
+      "code": "KS1-2-GE-108",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-109",
+      "description": "identify the position and significance of latitude, longitude, Equator, Northern"
+    },
+    {
+      "code": "KS1-2-GE-110",
+      "description": "Hemisphere, Southern Hemisphere, the Tropics of Cancer and Capricorn, Arctic and"
+    },
+    {
+      "code": "KS1-2-GE-111",
+      "description": "Antarctic Circle, the Prime/Greenwich Meridian and time zones (including day and"
+    },
+    {
+      "code": "KS1-2-GE-112",
+      "description": "night)"
+    },
+    {
+      "code": "KS1-2-GE-113",
+      "description": "Place knowledge"
+    },
+    {
+      "code": "KS1-2-GE-114",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-115",
+      "description": "understand geographical similarities and differences through the study of human and"
+    },
+    {
+      "code": "KS1-2-GE-116",
+      "description": "physical geography of a region of the United Kingdom, a region in a European country,"
+    },
+    {
+      "code": "KS1-2-GE-117",
+      "description": "and a region within North or South America"
+    },
+    {
+      "code": "KS1-2-GE-118",
+      "description": "Human and physical geography"
+    },
+    {
+      "code": "KS1-2-GE-119",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-120",
+      "description": "describe and understand key aspects of:"
+    },
+    {
+      "code": "KS1-2-GE-121",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-122",
+      "description": "physical geography, including: climate zones, biomes and vegetation belts, rivers,"
+    },
+    {
+      "code": "KS1-2-GE-123",
+      "description": "mountains, volcanoes and earthquakes, and the water cycle"
+    },
+    {
+      "code": "KS1-2-GE-124",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-125",
+      "description": "human geography, including: types of settlement and land use, economic activity"
+    },
+    {
+      "code": "KS1-2-GE-126",
+      "description": "including trade links, and the distribution of natural resources including energy,"
+    },
+    {
+      "code": "KS1-2-GE-127",
+      "description": "food, minerals and water"
+    },
+    {
+      "code": "KS1-2-GE-128",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-GE-129",
+      "description": "Geography \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-GE-130",
+      "description": "Geographical skills and fieldwork"
+    },
+    {
+      "code": "KS1-2-GE-131",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-132",
+      "description": "use maps, atlases, globes and digital/computer mapping to locate countries and"
+    },
+    {
+      "code": "KS1-2-GE-133",
+      "description": "describe features studied"
+    },
+    {
+      "code": "KS1-2-GE-134",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-135",
+      "description": "use the eight points of a compass, four and six-figure grid references, symbols and key"
+    },
+    {
+      "code": "KS1-2-GE-136",
+      "description": "(including the use of Ordnance Survey maps) to build their knowledge of the United"
+    },
+    {
+      "code": "KS1-2-GE-137",
+      "description": "Kingdom and the wider world"
+    },
+    {
+      "code": "KS1-2-GE-138",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-GE-139",
+      "description": "use fieldwork to observe, measure, record and present the human and physical"
+    },
+    {
+      "code": "KS1-2-GE-140",
+      "description": "features in the local area using a range of methods, including sketch maps, plans and"
+    },
+    {
+      "code": "KS1-2-GE-141",
+      "description": "graphs, and digital technologies."
+    },
+    {
+      "code": "KS1-2-GE-142",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS1-2-GE-143",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS1-2-GE-144",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS1-2-GE-145",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS1-2-GE-146",
+      "description": "Reference: DFE-00186-2013"
+    },
+    {
+      "code": "KS1-2-GE-147",
+      "description": "4"
+    }
+  ]
+}

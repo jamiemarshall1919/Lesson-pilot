@@ -141,3 +141,7 @@ vite.config.ts.timestamp-*
 public/standards_index.v1.json
 pdfs/england/*
 !pdfs/england/master_curriculum.pdf
+pdfs/
+public/standards/
+public/standards_shards/
+public/standards_index.v1.json

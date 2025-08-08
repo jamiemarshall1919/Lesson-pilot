@@ -1,1 +1,6380 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-EN-001",
+      "description": "English programmes of"
+    },
+    {
+      "code": "KS3-EN-002",
+      "description": "study: key stage 3"
+    },
+    {
+      "code": "KS3-EN-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-EN-004",
+      "description": "September 2013"
+    },
+    {
+      "code": "KS3-EN-005",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-006",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-EN-007",
+      "description": "English has a pre-eminent place in education and in society. A high-quality education in"
+    },
+    {
+      "code": "KS3-EN-008",
+      "description": "English will teach pupils to speak and write fluently so that they can communicate their"
+    },
+    {
+      "code": "KS3-EN-009",
+      "description": "ideas and emotions to others and through their reading and listening, others can"
+    },
+    {
+      "code": "KS3-EN-010",
+      "description": "communicate with them. Through reading in particular, pupils have a chance to develop"
+    },
+    {
+      "code": "KS3-EN-011",
+      "description": "culturally, emotionally, intellectually, socially and spiritually. Literature, especially, plays a"
+    },
+    {
+      "code": "KS3-EN-012",
+      "description": "key role in such development. Reading also enables pupils both to acquire knowledge and"
+    },
+    {
+      "code": "KS3-EN-013",
+      "description": "to build on what they already know. All the skills of language are essential to participating"
+    },
+    {
+      "code": "KS3-EN-014",
+      "description": "fully as a member of society; pupils, therefore, who do not learn to speak, read and write"
+    },
+    {
+      "code": "KS3-EN-015",
+      "description": "fluently and confidently are effectively disenfranchised."
+    },
+    {
+      "code": "KS3-EN-016",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-EN-017",
+      "description": "The overarching aim for English in the national curriculum is to promote high standards of"
+    },
+    {
+      "code": "KS3-EN-018",
+      "description": "language and literacy by equipping pupils with a strong command of the spoken and"
+    },
+    {
+      "code": "KS3-EN-019",
+      "description": "written word, and to develop their love of literature through widespread reading for"
+    },
+    {
+      "code": "KS3-EN-020",
+      "description": "enjoyment. The national curriculum for English aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-EN-021",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-022",
+      "description": "read easily, fluently and with good understanding"
+    },
+    {
+      "code": "KS3-EN-023",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-024",
+      "description": "develop the habit of reading widely and often, for both pleasure and information"
+    },
+    {
+      "code": "KS3-EN-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-026",
+      "description": "acquire a wide vocabulary, an understanding of grammar and knowledge of linguistic"
+    },
+    {
+      "code": "KS3-EN-027",
+      "description": "conventions for reading, writing and spoken language"
+    },
+    {
+      "code": "KS3-EN-028",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-029",
+      "description": "appreciate our rich and varied literary heritage"
+    },
+    {
+      "code": "KS3-EN-030",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-031",
+      "description": "write clearly, accurately and coherently, adapting their language and style in and for a"
+    },
+    {
+      "code": "KS3-EN-032",
+      "description": "range of contexts, purposes and audiences"
+    },
+    {
+      "code": "KS3-EN-033",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-034",
+      "description": "use discussion in order to learn; they should be able to elaborate and explain clearly"
+    },
+    {
+      "code": "KS3-EN-035",
+      "description": "their understanding and ideas"
+    },
+    {
+      "code": "KS3-EN-036",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-037",
+      "description": "are competent in the arts of speaking and listening, making formal presentations,"
+    },
+    {
+      "code": "KS3-EN-038",
+      "description": "demonstrating to others and participating in debate."
+    },
+    {
+      "code": "KS3-EN-039",
+      "description": "Spoken language"
+    },
+    {
+      "code": "KS3-EN-040",
+      "description": "The national curriculum for English reflects the importance of spoken language in pupils\u2019"
+    },
+    {
+      "code": "KS3-EN-041",
+      "description": "development across the whole curriculum \u2013 cognitively, socially and linguistically. Spoken"
+    },
+    {
+      "code": "KS3-EN-042",
+      "description": "language continues to underpin the development of pupils\u2019 reading and writing during key"
+    },
+    {
+      "code": "KS3-EN-043",
+      "description": "stage 3 and teachers should therefore ensure pupils\u2019 confidence and competence in this"
+    },
+    {
+      "code": "KS3-EN-044",
+      "description": "area continue to develop. Pupils should be taught to understand and use the conventions"
+    },
+    {
+      "code": "KS3-EN-045",
+      "description": "for discussion and debate, as well as continuing to develop their skills in working"
+    },
+    {
+      "code": "KS3-EN-046",
+      "description": "collaboratively with their peers to discuss reading, writing and speech across the"
+    },
+    {
+      "code": "KS3-EN-047",
+      "description": "curriculum."
+    },
+    {
+      "code": "KS3-EN-048",
+      "description": "2"
+    },
+    {
+      "code": "KS3-EN-049",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-050",
+      "description": "Reading and writing"
+    },
+    {
+      "code": "KS3-EN-051",
+      "description": "Reading at key stage 3 should be wide, varied and challenging. Pupils should be expected"
+    },
+    {
+      "code": "KS3-EN-052",
+      "description": "to read whole books, to read in depth and to read for pleasure and information."
+    },
+    {
+      "code": "KS3-EN-053",
+      "description": "Pupils should continue to develop their knowledge of and skills in writing, refining their"
+    },
+    {
+      "code": "KS3-EN-054",
+      "description": "drafting skills and developing resilience to write at length. They should be taught to write"
+    },
+    {
+      "code": "KS3-EN-055",
+      "description": "formal and academic essays as well as writing imaginatively. They should be taught to"
+    },
+    {
+      "code": "KS3-EN-056",
+      "description": "write for a variety of purposes and audiences across a range of contexts. This requires an"
+    },
+    {
+      "code": "KS3-EN-057",
+      "description": "increasingly wide knowledge of vocabulary and grammar."
+    },
+    {
+      "code": "KS3-EN-058",
+      "description": "Opportunities for teachers to enhance pupils\u2019 vocabulary will arise naturally from their"
+    },
+    {
+      "code": "KS3-EN-059",
+      "description": "reading and writing. Teachers should show pupils how to understand the relationships"
+    },
+    {
+      "code": "KS3-EN-060",
+      "description": "between words, how to understand nuances in meaning, and how to develop their"
+    },
+    {
+      "code": "KS3-EN-061",
+      "description": "understanding of, and ability to use, figurative language."
+    },
+    {
+      "code": "KS3-EN-062",
+      "description": "Pupils should be taught to control their speaking and writing consciously, understand why"
+    },
+    {
+      "code": "KS3-EN-063",
+      "description": "sentences are constructed as they are and to use Standard English. They should"
+    },
+    {
+      "code": "KS3-EN-064",
+      "description": "understand and use age-appropriate vocabulary, including linguistic and literary"
+    },
+    {
+      "code": "KS3-EN-065",
+      "description": "terminology, for discussing their reading, writing and spoken language. This involves"
+    },
+    {
+      "code": "KS3-EN-066",
+      "description": "consolidation, practice and discussion of language. It is important that pupils learn the"
+    },
+    {
+      "code": "KS3-EN-067",
+      "description": "correct grammatical terms in English and that these terms are integrated within teaching."
+    },
+    {
+      "code": "KS3-EN-068",
+      "description": "Teachers should build on the knowledge and skills that pupils have been taught at key"
+    },
+    {
+      "code": "KS3-EN-069",
+      "description": "stage 2. Decisions about progression should be based on the security of pupils\u2019 linguistic"
+    },
+    {
+      "code": "KS3-EN-070",
+      "description": "knowledge, skills and understanding and their readiness to progress to the next stage."
+    },
+    {
+      "code": "KS3-EN-071",
+      "description": "Pupils whose linguistic development is more advanced should be challenged through"
+    },
+    {
+      "code": "KS3-EN-072",
+      "description": "being offered opportunities for increased breadth and depth in reading and writing. Those"
+    },
+    {
+      "code": "KS3-EN-073",
+      "description": "who are less fluent should consolidate their knowledge, understanding and skills, including"
+    },
+    {
+      "code": "KS3-EN-074",
+      "description": "through additional practice."
+    },
+    {
+      "code": "KS3-EN-075",
+      "description": "Glossary"
+    },
+    {
+      "code": "KS3-EN-076",
+      "description": "A non-statutory Glossary is provided for teachers."
+    },
+    {
+      "code": "KS3-EN-077",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-EN-078",
+      "description": "By the end of key stage 3, pupils are expected to know, apply and understand the matters,"
+    },
+    {
+      "code": "KS3-EN-079",
+      "description": "skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS3-EN-080",
+      "description": "3"
+    },
+    {
+      "code": "KS3-EN-081",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-082",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-EN-083",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-EN-084",
+      "description": "Reading"
+    },
+    {
+      "code": "KS3-EN-085",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-EN-086",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-087",
+      "description": "develop an appreciation and love of reading, and read increasingly challenging material"
+    },
+    {
+      "code": "KS3-EN-088",
+      "description": "independently through:"
+    },
+    {
+      "code": "KS3-EN-089",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-090",
+      "description": "reading a wide range of fiction and non-fiction, including in particular whole books,"
+    },
+    {
+      "code": "KS3-EN-091",
+      "description": "short stories, poems and plays with a wide coverage of genres, historical periods,"
+    },
+    {
+      "code": "KS3-EN-092",
+      "description": "forms and authors. The range will include high-quality works from:"
+    },
+    {
+      "code": "KS3-EN-093",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS3-EN-094",
+      "description": "English literature, both pre-1914 and contemporary, including prose, poetry"
+    },
+    {
+      "code": "KS3-EN-095",
+      "description": "and drama"
+    },
+    {
+      "code": "KS3-EN-096",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS3-EN-097",
+      "description": "Shakespeare (two plays)"
+    },
+    {
+      "code": "KS3-EN-098",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS3-EN-099",
+      "description": "seminal world literature"
+    },
+    {
+      "code": "KS3-EN-100",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1000",
+      "description": "before it."
+    },
+    {
+      "code": "KS3-EN-1001",
+      "description": "It can also be combined with the"
+    },
+    {
+      "code": "KS3-EN-1002",
+      "description": "(e.g. he has been progressive"
+    },
+    {
+      "code": "KS3-EN-1003",
+      "description": "going)."
+    },
+    {
+      "code": "KS3-EN-1004",
+      "description": "A phoneme is the smallest unit of The word cat has three letters and"
+    },
+    {
+      "code": "KS3-EN-1005",
+      "description": "phoneme"
+    },
+    {
+      "code": "KS3-EN-1006",
+      "description": "/k\u00e6t/"
+    },
+    {
+      "code": "KS3-EN-1007",
+      "description": "sound that signals a distinct, three phonemes:"
+    },
+    {
+      "code": "KS3-EN-1008",
+      "description": "contrasting meaning. For example:"
+    },
+    {
+      "code": "KS3-EN-1009",
+      "description": "The word catch has five letters and"
+    },
+    {
+      "code": "KS3-EN-101",
+      "description": "choosing and reading books independently for challenge, interest and enjoyment."
+    },
+    {
+      "code": "KS3-EN-1010",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1011",
+      "description": "/t/ contrasts with /k/ to signal the"
+    },
+    {
+      "code": "KS3-EN-1012",
+      "description": "/ka\u02a7/"
+    },
+    {
+      "code": "KS3-EN-1013",
+      "description": "three phonemes:"
+    },
+    {
+      "code": "KS3-EN-1014",
+      "description": "difference between tap and cap"
+    },
+    {
+      "code": "KS3-EN-1015",
+      "description": "The word caught has six letters"
+    },
+    {
+      "code": "KS3-EN-1016",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1017",
+      "description": "/t/ contrasts with /l/ to signal the"
+    },
+    {
+      "code": "KS3-EN-1018",
+      "description": "/k\u0254:t/"
+    },
+    {
+      "code": "KS3-EN-1019",
+      "description": "and three phonemes:"
+    },
+    {
+      "code": "KS3-EN-102",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1020",
+      "description": "difference between bought and"
+    },
+    {
+      "code": "KS3-EN-1021",
+      "description": "ball."
+    },
+    {
+      "code": "KS3-EN-1022",
+      "description": "It is this contrast in meaning that tells"
+    },
+    {
+      "code": "KS3-EN-1023",
+      "description": "us there are two distinct phonemes"
+    },
+    {
+      "code": "KS3-EN-1024",
+      "description": "at work."
+    },
+    {
+      "code": "KS3-EN-1025",
+      "description": "There are around 44 phonemes in"
+    },
+    {
+      "code": "KS3-EN-1026",
+      "description": "English; the exact number depends"
+    },
+    {
+      "code": "KS3-EN-1027",
+      "description": "on regional accents. A single"
+    },
+    {
+      "code": "KS3-EN-1028",
+      "description": "17"
+    },
+    {
+      "code": "KS3-EN-1029",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-103",
+      "description": "re-reading books encountered earlier to increase familiarity with them and provide"
+    },
+    {
+      "code": "KS3-EN-1030",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-1031",
+      "description": "phoneme may be represented in"
+    },
+    {
+      "code": "KS3-EN-1032",
+      "description": "writing by one, two, three or four"
+    },
+    {
+      "code": "KS3-EN-1033",
+      "description": "letters constituting a single"
+    },
+    {
+      "code": "KS3-EN-1034",
+      "description": "grapheme."
+    },
+    {
+      "code": "KS3-EN-1035",
+      "description": "She waved to her mother. [a noun A phrase is a group of words that are"
+    },
+    {
+      "code": "KS3-EN-1036",
+      "description": "phrase"
+    },
+    {
+      "code": "KS3-EN-1037",
+      "description": "phrase, with the noun mother as its grammatically connected so that"
+    },
+    {
+      "code": "KS3-EN-1038",
+      "description": "head] they stay together, and that expand"
+    },
+    {
+      "code": "KS3-EN-1039",
+      "description": "a single word, called the \u2018head\u2019. The"
+    },
+    {
+      "code": "KS3-EN-104",
+      "description": "a basis for making comparisons."
+    },
+    {
+      "code": "KS3-EN-1040",
+      "description": "She waved to her mother. [a"
+    },
+    {
+      "code": "KS3-EN-1041",
+      "description": "if its head is phrase is a noun phrase"
+    },
+    {
+      "code": "KS3-EN-1042",
+      "description": "preposition phrase, with the"
+    },
+    {
+      "code": "KS3-EN-1043",
+      "description": "a noun, a preposition phrase if its"
+    },
+    {
+      "code": "KS3-EN-1044",
+      "description": "preposition to as its head]"
+    },
+    {
+      "code": "KS3-EN-1045",
+      "description": "head is a preposition, and so on; but"
+    },
+    {
+      "code": "KS3-EN-1046",
+      "description": "She waved to her mother. [a"
+    },
+    {
+      "code": "KS3-EN-1047",
+      "description": "verb, the phrase is"
+    },
+    {
+      "code": "KS3-EN-1048",
+      "description": "if the head is a"
+    },
+    {
+      "code": "KS3-EN-1049",
+      "description": "clause, with the verb waved as its"
+    },
+    {
+      "code": "KS3-EN-105",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1050",
+      "description": "called a clause. Phrases can be"
+    },
+    {
+      "code": "KS3-EN-1051",
+      "description": "head]"
+    },
+    {
+      "code": "KS3-EN-1052",
+      "description": "made up of other phrases."
+    },
+    {
+      "code": "KS3-EN-1053",
+      "description": "\u2013 dogs [more than one dog]; boxes A plural noun normally has a suffix"
+    },
+    {
+      "code": "KS3-EN-1054",
+      "description": "plural"
+    },
+    {
+      "code": "KS3-EN-1055",
+      "description": "s or \u2013es and means \u2018more than one\u2019. [more than one box]"
+    },
+    {
+      "code": "KS3-EN-1056",
+      "description": "There are a few nouns with different mice [more than one mouse]"
+    },
+    {
+      "code": "KS3-EN-1057",
+      "description": "in the plural (e.g. mice, morphology"
+    },
+    {
+      "code": "KS3-EN-1058",
+      "description": "formulae)."
+    },
+    {
+      "code": "KS3-EN-1059",
+      "description": "Tariq\u2019s book [Tariq has the book]"
+    },
+    {
+      "code": "KS3-EN-106",
+      "description": "understand increasingly challenging texts through:"
+    },
+    {
+      "code": "KS3-EN-1060",
+      "description": "A possessive can be:"
+    },
+    {
+      "code": "KS3-EN-1061",
+      "description": "possessive"
+    },
+    {
+      "code": "KS3-EN-1062",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1063",
+      "description": "followed by an a noun"
+    },
+    {
+      "code": "KS3-EN-1064",
+      "description": "The boys\u2019 arrival [the boys arrive]"
+    },
+    {
+      "code": "KS3-EN-1065",
+      "description": "apostrophe, with or without s"
+    },
+    {
+      "code": "KS3-EN-1066",
+      "description": "His obituary [the obituary is about"
+    },
+    {
+      "code": "KS3-EN-1067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1068",
+      "description": "a possessive pronoun."
+    },
+    {
+      "code": "KS3-EN-1069",
+      "description": "him]"
+    },
+    {
+      "code": "KS3-EN-107",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1070",
+      "description": "The relation expressed by a"
+    },
+    {
+      "code": "KS3-EN-1071",
+      "description": "That essay is mine. [I wrote the"
+    },
+    {
+      "code": "KS3-EN-1072",
+      "description": "possessive goes well beyond"
+    },
+    {
+      "code": "KS3-EN-1073",
+      "description": "essay]"
+    },
+    {
+      "code": "KS3-EN-1074",
+      "description": "ordinary ideas of \u2018possession\u2019."
+    },
+    {
+      "code": "KS3-EN-1075",
+      "description": "A possessive may act as a"
+    },
+    {
+      "code": "KS3-EN-1076",
+      "description": "determiner."
+    },
+    {
+      "code": "KS3-EN-1077",
+      "description": "A prefix is added at the beginning of overtake, disappear"
+    },
+    {
+      "code": "KS3-EN-1078",
+      "description": "prefix"
+    },
+    {
+      "code": "KS3-EN-1079",
+      "description": "in order to turn it into another a word"
+    },
+    {
+      "code": "KS3-EN-108",
+      "description": "learning new vocabulary, relating it explicitly to known vocabulary and"
+    },
+    {
+      "code": "KS3-EN-1080",
+      "description": "word."
+    },
+    {
+      "code": "KS3-EN-1081",
+      "description": "Contrast suffix."
+    },
+    {
+      "code": "KS3-EN-1082",
+      "description": "noun, A preposition links a following"
+    },
+    {
+      "code": "KS3-EN-1083",
+      "description": "Tom waved goodbye to Christy."
+    },
+    {
+      "code": "KS3-EN-1084",
+      "description": "preposition"
+    },
+    {
+      "code": "KS3-EN-1085",
+      "description": "pronoun or noun phrase to some She\u2019ll be back from Australia in two"
+    },
+    {
+      "code": "KS3-EN-1086",
+      "description": "other word in the sentence. weeks."
+    },
+    {
+      "code": "KS3-EN-1087",
+      "description": "Prepositions often describe locations"
+    },
+    {
+      "code": "KS3-EN-1088",
+      "description": "I haven\u2019t seen my dog since this"
+    },
+    {
+      "code": "KS3-EN-1089",
+      "description": "or directions, but can describe other"
+    },
+    {
+      "code": "KS3-EN-109",
+      "description": "understanding it with the help of context and dictionaries"
+    },
+    {
+      "code": "KS3-EN-1090",
+      "description": "morning."
+    },
+    {
+      "code": "KS3-EN-1091",
+      "description": "things, such as relations of time."
+    },
+    {
+      "code": "KS3-EN-1092",
+      "description": "Contrast: I\u2019m going, since no-one"
+    },
+    {
+      "code": "KS3-EN-1093",
+      "description": "Words like before or since can act"
+    },
+    {
+      "code": "KS3-EN-1094",
+      "description": "wants me here! [conjunction: links"
+    },
+    {
+      "code": "KS3-EN-1095",
+      "description": "either as prepositions or as"
+    },
+    {
+      "code": "KS3-EN-1096",
+      "description": "two clauses]"
+    },
+    {
+      "code": "KS3-EN-1097",
+      "description": "conjunctions."
+    },
+    {
+      "code": "KS3-EN-1098",
+      "description": "18"
+    },
+    {
+      "code": "KS3-EN-1099",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-110",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1100",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-1101",
+      "description": "A preposition phrase has a bed."
+    },
+    {
+      "code": "KS3-EN-1102",
+      "description": "He was in"
+    },
+    {
+      "code": "KS3-EN-1103",
+      "description": "preposition"
+    },
+    {
+      "code": "KS3-EN-1104",
+      "description": "preposition as its head followed by a"
+    },
+    {
+      "code": "KS3-EN-1105",
+      "description": "phrase"
+    },
+    {
+      "code": "KS3-EN-1106",
+      "description": "I met them after the party."
+    },
+    {
+      "code": "KS3-EN-1107",
+      "description": "noun, pronoun or noun phrase."
+    },
+    {
+      "code": "KS3-EN-1108",
+      "description": "in the present tense are Verbs"
+    },
+    {
+      "code": "KS3-EN-1109",
+      "description": "Jamal goes to the pool every day."
+    },
+    {
+      "code": "KS3-EN-111",
+      "description": "making inferences and referring to evidence in the text"
+    },
+    {
+      "code": "KS3-EN-1110",
+      "description": "present tense"
+    },
+    {
+      "code": "KS3-EN-1111",
+      "description": "commonly used to: [describes a habit that exists now]"
+    },
+    {
+      "code": "KS3-EN-1112",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1113",
+      "description": "talk about the present"
+    },
+    {
+      "code": "KS3-EN-1114",
+      "description": "He can swim. [describes a state"
+    },
+    {
+      "code": "KS3-EN-1115",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1116",
+      "description": "future. that is true now]"
+    },
+    {
+      "code": "KS3-EN-1117",
+      "description": "talk about the"
+    },
+    {
+      "code": "KS3-EN-1118",
+      "description": "They may take a suffix \u2013s"
+    },
+    {
+      "code": "KS3-EN-1119",
+      "description": "The bus arrives at three."
+    },
+    {
+      "code": "KS3-EN-112",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1120",
+      "description": "subject). [scheduled now] (depending on the"
+    },
+    {
+      "code": "KS3-EN-1121",
+      "description": "See also tense. My friends are coming to play."
+    },
+    {
+      "code": "KS3-EN-1122",
+      "description": "[describes a plan in progress now]"
+    },
+    {
+      "code": "KS3-EN-1123",
+      "description": "The progressive (also known as the"
+    },
+    {
+      "code": "KS3-EN-1124",
+      "description": "Michael is singing in the store"
+    },
+    {
+      "code": "KS3-EN-1125",
+      "description": "progressive"
+    },
+    {
+      "code": "KS3-EN-1126",
+      "description": "generally room. [present progressive] \u2018continuous\u2019) form of a verb"
+    },
+    {
+      "code": "KS3-EN-1127",
+      "description": "describes events in progress. It is"
+    },
+    {
+      "code": "KS3-EN-1128",
+      "description": "Amanda was making a patchwork"
+    },
+    {
+      "code": "KS3-EN-1129",
+      "description": "formed by combining the verb\u2019s"
+    },
+    {
+      "code": "KS3-EN-113",
+      "description": "knowing the purpose, audience for and context of the writing and drawing on this"
+    },
+    {
+      "code": "KS3-EN-1130",
+      "description": "quilt. [past progressive]"
+    },
+    {
+      "code": "KS3-EN-1131",
+      "description": "participle (e.g. singing) with"
+    },
+    {
+      "code": "KS3-EN-1132",
+      "description": "present"
+    },
+    {
+      "code": "KS3-EN-1133",
+      "description": "a form of the verb be (e.g. he was"
+    },
+    {
+      "code": "KS3-EN-1134",
+      "description": "Usha had been practising for an"
+    },
+    {
+      "code": "KS3-EN-1135",
+      "description": "singing). The progressive can also"
+    },
+    {
+      "code": "KS3-EN-1136",
+      "description": "hour when I called. [past perfect"
+    },
+    {
+      "code": "KS3-EN-1137",
+      "description": "perfect (e.g. he be combined with the"
+    },
+    {
+      "code": "KS3-EN-1138",
+      "description": "progressive]"
+    },
+    {
+      "code": "KS3-EN-1139",
+      "description": "has been singing)."
+    },
+    {
+      "code": "KS3-EN-114",
+      "description": "knowledge to support comprehension"
+    },
+    {
+      "code": "KS3-EN-1140",
+      "description": "Pronouns are normally used like"
+    },
+    {
+      "code": "KS3-EN-1141",
+      "description": "waved to Michael."
+    },
+    {
+      "code": "KS3-EN-1142",
+      "description": "pronoun"
+    },
+    {
+      "code": "KS3-EN-1143",
+      "description": "Amanda"
+    },
+    {
+      "code": "KS3-EN-1144",
+      "description": "nouns, except that:"
+    },
+    {
+      "code": "KS3-EN-1145",
+      "description": "him. waved to"
+    },
+    {
+      "code": "KS3-EN-1146",
+      "description": "She"
+    },
+    {
+      "code": "KS3-EN-1147",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1148",
+      "description": "they are grammatically more"
+    },
+    {
+      "code": "KS3-EN-1149",
+      "description": "mother is over there."
+    },
+    {
+      "code": "KS3-EN-115",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1150",
+      "description": "John\u2019s His"
+    },
+    {
+      "code": "KS3-EN-1151",
+      "description": "specialised"
+    },
+    {
+      "code": "KS3-EN-1152",
+      "description": "mother is over there."
+    },
+    {
+      "code": "KS3-EN-1153",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1154",
+      "description": "them"
+    },
+    {
+      "code": "KS3-EN-1155",
+      "description": "it is harder to modify"
+    },
+    {
+      "code": "KS3-EN-1156",
+      "description": "The will be an overnight visit."
+    },
+    {
+      "code": "KS3-EN-1157",
+      "description": "visit"
+    },
+    {
+      "code": "KS3-EN-1158",
+      "description": "In the examples, each sentence is"
+    },
+    {
+      "code": "KS3-EN-1159",
+      "description": "will be an overnight visit."
+    },
+    {
+      "code": "KS3-EN-116",
+      "description": "checking their understanding to make sure that what they have read makes"
+    },
+    {
+      "code": "KS3-EN-1160",
+      "description": "This"
+    },
+    {
+      "code": "KS3-EN-1161",
+      "description": "written twice: once with nouns, and"
+    },
+    {
+      "code": "KS3-EN-1162",
+      "description": "is the person: broke"
+    },
+    {
+      "code": "KS3-EN-1163",
+      "description": "Simon Simon"
+    },
+    {
+      "code": "KS3-EN-1164",
+      "description": "once with pronouns (underlined)."
+    },
+    {
+      "code": "KS3-EN-1165",
+      "description": "it. is the one broke it."
+    },
+    {
+      "code": "KS3-EN-1166",
+      "description": "He who"
+    },
+    {
+      "code": "KS3-EN-1167",
+      "description": "Where the same thing is being talked"
+    },
+    {
+      "code": "KS3-EN-1168",
+      "description": "about, the words are shown in bold."
+    },
+    {
+      "code": "KS3-EN-1169",
+      "description": "Punctuation includes any"
+    },
+    {
+      "code": "KS3-EN-117",
+      "description": "sense."
+    },
+    {
+      "code": "KS3-EN-1170",
+      "description": "\u201cI\u2019m going out, Usha, and I won\u2019t"
+    },
+    {
+      "code": "KS3-EN-1171",
+      "description": "punctuation"
+    },
+    {
+      "code": "KS3-EN-1172",
+      "description": "conventional features of writing other be long,\u201d Mum said."
+    },
+    {
+      "code": "KS3-EN-1173",
+      "description": "than spelling and general layout: the"
+    },
+    {
+      "code": "KS3-EN-1174",
+      "description": "standard punctuation marks . , ; : ? !"
+    },
+    {
+      "code": "KS3-EN-1175",
+      "description": "- \u2013 ( ) \u201c \u201d \u2018 \u2019 , and also word-spaces,"
+    },
+    {
+      "code": "KS3-EN-1176",
+      "description": "capital letters, apostrophes,"
+    },
+    {
+      "code": "KS3-EN-1177",
+      "description": "paragraph breaks and bullet points."
+    },
+    {
+      "code": "KS3-EN-1178",
+      "description": "One important role of punctuation is"
+    },
+    {
+      "code": "KS3-EN-1179",
+      "description": "boundaries."
+    },
+    {
+      "code": "KS3-EN-118",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1180",
+      "description": "to indicate sentence"
+    },
+    {
+      "code": "KS3-EN-1181",
+      "description": "Received Pronunciation (often"
+    },
+    {
+      "code": "KS3-EN-1182",
+      "description": "Received"
+    },
+    {
+      "code": "KS3-EN-1183",
+      "description": "abbreviated to RP) is an accent"
+    },
+    {
+      "code": "KS3-EN-1184",
+      "description": "Pronunciation"
+    },
+    {
+      "code": "KS3-EN-1185",
+      "description": "which is used only by a small"
+    },
+    {
+      "code": "KS3-EN-1186",
+      "description": "19"
+    },
+    {
+      "code": "KS3-EN-1187",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-1188",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-1189",
+      "description": "minority of English speakers in"
+    },
+    {
+      "code": "KS3-EN-119",
+      "description": "read critically through:"
+    },
+    {
+      "code": "KS3-EN-1190",
+      "description": "England. It is not associated with any"
+    },
+    {
+      "code": "KS3-EN-1191",
+      "description": "one region. Because of its regional"
+    },
+    {
+      "code": "KS3-EN-1192",
+      "description": "neutrality, it is the accent which is"
+    },
+    {
+      "code": "KS3-EN-1193",
+      "description": "generally shown in dictionaries in the"
+    },
+    {
+      "code": "KS3-EN-1194",
+      "description": "UK (but not, of course, in the USA)."
+    },
+    {
+      "code": "KS3-EN-1195",
+      "description": "RP has no special status in the"
+    },
+    {
+      "code": "KS3-EN-1196",
+      "description": "national curriculum."
+    },
+    {
+      "code": "KS3-EN-1197",
+      "description": "Classroom lessons, football"
+    },
+    {
+      "code": "KS3-EN-1198",
+      "description": "I regret to inform you that Mr"
+    },
+    {
+      "code": "KS3-EN-1199",
+      "description": "register"
+    },
+    {
+      "code": "KS3-EN-120",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1200",
+      "description": "commentaries and novels use"
+    },
+    {
+      "code": "KS3-EN-1201",
+      "description": "Joseph Smith has passed away."
+    },
+    {
+      "code": "KS3-EN-1202",
+      "description": "different registers of the same [formal letter]"
+    },
+    {
+      "code": "KS3-EN-1203",
+      "description": "language, recognised by differences"
+    },
+    {
+      "code": "KS3-EN-1204",
+      "description": "Have you heard that Joe has died?"
+    },
+    {
+      "code": "KS3-EN-1205",
+      "description": "of vocabulary and grammar."
+    },
+    {
+      "code": "KS3-EN-1206",
+      "description": "[casual speech]"
+    },
+    {
+      "code": "KS3-EN-1207",
+      "description": "Registers are \u2018varieties\u2019 of a"
+    },
+    {
+      "code": "KS3-EN-1208",
+      "description": "Joe falls down and dies, centre"
+    },
+    {
+      "code": "KS3-EN-1209",
+      "description": "language which are each tied to a"
+    },
+    {
+      "code": "KS3-EN-121",
+      "description": "knowing how language, including figurative language, vocabulary choice,"
+    },
+    {
+      "code": "KS3-EN-1210",
+      "description": "stage. [stage direction]"
+    },
+    {
+      "code": "KS3-EN-1211",
+      "description": "range of uses, in contrast with"
+    },
+    {
+      "code": "KS3-EN-1212",
+      "description": "dialects, which are tied to groups of"
+    },
+    {
+      "code": "KS3-EN-1213",
+      "description": "users."
+    },
+    {
+      "code": "KS3-EN-1214",
+      "description": "A relative clause is a special type of lives near"
+    },
+    {
+      "code": "KS3-EN-1215",
+      "description": "That\u2019s the"
+    },
+    {
+      "code": "KS3-EN-1216",
+      "description": "relative clause who boy"
+    },
+    {
+      "code": "KS3-EN-1217",
+      "description": "that modifies a school. [who refers back to boy] subordinate clause"
+    },
+    {
+      "code": "KS3-EN-1218",
+      "description": "noun. It often does this by using a"
+    },
+    {
+      "code": "KS3-EN-1219",
+      "description": "The I won was a book."
+    },
+    {
+      "code": "KS3-EN-122",
+      "description": "grammar, text structure and organisational features, presents meaning"
+    },
+    {
+      "code": "KS3-EN-1220",
+      "description": "prize that"
+    },
+    {
+      "code": "KS3-EN-1221",
+      "description": "relative pronoun such as who or that"
+    },
+    {
+      "code": "KS3-EN-1222",
+      "description": "[that refers back to prize]"
+    },
+    {
+      "code": "KS3-EN-1223",
+      "description": "to refer back to that noun, though the"
+    },
+    {
+      "code": "KS3-EN-1224",
+      "description": "The I won was a book. [the"
+    },
+    {
+      "code": "KS3-EN-1225",
+      "description": "prize"
+    },
+    {
+      "code": "KS3-EN-1226",
+      "description": "relative pronoun that is often omitted."
+    },
+    {
+      "code": "KS3-EN-1227",
+      "description": "pronoun that is omitted]"
+    },
+    {
+      "code": "KS3-EN-1228",
+      "description": "A relative clause may also be"
+    },
+    {
+      "code": "KS3-EN-1229",
+      "description": "game,"
+    },
+    {
+      "code": "KS3-EN-123",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1230",
+      "description": "Tom broke the which"
+    },
+    {
+      "code": "KS3-EN-1231",
+      "description": "clause. In that case,"
+    },
+    {
+      "code": "KS3-EN-1232",
+      "description": "attached to a"
+    },
+    {
+      "code": "KS3-EN-1233",
+      "description": "annoyed Ali. [which refers back to"
+    },
+    {
+      "code": "KS3-EN-1234",
+      "description": "the pronoun refers back to the whole"
+    },
+    {
+      "code": "KS3-EN-1235",
+      "description": "the whole clause]"
+    },
+    {
+      "code": "KS3-EN-1236",
+      "description": "clause, rather than referring back to"
+    },
+    {
+      "code": "KS3-EN-1237",
+      "description": "a noun."
+    },
+    {
+      "code": "KS3-EN-1238",
+      "description": "In the examples, the relative clauses"
+    },
+    {
+      "code": "KS3-EN-1239",
+      "description": "are underlined, and both the"
+    },
+    {
+      "code": "KS3-EN-124",
+      "description": "recognising a range of poetic conventions and understanding how these have"
+    },
+    {
+      "code": "KS3-EN-1240",
+      "description": "they refer pronouns and the words"
+    },
+    {
+      "code": "KS3-EN-1241",
+      "description": "back to are in bold."
+    },
+    {
+      "code": "KS3-EN-1242",
+      "description": "breaks words down into played [the root word is play] Morphology"
+    },
+    {
+      "code": "KS3-EN-1243",
+      "description": "root word"
+    },
+    {
+      "code": "KS3-EN-1244",
+      "description": "root words, which can stand alone,"
+    },
+    {
+      "code": "KS3-EN-1245",
+      "description": "unfair [the root word is fair]"
+    },
+    {
+      "code": "KS3-EN-1246",
+      "description": "suffixes or prefixes which can\u2019t. and"
+    },
+    {
+      "code": "KS3-EN-1247",
+      "description": "football [the root words are foot"
+    },
+    {
+      "code": "KS3-EN-1248",
+      "description": "For example, help is the root word"
+    },
+    {
+      "code": "KS3-EN-1249",
+      "description": "and ball]"
+    },
+    {
+      "code": "KS3-EN-125",
+      "description": "been used"
+    },
+    {
+      "code": "KS3-EN-1250",
+      "description": "word family for other words in its"
+    },
+    {
+      "code": "KS3-EN-1251",
+      "description": "such as helpful and helpless, and"
+    },
+    {
+      "code": "KS3-EN-1252",
+      "description": "inflections such as"
+    },
+    {
+      "code": "KS3-EN-1253",
+      "description": "also for its"
+    },
+    {
+      "code": "KS3-EN-1254",
+      "description": "helping. Compound words (e.g. help-"
+    },
+    {
+      "code": "KS3-EN-1255",
+      "description": "desk) contain two or more root"
+    },
+    {
+      "code": "KS3-EN-1256",
+      "description": "words. When looking in a dictionary,"
+    },
+    {
+      "code": "KS3-EN-1257",
+      "description": "we sometimes have to look for the"
+    },
+    {
+      "code": "KS3-EN-1258",
+      "description": "20"
+    },
+    {
+      "code": "KS3-EN-1259",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-126",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1260",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-1261",
+      "description": "root word (or words) of the word we"
+    },
+    {
+      "code": "KS3-EN-1262",
+      "description": "are interested in."
+    },
+    {
+      "code": "KS3-EN-1263",
+      "description": "The name of a vowel sound that is"
+    },
+    {
+      "code": "KS3-EN-1264",
+      "description": "schwa"
+    },
+    {
+      "code": "KS3-EN-1265",
+      "description": "/\u0259l\u0252\u014b/ [along]"
+    },
+    {
+      "code": "KS3-EN-1266",
+      "description": "found only in unstressed positions in"
+    },
+    {
+      "code": "KS3-EN-1267",
+      "description": "[butter] /b\u028ct\u0259/"
+    },
+    {
+      "code": "KS3-EN-1268",
+      "description": "English. It is the most common vowel"
+    },
+    {
+      "code": "KS3-EN-1269",
+      "description": "[doctor] /d\u0252kt\u0259/"
+    },
+    {
+      "code": "KS3-EN-127",
+      "description": "studying setting, plot, and characterisation, and the effects of these"
+    },
+    {
+      "code": "KS3-EN-1270",
+      "description": "sound in English."
+    },
+    {
+      "code": "KS3-EN-1271",
+      "description": "It is written as /\u0259/ in the International"
+    },
+    {
+      "code": "KS3-EN-1272",
+      "description": "Phonetic Alphabet. In the English"
+    },
+    {
+      "code": "KS3-EN-1273",
+      "description": "writing system, it can be written in"
+    },
+    {
+      "code": "KS3-EN-1274",
+      "description": "many different ways."
+    },
+    {
+      "code": "KS3-EN-1275",
+      "description": "A sentence is a group of words He"
+    },
+    {
+      "code": "KS3-EN-1276",
+      "description": "John went to his friend\u2019s house."
+    },
+    {
+      "code": "KS3-EN-1277",
+      "description": "sentence"
+    },
+    {
+      "code": "KS3-EN-1278",
+      "description": "which are grammatically connected"
+    },
+    {
+      "code": "KS3-EN-1279",
+      "description": "stayed there till tea-time."
+    },
+    {
+      "code": "KS3-EN-128",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1280",
+      "description": "to each other but not to any words"
+    },
+    {
+      "code": "KS3-EN-1281",
+      "description": "John went to his friend\u2019s house, he"
+    },
+    {
+      "code": "KS3-EN-1282",
+      "description": "outside the sentence."
+    },
+    {
+      "code": "KS3-EN-1283",
+      "description": "stayed there till tea-time. [This is a"
+    },
+    {
+      "code": "KS3-EN-1284",
+      "description": "The form of a sentence\u2019s main \u2018comma splice\u2019, a common error in"
+    },
+    {
+      "code": "KS3-EN-1285",
+      "description": "clause shows whether it is being which a comma is used where"
+    },
+    {
+      "code": "KS3-EN-1286",
+      "description": "used as a statement, a question, a either a full stop or a semi-colon is"
+    },
+    {
+      "code": "KS3-EN-1287",
+      "description": "command or an exclamation. needed to indicate the lack of any"
+    },
+    {
+      "code": "KS3-EN-1288",
+      "description": "grammatical connection between"
+    },
+    {
+      "code": "KS3-EN-1289",
+      "description": "A sentence may consist of a single"
+    },
+    {
+      "code": "KS3-EN-129",
+      "description": "understanding how the work of dramatists is communicated effectively through"
+    },
+    {
+      "code": "KS3-EN-1290",
+      "description": "the two clauses.]"
+    },
+    {
+      "code": "KS3-EN-1291",
+      "description": "clause or it may contain several"
+    },
+    {
+      "code": "KS3-EN-1292",
+      "description": "clauses held together by You are my friend. [statement]"
+    },
+    {
+      "code": "KS3-EN-1293",
+      "description": "subordination or co-ordination."
+    },
+    {
+      "code": "KS3-EN-1294",
+      "description": "Are you my friend? [question]"
+    },
+    {
+      "code": "KS3-EN-1295",
+      "description": "Classifying sentences as \u2018simple\u2019,"
+    },
+    {
+      "code": "KS3-EN-1296",
+      "description": "Be my friend! [command]"
+    },
+    {
+      "code": "KS3-EN-1297",
+      "description": "\u2018complex\u2019 or \u2018compound\u2019 can be"
+    },
+    {
+      "code": "KS3-EN-1298",
+      "description": "What a good friend you are!"
+    },
+    {
+      "code": "KS3-EN-1299",
+      "description": "confusing, because a \u2018simple\u2019"
+    },
+    {
+      "code": "KS3-EN-130",
+      "description": "performance and how alternative staging allows for different interpretations of a"
+    },
+    {
+      "code": "KS3-EN-1300",
+      "description": "[exclamation]"
+    },
+    {
+      "code": "KS3-EN-1301",
+      "description": "sentence may be complicated, and a"
+    },
+    {
+      "code": "KS3-EN-1302",
+      "description": "Ali went home on his bike to his"
+    },
+    {
+      "code": "KS3-EN-1303",
+      "description": "\u2018complex\u2019 one may be"
+    },
+    {
+      "code": "KS3-EN-1304",
+      "description": "goldfish and his current library"
+    },
+    {
+      "code": "KS3-EN-1305",
+      "description": "straightforward. The terms"
+    },
+    {
+      "code": "KS3-EN-1306",
+      "description": "\u2018single-"
+    },
+    {
+      "code": "KS3-EN-1307",
+      "description": "book about pets. [single-clause"
+    },
+    {
+      "code": "KS3-EN-1308",
+      "description": "sentence\u2019 and"
+    },
+    {
+      "code": "KS3-EN-1309",
+      "description": "clause \u2018multi-clause"
+    },
+    {
+      "code": "KS3-EN-131",
+      "description": "play"
+    },
+    {
+      "code": "KS3-EN-1310",
+      "description": "sentence]"
+    },
+    {
+      "code": "KS3-EN-1311",
+      "description": "sentence\u2019 may be more helpful."
+    },
+    {
+      "code": "KS3-EN-1312",
+      "description": "She went shopping but took back"
+    },
+    {
+      "code": "KS3-EN-1313",
+      "description": "everything she had bought"
+    },
+    {
+      "code": "KS3-EN-1314",
+      "description": "because she didn\u2019t like any of it."
+    },
+    {
+      "code": "KS3-EN-1315",
+      "description": "[multi-clause sentence]"
+    },
+    {
+      "code": "KS3-EN-1316",
+      "description": "digraph. See"
+    },
+    {
+      "code": "KS3-EN-1317",
+      "description": "split digraph"
+    },
+    {
+      "code": "KS3-EN-1318",
+      "description": "Standard English can be recognised"
+    },
+    {
+      "code": "KS3-EN-1319",
+      "description": "I did it because they were not"
+    },
+    {
+      "code": "KS3-EN-132",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1320",
+      "description": "Standard English"
+    },
+    {
+      "code": "KS3-EN-1321",
+      "description": "by the use of a very small range of"
+    },
+    {
+      "code": "KS3-EN-1322",
+      "description": "willing to undertake any more work"
+    },
+    {
+      "code": "KS3-EN-1323",
+      "description": "forms such as those books, I did it on those houses. [formal Standard"
+    },
+    {
+      "code": "KS3-EN-1324",
+      "description": "and I wasn\u2019t doing anything (rather English]"
+    },
+    {
+      "code": "KS3-EN-1325",
+      "description": "than their non-Standard equivalents);"
+    },
+    {
+      "code": "KS3-EN-1326",
+      "description": "I did it cos they wouldn\u2019t do any"
+    },
+    {
+      "code": "KS3-EN-1327",
+      "description": "it is not limited to any particular"
+    },
+    {
+      "code": "KS3-EN-1328",
+      "description": "more work on those houses."
+    },
+    {
+      "code": "KS3-EN-1329",
+      "description": "accent. It is the variety of English"
+    },
+    {
+      "code": "KS3-EN-133",
+      "description": "making critical comparisons across texts"
+    },
+    {
+      "code": "KS3-EN-1330",
+      "description": "[casual Standard English]"
+    },
+    {
+      "code": "KS3-EN-1331",
+      "description": "which is used, with only minor"
+    },
+    {
+      "code": "KS3-EN-1332",
+      "description": "21"
+    },
+    {
+      "code": "KS3-EN-1333",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-1334",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-1335",
+      "description": "variation, as a major world language. I done it cos they wouldn\u2019t do no"
+    },
+    {
+      "code": "KS3-EN-1336",
+      "description": "Some people use Standard English more work on them houses."
+    },
+    {
+      "code": "KS3-EN-1337",
+      "description": "[casual non-Standard English]"
+    },
+    {
+      "code": "KS3-EN-1338",
+      "description": "all the time, in all situations from the"
+    },
+    {
+      "code": "KS3-EN-1339",
+      "description": "most casual to the most formal, so it"
+    },
+    {
+      "code": "KS3-EN-134",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1340",
+      "description": "registers. The aim of the covers most"
+    },
+    {
+      "code": "KS3-EN-1341",
+      "description": "national curriculum is that everyone"
+    },
+    {
+      "code": "KS3-EN-1342",
+      "description": "should be able to use Standard"
+    },
+    {
+      "code": "KS3-EN-1343",
+      "description": "English as needed in writing and in"
+    },
+    {
+      "code": "KS3-EN-1344",
+      "description": "relatively formal speaking."
+    },
+    {
+      "code": "KS3-EN-1345",
+      "description": "is stressed if it is A syllable about"
+    },
+    {
+      "code": "KS3-EN-1346",
+      "description": "stress"
+    },
+    {
+      "code": "KS3-EN-1347",
+      "description": "pronounced more forcefully than the"
+    },
+    {
+      "code": "KS3-EN-1348",
+      "description": "visit"
+    },
+    {
+      "code": "KS3-EN-1349",
+      "description": "syllables next to it. The other"
+    },
+    {
+      "code": "KS3-EN-135",
+      "description": "studying a range of authors, including at least two authors in depth each year."
+    },
+    {
+      "code": "KS3-EN-1350",
+      "description": "syllables are unstressed."
+    },
+    {
+      "code": "KS3-EN-1351",
+      "description": "The subject of a verb is normally the Rula\u2019s mother went out."
+    },
+    {
+      "code": "KS3-EN-1352",
+      "description": "subject"
+    },
+    {
+      "code": "KS3-EN-1353",
+      "description": "that noun, noun phrase or pronoun"
+    },
+    {
+      "code": "KS3-EN-1354",
+      "description": "That is uncertain."
+    },
+    {
+      "code": "KS3-EN-1355",
+      "description": "names the \u2018do-er\u2019 or \u2018be-er\u2019. The"
+    },
+    {
+      "code": "KS3-EN-1356",
+      "description": "subject\u2019s normal position is:"
+    },
+    {
+      "code": "KS3-EN-1357",
+      "description": "The children will study the animals."
+    },
+    {
+      "code": "KS3-EN-1358",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1359",
+      "description": "just before the verb in a"
+    },
+    {
+      "code": "KS3-EN-136",
+      "description": "4"
+    },
+    {
+      "code": "KS3-EN-1360",
+      "description": "Will the children study the animals?"
+    },
+    {
+      "code": "KS3-EN-1361",
+      "description": "statement"
+    },
+    {
+      "code": "KS3-EN-1362",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1363",
+      "description": "just after the auxiliary verb, in a"
+    },
+    {
+      "code": "KS3-EN-1364",
+      "description": "question."
+    },
+    {
+      "code": "KS3-EN-1365",
+      "description": "Unlike the verb\u2019s object and"
+    },
+    {
+      "code": "KS3-EN-1366",
+      "description": "complement, the subject can"
+    },
+    {
+      "code": "KS3-EN-1367",
+      "description": "determine the form of the verb (e.g. I"
+    },
+    {
+      "code": "KS3-EN-1368",
+      "description": "am, you are)."
+    },
+    {
+      "code": "KS3-EN-1369",
+      "description": "of In some languages, the inflections"
+    },
+    {
+      "code": "KS3-EN-137",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-1370",
+      "description": "The school requires that all pupils"
+    },
+    {
+      "code": "KS3-EN-1371",
+      "description": "subjunctive"
+    },
+    {
+      "code": "KS3-EN-1372",
+      "description": "a verb include a large range of"
+    },
+    {
+      "code": "KS3-EN-1373",
+      "description": "honest. be"
+    },
+    {
+      "code": "KS3-EN-1374",
+      "description": "special forms which are used"
+    },
+    {
+      "code": "KS3-EN-1375",
+      "description": "The school rules demand that"
+    },
+    {
+      "code": "KS3-EN-1376",
+      "description": "subordinate clauses, and typically in"
+    },
+    {
+      "code": "KS3-EN-1377",
+      "description": "the gym at pupils not enter"
+    },
+    {
+      "code": "KS3-EN-1378",
+      "description": "are called \u2018subjunctives\u2019. English has"
+    },
+    {
+      "code": "KS3-EN-1379",
+      "description": "lunchtime."
+    },
+    {
+      "code": "KS3-EN-138",
+      "description": "Writing"
+    },
+    {
+      "code": "KS3-EN-1380",
+      "description": "very few such forms and those it has"
+    },
+    {
+      "code": "KS3-EN-1381",
+      "description": "If Zo\u00eb were the class president,"
+    },
+    {
+      "code": "KS3-EN-1382",
+      "description": "tend to be used in rather formal"
+    },
+    {
+      "code": "KS3-EN-1383",
+      "description": "things would be much better."
+    },
+    {
+      "code": "KS3-EN-1384",
+      "description": "styles."
+    },
+    {
+      "code": "KS3-EN-1385",
+      "description": "big dogs [big is subordinate to"
+    },
+    {
+      "code": "KS3-EN-1386",
+      "description": "A subordinate word or phrase tells"
+    },
+    {
+      "code": "KS3-EN-1387",
+      "description": "subordinate,"
+    },
+    {
+      "code": "KS3-EN-1388",
+      "description": "dogs] us more about the meaning of the"
+    },
+    {
+      "code": "KS3-EN-1389",
+      "description": "subordination"
+    },
+    {
+      "code": "KS3-EN-139",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-EN-1390",
+      "description": "word it is subordinate to."
+    },
+    {
+      "code": "KS3-EN-1391",
+      "description": "Big dogs need long walks."
+    },
+    {
+      "code": "KS3-EN-1392",
+      "description": "Subordination can be thought of as"
+    },
+    {
+      "code": "KS3-EN-1393",
+      "description": "[big dogs and long walks are"
+    },
+    {
+      "code": "KS3-EN-1394",
+      "description": "an unequal relationship between a"
+    },
+    {
+      "code": "KS3-EN-1395",
+      "description": "subordinate to need]"
+    },
+    {
+      "code": "KS3-EN-1396",
+      "description": "subordinate word and a main word."
+    },
+    {
+      "code": "KS3-EN-1397",
+      "description": "We can watch TV when we\u2019ve"
+    },
+    {
+      "code": "KS3-EN-1398",
+      "description": "For example:"
+    },
+    {
+      "code": "KS3-EN-1399",
+      "description": "finished. [when we\u2019ve finished is"
+    },
+    {
+      "code": "KS3-EN-140",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1400",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1401",
+      "description": "an adjective is subordinate to the"
+    },
+    {
+      "code": "KS3-EN-1402",
+      "description": "subordinate to watch]"
+    },
+    {
+      "code": "KS3-EN-1403",
+      "description": "noun it modifies"
+    },
+    {
+      "code": "KS3-EN-1404",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1405",
+      "description": "subjects and objects are"
+    },
+    {
+      "code": "KS3-EN-1406",
+      "description": "22"
+    },
+    {
+      "code": "KS3-EN-1407",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-1408",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-1409",
+      "description": "subordinate to their verbs."
+    },
+    {
+      "code": "KS3-EN-141",
+      "description": "write accurately, fluently, effectively and at length for pleasure and information through:"
+    },
+    {
+      "code": "KS3-EN-1410",
+      "description": "Subordination is much more"
+    },
+    {
+      "code": "KS3-EN-1411",
+      "description": "common than the equal relationship"
+    },
+    {
+      "code": "KS3-EN-1412",
+      "description": "co-ordination. of"
+    },
+    {
+      "code": "KS3-EN-1413",
+      "description": "See also subordinate clause."
+    },
+    {
+      "code": "KS3-EN-1414",
+      "description": "to A clause which is subordinate lives. That\u2019s the street where Ben"
+    },
+    {
+      "code": "KS3-EN-1415",
+      "description": "subordinate"
+    },
+    {
+      "code": "KS3-EN-1416",
+      "description": "some other part of the same [relative clause; modifies street]"
+    },
+    {
+      "code": "KS3-EN-1417",
+      "description": "clause"
+    },
+    {
+      "code": "KS3-EN-1418",
+      "description": "sentence is a subordinate clause; for"
+    },
+    {
+      "code": "KS3-EN-1419",
+      "description": "He watched her as she"
+    },
+    {
+      "code": "KS3-EN-142",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1420",
+      "description": "example, in The apple that I ate was"
+    },
+    {
+      "code": "KS3-EN-1421",
+      "description": "disappeared. [adverbial; modifies"
+    },
+    {
+      "code": "KS3-EN-1422",
+      "description": "sour, the clause that I ate is"
+    },
+    {
+      "code": "KS3-EN-1423",
+      "description": "watched]"
+    },
+    {
+      "code": "KS3-EN-1424",
+      "description": "subordinate to apple (which it"
+    },
+    {
+      "code": "KS3-EN-1425",
+      "description": "What you said was very nice. [acts"
+    },
+    {
+      "code": "KS3-EN-1426",
+      "description": "modifies). Subordinate clauses"
+    },
+    {
+      "code": "KS3-EN-1427",
+      "description": "as subject of was]"
+    },
+    {
+      "code": "KS3-EN-1428",
+      "description": "contrast with co-ordinate clauses as"
+    },
+    {
+      "code": "KS3-EN-1429",
+      "description": "in It was sour but looked very tasty."
+    },
+    {
+      "code": "KS3-EN-143",
+      "description": "writing for a wide range of purposes and audiences, including:"
+    },
+    {
+      "code": "KS3-EN-1430",
+      "description": "She noticed an hour had passed."
+    },
+    {
+      "code": "KS3-EN-1431",
+      "description": "main clause) (Contrast:"
+    },
+    {
+      "code": "KS3-EN-1432",
+      "description": "[acts as object of noticed]"
+    },
+    {
+      "code": "KS3-EN-1433",
+      "description": "However, clauses that are directly"
+    },
+    {
+      "code": "KS3-EN-1434",
+      "description": "Not subordinate: He shouted,"
+    },
+    {
+      "code": "KS3-EN-1435",
+      "description": "quoted as direct speech are not"
+    },
+    {
+      "code": "KS3-EN-1436",
+      "description": "\u201cLook out!\u201d"
+    },
+    {
+      "code": "KS3-EN-1437",
+      "description": "subordinate clauses."
+    },
+    {
+      "code": "KS3-EN-1438",
+      "description": "A suffix is an \u2018ending\u2019, used at the call \u2013 called"
+    },
+    {
+      "code": "KS3-EN-1439",
+      "description": "suffix"
+    },
+    {
+      "code": "KS3-EN-144",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS3-EN-1440",
+      "description": "end of one word to turn it into"
+    },
+    {
+      "code": "KS3-EN-1441",
+      "description": "teach \u2013 teacher [turns a verb into a"
+    },
+    {
+      "code": "KS3-EN-1442",
+      "description": "words,"
+    },
+    {
+      "code": "KS3-EN-1443",
+      "description": "another word. Unlike root"
+    },
+    {
+      "code": "KS3-EN-1444",
+      "description": "noun]"
+    },
+    {
+      "code": "KS3-EN-1445",
+      "description": "suffixes cannot stand on their own as"
+    },
+    {
+      "code": "KS3-EN-1446",
+      "description": "terror \u2013 terrorise [turns a noun into"
+    },
+    {
+      "code": "KS3-EN-1447",
+      "description": "a complete word."
+    },
+    {
+      "code": "KS3-EN-1448",
+      "description": "a verb]"
+    },
+    {
+      "code": "KS3-EN-1449",
+      "description": "Contrast prefix."
+    },
+    {
+      "code": "KS3-EN-145",
+      "description": "well-structured formal expository and narrative essays"
+    },
+    {
+      "code": "KS3-EN-1450",
+      "description": "green \u2013 greenish [leaves word"
+    },
+    {
+      "code": "KS3-EN-1451",
+      "description": "class unchanged]"
+    },
+    {
+      "code": "KS3-EN-1452",
+      "description": "Cat has one syllable. A syllable sounds like a beat in a"
+    },
+    {
+      "code": "KS3-EN-1453",
+      "description": "syllable"
+    },
+    {
+      "code": "KS3-EN-1454",
+      "description": "word. Syllables consist of at least"
+    },
+    {
+      "code": "KS3-EN-1455",
+      "description": "Fairy has two syllables."
+    },
+    {
+      "code": "KS3-EN-1456",
+      "description": "one vowel, and possibly one or more"
+    },
+    {
+      "code": "KS3-EN-1457",
+      "description": "Hippopotamus has five syllables."
+    },
+    {
+      "code": "KS3-EN-1458",
+      "description": "consonants."
+    },
+    {
+      "code": "KS3-EN-1459",
+      "description": "Two words are synonyms if they"
+    },
+    {
+      "code": "KS3-EN-146",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS3-EN-1460",
+      "description": "talk \u2013 speak"
+    },
+    {
+      "code": "KS3-EN-1461",
+      "description": "synonym"
+    },
+    {
+      "code": "KS3-EN-1462",
+      "description": "have the same meaning, or similar"
+    },
+    {
+      "code": "KS3-EN-1463",
+      "description": "old \u2013 elderly"
+    },
+    {
+      "code": "KS3-EN-1464",
+      "description": "antonym. meanings. Contrast"
+    },
+    {
+      "code": "KS3-EN-1465",
+      "description": "He studies. [present tense \u2013 In English, tense is the choice"
+    },
+    {
+      "code": "KS3-EN-1466",
+      "description": "tense"
+    },
+    {
+      "code": "KS3-EN-1467",
+      "description": "verbs, present time] between present and past"
+    },
+    {
+      "code": "KS3-EN-1468",
+      "description": "which is special because it is"
+    },
+    {
+      "code": "KS3-EN-1469",
+      "description": "He studied yesterday. [past tense \u2013"
+    },
+    {
+      "code": "KS3-EN-147",
+      "description": "stories, scripts, poetry and other imaginative writing"
+    },
+    {
+      "code": "KS3-EN-1470",
+      "description": "inflections and normally"
+    },
+    {
+      "code": "KS3-EN-1471",
+      "description": "signalled by"
+    },
+    {
+      "code": "KS3-EN-1472",
+      "description": "past time]"
+    },
+    {
+      "code": "KS3-EN-1473",
+      "description": "indicates differences of time. In"
+    },
+    {
+      "code": "KS3-EN-1474",
+      "description": "He studies tomorrow, or else!"
+    },
+    {
+      "code": "KS3-EN-1475",
+      "description": "contrast, languages like French,"
+    },
+    {
+      "code": "KS3-EN-1476",
+      "description": "[present tense \u2013 future time]"
+    },
+    {
+      "code": "KS3-EN-1477",
+      "description": "Spanish and Italian, have three or"
+    },
+    {
+      "code": "KS3-EN-1478",
+      "description": "more distinct tense forms, including"
+    },
+    {
+      "code": "KS3-EN-1479",
+      "description": "He may study tomorrow. [present"
+    },
+    {
+      "code": "KS3-EN-148",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS3-EN-1480",
+      "description": "23"
+    },
+    {
+      "code": "KS3-EN-1481",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-1482",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-1483",
+      "description": "a future tense. (See also: future.) tense + infinitive \u2013 future time]"
+    },
+    {
+      "code": "KS3-EN-1484",
+      "description": "The simple tenses (present and He plans to study tomorrow."
+    },
+    {
+      "code": "KS3-EN-1485",
+      "description": "[present tense + infinitive \u2013 future"
+    },
+    {
+      "code": "KS3-EN-1486",
+      "description": "past) may be combined in English"
+    },
+    {
+      "code": "KS3-EN-1487",
+      "description": "progressive. time] with the perfect and"
+    },
+    {
+      "code": "KS3-EN-1488",
+      "description": "If he studied tomorrow, he\u2019d see"
+    },
+    {
+      "code": "KS3-EN-1489",
+      "description": "the difference! [past tense \u2013"
+    },
+    {
+      "code": "KS3-EN-149",
+      "description": "notes and polished scripts for talks and presentations"
+    },
+    {
+      "code": "KS3-EN-1490",
+      "description": "imagined future]"
+    },
+    {
+      "code": "KS3-EN-1491",
+      "description": "Contrast three distinct tense forms"
+    },
+    {
+      "code": "KS3-EN-1492",
+      "description": "in Spanish:"
+    },
+    {
+      "code": "KS3-EN-1493",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1494",
+      "description": "Estudia. [present tense]"
+    },
+    {
+      "code": "KS3-EN-1495",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1496",
+      "description": "Estudi\u00f3. [past tense]"
+    },
+    {
+      "code": "KS3-EN-1497",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1498",
+      "description": "Estudiar\u00e1. [future tense]"
+    },
+    {
+      "code": "KS3-EN-1499",
+      "description": "A transitive verb takes at least one"
+    },
+    {
+      "code": "KS3-EN-150",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS3-EN-1500",
+      "description": "He loves Juliet."
+    },
+    {
+      "code": "KS3-EN-1501",
+      "description": "transitive verb"
+    },
+    {
+      "code": "KS3-EN-1502",
+      "description": "object in a sentence to complete its"
+    },
+    {
+      "code": "KS3-EN-1503",
+      "description": "She understands English grammar."
+    },
+    {
+      "code": "KS3-EN-1504",
+      "description": "meaning, in contrast to an"
+    },
+    {
+      "code": "KS3-EN-1505",
+      "description": "verb, which does not. intransitive"
+    },
+    {
+      "code": "KS3-EN-1506",
+      "description": "where three A type of grapheme"
+    },
+    {
+      "code": "KS3-EN-1507",
+      "description": "High, pure, patch, hedge"
+    },
+    {
+      "code": "KS3-EN-1508",
+      "description": "trigraph"
+    },
+    {
+      "code": "KS3-EN-1509",
+      "description": "letters represent one phoneme."
+    },
+    {
+      "code": "KS3-EN-151",
+      "description": "a range of other narrative and non-narrative texts, including arguments, and"
+    },
+    {
+      "code": "KS3-EN-1510",
+      "description": "stressed. See"
+    },
+    {
+      "code": "KS3-EN-1511",
+      "description": "unstressed"
+    },
+    {
+      "code": "KS3-EN-1512",
+      "description": "He lives in Birmingham. [present The surest way to identify verbs is by"
+    },
+    {
+      "code": "KS3-EN-1513",
+      "description": "verb"
+    },
+    {
+      "code": "KS3-EN-1514",
+      "description": "tense] the ways they can be used: they can"
+    },
+    {
+      "code": "KS3-EN-1515",
+      "description": "usually have a tense, either present"
+    },
+    {
+      "code": "KS3-EN-1516",
+      "description": "The teacher wrote a song for the"
+    },
+    {
+      "code": "KS3-EN-1517",
+      "description": "or past (see also future)."
+    },
+    {
+      "code": "KS3-EN-1518",
+      "description": "class. [past tense]"
+    },
+    {
+      "code": "KS3-EN-1519",
+      "description": "Verbs are sometimes called \u2018doing"
+    },
+    {
+      "code": "KS3-EN-152",
+      "description": "personal and formal letters"
+    },
+    {
+      "code": "KS3-EN-1520",
+      "description": "He likes chocolate. [present tense;"
+    },
+    {
+      "code": "KS3-EN-1521",
+      "description": "words\u2019 because many verbs name"
+    },
+    {
+      "code": "KS3-EN-1522",
+      "description": "not an action]"
+    },
+    {
+      "code": "KS3-EN-1523",
+      "description": "an action that someone does; while"
+    },
+    {
+      "code": "KS3-EN-1524",
+      "description": "He knew my father. [past tense;"
+    },
+    {
+      "code": "KS3-EN-1525",
+      "description": "this can be a way of recognising"
+    },
+    {
+      "code": "KS3-EN-1526",
+      "description": "not an action]"
+    },
+    {
+      "code": "KS3-EN-1527",
+      "description": "verbs, it doesn\u2019t distinguish verbs"
+    },
+    {
+      "code": "KS3-EN-1528",
+      "description": "(which can also name from nouns"
+    },
+    {
+      "code": "KS3-EN-1529",
+      "description": "Not verbs:"
+    },
+    {
+      "code": "KS3-EN-153",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1530",
+      "description": "actions). Moreover many verbs"
+    },
+    {
+      "code": "KS3-EN-1531",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1532",
+      "description": "to Halina\u2019s house will The walk"
+    },
+    {
+      "code": "KS3-EN-1533",
+      "description": "name states or feelings rather than"
+    },
+    {
+      "code": "KS3-EN-1534",
+      "description": "take an hour. [noun]"
+    },
+    {
+      "code": "KS3-EN-1535",
+      "description": "actions."
+    },
+    {
+      "code": "KS3-EN-1536",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1537",
+      "description": "All that surfing makes"
+    },
+    {
+      "code": "KS3-EN-1538",
+      "description": "Verbs can be classified in various"
+    },
+    {
+      "code": "KS3-EN-1539",
+      "description": "ways: for example, as auxiliary, or"
+    },
+    {
+      "code": "KS3-EN-154",
+      "description": "summarising and organising material, and supporting ideas and arguments with"
+    },
+    {
+      "code": "KS3-EN-1540",
+      "description": "Morwenna so sleepy! [noun]"
+    },
+    {
+      "code": "KS3-EN-1541",
+      "description": "modal; as transitive or intransitive;"
+    },
+    {
+      "code": "KS3-EN-1542",
+      "description": "and as states or events."
+    },
+    {
+      "code": "KS3-EN-1543",
+      "description": "A vowel is a speech sound which is"
+    },
+    {
+      "code": "KS3-EN-1544",
+      "description": "vowel"
+    },
+    {
+      "code": "KS3-EN-1545",
+      "description": "produced without any closure or"
+    },
+    {
+      "code": "KS3-EN-1546",
+      "description": "obstruction of the vocal tract."
+    },
+    {
+      "code": "KS3-EN-1547",
+      "description": "by Vowels can form syllables"
+    },
+    {
+      "code": "KS3-EN-1548",
+      "description": "themselves, or they may combine"
+    },
+    {
+      "code": "KS3-EN-1549",
+      "description": "with consonants."
+    },
+    {
+      "code": "KS3-EN-155",
+      "description": "any necessary factual detail"
+    },
+    {
+      "code": "KS3-EN-1550",
+      "description": "In the English writing system, the"
+    },
+    {
+      "code": "KS3-EN-1551",
+      "description": "letters a, e, i, o, u and y can"
+    },
+    {
+      "code": "KS3-EN-1552",
+      "description": "represent vowels."
+    },
+    {
+      "code": "KS3-EN-1553",
+      "description": "24"
+    },
+    {
+      "code": "KS3-EN-1554",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-1555",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-1556",
+      "description": "[can A word is a unit of grammar: it can headteacher or head teacher"
+    },
+    {
+      "code": "KS3-EN-1557",
+      "description": "word"
+    },
+    {
+      "code": "KS3-EN-1558",
+      "description": "be written with or without a space] be selected and moved around"
+    },
+    {
+      "code": "KS3-EN-1559",
+      "description": "relatively independently, but cannot"
+    },
+    {
+      "code": "KS3-EN-156",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1560",
+      "description": "I\u2019m going out."
+    },
+    {
+      "code": "KS3-EN-1561",
+      "description": "easily be split. In punctuation, words"
+    },
+    {
+      "code": "KS3-EN-1562",
+      "description": "9.30 am"
+    },
+    {
+      "code": "KS3-EN-1563",
+      "description": "are normally separated by word"
+    },
+    {
+      "code": "KS3-EN-1564",
+      "description": "spaces."
+    },
+    {
+      "code": "KS3-EN-1565",
+      "description": "Sometimes, a sequence that"
+    },
+    {
+      "code": "KS3-EN-1566",
+      "description": "appears grammatically to be two"
+    },
+    {
+      "code": "KS3-EN-1567",
+      "description": "words is collapsed into a single"
+    },
+    {
+      "code": "KS3-EN-1568",
+      "description": "written word, indicated with a hyphen"
+    },
+    {
+      "code": "KS3-EN-1569",
+      "description": "or apostrophe (e.g. well-built, he\u2019s)."
+    },
+    {
+      "code": "KS3-EN-157",
+      "description": "applying their growing knowledge of vocabulary, grammar and text structure to"
+    },
+    {
+      "code": "KS3-EN-1570",
+      "description": "belongs to a word class Every word"
+    },
+    {
+      "code": "KS3-EN-1571",
+      "description": "word class"
+    },
+    {
+      "code": "KS3-EN-1572",
+      "description": "which summarises the ways in which"
+    },
+    {
+      "code": "KS3-EN-1573",
+      "description": "it can be used in grammar. The"
+    },
+    {
+      "code": "KS3-EN-1574",
+      "description": "major word classes for English are:"
+    },
+    {
+      "code": "KS3-EN-1575",
+      "description": "noun, verb, adjective, adverb,"
+    },
+    {
+      "code": "KS3-EN-1576",
+      "description": "preposition, determiner, pronoun,"
+    },
+    {
+      "code": "KS3-EN-1577",
+      "description": "conjunction. Word classes are"
+    },
+    {
+      "code": "KS3-EN-1578",
+      "description": "sometimes called \u2018parts of speech\u2019."
+    },
+    {
+      "code": "KS3-EN-1579",
+      "description": "teach \u2013 teacher"
+    },
+    {
+      "code": "KS3-EN-158",
+      "description": "their writing and selecting the appropriate form"
+    },
+    {
+      "code": "KS3-EN-1580",
+      "description": "in a word family are The words"
+    },
+    {
+      "code": "KS3-EN-1581",
+      "description": "word family"
+    },
+    {
+      "code": "KS3-EN-1582",
+      "description": "normally related to each other by a"
+    },
+    {
+      "code": "KS3-EN-1583",
+      "description": "extend \u2013 extent \u2013 extensive"
+    },
+    {
+      "code": "KS3-EN-1584",
+      "description": "morphology, combination of"
+    },
+    {
+      "code": "KS3-EN-1585",
+      "description": "grammar \u2013 grammatical \u2013"
+    },
+    {
+      "code": "KS3-EN-1586",
+      "description": "grammar and meaning."
+    },
+    {
+      "code": "KS3-EN-1587",
+      "description": "grammarian"
+    },
+    {
+      "code": "KS3-EN-1588",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-EN-1589",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under"
+    },
+    {
+      "code": "KS3-EN-159",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-1590",
+      "description": "the terms of the Open Government Licence. To view this licence, visit"
+    },
+    {
+      "code": "KS3-EN-1591",
+      "description": "or email: http://www.nationalarchives.gov.uk/doc/open-government-licence/"
+    },
+    {
+      "code": "KS3-EN-1592",
+      "description": "psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-EN-1593",
+      "description": "Reference: DFE-00184-2013"
+    },
+    {
+      "code": "KS3-EN-1594",
+      "description": "25"
+    },
+    {
+      "code": "KS3-EN-160",
+      "description": "drawing on knowledge of literary and rhetorical devices from their reading and"
+    },
+    {
+      "code": "KS3-EN-161",
+      "description": "listening to enhance the impact of their writing"
+    },
+    {
+      "code": "KS3-EN-162",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-163",
+      "description": "plan, draft, edit and proof-read through:"
+    },
+    {
+      "code": "KS3-EN-164",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-165",
+      "description": "considering how their writing reflects the audiences and purposes for which it was"
+    },
+    {
+      "code": "KS3-EN-166",
+      "description": "intended"
+    },
+    {
+      "code": "KS3-EN-167",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-168",
+      "description": "amending the vocabulary, grammar and structure of their writing to improve its"
+    },
+    {
+      "code": "KS3-EN-169",
+      "description": "coherence and overall effectiveness"
+    },
+    {
+      "code": "KS3-EN-170",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-171",
+      "description": "paying attention to accurate grammar, punctuation and spelling; applying the"
+    },
+    {
+      "code": "KS3-EN-172",
+      "description": "spelling patterns and rules set out in English Appendix 1 to the key stage 1 and 2"
+    },
+    {
+      "code": "KS3-EN-173",
+      "description": "programmes of study for English."
+    },
+    {
+      "code": "KS3-EN-174",
+      "description": "Grammar and vocabulary"
+    },
+    {
+      "code": "KS3-EN-175",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-EN-176",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-177",
+      "description": "consolidate and build on their knowledge of grammar and vocabulary through:"
+    },
+    {
+      "code": "KS3-EN-178",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-179",
+      "description": "extending and applying the grammatical knowledge set out in English Appendix 2"
+    },
+    {
+      "code": "KS3-EN-180",
+      "description": "to the key stage 1 and 2 programmes of study to analyse more challenging texts"
+    },
+    {
+      "code": "KS3-EN-181",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-182",
+      "description": "studying the effectiveness and impact of the grammatical features of the texts"
+    },
+    {
+      "code": "KS3-EN-183",
+      "description": "they read"
+    },
+    {
+      "code": "KS3-EN-184",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-185",
+      "description": "drawing on new vocabulary and grammatical constructions from their reading and"
+    },
+    {
+      "code": "KS3-EN-186",
+      "description": "listening, and using these consciously in their writing and speech to achieve"
+    },
+    {
+      "code": "KS3-EN-187",
+      "description": "particular effects"
+    },
+    {
+      "code": "KS3-EN-188",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-189",
+      "description": "knowing and understanding the differences between spoken and written"
+    },
+    {
+      "code": "KS3-EN-190",
+      "description": "language, including differences associated with formal and informal registers, and"
+    },
+    {
+      "code": "KS3-EN-191",
+      "description": "between Standard English and other varieties of English"
+    },
+    {
+      "code": "KS3-EN-192",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-193",
+      "description": "using Standard English confidently in their own writing and speech"
+    },
+    {
+      "code": "KS3-EN-194",
+      "description": "5"
+    },
+    {
+      "code": "KS3-EN-195",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-196",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-197",
+      "description": "discussing reading, writing and spoken language with precise and confident use"
+    },
+    {
+      "code": "KS3-EN-198",
+      "description": "terminology.1"
+    },
+    {
+      "code": "KS3-EN-199",
+      "description": "of linguistic and literary"
+    },
+    {
+      "code": "KS3-EN-200",
+      "description": "Spoken English"
+    },
+    {
+      "code": "KS3-EN-201",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-EN-202",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-203",
+      "description": "speak confidently and effectively, including through:"
+    },
+    {
+      "code": "KS3-EN-204",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-205",
+      "description": "using Standard English confidently in a range of formal and informal contexts,"
+    },
+    {
+      "code": "KS3-EN-206",
+      "description": "including classroom discussion"
+    },
+    {
+      "code": "KS3-EN-207",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-208",
+      "description": "giving short speeches and presentations, expressing their own ideas and keeping"
+    },
+    {
+      "code": "KS3-EN-209",
+      "description": "to the point"
+    },
+    {
+      "code": "KS3-EN-210",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-211",
+      "description": "participating in formal debates and structured discussions, summarising and/or"
+    },
+    {
+      "code": "KS3-EN-212",
+      "description": "building on what has been said"
+    },
+    {
+      "code": "KS3-EN-213",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-214",
+      "description": "improvising, rehearsing and performing play scripts and poetry in order to"
+    },
+    {
+      "code": "KS3-EN-215",
+      "description": "generate language and discuss language use and meaning, using role, intonation,"
+    },
+    {
+      "code": "KS3-EN-216",
+      "description": "tone, volume, mood, silence, stillness and action to add impact."
+    },
+    {
+      "code": "KS3-EN-217",
+      "description": "1"
+    },
+    {
+      "code": "KS3-EN-218",
+      "description": "Teachers should refer to the Glossary that accompanies the programmes of study for English for their own"
+    },
+    {
+      "code": "KS3-EN-219",
+      "description": "information on the range of terms used within the programmes of study as a whole."
+    },
+    {
+      "code": "KS3-EN-220",
+      "description": "6"
+    },
+    {
+      "code": "KS3-EN-221",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-222",
+      "description": "Glossary for the programmes of study for English"
+    },
+    {
+      "code": "KS3-EN-223",
+      "description": "(non-statutory)"
+    },
+    {
+      "code": "KS3-EN-224",
+      "description": "The following glossary includes all the technical grammatical terms used in the"
+    },
+    {
+      "code": "KS3-EN-225",
+      "description": "programmes of study for English, as well as others that might be useful. It is intended as"
+    },
+    {
+      "code": "KS3-EN-226",
+      "description": "an aid for teachers, not as the body of knowledge that should be learnt by pupils. Apart"
+    },
+    {
+      "code": "KS3-EN-227",
+      "description": "from a few which are used only in schools (for example, root word), the terms below are"
+    },
+    {
+      "code": "KS3-EN-228",
+      "description": "used with the meanings defined here in most modern books on English grammar. It is"
+    },
+    {
+      "code": "KS3-EN-229",
+      "description": "recognised that there are different schools of thought on grammar, but the terms defined"
+    },
+    {
+      "code": "KS3-EN-230",
+      "description": "here clarify those being used in the programmes of study. For further details, teachers"
+    },
+    {
+      "code": "KS3-EN-231",
+      "description": "should consult the many books that are available."
+    },
+    {
+      "code": "KS3-EN-232",
+      "description": "Terms in definitions"
+    },
+    {
+      "code": "KS3-EN-233",
+      "description": "As in any tightly structured area of knowledge, grammar, vocabulary and spelling involve a"
+    },
+    {
+      "code": "KS3-EN-234",
+      "description": "network of technical concepts that help to define each other. Consequently, the definition"
+    },
+    {
+      "code": "KS3-EN-235",
+      "description": "of one concept builds on other concepts that are equally technical. Concepts that are"
+    },
+    {
+      "code": "KS3-EN-236",
+      "description": "defined elsewhere in the glossary are hyperlinked. For some concepts, the technical"
+    },
+    {
+      "code": "KS3-EN-237",
+      "description": "definition may be slightly different from the meaning that some teachers may have learnt at"
+    },
+    {
+      "code": "KS3-EN-238",
+      "description": "school or may have been using with their own pupils; in these cases, the more familiar"
+    },
+    {
+      "code": "KS3-EN-239",
+      "description": "meaning is also discussed."
+    },
+    {
+      "code": "KS3-EN-240",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-241",
+      "description": "has its usual pattern Active: The school arranged a visit. An active verb"
+    },
+    {
+      "code": "KS3-EN-242",
+      "description": "active voice"
+    },
+    {
+      "code": "KS3-EN-243",
+      "description": "of subject and object (in contrast with"
+    },
+    {
+      "code": "KS3-EN-244",
+      "description": "Passive: A visit was arranged by"
+    },
+    {
+      "code": "KS3-EN-245",
+      "description": "the passive)."
+    },
+    {
+      "code": "KS3-EN-246",
+      "description": "the school."
+    },
+    {
+      "code": "KS3-EN-247",
+      "description": "The pupils did some really good"
+    },
+    {
+      "code": "KS3-EN-248",
+      "description": "The surest way to identify adjectives"
+    },
+    {
+      "code": "KS3-EN-249",
+      "description": "adjective"
+    },
+    {
+      "code": "KS3-EN-250",
+      "description": "work. [adjective used before a"
+    },
+    {
+      "code": "KS3-EN-251",
+      "description": "is by the ways they can be used:"
+    },
+    {
+      "code": "KS3-EN-252",
+      "description": "noun, to modify it]"
+    },
+    {
+      "code": "KS3-EN-253",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-254",
+      "description": "before a noun, to make the"
+    },
+    {
+      "code": "KS3-EN-255",
+      "description": "noun\u2019s meaning more specific"
+    },
+    {
+      "code": "KS3-EN-256",
+      "description": "Their work was good. [adjective"
+    },
+    {
+      "code": "KS3-EN-257",
+      "description": "the noun), or"
+    },
+    {
+      "code": "KS3-EN-258",
+      "description": "(i.e. to modify"
+    },
+    {
+      "code": "KS3-EN-259",
+      "description": "used after the verb be, as its"
+    },
+    {
+      "code": "KS3-EN-260",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-261",
+      "description": "after the verb be, as its"
+    },
+    {
+      "code": "KS3-EN-262",
+      "description": "complement]"
+    },
+    {
+      "code": "KS3-EN-263",
+      "description": "complement."
+    },
+    {
+      "code": "KS3-EN-264",
+      "description": "Not adjectives:"
+    },
+    {
+      "code": "KS3-EN-265",
+      "description": "Adjectives cannot be modified by"
+    },
+    {
+      "code": "KS3-EN-266",
+      "description": "glowed. [verb] The lamp"
+    },
+    {
+      "code": "KS3-EN-267",
+      "description": "other adjectives. This distinguishes"
+    },
+    {
+      "code": "KS3-EN-268",
+      "description": "It was such a bright red! [noun]"
+    },
+    {
+      "code": "KS3-EN-269",
+      "description": "nouns, which can be."
+    },
+    {
+      "code": "KS3-EN-270",
+      "description": "them from"
+    },
+    {
+      "code": "KS3-EN-271",
+      "description": "He spoke loudly. [adverb]"
+    },
+    {
+      "code": "KS3-EN-272",
+      "description": "It was a French grammar book."
+    },
+    {
+      "code": "KS3-EN-273",
+      "description": "Adjectives are sometimes called"
+    },
+    {
+      "code": "KS3-EN-274",
+      "description": "[noun]"
+    },
+    {
+      "code": "KS3-EN-275",
+      "description": "\u2018describing words\u2019 because they pick"
+    },
+    {
+      "code": "KS3-EN-276",
+      "description": "out single characteristics such as"
+    },
+    {
+      "code": "KS3-EN-277",
+      "description": "size or colour. This is often true, but"
+    },
+    {
+      "code": "KS3-EN-278",
+      "description": "it doesn\u2019t help to distinguish"
+    },
+    {
+      "code": "KS3-EN-279",
+      "description": "adjectives from other word classes,"
+    },
+    {
+      "code": "KS3-EN-280",
+      "description": "7"
+    },
+    {
+      "code": "KS3-EN-281",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-282",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-283",
+      "description": "because verbs, nouns and adverbs"
+    },
+    {
+      "code": "KS3-EN-284",
+      "description": "can do the same thing."
+    },
+    {
+      "code": "KS3-EN-285",
+      "description": "Usha soon started snoring loudly. The surest way to identify adverbs is"
+    },
+    {
+      "code": "KS3-EN-286",
+      "description": "adverb"
+    },
+    {
+      "code": "KS3-EN-287",
+      "description": "[adverbs modifying the verbs by the ways they can be used: they"
+    },
+    {
+      "code": "KS3-EN-288",
+      "description": "adjective, started and snoring] can modify a verb, an"
+    },
+    {
+      "code": "KS3-EN-289",
+      "description": "another adverb or even a whole"
+    },
+    {
+      "code": "KS3-EN-290",
+      "description": "That match was really exciting!"
+    },
+    {
+      "code": "KS3-EN-291",
+      "description": "clause."
+    },
+    {
+      "code": "KS3-EN-292",
+      "description": "[adverb modifying the adjective"
+    },
+    {
+      "code": "KS3-EN-293",
+      "description": "Adverbs are sometimes said to exciting]"
+    },
+    {
+      "code": "KS3-EN-294",
+      "description": "describe manner or time. This is"
+    },
+    {
+      "code": "KS3-EN-295",
+      "description": "We don\u2019t get to play games very"
+    },
+    {
+      "code": "KS3-EN-296",
+      "description": "often true, but it doesn\u2019t help to"
+    },
+    {
+      "code": "KS3-EN-297",
+      "description": "often. [adverb modifying the other"
+    },
+    {
+      "code": "KS3-EN-298",
+      "description": "distinguish adverbs from other word"
+    },
+    {
+      "code": "KS3-EN-299",
+      "description": "adverb, often]"
+    },
+    {
+      "code": "KS3-EN-300",
+      "description": "classes that can be used as"
+    },
+    {
+      "code": "KS3-EN-301",
+      "description": "Fortunately, it didn\u2019t rain. [adverb"
+    },
+    {
+      "code": "KS3-EN-302",
+      "description": "preposition"
+    },
+    {
+      "code": "KS3-EN-303",
+      "description": "adverbials, such as"
+    },
+    {
+      "code": "KS3-EN-304",
+      "description": "modifying the whole clause \u2018it didn\u2019t"
+    },
+    {
+      "code": "KS3-EN-305",
+      "description": "phrases, noun phrases and"
+    },
+    {
+      "code": "KS3-EN-306",
+      "description": "rain\u2019 by commenting on it]"
+    },
+    {
+      "code": "KS3-EN-307",
+      "description": "subordinate clauses."
+    },
+    {
+      "code": "KS3-EN-308",
+      "description": "Not adverbs:"
+    },
+    {
+      "code": "KS3-EN-309",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-310",
+      "description": "Usha went up the stairs."
+    },
+    {
+      "code": "KS3-EN-311",
+      "description": "[preposition phrase used as"
+    },
+    {
+      "code": "KS3-EN-312",
+      "description": "adverbial]"
+    },
+    {
+      "code": "KS3-EN-313",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-314",
+      "description": "She finished her work this"
+    },
+    {
+      "code": "KS3-EN-315",
+      "description": "evening. [noun phrase used as"
+    },
+    {
+      "code": "KS3-EN-316",
+      "description": "adverbial]"
+    },
+    {
+      "code": "KS3-EN-317",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-318",
+      "description": "She finished when the teacher"
+    },
+    {
+      "code": "KS3-EN-319",
+      "description": "got cross. [subordinate clause"
+    },
+    {
+      "code": "KS3-EN-320",
+      "description": "used as adverbial]"
+    },
+    {
+      "code": "KS3-EN-321",
+      "description": "The bus leaves in five minutes. An adverbial is a word or phrase that"
+    },
+    {
+      "code": "KS3-EN-322",
+      "description": "adverbial"
+    },
+    {
+      "code": "KS3-EN-323",
+      "description": "[preposition phrase as adverbial:"
+    },
+    {
+      "code": "KS3-EN-324",
+      "description": "is used, like an adverb, to modify a"
+    },
+    {
+      "code": "KS3-EN-325",
+      "description": "modifies leaves] verb or clause. Of course, adverbs"
+    },
+    {
+      "code": "KS3-EN-326",
+      "description": "can be used as adverbials, but many"
+    },
+    {
+      "code": "KS3-EN-327",
+      "description": "She promised to see him last night."
+    },
+    {
+      "code": "KS3-EN-328",
+      "description": "other types of words and phrases"
+    },
+    {
+      "code": "KS3-EN-329",
+      "description": "[noun phrase modifying either"
+    },
+    {
+      "code": "KS3-EN-330",
+      "description": "can be used this way, including"
+    },
+    {
+      "code": "KS3-EN-331",
+      "description": "promised or see, according to the"
+    },
+    {
+      "code": "KS3-EN-332",
+      "description": "preposition phrases and subordinate"
+    },
+    {
+      "code": "KS3-EN-333",
+      "description": "intended meaning]"
+    },
+    {
+      "code": "KS3-EN-334",
+      "description": "clauses."
+    },
+    {
+      "code": "KS3-EN-335",
+      "description": "She worked until she had finished."
+    },
+    {
+      "code": "KS3-EN-336",
+      "description": "[subordinate clause as adverbial]"
+    },
+    {
+      "code": "KS3-EN-337",
+      "description": "Two words are antonyms if their hot \u2013 cold"
+    },
+    {
+      "code": "KS3-EN-338",
+      "description": "antonym"
+    },
+    {
+      "code": "KS3-EN-339",
+      "description": "meanings are opposites."
+    },
+    {
+      "code": "KS3-EN-340",
+      "description": "light \u2013 dark"
+    },
+    {
+      "code": "KS3-EN-341",
+      "description": "light \u2013 heavy"
+    },
+    {
+      "code": "KS3-EN-342",
+      "description": "be long. Apostrophes have two completely I\u2019m going out and I won\u2019t"
+    },
+    {
+      "code": "KS3-EN-343",
+      "description": "apostrophe"
+    },
+    {
+      "code": "KS3-EN-344",
+      "description": "[showing missing letters] different uses:"
+    },
+    {
+      "code": "KS3-EN-345",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-346",
+      "description": "showing the place of missing"
+    },
+    {
+      "code": "KS3-EN-347",
+      "description": "Hannah\u2019s mother went to town in"
+    },
+    {
+      "code": "KS3-EN-348",
+      "description": "letters (e.g. I\u2019m for I am)"
+    },
+    {
+      "code": "KS3-EN-349",
+      "description": "Justin\u2019s car. [marking possessives]"
+    },
+    {
+      "code": "KS3-EN-350",
+      "description": "8"
+    },
+    {
+      "code": "KS3-EN-351",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-352",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-353",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-354",
+      "description": "marking possessives"
+    },
+    {
+      "code": "KS3-EN-355",
+      "description": "(e.g. Hannah\u2019s mother)."
+    },
+    {
+      "code": "KS3-EN-356",
+      "description": "The articles the (definite) and a or an"
+    },
+    {
+      "code": "KS3-EN-357",
+      "description": "The dog found a bone in an old"
+    },
+    {
+      "code": "KS3-EN-358",
+      "description": "article"
+    },
+    {
+      "code": "KS3-EN-359",
+      "description": "(indefinite) are the most common"
+    },
+    {
+      "code": "KS3-EN-360",
+      "description": "box."
+    },
+    {
+      "code": "KS3-EN-361",
+      "description": "determiner. type of"
+    },
+    {
+      "code": "KS3-EN-362",
+      "description": "are: be, have, do winning the match. [be"
+    },
+    {
+      "code": "KS3-EN-363",
+      "description": "The auxiliary verbs They are"
+    },
+    {
+      "code": "KS3-EN-364",
+      "description": "auxiliary verb"
+    },
+    {
+      "code": "KS3-EN-365",
+      "description": "and the modal verbs. They can be used in the progressive]"
+    },
+    {
+      "code": "KS3-EN-366",
+      "description": "used to make questions and"
+    },
+    {
+      "code": "KS3-EN-367",
+      "description": "Have you finished your picture?"
+    },
+    {
+      "code": "KS3-EN-368",
+      "description": "negative statements. In addition:"
+    },
+    {
+      "code": "KS3-EN-369",
+      "description": "[have used to make a question,"
+    },
+    {
+      "code": "KS3-EN-370",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-371",
+      "description": "be is used in the progressive and"
+    },
+    {
+      "code": "KS3-EN-372",
+      "description": "and the perfect]"
+    },
+    {
+      "code": "KS3-EN-373",
+      "description": "passive"
+    },
+    {
+      "code": "KS3-EN-374",
+      "description": "No, I don\u2019t know him. [do used to"
+    },
+    {
+      "code": "KS3-EN-375",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-376",
+      "description": "have is used in the perfect"
+    },
+    {
+      "code": "KS3-EN-377",
+      "description": "make a negative; no other auxiliary"
+    },
+    {
+      "code": "KS3-EN-378",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-379",
+      "description": "do is used to form questions and"
+    },
+    {
+      "code": "KS3-EN-380",
+      "description": "is present]"
+    },
+    {
+      "code": "KS3-EN-381",
+      "description": "negative statements if no other"
+    },
+    {
+      "code": "KS3-EN-382",
+      "description": "Will you come with me or not?"
+    },
+    {
+      "code": "KS3-EN-383",
+      "description": "auxiliary verb is present"
+    },
+    {
+      "code": "KS3-EN-384",
+      "description": "[modal verb will used to make a"
+    },
+    {
+      "code": "KS3-EN-385",
+      "description": "question about the other person\u2019s"
+    },
+    {
+      "code": "KS3-EN-386",
+      "description": "willingness]"
+    },
+    {
+      "code": "KS3-EN-387",
+      "description": "It was raining. [single-clause A clause is a special type of phrase"
+    },
+    {
+      "code": "KS3-EN-388",
+      "description": "clause"
+    },
+    {
+      "code": "KS3-EN-389",
+      "description": "whose head is a verb. Clauses can sentence]"
+    },
+    {
+      "code": "KS3-EN-390",
+      "description": "sometimes be complete sentences."
+    },
+    {
+      "code": "KS3-EN-391",
+      "description": "It was raining but we were indoors."
+    },
+    {
+      "code": "KS3-EN-392",
+      "description": "main or Clauses may be"
+    },
+    {
+      "code": "KS3-EN-393",
+      "description": "[two finite clauses]"
+    },
+    {
+      "code": "KS3-EN-394",
+      "description": "subordinate."
+    },
+    {
+      "code": "KS3-EN-395",
+      "description": "If you are coming to the party,"
+    },
+    {
+      "code": "KS3-EN-396",
+      "description": "Traditionally, a clause had to have a"
+    },
+    {
+      "code": "KS3-EN-397",
+      "description": "please let us know. [finite"
+    },
+    {
+      "code": "KS3-EN-398",
+      "description": "verb, but most modern finite"
+    },
+    {
+      "code": "KS3-EN-399",
+      "description": "subordinate clause inside a finite"
+    },
+    {
+      "code": "KS3-EN-400",
+      "description": "grammarians also recognise non-"
+    },
+    {
+      "code": "KS3-EN-401",
+      "description": "main clause]"
+    },
+    {
+      "code": "KS3-EN-402",
+      "description": "finite clauses."
+    },
+    {
+      "code": "KS3-EN-403",
+      "description": "Usha went upstairs to play on her"
+    },
+    {
+      "code": "KS3-EN-404",
+      "description": "computer. [non-finite clause]"
+    },
+    {
+      "code": "KS3-EN-405",
+      "description": "A text has cohesion if it is clear how has been arranged for"
+    },
+    {
+      "code": "KS3-EN-406",
+      "description": "Year"
+    },
+    {
+      "code": "KS3-EN-407",
+      "description": "A visit cohesion"
+    },
+    {
+      "code": "KS3-EN-408",
+      "description": "6, to the Mountain Peaks Field"
+    },
+    {
+      "code": "KS3-EN-409",
+      "description": "the meanings of its parts fit together."
+    },
+    {
+      "code": "KS3-EN-410",
+      "description": "can help to do Study Centre, leaving school at Cohesive devices"
+    },
+    {
+      "code": "KS3-EN-411",
+      "description": "this. 9.30am. is"
+    },
+    {
+      "code": "KS3-EN-412",
+      "description": "This an overnight"
+    },
+    {
+      "code": "KS3-EN-413",
+      "description": "The centre has beautiful visit."
+    },
+    {
+      "code": "KS3-EN-414",
+      "description": "In the example, there are repeated"
+    },
+    {
+      "code": "KS3-EN-415",
+      "description": "grounds and a nature trail. During"
+    },
+    {
+      "code": "KS3-EN-416",
+      "description": "references to the same thing (shown"
+    },
+    {
+      "code": "KS3-EN-417",
+      "description": "will"
+    },
+    {
+      "code": "KS3-EN-418",
+      "description": "the afternoon,"
+    },
+    {
+      "code": "KS3-EN-419",
+      "description": "the children"
+    },
+    {
+      "code": "KS3-EN-420",
+      "description": "by the different style pairings), and"
+    },
+    {
+      "code": "KS3-EN-421",
+      "description": "follow the trail."
+    },
+    {
+      "code": "KS3-EN-422",
+      "description": "the logical relations, such as time"
+    },
+    {
+      "code": "KS3-EN-423",
+      "description": "and cause, between different parts"
+    },
+    {
+      "code": "KS3-EN-424",
+      "description": "are clear."
+    },
+    {
+      "code": "KS3-EN-425",
+      "description": "Cohesive devices are words used to"
+    },
+    {
+      "code": "KS3-EN-426",
+      "description": "Julia\u2019s dad bought her a football."
+    },
+    {
+      "code": "KS3-EN-427",
+      "description": "cohesive device"
+    },
+    {
+      "code": "KS3-EN-428",
+      "description": "show how the different parts of a text"
+    },
+    {
+      "code": "KS3-EN-429",
+      "description": "The football was expensive!"
+    },
+    {
+      "code": "KS3-EN-430",
+      "description": "[determiner; refers us back to a fit together. In other words, they"
+    },
+    {
+      "code": "KS3-EN-431",
+      "description": "cohesion. particular football] create"
+    },
+    {
+      "code": "KS3-EN-432",
+      "description": "9"
+    },
+    {
+      "code": "KS3-EN-433",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-434",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-435",
+      "description": "Some examples of cohesive devices Joe was given a bike for"
+    },
+    {
+      "code": "KS3-EN-436",
+      "description": "are: Christmas. He liked it very much."
+    },
+    {
+      "code": "KS3-EN-437",
+      "description": "[the pronouns refer back to Joe"
+    },
+    {
+      "code": "KS3-EN-438",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-439",
+      "description": "determiners and pronouns, which"
+    },
+    {
+      "code": "KS3-EN-440",
+      "description": "and the bike]"
+    },
+    {
+      "code": "KS3-EN-441",
+      "description": "can refer back to earlier words"
+    },
+    {
+      "code": "KS3-EN-442",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-443",
+      "description": "conjunctions and adverbs, which"
+    },
+    {
+      "code": "KS3-EN-444",
+      "description": "We\u2019ll be going shopping before we"
+    },
+    {
+      "code": "KS3-EN-445",
+      "description": "go to the park. [conjunction; makes can make relations between"
+    },
+    {
+      "code": "KS3-EN-446",
+      "description": "a relationship of time clear] words clear"
+    },
+    {
+      "code": "KS3-EN-447",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-448",
+      "description": "of expected words. ellipsis"
+    },
+    {
+      "code": "KS3-EN-449",
+      "description": "I\u2019m afraid we\u2019re going to have to"
+    },
+    {
+      "code": "KS3-EN-450",
+      "description": "Meanwhile, wait for the next train."
+    },
+    {
+      "code": "KS3-EN-451",
+      "description": "we could have a cup of tea."
+    },
+    {
+      "code": "KS3-EN-452",
+      "description": "[adverb; refers back to the time of"
+    },
+    {
+      "code": "KS3-EN-453",
+      "description": "waiting]"
+    },
+    {
+      "code": "KS3-EN-454",
+      "description": "Where are you going? [ ] To"
+    },
+    {
+      "code": "KS3-EN-455",
+      "description": "school! [ellipsis of the expected"
+    },
+    {
+      "code": "KS3-EN-456",
+      "description": "words I\u2019m going; links the answer"
+    },
+    {
+      "code": "KS3-EN-457",
+      "description": "back to the question]"
+    },
+    {
+      "code": "KS3-EN-458",
+      "description": "teacher. [adds more"
+    },
+    {
+      "code": "KS3-EN-459",
+      "description": "A verb\u2019s subject complement adds She is our"
+    },
+    {
+      "code": "KS3-EN-460",
+      "description": "complement"
+    },
+    {
+      "code": "KS3-EN-461",
+      "description": "subject, information about the subject, she] more information about its"
+    },
+    {
+      "code": "KS3-EN-462",
+      "description": "and its object complement does the"
+    },
+    {
+      "code": "KS3-EN-463",
+      "description": "They seem very competent. [adds"
+    },
+    {
+      "code": "KS3-EN-464",
+      "description": "object. same for its"
+    },
+    {
+      "code": "KS3-EN-465",
+      "description": "more information about the subject,"
+    },
+    {
+      "code": "KS3-EN-466",
+      "description": "Unlike the verb\u2019s object, its they]"
+    },
+    {
+      "code": "KS3-EN-467",
+      "description": "complement may be an adjective."
+    },
+    {
+      "code": "KS3-EN-468",
+      "description": "happy. [adds"
+    },
+    {
+      "code": "KS3-EN-469",
+      "description": "Learning makes me"
+    },
+    {
+      "code": "KS3-EN-470",
+      "description": "The verb be normally has a"
+    },
+    {
+      "code": "KS3-EN-471",
+      "description": "more information about the object,"
+    },
+    {
+      "code": "KS3-EN-472",
+      "description": "complement."
+    },
+    {
+      "code": "KS3-EN-473",
+      "description": "me]"
+    },
+    {
+      "code": "KS3-EN-474",
+      "description": "A compound word contains at least blackbird, blow-dry, bookshop, ice-"
+    },
+    {
+      "code": "KS3-EN-475",
+      "description": "compound,"
+    },
+    {
+      "code": "KS3-EN-476",
+      "description": "morphology;"
+    },
+    {
+      "code": "KS3-EN-477",
+      "description": "two root words in its cream, English teacher, inkjet, one-"
+    },
+    {
+      "code": "KS3-EN-478",
+      "description": "compounding"
+    },
+    {
+      "code": "KS3-EN-479",
+      "description": "e.g. whiteboard, superman."
+    },
+    {
+      "code": "KS3-EN-480",
+      "description": "eyed, bone-dry, baby-sit,"
+    },
+    {
+      "code": "KS3-EN-481",
+      "description": "Compounding is very important in"
+    },
+    {
+      "code": "KS3-EN-482",
+      "description": "daydream, outgrow"
+    },
+    {
+      "code": "KS3-EN-483",
+      "description": "English."
+    },
+    {
+      "code": "KS3-EN-484",
+      "description": "James bought a bat and ball. [links"
+    },
+    {
+      "code": "KS3-EN-485",
+      "description": "A conjunction links two words or"
+    },
+    {
+      "code": "KS3-EN-486",
+      "description": "conjunction"
+    },
+    {
+      "code": "KS3-EN-487",
+      "description": "the words bat and ball as an equal phrases together."
+    },
+    {
+      "code": "KS3-EN-488",
+      "description": "pair]"
+    },
+    {
+      "code": "KS3-EN-489",
+      "description": "There are two main types of"
+    },
+    {
+      "code": "KS3-EN-490",
+      "description": "conjunctions: Kylie is young but she can kick the"
+    },
+    {
+      "code": "KS3-EN-491",
+      "description": "ball hard. [links two clauses as an"
+    },
+    {
+      "code": "KS3-EN-492",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-493",
+      "description": "conjunctions (e.g. co-ordinating"
+    },
+    {
+      "code": "KS3-EN-494",
+      "description": "equal pair]"
+    },
+    {
+      "code": "KS3-EN-495",
+      "description": "and) link two words or phrases"
+    },
+    {
+      "code": "KS3-EN-496",
+      "description": "together as an equal pair"
+    },
+    {
+      "code": "KS3-EN-497",
+      "description": "Everyone watches when Kyle does"
+    },
+    {
+      "code": "KS3-EN-498",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-499",
+      "description": "subordinating conjunctions (e.g. back-flips. [introduces a"
+    },
+    {
+      "code": "KS3-EN-500",
+      "description": "subordinate when) introduce a subordinate clause]"
+    },
+    {
+      "code": "KS3-EN-501",
+      "description": "clause."
+    },
+    {
+      "code": "KS3-EN-502",
+      "description": "Joe can\u2019t practise kicking because"
+    },
+    {
+      "code": "KS3-EN-503",
+      "description": "he\u2019s injured. [introduces a"
+    },
+    {
+      "code": "KS3-EN-504",
+      "description": "subordinate clause]"
+    },
+    {
+      "code": "KS3-EN-505",
+      "description": "10"
+    },
+    {
+      "code": "KS3-EN-506",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-507",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-508",
+      "description": "/p/ [flow of air stopped by the lips, A sound which is produced when the"
+    },
+    {
+      "code": "KS3-EN-509",
+      "description": "consonant"
+    },
+    {
+      "code": "KS3-EN-510",
+      "description": "then released] speaker closes off or obstructs the"
+    },
+    {
+      "code": "KS3-EN-511",
+      "description": "flow of air through the vocal tract,"
+    },
+    {
+      "code": "KS3-EN-512",
+      "description": "/t/ [flow of air stopped by the"
+    },
+    {
+      "code": "KS3-EN-513",
+      "description": "usually using lips, tongue or teeth."
+    },
+    {
+      "code": "KS3-EN-514",
+      "description": "tongue touching the roof of the"
+    },
+    {
+      "code": "KS3-EN-515",
+      "description": "mouth, then released] Most of the letters of the alphabet"
+    },
+    {
+      "code": "KS3-EN-516",
+      "description": "represent consonants. Only the"
+    },
+    {
+      "code": "KS3-EN-517",
+      "description": "/f/ [flow of air obstructed by the"
+    },
+    {
+      "code": "KS3-EN-518",
+      "description": "letters a, e, i, o, u and y can"
+    },
+    {
+      "code": "KS3-EN-519",
+      "description": "bottom lip touching the top teeth]"
+    },
+    {
+      "code": "KS3-EN-520",
+      "description": "sounds. represent vowel"
+    },
+    {
+      "code": "KS3-EN-521",
+      "description": "/s/ [flow of air obstructed by the tip"
+    },
+    {
+      "code": "KS3-EN-522",
+      "description": "of the tongue touching the gum"
+    },
+    {
+      "code": "KS3-EN-523",
+      "description": "line]"
+    },
+    {
+      "code": "KS3-EN-524",
+      "description": "See progressive"
+    },
+    {
+      "code": "KS3-EN-525",
+      "description": "continuous"
+    },
+    {
+      "code": "KS3-EN-526",
+      "description": "and met in a caf\u00e9. Words or phrases are co-ordinated if"
+    },
+    {
+      "code": "KS3-EN-527",
+      "description": "Susan Amra co-ordinate,"
+    },
+    {
+      "code": "KS3-EN-528",
+      "description": "[links the words Susan and Amra they are linked as an equal pair by a"
+    },
+    {
+      "code": "KS3-EN-529",
+      "description": "co-ordination"
+    },
+    {
+      "code": "KS3-EN-530",
+      "description": "(i.e. and, as an equal pair] co-ordinating conjunction"
+    },
+    {
+      "code": "KS3-EN-531",
+      "description": "but, or)."
+    },
+    {
+      "code": "KS3-EN-532",
+      "description": "and for an"
+    },
+    {
+      "code": "KS3-EN-533",
+      "description": "They talked drank tea"
+    },
+    {
+      "code": "KS3-EN-534",
+      "description": "In the examples on the right, the co- hour. [links two clauses as an"
+    },
+    {
+      "code": "KS3-EN-535",
+      "description": "ordinated elements are shown in equal pair]"
+    },
+    {
+      "code": "KS3-EN-536",
+      "description": "bold, and the conjunction is"
+    },
+    {
+      "code": "KS3-EN-537",
+      "description": "but"
+    },
+    {
+      "code": "KS3-EN-538",
+      "description": "Susan got a bus Amra"
+    },
+    {
+      "code": "KS3-EN-539",
+      "description": "underlined."
+    },
+    {
+      "code": "KS3-EN-540",
+      "description": "walked. [links two clauses as an"
+    },
+    {
+      "code": "KS3-EN-541",
+      "description": "equal pair] The difference between"
+    },
+    {
+      "code": "KS3-EN-542",
+      "description": "is"
+    },
+    {
+      "code": "KS3-EN-543",
+      "description": "co-ordination and subordination"
+    },
+    {
+      "code": "KS3-EN-544",
+      "description": "Not co-ordination: They ate before"
+    },
+    {
+      "code": "KS3-EN-545",
+      "description": "that, in subordination, the two linked"
+    },
+    {
+      "code": "KS3-EN-546",
+      "description": "they met. [before introduces a"
+    },
+    {
+      "code": "KS3-EN-547",
+      "description": "elements are not equal."
+    },
+    {
+      "code": "KS3-EN-548",
+      "description": "subordinate clause]"
+    },
+    {
+      "code": "KS3-EN-549",
+      "description": "home team [article, specifies the A determiner specifies a noun as"
+    },
+    {
+      "code": "KS3-EN-550",
+      "description": "determiner"
+    },
+    {
+      "code": "KS3-EN-551",
+      "description": "the team as known]"
+    },
+    {
+      "code": "KS3-EN-552",
+      "description": "known or unknown, and it goes"
+    },
+    {
+      "code": "KS3-EN-553",
+      "description": "before any modifiers (e.g. adjectives"
+    },
+    {
+      "code": "KS3-EN-554",
+      "description": "a good team [article, specifies the"
+    },
+    {
+      "code": "KS3-EN-555",
+      "description": "or other nouns)."
+    },
+    {
+      "code": "KS3-EN-556",
+      "description": "team as unknown]"
+    },
+    {
+      "code": "KS3-EN-557",
+      "description": "Some examples of determiners are:"
+    },
+    {
+      "code": "KS3-EN-558",
+      "description": "that pupil [demonstrative, known]"
+    },
+    {
+      "code": "KS3-EN-559",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-560",
+      "description": "(the, a or an) articles"
+    },
+    {
+      "code": "KS3-EN-561",
+      "description": "Julia\u2019s parents [possessive, known]"
+    },
+    {
+      "code": "KS3-EN-562",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-563",
+      "description": "demonstratives (e.g. this, those)"
+    },
+    {
+      "code": "KS3-EN-564",
+      "description": "some big boys [quantifier,"
+    },
+    {
+      "code": "KS3-EN-565",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-566",
+      "description": "(e.g. my, your) possessives"
+    },
+    {
+      "code": "KS3-EN-567",
+      "description": "unknown]"
+    },
+    {
+      "code": "KS3-EN-568",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-569",
+      "description": "quantifiers (e.g. some, every)."
+    },
+    {
+      "code": "KS3-EN-570",
+      "description": "Contrast: home the team, big some"
+    },
+    {
+      "code": "KS3-EN-571",
+      "description": "boys [both incorrect, because the"
+    },
+    {
+      "code": "KS3-EN-572",
+      "description": "determiner should come before"
+    },
+    {
+      "code": "KS3-EN-573",
+      "description": "other modifiers]"
+    },
+    {
+      "code": "KS3-EN-574",
+      "description": "where two each is A type of grapheme The digraph ea in"
+    },
+    {
+      "code": "KS3-EN-575",
+      "description": "digraph"
+    },
+    {
+      "code": "KS3-EN-576",
+      "description": "letters represent one phoneme. pronounced /i:/."
+    },
+    {
+      "code": "KS3-EN-577",
+      "description": "Sometimes, these two letters are not"
+    },
+    {
+      "code": "KS3-EN-578",
+      "description": "The digraph sh in shed is"
+    },
+    {
+      "code": "KS3-EN-579",
+      "description": "next to one another; this is called a"
+    },
+    {
+      "code": "KS3-EN-580",
+      "description": "pronounced /\u0283/."
+    },
+    {
+      "code": "KS3-EN-581",
+      "description": "11"
+    },
+    {
+      "code": "KS3-EN-582",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-583",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-584",
+      "description": "split digraph."
+    },
+    {
+      "code": "KS3-EN-585",
+      "description": "The split digraph i\u2013e in line is"
+    },
+    {
+      "code": "KS3-EN-586",
+      "description": "pronounced /a\u026a/."
+    },
+    {
+      "code": "KS3-EN-587",
+      "description": "Ellipsis is the omission of a word or Frankie waved to Ivana and she"
+    },
+    {
+      "code": "KS3-EN-588",
+      "description": "ellipsis"
+    },
+    {
+      "code": "KS3-EN-589",
+      "description": "phrase which is expected and"
+    },
+    {
+      "code": "KS3-EN-590",
+      "description": "watched her drive away."
+    },
+    {
+      "code": "KS3-EN-591",
+      "description": "predictable."
+    },
+    {
+      "code": "KS3-EN-592",
+      "description": "She did it because she wanted to"
+    },
+    {
+      "code": "KS3-EN-593",
+      "description": "it."
+    },
+    {
+      "code": "KS3-EN-594",
+      "description": "do"
+    },
+    {
+      "code": "KS3-EN-595",
+      "description": "A word\u2019s etymology is its history: its The word school was borrowed"
+    },
+    {
+      "code": "KS3-EN-596",
+      "description": "etymology"
+    },
+    {
+      "code": "KS3-EN-597",
+      "description": "\u00f3\u00f7\u00ef\u00eb\u00de"
+    },
+    {
+      "code": "KS3-EN-598",
+      "description": "origins in earlier forms of English or"
+    },
+    {
+      "code": "KS3-EN-599",
+      "description": "from a Greek word (skhol\u00e9)"
+    },
+    {
+      "code": "KS3-EN-600",
+      "description": "other languages, and how its form meaning \u2018leisure\u2019."
+    },
+    {
+      "code": "KS3-EN-601",
+      "description": "and meaning have changed. Many"
+    },
+    {
+      "code": "KS3-EN-602",
+      "description": "The word verb comes from Latin"
+    },
+    {
+      "code": "KS3-EN-603",
+      "description": "words in English have come from"
+    },
+    {
+      "code": "KS3-EN-604",
+      "description": "verbum, meaning \u2018word\u2019."
+    },
+    {
+      "code": "KS3-EN-605",
+      "description": "Greek, Latin or French."
+    },
+    {
+      "code": "KS3-EN-606",
+      "description": "The word mutton comes from"
+    },
+    {
+      "code": "KS3-EN-607",
+      "description": "French mouton, meaning \u2018sheep\u2019."
+    },
+    {
+      "code": "KS3-EN-608",
+      "description": "Every sentence typically has at least"
+    },
+    {
+      "code": "KS3-EN-609",
+      "description": "the dishes every day. Lizzie does"
+    },
+    {
+      "code": "KS3-EN-610",
+      "description": "finite verb"
+    },
+    {
+      "code": "KS3-EN-611",
+      "description": "[present tense] one verb which is either past or"
+    },
+    {
+      "code": "KS3-EN-612",
+      "description": "present tense. Such verbs are called"
+    },
+    {
+      "code": "KS3-EN-613",
+      "description": "Even Hana did the dishes"
+    },
+    {
+      "code": "KS3-EN-614",
+      "description": "\u2018finite\u2019. The imperative verb in a"
+    },
+    {
+      "code": "KS3-EN-615",
+      "description": "yesterday. [past tense]"
+    },
+    {
+      "code": "KS3-EN-616",
+      "description": "command is also finite."
+    },
+    {
+      "code": "KS3-EN-617",
+      "description": "Do the dishes, Naser! [imperative]"
+    },
+    {
+      "code": "KS3-EN-618",
+      "description": "Verbs that are not finite, such as"
+    },
+    {
+      "code": "KS3-EN-619",
+      "description": "Not finite verbs:"
+    },
+    {
+      "code": "KS3-EN-620",
+      "description": "participles or infinitives, cannot stand"
+    },
+    {
+      "code": "KS3-EN-621",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-622",
+      "description": "them. [combined I have done"
+    },
+    {
+      "code": "KS3-EN-623",
+      "description": "on their own: they are linked to"
+    },
+    {
+      "code": "KS3-EN-624",
+      "description": "with the finite verb have]"
+    },
+    {
+      "code": "KS3-EN-625",
+      "description": "another verb in the sentence."
+    },
+    {
+      "code": "KS3-EN-626",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-627",
+      "description": "I will do them. [combined with"
+    },
+    {
+      "code": "KS3-EN-628",
+      "description": "the finite verb will]"
+    },
+    {
+      "code": "KS3-EN-629",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-630",
+      "description": "I want to do them! [combined"
+    },
+    {
+      "code": "KS3-EN-631",
+      "description": "with the finite verb want]"
+    },
+    {
+      "code": "KS3-EN-632",
+      "description": "A word or phrase that normally begin, make sure you\u2019ve Before we"
+    },
+    {
+      "code": "KS3-EN-633",
+      "description": "fronting, fronted"
+    },
+    {
+      "code": "KS3-EN-634",
+      "description": "may be moved comes after the verb"
+    },
+    {
+      "code": "KS3-EN-635",
+      "description": "got a pencil."
+    },
+    {
+      "code": "KS3-EN-636",
+      "description": "before the verb: when this happens,"
+    },
+    {
+      "code": "KS3-EN-637",
+      "description": "[Without fronting: Make sure you\u2019ve"
+    },
+    {
+      "code": "KS3-EN-638",
+      "description": "we say it has been \u2018fronted\u2019. For"
+    },
+    {
+      "code": "KS3-EN-639",
+      "description": "got a pencil before we begin.]"
+    },
+    {
+      "code": "KS3-EN-640",
+      "description": "example, a fronted adverbial is an"
+    },
+    {
+      "code": "KS3-EN-641",
+      "description": "tomorrow, I\u2019m visiting The day after"
+    },
+    {
+      "code": "KS3-EN-642",
+      "description": "adverbial which has been moved"
+    },
+    {
+      "code": "KS3-EN-643",
+      "description": "my granddad."
+    },
+    {
+      "code": "KS3-EN-644",
+      "description": "before the verb."
+    },
+    {
+      "code": "KS3-EN-645",
+      "description": "[Without fronting: I\u2019m visiting my"
+    },
+    {
+      "code": "KS3-EN-646",
+      "description": "When writing fronted phrases, we"
+    },
+    {
+      "code": "KS3-EN-647",
+      "description": "granddad the day after tomorrow.]"
+    },
+    {
+      "code": "KS3-EN-648",
+      "description": "often follow them with a comma."
+    },
+    {
+      "code": "KS3-EN-649",
+      "description": "tomorrow. [present-"
+    },
+    {
+      "code": "KS3-EN-650",
+      "description": "Reference to future time can be He will leave"
+    },
+    {
+      "code": "KS3-EN-651",
+      "description": "future"
+    },
+    {
+      "code": "KS3-EN-652",
+      "description": "tense will followed by infinitive marked in a number of different ways"
+    },
+    {
+      "code": "KS3-EN-653",
+      "description": "leave] in English. All these ways involve the"
+    },
+    {
+      "code": "KS3-EN-654",
+      "description": "verb. use of a present-tense"
+    },
+    {
+      "code": "KS3-EN-655",
+      "description": "He may leave tomorrow. [present-"
+    },
+    {
+      "code": "KS3-EN-656",
+      "description": "See also tense. tense may followed by infinitive"
+    },
+    {
+      "code": "KS3-EN-657",
+      "description": "leave]"
+    },
+    {
+      "code": "KS3-EN-658",
+      "description": "Unlike many other languages (such"
+    },
+    {
+      "code": "KS3-EN-659",
+      "description": "12"
+    },
+    {
+      "code": "KS3-EN-660",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-661",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-662",
+      "description": "as French, Spanish or Italian), He leaves tomorrow. [present-"
+    },
+    {
+      "code": "KS3-EN-663",
+      "description": "English has no distinct \u2018future tense\u2019 tense leaves]"
+    },
+    {
+      "code": "KS3-EN-664",
+      "description": "form of the verb comparable with its"
+    },
+    {
+      "code": "KS3-EN-665",
+      "description": "He is going to leave tomorrow."
+    },
+    {
+      "code": "KS3-EN-666",
+      "description": "present and past tenses."
+    },
+    {
+      "code": "KS3-EN-667",
+      "description": "[present tense is followed by going"
+    },
+    {
+      "code": "KS3-EN-668",
+      "description": "to plus the infinitive leave]"
+    },
+    {
+      "code": "KS3-EN-669",
+      "description": "grapheme-phoneme See"
+    },
+    {
+      "code": "KS3-EN-670",
+      "description": "GPC"
+    },
+    {
+      "code": "KS3-EN-671",
+      "description": "correspondences."
+    },
+    {
+      "code": "KS3-EN-672",
+      "description": "The grapheme t in the words ten, A letter, or combination of letters,"
+    },
+    {
+      "code": "KS3-EN-673",
+      "description": "grapheme"
+    },
+    {
+      "code": "KS3-EN-674",
+      "description": "bet and ate corresponds to the that corresponds to a single"
+    },
+    {
+      "code": "KS3-EN-675",
+      "description": "within a word. phoneme /t/. phoneme"
+    },
+    {
+      "code": "KS3-EN-676",
+      "description": "The grapheme ph in the word"
+    },
+    {
+      "code": "KS3-EN-677",
+      "description": "dolphin corresponds to the"
+    },
+    {
+      "code": "KS3-EN-678",
+      "description": "phoneme /f/."
+    },
+    {
+      "code": "KS3-EN-679",
+      "description": "The grapheme s corresponds to The links between letters, or"
+    },
+    {
+      "code": "KS3-EN-680",
+      "description": "grapheme-"
+    },
+    {
+      "code": "KS3-EN-681",
+      "description": "(graphemes)"
+    },
+    {
+      "code": "KS3-EN-682",
+      "description": "the phoneme /s/ in the word see, combinations of letters"
+    },
+    {
+      "code": "KS3-EN-683",
+      "description": "phoneme"
+    },
+    {
+      "code": "KS3-EN-684",
+      "description": "and the speech sounds (phonemes) but\u2026"
+    },
+    {
+      "code": "KS3-EN-685",
+      "description": "correspondences"
+    },
+    {
+      "code": "KS3-EN-686",
+      "description": "that they represent."
+    },
+    {
+      "code": "KS3-EN-687",
+      "description": "\u2026it corresponds to the phoneme"
+    },
+    {
+      "code": "KS3-EN-688",
+      "description": "In the English writing system, /z/ in the word easy."
+    },
+    {
+      "code": "KS3-EN-689",
+      "description": "graphemes may correspond to"
+    },
+    {
+      "code": "KS3-EN-690",
+      "description": "different phonemes in different"
+    },
+    {
+      "code": "KS3-EN-691",
+      "description": "words."
+    },
+    {
+      "code": "KS3-EN-692",
+      "description": "phrase."
+    },
+    {
+      "code": "KS3-EN-693",
+      "description": "See"
+    },
+    {
+      "code": "KS3-EN-694",
+      "description": "head"
+    },
+    {
+      "code": "KS3-EN-695",
+      "description": "Two different words are homonyms if"
+    },
+    {
+      "code": "KS3-EN-696",
+      "description": "yet? Yes \u2013 he went Has he left"
+    },
+    {
+      "code": "KS3-EN-697",
+      "description": "homonym"
+    },
+    {
+      "code": "KS3-EN-698",
+      "description": "they both look exactly the same through the door on the left."
+    },
+    {
+      "code": "KS3-EN-699",
+      "description": "when written, and sound exactly the"
+    },
+    {
+      "code": "KS3-EN-700",
+      "description": "The noise a dog makes is called a"
+    },
+    {
+      "code": "KS3-EN-701",
+      "description": "same when pronounced."
+    },
+    {
+      "code": "KS3-EN-702",
+      "description": "bark. bark. Trees have"
+    },
+    {
+      "code": "KS3-EN-703",
+      "description": "here Two different words are hear,"
+    },
+    {
+      "code": "KS3-EN-704",
+      "description": "homophone"
+    },
+    {
+      "code": "KS3-EN-705",
+      "description": "homophones if they sound exactly"
+    },
+    {
+      "code": "KS3-EN-706",
+      "description": "some, sum"
+    },
+    {
+      "code": "KS3-EN-707",
+      "description": "the same when pronounced."
+    },
+    {
+      "code": "KS3-EN-708",
+      "description": "A verb\u2019s infinitive is the basic form"
+    },
+    {
+      "code": "KS3-EN-709",
+      "description": "I want to walk."
+    },
+    {
+      "code": "KS3-EN-710",
+      "description": "infinitive"
+    },
+    {
+      "code": "KS3-EN-711",
+      "description": "used as the head-word in a"
+    },
+    {
+      "code": "KS3-EN-712",
+      "description": "I will be quiet."
+    },
+    {
+      "code": "KS3-EN-713",
+      "description": "dictionary (e.g. walk, be)."
+    },
+    {
+      "code": "KS3-EN-714",
+      "description": "Infinitives are often used:"
+    },
+    {
+      "code": "KS3-EN-715",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-716",
+      "description": "after to"
+    },
+    {
+      "code": "KS3-EN-717",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-718",
+      "description": "verbs."
+    },
+    {
+      "code": "KS3-EN-719",
+      "description": "after modal"
+    },
+    {
+      "code": "KS3-EN-720",
+      "description": "dogs is an inflection of dog."
+    },
+    {
+      "code": "KS3-EN-721",
+      "description": "When we add -ed to walk, or change"
+    },
+    {
+      "code": "KS3-EN-722",
+      "description": "inflection"
+    },
+    {
+      "code": "KS3-EN-723",
+      "description": "mouse to mice, this change of"
+    },
+    {
+      "code": "KS3-EN-724",
+      "description": "went is an inflection of go."
+    },
+    {
+      "code": "KS3-EN-725",
+      "description": "produces an inflection morphology"
+    },
+    {
+      "code": "KS3-EN-726",
+      "description": "better is an inflection of good."
+    },
+    {
+      "code": "KS3-EN-727",
+      "description": "(\u2018bending\u2019) of the basic word which"
+    },
+    {
+      "code": "KS3-EN-728",
+      "description": "past tense has special grammar (e.g."
+    },
+    {
+      "code": "KS3-EN-729",
+      "description": "13"
+    },
+    {
+      "code": "KS3-EN-730",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-731",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-732",
+      "description": "or plural). In contrast, adding -er to"
+    },
+    {
+      "code": "KS3-EN-733",
+      "description": "walk produces a completely different"
+    },
+    {
+      "code": "KS3-EN-734",
+      "description": "word, walker, which is part of the"
+    },
+    {
+      "code": "KS3-EN-735",
+      "description": "word family. Inflection is same"
+    },
+    {
+      "code": "KS3-EN-736",
+      "description": "sometimes thought of as merely a"
+    },
+    {
+      "code": "KS3-EN-737",
+      "description": "change of ending, but, in fact, some"
+    },
+    {
+      "code": "KS3-EN-738",
+      "description": "words change completely when"
+    },
+    {
+      "code": "KS3-EN-739",
+      "description": "inflected."
+    },
+    {
+      "code": "KS3-EN-740",
+      "description": "We all laughed."
+    },
+    {
+      "code": "KS3-EN-741",
+      "description": "A verb which does not need an"
+    },
+    {
+      "code": "KS3-EN-742",
+      "description": "intransitive verb"
+    },
+    {
+      "code": "KS3-EN-743",
+      "description": "object in a sentence to complete its We would like to stay longer, but"
+    },
+    {
+      "code": "KS3-EN-744",
+      "description": "meaning is described as intransitive. leave. we must"
+    },
+    {
+      "code": "KS3-EN-745",
+      "description": "verb\u2019."
+    },
+    {
+      "code": "KS3-EN-746",
+      "description": "See \u2018transitive"
+    },
+    {
+      "code": "KS3-EN-747",
+      "description": "contains at least one A sentence"
+    },
+    {
+      "code": "KS3-EN-748",
+      "description": "It was raining but the sun was"
+    },
+    {
+      "code": "KS3-EN-749",
+      "description": "main clause"
+    },
+    {
+      "code": "KS3-EN-750",
+      "description": "shining. [two main clauses] clause which is not a subordinate"
+    },
+    {
+      "code": "KS3-EN-751",
+      "description": "clause; such a clause is a main"
+    },
+    {
+      "code": "KS3-EN-752",
+      "description": "The man told me"
+    },
+    {
+      "code": "KS3-EN-753",
+      "description": "who wrote it that"
+    },
+    {
+      "code": "KS3-EN-754",
+      "description": "clause. A main clause may contain"
+    },
+    {
+      "code": "KS3-EN-755",
+      "description": "true. [one main clause"
+    },
+    {
+      "code": "KS3-EN-756",
+      "description": "it was"
+    },
+    {
+      "code": "KS3-EN-757",
+      "description": "any number of subordinate clauses."
+    },
+    {
+      "code": "KS3-EN-758",
+      "description": "containing two subordinate"
+    },
+    {
+      "code": "KS3-EN-759",
+      "description": "clauses.]"
+    },
+    {
+      "code": "KS3-EN-760",
+      "description": "She said, \u201cIt rained all day.\u201d [one"
+    },
+    {
+      "code": "KS3-EN-761",
+      "description": "main clause containing another.]"
+    },
+    {
+      "code": "KS3-EN-762",
+      "description": "Modal verbs are used to change the"
+    },
+    {
+      "code": "KS3-EN-763",
+      "description": "I can do this maths work by myself."
+    },
+    {
+      "code": "KS3-EN-764",
+      "description": "modal verb"
+    },
+    {
+      "code": "KS3-EN-765",
+      "description": "verbs. They can meaning of other"
+    },
+    {
+      "code": "KS3-EN-766",
+      "description": "This ride may be too scary for you!"
+    },
+    {
+      "code": "KS3-EN-767",
+      "description": "express meanings such as certainty,"
+    },
+    {
+      "code": "KS3-EN-768",
+      "description": "You should help your little brother."
+    },
+    {
+      "code": "KS3-EN-769",
+      "description": "ability, or obligation. The main modal"
+    },
+    {
+      "code": "KS3-EN-770",
+      "description": "verbs are will, would, can, could,"
+    },
+    {
+      "code": "KS3-EN-771",
+      "description": "Is it going to rain? Yes, it might."
+    },
+    {
+      "code": "KS3-EN-772",
+      "description": "may, might, shall, should, must and"
+    },
+    {
+      "code": "KS3-EN-773",
+      "description": "Canning swim is important. [not"
+    },
+    {
+      "code": "KS3-EN-774",
+      "description": "ought."
+    },
+    {
+      "code": "KS3-EN-775",
+      "description": "possible because can must be"
+    },
+    {
+      "code": "KS3-EN-776",
+      "description": "A modal verb only has finite forms"
+    },
+    {
+      "code": "KS3-EN-777",
+      "description": "finite; contrast: Being able to swim"
+    },
+    {
+      "code": "KS3-EN-778",
+      "description": "and has no suffixes (e.g. I sing \u2013 he"
+    },
+    {
+      "code": "KS3-EN-779",
+      "description": "is important, where being is not a"
+    },
+    {
+      "code": "KS3-EN-780",
+      "description": "sings, but not I must \u2013 he musts)."
+    },
+    {
+      "code": "KS3-EN-781",
+      "description": "modal verb]"
+    },
+    {
+      "code": "KS3-EN-782",
+      "description": "In the phrase primary-school One word or phrase modifies"
+    },
+    {
+      "code": "KS3-EN-783",
+      "description": "modify, modifier"
+    },
+    {
+      "code": "KS3-EN-784",
+      "description": "teacher: another by making its meaning more"
+    },
+    {
+      "code": "KS3-EN-785",
+      "description": "specific."
+    },
+    {
+      "code": "KS3-EN-786",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-787",
+      "description": "teacher is modified by primary-"
+    },
+    {
+      "code": "KS3-EN-788",
+      "description": "school (to mean a specific kind"
+    },
+    {
+      "code": "KS3-EN-789",
+      "description": "Because the two words make a"
+    },
+    {
+      "code": "KS3-EN-790",
+      "description": "of teacher)"
+    },
+    {
+      "code": "KS3-EN-791",
+      "description": "phrase, the \u2018modifier\u2019 is normally"
+    },
+    {
+      "code": "KS3-EN-792",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-793",
+      "description": "close to the modified word."
+    },
+    {
+      "code": "KS3-EN-794",
+      "description": "school is modified by primary"
+    },
+    {
+      "code": "KS3-EN-795",
+      "description": "(to mean a specific kind of"
+    },
+    {
+      "code": "KS3-EN-796",
+      "description": "school)."
+    },
+    {
+      "code": "KS3-EN-797",
+      "description": "dogs has the morphological make- A word\u2019s morphology is its internal"
+    },
+    {
+      "code": "KS3-EN-798",
+      "description": "morphology"
+    },
+    {
+      "code": "KS3-EN-799",
+      "description": "up: dog + s. and make-up in terms of root words"
+    },
+    {
+      "code": "KS3-EN-800",
+      "description": "suffixes or prefixes, as well as other"
+    },
+    {
+      "code": "KS3-EN-801",
+      "description": "unhelpfulness has the"
+    },
+    {
+      "code": "KS3-EN-802",
+      "description": "kinds of change such as the change"
+    },
+    {
+      "code": "KS3-EN-803",
+      "description": "14"
+    },
+    {
+      "code": "KS3-EN-804",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-805",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-806",
+      "description": "of mouse to mice. morphological make-up:"
+    },
+    {
+      "code": "KS3-EN-807",
+      "description": "unhelpful + ness"
+    },
+    {
+      "code": "KS3-EN-808",
+      "description": "Morphology may be used to produce"
+    },
+    {
+      "code": "KS3-EN-809",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-810",
+      "description": "of the same word"
+    },
+    {
+      "code": "KS3-EN-811",
+      "description": "where unhelpful = un + helpful different inflections"
+    },
+    {
+      "code": "KS3-EN-812",
+      "description": "(e.g. boy \u2013 boys), or entirely new"
+    },
+    {
+      "code": "KS3-EN-813",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-814",
+      "description": "and helpful = help + ful"
+    },
+    {
+      "code": "KS3-EN-815",
+      "description": "words (e.g. boy \u2013 boyish) belonging"
+    },
+    {
+      "code": "KS3-EN-816",
+      "description": "word family. to the same"
+    },
+    {
+      "code": "KS3-EN-817",
+      "description": "A word that contains two or more"
+    },
+    {
+      "code": "KS3-EN-818",
+      "description": "root words is a compound (e.g."
+    },
+    {
+      "code": "KS3-EN-819",
+      "description": "news+paper, ice+cream)."
+    },
+    {
+      "code": "KS3-EN-820",
+      "description": "The surest way to identify nouns is on his"
+    },
+    {
+      "code": "KS3-EN-821",
+      "description": "Our dog bit the burglar"
+    },
+    {
+      "code": "KS3-EN-822",
+      "description": "noun"
+    },
+    {
+      "code": "KS3-EN-823",
+      "description": "by the ways they can be used after behind!"
+    },
+    {
+      "code": "KS3-EN-824",
+      "description": "such as the: for"
+    },
+    {
+      "code": "KS3-EN-825",
+      "description": "determiners"
+    },
+    {
+      "code": "KS3-EN-826",
+      "description": "My big brother did an amazing"
+    },
+    {
+      "code": "KS3-EN-827",
+      "description": "example, most nouns will fit into the"
+    },
+    {
+      "code": "KS3-EN-828",
+      "description": "jump on his skateboard."
+    },
+    {
+      "code": "KS3-EN-829",
+      "description": "frame \u201cThe __ matters/matter.\u201d"
+    },
+    {
+      "code": "KS3-EN-830",
+      "description": "Actions speak louder than words."
+    },
+    {
+      "code": "KS3-EN-831",
+      "description": "Nouns are sometimes called \u2018naming"
+    },
+    {
+      "code": "KS3-EN-832",
+      "description": "Not nouns:"
+    },
+    {
+      "code": "KS3-EN-833",
+      "description": "words\u2019 because they name people,"
+    },
+    {
+      "code": "KS3-EN-834",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-835",
+      "description": "you! [this names a He\u2019s behind"
+    },
+    {
+      "code": "KS3-EN-836",
+      "description": "places and \u2018things\u2019; this is often true,"
+    },
+    {
+      "code": "KS3-EN-837",
+      "description": "place, but is a preposition, not"
+    },
+    {
+      "code": "KS3-EN-838",
+      "description": "but it doesn\u2019t help to distinguish"
+    },
+    {
+      "code": "KS3-EN-839",
+      "description": "a noun]"
+    },
+    {
+      "code": "KS3-EN-840",
+      "description": "classes. For nouns from other word"
+    },
+    {
+      "code": "KS3-EN-841",
+      "description": "example, prepositions can name"
+    },
+    {
+      "code": "KS3-EN-842",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-843",
+      "description": "She can jump so high! [this"
+    },
+    {
+      "code": "KS3-EN-844",
+      "description": "places and verbs can name \u2018things\u2019"
+    },
+    {
+      "code": "KS3-EN-845",
+      "description": "names an action, but is a verb,"
+    },
+    {
+      "code": "KS3-EN-846",
+      "description": "such as actions."
+    },
+    {
+      "code": "KS3-EN-847",
+      "description": "not a noun]"
+    },
+    {
+      "code": "KS3-EN-848",
+      "description": "Nouns may be classified as"
+    },
+    {
+      "code": "KS3-EN-849",
+      "description": "common, countable: a book,"
+    },
+    {
+      "code": "KS3-EN-850",
+      "description": "(e.g. boy, day) or"
+    },
+    {
+      "code": "KS3-EN-851",
+      "description": "common proper"
+    },
+    {
+      "code": "KS3-EN-852",
+      "description": "books, two chocolates, one day,"
+    },
+    {
+      "code": "KS3-EN-853",
+      "description": "(e.g. Ivan, Wednesday), and also as"
+    },
+    {
+      "code": "KS3-EN-854",
+      "description": "fewer ideas"
+    },
+    {
+      "code": "KS3-EN-855",
+      "description": "(e.g. thing, boy) or"
+    },
+    {
+      "code": "KS3-EN-856",
+      "description": "countable non-"
+    },
+    {
+      "code": "KS3-EN-857",
+      "description": "common, non-countable: money,"
+    },
+    {
+      "code": "KS3-EN-858",
+      "description": "(e.g. stuff, money). These"
+    },
+    {
+      "code": "KS3-EN-859",
+      "description": "countable"
+    },
+    {
+      "code": "KS3-EN-860",
+      "description": "some chocolate, less imagination"
+    },
+    {
+      "code": "KS3-EN-861",
+      "description": "classes can be recognised by the"
+    },
+    {
+      "code": "KS3-EN-862",
+      "description": "proper, countable: Marilyn,"
+    },
+    {
+      "code": "KS3-EN-863",
+      "description": "determiners they combine with."
+    },
+    {
+      "code": "KS3-EN-864",
+      "description": "London, Wednesday"
+    },
+    {
+      "code": "KS3-EN-865",
+      "description": "with a Adult foxes can jump. [adult A noun phrase is a phrase"
+    },
+    {
+      "code": "KS3-EN-866",
+      "description": "noun phrase"
+    },
+    {
+      "code": "KS3-EN-867",
+      "description": "noun as its head, e.g. some foxes, modifies foxes, so adult belongs to"
+    },
+    {
+      "code": "KS3-EN-868",
+      "description": "foxes with bushy tails. Some"
+    },
+    {
+      "code": "KS3-EN-869",
+      "description": "the noun phrase]"
+    },
+    {
+      "code": "KS3-EN-870",
+      "description": "grammarians recognise one-word"
+    },
+    {
+      "code": "KS3-EN-871",
+      "description": "Almost all healthy adult foxes in"
+    },
+    {
+      "code": "KS3-EN-872",
+      "description": "phrases, so that foxes are"
+    },
+    {
+      "code": "KS3-EN-873",
+      "description": "this area can jump. [all the other"
+    },
+    {
+      "code": "KS3-EN-874",
+      "description": "multiplying would contain the noun"
+    },
+    {
+      "code": "KS3-EN-875",
+      "description": "words help to modify foxes, so they"
+    },
+    {
+      "code": "KS3-EN-876",
+      "description": "foxes acting as the head of the noun"
+    },
+    {
+      "code": "KS3-EN-877",
+      "description": "all belong to the noun phrase]"
+    },
+    {
+      "code": "KS3-EN-878",
+      "description": "phrase foxes."
+    },
+    {
+      "code": "KS3-EN-879",
+      "description": "Year 2 designed puppets. noun, [noun An object is normally a"
+    },
+    {
+      "code": "KS3-EN-880",
+      "description": "object"
+    },
+    {
+      "code": "KS3-EN-881",
+      "description": "pronoun or noun phrase that comes acting as object]"
+    },
+    {
+      "code": "KS3-EN-882",
+      "description": "straight after the verb, and shows"
+    },
+    {
+      "code": "KS3-EN-883",
+      "description": "I like that. [pronoun acting as"
+    },
+    {
+      "code": "KS3-EN-884",
+      "description": "what the verb is acting upon."
+    },
+    {
+      "code": "KS3-EN-885",
+      "description": "object]"
+    },
+    {
+      "code": "KS3-EN-886",
+      "description": "Objects can be turned into the"
+    },
+    {
+      "code": "KS3-EN-887",
+      "description": "15"
+    },
+    {
+      "code": "KS3-EN-888",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-889",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-890",
+      "description": "subject of a passive verb, and Some people suggested a pretty"
+    },
+    {
+      "code": "KS3-EN-891",
+      "description": "cannot be adjectives (contrast with display. [noun phrase acting as"
+    },
+    {
+      "code": "KS3-EN-892",
+      "description": "complements). object]"
+    },
+    {
+      "code": "KS3-EN-893",
+      "description": "Contrast:"
+    },
+    {
+      "code": "KS3-EN-894",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-895",
+      "description": "A display was suggested."
+    },
+    {
+      "code": "KS3-EN-896",
+      "description": "[object of active verb becomes"
+    },
+    {
+      "code": "KS3-EN-897",
+      "description": "the subject of the passive verb]"
+    },
+    {
+      "code": "KS3-EN-898",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-899",
+      "description": "Year 2 designed pretty."
+    },
+    {
+      "code": "KS3-EN-900",
+      "description": "[incorrect, because adjectives"
+    },
+    {
+      "code": "KS3-EN-901",
+      "description": "cannot be objects]"
+    },
+    {
+      "code": "KS3-EN-902",
+      "description": "He is walking to school. [present Verbs in English have two"
+    },
+    {
+      "code": "KS3-EN-903",
+      "description": "participle"
+    },
+    {
+      "code": "KS3-EN-904",
+      "description": "participle in a progressive]"
+    },
+    {
+      "code": "KS3-EN-905",
+      "description": "participles, called \u2018present participle\u2019"
+    },
+    {
+      "code": "KS3-EN-906",
+      "description": "(e.g. walking, taking) and \u2018past"
+    },
+    {
+      "code": "KS3-EN-907",
+      "description": "He has taken the bus to school."
+    },
+    {
+      "code": "KS3-EN-908",
+      "description": "participle\u2019 (e.g. walked, taken)."
+    },
+    {
+      "code": "KS3-EN-909",
+      "description": "[past participle in a perfect]"
+    },
+    {
+      "code": "KS3-EN-910",
+      "description": "Unfortunately, these terms can be"
+    },
+    {
+      "code": "KS3-EN-911",
+      "description": "The photo was taken in the rain."
+    },
+    {
+      "code": "KS3-EN-912",
+      "description": "confusing to learners, because:"
+    },
+    {
+      "code": "KS3-EN-913",
+      "description": "[past participle in a passive]"
+    },
+    {
+      "code": "KS3-EN-914",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-915",
+      "description": "they don\u2019t necessarily have"
+    },
+    {
+      "code": "KS3-EN-916",
+      "description": "anything to do with present or"
+    },
+    {
+      "code": "KS3-EN-917",
+      "description": "past time"
+    },
+    {
+      "code": "KS3-EN-918",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-919",
+      "description": "although past participles are"
+    },
+    {
+      "code": "KS3-EN-920",
+      "description": "(e.g. has eaten) used as perfects"
+    },
+    {
+      "code": "KS3-EN-921",
+      "description": "they are also used as passives"
+    },
+    {
+      "code": "KS3-EN-922",
+      "description": "(e.g. was eaten)."
+    },
+    {
+      "code": "KS3-EN-923",
+      "description": "The sentence It was eaten by our by the school. A visit was arranged"
+    },
+    {
+      "code": "KS3-EN-924",
+      "description": "passive"
+    },
+    {
+      "code": "KS3-EN-925",
+      "description": "dog is the passive of Our dog ate it."
+    },
+    {
+      "code": "KS3-EN-926",
+      "description": "Our cat got run over by a bus."
+    },
+    {
+      "code": "KS3-EN-927",
+      "description": "A passive is recognisable from:"
+    },
+    {
+      "code": "KS3-EN-928",
+      "description": "Active versions:"
+    },
+    {
+      "code": "KS3-EN-929",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-930",
+      "description": "form eaten the past participle"
+    },
+    {
+      "code": "KS3-EN-931",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-932",
+      "description": "The school arranged a visit."
+    },
+    {
+      "code": "KS3-EN-933",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-934",
+      "description": "the normal object (it) turned into"
+    },
+    {
+      "code": "KS3-EN-935",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-936",
+      "description": "A bus ran over our cat."
+    },
+    {
+      "code": "KS3-EN-937",
+      "description": "the subject"
+    },
+    {
+      "code": "KS3-EN-938",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-939",
+      "description": "Not passive:"
+    },
+    {
+      "code": "KS3-EN-940",
+      "description": "the normal subject (our dog)"
+    },
+    {
+      "code": "KS3-EN-941",
+      "description": "turned into an optional"
+    },
+    {
+      "code": "KS3-EN-942",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-943",
+      "description": "He received a warning. [past"
+    },
+    {
+      "code": "KS3-EN-944",
+      "description": "with by as its preposition phrase"
+    },
+    {
+      "code": "KS3-EN-945",
+      "description": "tense, active received]"
+    },
+    {
+      "code": "KS3-EN-946",
+      "description": "head"
+    },
+    {
+      "code": "KS3-EN-947",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-948",
+      "description": "We had an accident. [past"
+    },
+    {
+      "code": "KS3-EN-949",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-950",
+      "description": "the verb be(was), or some other"
+    },
+    {
+      "code": "KS3-EN-951",
+      "description": "tense, active had]"
+    },
+    {
+      "code": "KS3-EN-952",
+      "description": "verb such as get."
+    },
+    {
+      "code": "KS3-EN-953",
+      "description": "active."
+    },
+    {
+      "code": "KS3-EN-954",
+      "description": "Contrast"
+    },
+    {
+      "code": "KS3-EN-955",
+      "description": "A verb is not \u2018passive\u2019 just because it"
+    },
+    {
+      "code": "KS3-EN-956",
+      "description": "has a passive meaning: it must be"
+    },
+    {
+      "code": "KS3-EN-957",
+      "description": "the passive version of an active verb."
+    },
+    {
+      "code": "KS3-EN-958",
+      "description": "in the past tense are"
+    },
+    {
+      "code": "KS3-EN-959",
+      "description": "Verbs Tom and Chris showed me their"
+    },
+    {
+      "code": "KS3-EN-960",
+      "description": "past tense"
+    },
+    {
+      "code": "KS3-EN-961",
+      "description": "commonly used to: new TV. [names an event in the"
+    },
+    {
+      "code": "KS3-EN-962",
+      "description": "16"
+    },
+    {
+      "code": "KS3-EN-963",
+      "description": "English \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-EN-964",
+      "description": "Term Guidance Example"
+    },
+    {
+      "code": "KS3-EN-965",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-966",
+      "description": "talk about the past past]"
+    },
+    {
+      "code": "KS3-EN-967",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-968",
+      "description": "talk about imagined situations"
+    },
+    {
+      "code": "KS3-EN-969",
+      "description": "Antonio went on holiday to Brazil."
+    },
+    {
+      "code": "KS3-EN-970",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-971",
+      "description": "[names an event in the past;"
+    },
+    {
+      "code": "KS3-EN-972",
+      "description": "make a request sound more"
+    },
+    {
+      "code": "KS3-EN-973",
+      "description": "irregular past of go] polite."
+    },
+    {
+      "code": "KS3-EN-974",
+      "description": "\u2013ed, to form I wish I had a puppy. [names an Most verbs take a suffix"
+    },
+    {
+      "code": "KS3-EN-975",
+      "description": "their past tense, but many imagined situation, not a situation"
+    },
+    {
+      "code": "KS3-EN-976",
+      "description": "commonly-used verbs are irregular. in the past]"
+    },
+    {
+      "code": "KS3-EN-977",
+      "description": "See also tense. I was hoping you\u2019d help tomorrow."
+    },
+    {
+      "code": "KS3-EN-978",
+      "description": "[makes an implied request sound"
+    },
+    {
+      "code": "KS3-EN-979",
+      "description": "more polite]"
+    },
+    {
+      "code": "KS3-EN-980",
+      "description": "generally The perfect form of a verb She has downloaded some songs."
+    },
+    {
+      "code": "KS3-EN-981",
+      "description": "perfect"
+    },
+    {
+      "code": "KS3-EN-982",
+      "description": "calls attention to the consequences [present perfect; now she has"
+    },
+    {
+      "code": "KS3-EN-983",
+      "description": "of a prior event; for example, he has some songs]"
+    },
+    {
+      "code": "KS3-EN-984",
+      "description": "gone to lunch implies that he is still"
+    },
+    {
+      "code": "KS3-EN-985",
+      "description": "I had eaten lunch when you came."
+    },
+    {
+      "code": "KS3-EN-986",
+      "description": "away, in contrast with he went to"
+    },
+    {
+      "code": "KS3-EN-987",
+      "description": "[past perfect; I wasn\u2019t hungry when"
+    },
+    {
+      "code": "KS3-EN-988",
+      "description": "lunch. \u2018Had gone to lunch\u2019 takes a"
+    },
+    {
+      "code": "KS3-EN-989",
+      "description": "you came]"
+    },
+    {
+      "code": "KS3-EN-990",
+      "description": "past time point (i.e. when we arrived)"
+    },
+    {
+      "code": "KS3-EN-991",
+      "description": "as its reference point and is another"
+    },
+    {
+      "code": "KS3-EN-992",
+      "description": "way of establishing time relations in"
+    },
+    {
+      "code": "KS3-EN-993",
+      "description": "a text. The perfect tense is formed"
+    },
+    {
+      "code": "KS3-EN-994",
+      "description": "by:"
+    },
+    {
+      "code": "KS3-EN-995",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-996",
+      "description": "turning the verb into its past"
+    },
+    {
+      "code": "KS3-EN-997",
+      "description": "participle inflection"
+    },
+    {
+      "code": "KS3-EN-998",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-EN-999",
+      "description": "adding a form of the verb have"
+    }
+  ]
+}

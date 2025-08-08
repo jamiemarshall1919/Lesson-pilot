@@ -1,1 +1,472 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-DE-001",
+      "description": "Design and technology"
+    },
+    {
+      "code": "KS3-DE-002",
+      "description": "programmes of study: key stage 3"
+    },
+    {
+      "code": "KS3-DE-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-DE-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-DE-005",
+      "description": "Design and technology is an inspiring, rigorous and practical subject. Using creativity and"
+    },
+    {
+      "code": "KS3-DE-006",
+      "description": "imagination, pupils design and make products that solve real and relevant problems within"
+    },
+    {
+      "code": "KS3-DE-007",
+      "description": "a variety of contexts, considering their own and others\u2019 needs, wants and values. They"
+    },
+    {
+      "code": "KS3-DE-008",
+      "description": "acquire a broad range of subject knowledge and draw on disciplines such as mathematics,"
+    },
+    {
+      "code": "KS3-DE-009",
+      "description": "science, engineering, computing and art. Pupils learn how to take risks, becoming"
+    },
+    {
+      "code": "KS3-DE-010",
+      "description": "resourceful, innovative, enterprising and capable citizens. Through the evaluation of past"
+    },
+    {
+      "code": "KS3-DE-011",
+      "description": "and present design and technology, they develop a critical understanding of its impact on"
+    },
+    {
+      "code": "KS3-DE-012",
+      "description": "daily life and the wider world. High-quality design and technology education makes an"
+    },
+    {
+      "code": "KS3-DE-013",
+      "description": "essential contribution to the creativity, culture, wealth and well-being of the nation."
+    },
+    {
+      "code": "KS3-DE-014",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-DE-015",
+      "description": "The national curriculum for design and technology aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-DE-016",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-017",
+      "description": "develop the creative, technical and practical expertise needed to perform everyday"
+    },
+    {
+      "code": "KS3-DE-018",
+      "description": "tasks confidently and to participate successfully in an increasingly technological world"
+    },
+    {
+      "code": "KS3-DE-019",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-020",
+      "description": "build and apply a repertoire of knowledge, understanding and skills in order to design"
+    },
+    {
+      "code": "KS3-DE-021",
+      "description": "and make high-quality prototypes and products for a wide range of users"
+    },
+    {
+      "code": "KS3-DE-022",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-023",
+      "description": "critique, evaluate and test their ideas and products and the work of others"
+    },
+    {
+      "code": "KS3-DE-024",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-025",
+      "description": "understand and apply the principles of nutrition and learn how to cook."
+    },
+    {
+      "code": "KS3-DE-026",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-DE-027",
+      "description": "By the end of key stage 3, pupils are expected to know, apply and understand the matters,"
+    },
+    {
+      "code": "KS3-DE-028",
+      "description": "skills and processes specified in the programme of study."
+    },
+    {
+      "code": "KS3-DE-029",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS3-DE-030",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS3-DE-031",
+      "description": "Design and technology \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-DE-032",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-DE-033",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-DE-034",
+      "description": "Through a variety of creative and practical activities, pupils should be taught the"
+    },
+    {
+      "code": "KS3-DE-035",
+      "description": "knowledge, understanding and skills needed to engage in an iterative process of designing"
+    },
+    {
+      "code": "KS3-DE-036",
+      "description": "and making. They should work in a range of domestic and local contexts [for example, the"
+    },
+    {
+      "code": "KS3-DE-037",
+      "description": "home, health, leisure and culture], and industrial contexts [for example, engineering,"
+    },
+    {
+      "code": "KS3-DE-038",
+      "description": "manufacturing, construction, food, energy, agriculture (including horticulture) and fashion]."
+    },
+    {
+      "code": "KS3-DE-039",
+      "description": "When designing and making, pupils should be taught to:"
+    },
+    {
+      "code": "KS3-DE-040",
+      "description": "Design"
+    },
+    {
+      "code": "KS3-DE-041",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-042",
+      "description": "use research and exploration, such as the study of different cultures, to identify and"
+    },
+    {
+      "code": "KS3-DE-043",
+      "description": "understand user needs"
+    },
+    {
+      "code": "KS3-DE-044",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-045",
+      "description": "identify and solve their own design problems and understand how to reformulate"
+    },
+    {
+      "code": "KS3-DE-046",
+      "description": "problems given to them"
+    },
+    {
+      "code": "KS3-DE-047",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-048",
+      "description": "develop specifications to inform the design of innovative, functional, appealing products"
+    },
+    {
+      "code": "KS3-DE-049",
+      "description": "that respond to needs in a variety of situations"
+    },
+    {
+      "code": "KS3-DE-050",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-051",
+      "description": "use a variety of approaches [for example, biomimicry and user-centred design],"
+    },
+    {
+      "code": "KS3-DE-052",
+      "description": "to generate creative ideas and avoid stereotypical responses"
+    },
+    {
+      "code": "KS3-DE-053",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-054",
+      "description": "develop and communicate design ideas using annotated sketches, detailed plans, 3-D"
+    },
+    {
+      "code": "KS3-DE-055",
+      "description": "and mathematical modelling, oral and digital presentations and computer-based tools"
+    },
+    {
+      "code": "KS3-DE-056",
+      "description": "Make"
+    },
+    {
+      "code": "KS3-DE-057",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-058",
+      "description": "select from and use specialist tools, techniques, processes, equipment and machinery"
+    },
+    {
+      "code": "KS3-DE-059",
+      "description": "precisely, including computer-aided manufacture"
+    },
+    {
+      "code": "KS3-DE-060",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-061",
+      "description": "select from and use a wider, more complex range of materials, components and"
+    },
+    {
+      "code": "KS3-DE-062",
+      "description": "ingredients, taking into account their properties"
+    },
+    {
+      "code": "KS3-DE-063",
+      "description": "Evaluate"
+    },
+    {
+      "code": "KS3-DE-064",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-065",
+      "description": "analyse the work of past and present professionals and others to develop and broaden"
+    },
+    {
+      "code": "KS3-DE-066",
+      "description": "their understanding"
+    },
+    {
+      "code": "KS3-DE-067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-068",
+      "description": "investigate new and emerging technologies"
+    },
+    {
+      "code": "KS3-DE-069",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-070",
+      "description": "test, evaluate and refine their ideas and products against a specification, taking into"
+    },
+    {
+      "code": "KS3-DE-071",
+      "description": "account the views of intended users and other interested groups"
+    },
+    {
+      "code": "KS3-DE-072",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-073",
+      "description": "understand developments in design and technology, its impact on individuals, society"
+    },
+    {
+      "code": "KS3-DE-074",
+      "description": "and the environment, and the responsibilities of designers, engineers and technologists"
+    },
+    {
+      "code": "KS3-DE-075",
+      "description": "2"
+    },
+    {
+      "code": "KS3-DE-076",
+      "description": "Design and technology \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-DE-077",
+      "description": "Technical knowledge"
+    },
+    {
+      "code": "KS3-DE-078",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-079",
+      "description": "understand and use the properties of materials and the performance of structural"
+    },
+    {
+      "code": "KS3-DE-080",
+      "description": "elements to achieve functioning solutions"
+    },
+    {
+      "code": "KS3-DE-081",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-082",
+      "description": "understand how more advanced mechanical systems used in their products enable"
+    },
+    {
+      "code": "KS3-DE-083",
+      "description": "changes in movement and force"
+    },
+    {
+      "code": "KS3-DE-084",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-085",
+      "description": "understand how more advanced electrical and electronic systems can be powered and"
+    },
+    {
+      "code": "KS3-DE-086",
+      "description": "used in their products [for example, circuits with heat, light, sound and movement as"
+    },
+    {
+      "code": "KS3-DE-087",
+      "description": "inputs and outputs]"
+    },
+    {
+      "code": "KS3-DE-088",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-089",
+      "description": "apply computing and use electronics to embed intelligence in products that respond to"
+    },
+    {
+      "code": "KS3-DE-090",
+      "description": "inputs [for example, sensors], and control outputs [for example, actuators], using"
+    },
+    {
+      "code": "KS3-DE-091",
+      "description": "programmable components [for example, microcontrollers]."
+    },
+    {
+      "code": "KS3-DE-092",
+      "description": "Cooking and nutrition"
+    },
+    {
+      "code": "KS3-DE-093",
+      "description": "As part of their work with food, pupils should be taught how to cook and apply the"
+    },
+    {
+      "code": "KS3-DE-094",
+      "description": "principles of nutrition and healthy eating. Instilling a love of cooking in pupils will also open"
+    },
+    {
+      "code": "KS3-DE-095",
+      "description": "a door to one of the great expressions of human creativity. Learning how to cook is a"
+    },
+    {
+      "code": "KS3-DE-096",
+      "description": "crucial life skill that enables pupils to feed themselves and others affordably and well, now"
+    },
+    {
+      "code": "KS3-DE-097",
+      "description": "and in later life."
+    },
+    {
+      "code": "KS3-DE-098",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-DE-099",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-DE-100",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-101",
+      "description": "understand and apply the principles of nutrition and health"
+    },
+    {
+      "code": "KS3-DE-102",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-103",
+      "description": "cook a repertoire of predominantly savoury dishes so that they are able to feed"
+    },
+    {
+      "code": "KS3-DE-104",
+      "description": "themselves and others a healthy and varied diet"
+    },
+    {
+      "code": "KS3-DE-105",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-106",
+      "description": "become competent in a range of cooking techniques [for example, selecting and"
+    },
+    {
+      "code": "KS3-DE-107",
+      "description": "preparing ingredients; using utensils and electrical equipment; applying heat in different"
+    },
+    {
+      "code": "KS3-DE-108",
+      "description": "ways; using awareness of taste, texture and smell to decide how to season dishes and"
+    },
+    {
+      "code": "KS3-DE-109",
+      "description": "combine ingredients; adapting and using their own recipes]"
+    },
+    {
+      "code": "KS3-DE-110",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-DE-111",
+      "description": "understand the source, seasonality and characteristics of a broad range of ingredients."
+    },
+    {
+      "code": "KS3-DE-112",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-DE-113",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS3-DE-114",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS3-DE-115",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-DE-116",
+      "description": "Reference: DFE-00192-2013"
+    },
+    {
+      "code": "KS3-DE-117",
+      "description": "3"
+    }
+  ]
+}

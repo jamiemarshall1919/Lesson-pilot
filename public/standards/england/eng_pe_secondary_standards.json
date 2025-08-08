@@ -1,1 +1,328 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-PE-001",
+      "description": "Physical education programmes"
+    },
+    {
+      "code": "KS3-PE-002",
+      "description": "of study: key stages 3 and 4"
+    },
+    {
+      "code": "KS3-PE-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-PE-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-PE-005",
+      "description": "A high-quality physical education curriculum inspires all pupils to succeed and excel in"
+    },
+    {
+      "code": "KS3-PE-006",
+      "description": "competitive sport and other physically-demanding activities. It should provide opportunities"
+    },
+    {
+      "code": "KS3-PE-007",
+      "description": "for pupils to become physically confident in a way which supports their health and fitness."
+    },
+    {
+      "code": "KS3-PE-008",
+      "description": "Opportunities to compete in sport and other activities build character and help to embed"
+    },
+    {
+      "code": "KS3-PE-009",
+      "description": "values such as fairness and respect."
+    },
+    {
+      "code": "KS3-PE-010",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-PE-011",
+      "description": "The national curriculum for physical education aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-PE-012",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-013",
+      "description": "develop competence to excel in a broad range of physical activities"
+    },
+    {
+      "code": "KS3-PE-014",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-015",
+      "description": "are physically active for sustained periods of time"
+    },
+    {
+      "code": "KS3-PE-016",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-017",
+      "description": "engage in competitive sports and activities"
+    },
+    {
+      "code": "KS3-PE-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-019",
+      "description": "lead healthy, active lives."
+    },
+    {
+      "code": "KS3-PE-020",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-PE-021",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS3-PE-022",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS3-PE-023",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS3-PE-024",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-PE-025",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-PE-026",
+      "description": "Pupils should build on and embed the physical development and skills learned in key"
+    },
+    {
+      "code": "KS3-PE-027",
+      "description": "stages 1 and 2, become more competent, confident and expert in their techniques, and"
+    },
+    {
+      "code": "KS3-PE-028",
+      "description": "apply them across different sports and physical activities. They should understand what"
+    },
+    {
+      "code": "KS3-PE-029",
+      "description": "makes a performance effective and how to apply these principles to their own and others\u2019"
+    },
+    {
+      "code": "KS3-PE-030",
+      "description": "work. They should develop the confidence and interest to get involved in exercise, sports"
+    },
+    {
+      "code": "KS3-PE-031",
+      "description": "and activities out of school and in later life, and understand and apply the long-term health"
+    },
+    {
+      "code": "KS3-PE-032",
+      "description": "benefits of physical activity."
+    },
+    {
+      "code": "KS3-PE-033",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-PE-034",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-035",
+      "description": "use a range of tactics and strategies to overcome opponents in direct competition"
+    },
+    {
+      "code": "KS3-PE-036",
+      "description": "through team and individual games [for example, badminton, basketball, cricket,"
+    },
+    {
+      "code": "KS3-PE-037",
+      "description": "football, hockey, netball, rounders, rugby and tennis]"
+    },
+    {
+      "code": "KS3-PE-038",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-039",
+      "description": "develop their technique and improve their performance in other competitive sports [for"
+    },
+    {
+      "code": "KS3-PE-040",
+      "description": "example, athletics and gymnastics]"
+    },
+    {
+      "code": "KS3-PE-041",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-042",
+      "description": "perform dances using advanced dance techniques within a range of dance styles and"
+    },
+    {
+      "code": "KS3-PE-043",
+      "description": "forms"
+    },
+    {
+      "code": "KS3-PE-044",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-045",
+      "description": "take part in outdoor and adventurous activities which present intellectual and physical"
+    },
+    {
+      "code": "KS3-PE-046",
+      "description": "challenges and be encouraged to work in a team, building on trust and developing"
+    },
+    {
+      "code": "KS3-PE-047",
+      "description": "skills to solve problems, either individually or as a group"
+    },
+    {
+      "code": "KS3-PE-048",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-049",
+      "description": "analyse their performances compared to previous ones and demonstrate improvement"
+    },
+    {
+      "code": "KS3-PE-050",
+      "description": "to achieve their personal best"
+    },
+    {
+      "code": "KS3-PE-051",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-052",
+      "description": "take part in competitive sports and activities outside school through community links or"
+    },
+    {
+      "code": "KS3-PE-053",
+      "description": "sports clubs."
+    },
+    {
+      "code": "KS3-PE-054",
+      "description": "Key stage 4"
+    },
+    {
+      "code": "KS3-PE-055",
+      "description": "Pupils should tackle complex and demanding physical activities. They should get involved"
+    },
+    {
+      "code": "KS3-PE-056",
+      "description": "in a range of activities that develops personal fitness and promotes an active, healthy"
+    },
+    {
+      "code": "KS3-PE-057",
+      "description": "lifestyle."
+    },
+    {
+      "code": "KS3-PE-058",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-PE-059",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-060",
+      "description": "use and develop a variety of tactics and strategies to overcome opponents in team and"
+    },
+    {
+      "code": "KS3-PE-061",
+      "description": "individual games [for example, badminton, basketball, cricket, football, hockey, netball,"
+    },
+    {
+      "code": "KS3-PE-062",
+      "description": "rounders, rugby and tennis]"
+    },
+    {
+      "code": "KS3-PE-063",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-064",
+      "description": "develop their technique and improve their performance in other competitive sports,[for"
+    },
+    {
+      "code": "KS3-PE-065",
+      "description": "example, athletics and gymnastics], or other physical activities [for example, dance]"
+    },
+    {
+      "code": "KS3-PE-066",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-067",
+      "description": "take part in further outdoor and adventurous activities in a range of environments which"
+    },
+    {
+      "code": "KS3-PE-068",
+      "description": "present intellectual and physical challenges and which encourage pupils to work in a"
+    },
+    {
+      "code": "KS3-PE-069",
+      "description": "team, building on trust and developing skills to solve problems, either individually or as"
+    },
+    {
+      "code": "KS3-PE-070",
+      "description": "a group"
+    },
+    {
+      "code": "KS3-PE-071",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-072",
+      "description": "evaluate their performances compared to previous ones and demonstrate improvement"
+    },
+    {
+      "code": "KS3-PE-073",
+      "description": "across a range of physical activities to achieve their personal best"
+    },
+    {
+      "code": "KS3-PE-074",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-PE-075",
+      "description": "continue to take part regularly in competitive sports and activities outside school"
+    },
+    {
+      "code": "KS3-PE-076",
+      "description": "through community links or sports clubs."
+    },
+    {
+      "code": "KS3-PE-077",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-PE-078",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS3-PE-079",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS3-PE-080",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-PE-081",
+      "description": "Reference: DFE-00188-2013"
+    }
+  ]
+}

@@ -1,1 +1,344 @@
-{}
+{
+  "KS1-2": [
+    {
+      "code": "KS1-2-CO-001",
+      "description": "Computing programmes of study:"
+    },
+    {
+      "code": "KS1-2-CO-002",
+      "description": "key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-CO-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS1-2-CO-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS1-2-CO-005",
+      "description": "A high-quality computing education equips pupils to use computational thinking and"
+    },
+    {
+      "code": "KS1-2-CO-006",
+      "description": "creativity to understand and change the world. Computing has deep links with"
+    },
+    {
+      "code": "KS1-2-CO-007",
+      "description": "mathematics, science, and design and technology, and provides insights into both natural"
+    },
+    {
+      "code": "KS1-2-CO-008",
+      "description": "and artificial systems. The core of computing is computer science, in which pupils are"
+    },
+    {
+      "code": "KS1-2-CO-009",
+      "description": "taught the principles of information and computation, how digital systems work, and how to"
+    },
+    {
+      "code": "KS1-2-CO-010",
+      "description": "put this knowledge to use through programming. Building on this knowledge and"
+    },
+    {
+      "code": "KS1-2-CO-011",
+      "description": "understanding, pupils are equipped to use information technology to create programs,"
+    },
+    {
+      "code": "KS1-2-CO-012",
+      "description": "systems and a range of content. Computing also ensures that pupils become digitally"
+    },
+    {
+      "code": "KS1-2-CO-013",
+      "description": "literate \u2013 able to use, and express themselves and develop their ideas through, information"
+    },
+    {
+      "code": "KS1-2-CO-014",
+      "description": "and communication technology \u2013 at a level suitable for the future workplace and as active"
+    },
+    {
+      "code": "KS1-2-CO-015",
+      "description": "participants in a digital world."
+    },
+    {
+      "code": "KS1-2-CO-016",
+      "description": "Aims"
+    },
+    {
+      "code": "KS1-2-CO-017",
+      "description": "The national curriculum for computing aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS1-2-CO-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-019",
+      "description": "can understand and apply the fundamental principles and concepts of computer"
+    },
+    {
+      "code": "KS1-2-CO-020",
+      "description": "science, including abstraction, logic, algorithms and data representation"
+    },
+    {
+      "code": "KS1-2-CO-021",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-022",
+      "description": "can analyse problems in computational terms, and have repeated practical experience"
+    },
+    {
+      "code": "KS1-2-CO-023",
+      "description": "of writing computer programs in order to solve such problems"
+    },
+    {
+      "code": "KS1-2-CO-024",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-025",
+      "description": "can evaluate and apply information technology, including new or unfamiliar"
+    },
+    {
+      "code": "KS1-2-CO-026",
+      "description": "technologies, analytically to solve problems"
+    },
+    {
+      "code": "KS1-2-CO-027",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-028",
+      "description": "are responsible, competent, confident and creative users of information and"
+    },
+    {
+      "code": "KS1-2-CO-029",
+      "description": "communication technology."
+    },
+    {
+      "code": "KS1-2-CO-030",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS1-2-CO-031",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS1-2-CO-032",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS1-2-CO-033",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS1-2-CO-034",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS1-2-CO-035",
+      "description": "Computing \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-CO-036",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS1-2-CO-037",
+      "description": "Key stage 1"
+    },
+    {
+      "code": "KS1-2-CO-038",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-CO-039",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-040",
+      "description": "understand what algorithms are; how they are implemented as programs on digital"
+    },
+    {
+      "code": "KS1-2-CO-041",
+      "description": "devices; and that programs execute by following precise and unambiguous instructions"
+    },
+    {
+      "code": "KS1-2-CO-042",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-043",
+      "description": "create and debug simple programs"
+    },
+    {
+      "code": "KS1-2-CO-044",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-045",
+      "description": "use logical reasoning to predict the behaviour of simple programs"
+    },
+    {
+      "code": "KS1-2-CO-046",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-047",
+      "description": "use technology purposefully to create, organise, store, manipulate and retrieve digital"
+    },
+    {
+      "code": "KS1-2-CO-048",
+      "description": "content"
+    },
+    {
+      "code": "KS1-2-CO-049",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-050",
+      "description": "recognise common uses of information technology beyond school"
+    },
+    {
+      "code": "KS1-2-CO-051",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-052",
+      "description": "use technology safely and respectfully, keeping personal information private; identify"
+    },
+    {
+      "code": "KS1-2-CO-053",
+      "description": "where to go for help and support when they have concerns about content or contact on"
+    },
+    {
+      "code": "KS1-2-CO-054",
+      "description": "the internet or other online technologies."
+    },
+    {
+      "code": "KS1-2-CO-055",
+      "description": "Key stage 2"
+    },
+    {
+      "code": "KS1-2-CO-056",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-CO-057",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-058",
+      "description": "design, write and debug programs that accomplish specific goals, including controlling"
+    },
+    {
+      "code": "KS1-2-CO-059",
+      "description": "or simulating physical systems; solve problems by decomposing them into smaller"
+    },
+    {
+      "code": "KS1-2-CO-060",
+      "description": "parts"
+    },
+    {
+      "code": "KS1-2-CO-061",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-062",
+      "description": "use sequence, selection, and repetition in programs; work with variables and various"
+    },
+    {
+      "code": "KS1-2-CO-063",
+      "description": "forms of input and output"
+    },
+    {
+      "code": "KS1-2-CO-064",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-065",
+      "description": "use logical reasoning to explain how some simple algorithms work and to detect and"
+    },
+    {
+      "code": "KS1-2-CO-066",
+      "description": "correct errors in algorithms and programs"
+    },
+    {
+      "code": "KS1-2-CO-067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-068",
+      "description": "understand computer networks including the internet; how they can provide multiple"
+    },
+    {
+      "code": "KS1-2-CO-069",
+      "description": "services, such as the world wide web; and the opportunities they offer for"
+    },
+    {
+      "code": "KS1-2-CO-070",
+      "description": "communication and collaboration"
+    },
+    {
+      "code": "KS1-2-CO-071",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-072",
+      "description": "use search technologies effectively, appreciate how results are selected and ranked,"
+    },
+    {
+      "code": "KS1-2-CO-073",
+      "description": "and be discerning in evaluating digital content"
+    },
+    {
+      "code": "KS1-2-CO-074",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-075",
+      "description": "select, use and combine a variety of software (including internet services) on a range of"
+    },
+    {
+      "code": "KS1-2-CO-076",
+      "description": "digital devices to design and create a range of programs, systems and content that"
+    },
+    {
+      "code": "KS1-2-CO-077",
+      "description": "accomplish given goals, including collecting, analysing, evaluating and presenting data"
+    },
+    {
+      "code": "KS1-2-CO-078",
+      "description": "and information"
+    },
+    {
+      "code": "KS1-2-CO-079",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-CO-080",
+      "description": "use technology safely, respectfully and responsibly; recognise"
+    },
+    {
+      "code": "KS1-2-CO-081",
+      "description": "acceptable/unacceptable behaviour; identify a range of ways to report concerns about"
+    },
+    {
+      "code": "KS1-2-CO-082",
+      "description": "content and contact."
+    },
+    {
+      "code": "KS1-2-CO-083",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS1-2-CO-084",
+      "description": "Reference: DFE-00171-2013"
+    },
+    {
+      "code": "KS1-2-CO-085",
+      "description": "2"
+    }
+  ]
+}

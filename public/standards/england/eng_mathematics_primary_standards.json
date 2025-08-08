@@ -1,1 +1,6356 @@
-{}
+{
+  "KS1-2": [
+    {
+      "code": "KS1-2-MA-001",
+      "description": "Mathematics"
+    },
+    {
+      "code": "KS1-2-MA-002",
+      "description": "programmes of study:"
+    },
+    {
+      "code": "KS1-2-MA-003",
+      "description": "key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-004",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS1-2-MA-005",
+      "description": "September 2013"
+    },
+    {
+      "code": "KS1-2-MA-006",
+      "description": "Contents"
+    },
+    {
+      "code": "KS1-2-MA-007",
+      "description": "Key stage 1 \u2013 years 1 and 2 5"
+    },
+    {
+      "code": "KS1-2-MA-008",
+      "description": "Year 1 programme of study 6"
+    },
+    {
+      "code": "KS1-2-MA-009",
+      "description": "Year 2 programme of study 11"
+    },
+    {
+      "code": "KS1-2-MA-010",
+      "description": "Lower key stage 2 \u2013 years 3 and 4 17"
+    },
+    {
+      "code": "KS1-2-MA-011",
+      "description": "Year 3 programme of study 18"
+    },
+    {
+      "code": "KS1-2-MA-012",
+      "description": "Year 4 programme of study 24"
+    },
+    {
+      "code": "KS1-2-MA-013",
+      "description": "Upper key stage 2 \u2013 years 5 and 6 30"
+    },
+    {
+      "code": "KS1-2-MA-014",
+      "description": "Year 5 programme of study 31"
+    },
+    {
+      "code": "KS1-2-MA-015",
+      "description": "Year 6 programme of study 39"
+    },
+    {
+      "code": "KS1-2-MA-016",
+      "description": "Mathematics Appendix 1: Examples of formal written methods for addition,"
+    },
+    {
+      "code": "KS1-2-MA-017",
+      "description": "subtraction, multiplication and division 46"
+    },
+    {
+      "code": "KS1-2-MA-018",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-019",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-020",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS1-2-MA-021",
+      "description": "Mathematics is a creative and highly inter-connected discipline that has been developed"
+    },
+    {
+      "code": "KS1-2-MA-022",
+      "description": "over centuries, providing the solution to some of history\u2019s most intriguing problems. It is"
+    },
+    {
+      "code": "KS1-2-MA-023",
+      "description": "essential to everyday life, critical to science, technology and engineering, and necessary"
+    },
+    {
+      "code": "KS1-2-MA-024",
+      "description": "for financial literacy and most forms of employment. A high-quality mathematics education"
+    },
+    {
+      "code": "KS1-2-MA-025",
+      "description": "therefore provides a foundation for understanding the world, the ability to reason"
+    },
+    {
+      "code": "KS1-2-MA-026",
+      "description": "mathematically, an appreciation of the beauty and power of mathematics, and a sense of"
+    },
+    {
+      "code": "KS1-2-MA-027",
+      "description": "enjoyment and curiosity about the subject."
+    },
+    {
+      "code": "KS1-2-MA-028",
+      "description": "Aims"
+    },
+    {
+      "code": "KS1-2-MA-029",
+      "description": "The national curriculum for mathematics aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS1-2-MA-030",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-031",
+      "description": "become in the fundamentals of mathematics, including through varied and"
+    },
+    {
+      "code": "KS1-2-MA-032",
+      "description": "fluent"
+    },
+    {
+      "code": "KS1-2-MA-033",
+      "description": "frequent practice with increasingly complex problems over time, so that pupils develop"
+    },
+    {
+      "code": "KS1-2-MA-034",
+      "description": "conceptual understanding and the ability to recall and apply knowledge rapidly and"
+    },
+    {
+      "code": "KS1-2-MA-035",
+      "description": "accurately."
+    },
+    {
+      "code": "KS1-2-MA-036",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-037",
+      "description": "by following a line of enquiry, conjecturing relationships and"
+    },
+    {
+      "code": "KS1-2-MA-038",
+      "description": "reason mathematically"
+    },
+    {
+      "code": "KS1-2-MA-039",
+      "description": "generalisations, and developing an argument, justification or proof using mathematical"
+    },
+    {
+      "code": "KS1-2-MA-040",
+      "description": "language"
+    },
+    {
+      "code": "KS1-2-MA-041",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-042",
+      "description": "can by applying their mathematics to a variety of routine and non-"
+    },
+    {
+      "code": "KS1-2-MA-043",
+      "description": "solve problems"
+    },
+    {
+      "code": "KS1-2-MA-044",
+      "description": "routine problems with increasing sophistication, including breaking down problems into"
+    },
+    {
+      "code": "KS1-2-MA-045",
+      "description": "a series of simpler steps and persevering in seeking solutions."
+    },
+    {
+      "code": "KS1-2-MA-046",
+      "description": "Mathematics is an interconnected subject in which pupils need to be able to move fluently"
+    },
+    {
+      "code": "KS1-2-MA-047",
+      "description": "between representations of mathematical ideas. The programmes of study are, by"
+    },
+    {
+      "code": "KS1-2-MA-048",
+      "description": "necessity, organised into apparently distinct domains, but pupils should make rich"
+    },
+    {
+      "code": "KS1-2-MA-049",
+      "description": "connections across mathematical ideas to develop fluency, mathematical reasoning and"
+    },
+    {
+      "code": "KS1-2-MA-050",
+      "description": "competence in solving increasingly sophisticated problems. They should also apply their"
+    },
+    {
+      "code": "KS1-2-MA-051",
+      "description": "mathematical knowledge to science and other subjects."
+    },
+    {
+      "code": "KS1-2-MA-052",
+      "description": "The expectation is that the majority of pupils will move through the programmes of study at"
+    },
+    {
+      "code": "KS1-2-MA-053",
+      "description": "broadly the same pace. However, decisions about when to progress should always be"
+    },
+    {
+      "code": "KS1-2-MA-054",
+      "description": "based on the security of pupils\u2019 understanding and their readiness to progress to the next"
+    },
+    {
+      "code": "KS1-2-MA-055",
+      "description": "stage. Pupils who grasp concepts rapidly should be challenged through being offered rich"
+    },
+    {
+      "code": "KS1-2-MA-056",
+      "description": "and sophisticated problems before any acceleration through new content. Those who are"
+    },
+    {
+      "code": "KS1-2-MA-057",
+      "description": "not sufficiently fluent with earlier material should consolidate their understanding, including"
+    },
+    {
+      "code": "KS1-2-MA-058",
+      "description": "through additional practice, before moving on."
+    },
+    {
+      "code": "KS1-2-MA-059",
+      "description": "Information and communication technology (ICT)"
+    },
+    {
+      "code": "KS1-2-MA-060",
+      "description": "Calculators should not be used as a substitute for good written and mental arithmetic."
+    },
+    {
+      "code": "KS1-2-MA-061",
+      "description": "They should therefore only be introduced near the end of key stage 2 to support pupils\u2019"
+    },
+    {
+      "code": "KS1-2-MA-062",
+      "description": "conceptual understanding and exploration of more complex number problems, if written"
+    },
+    {
+      "code": "KS1-2-MA-063",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-MA-064",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-065",
+      "description": "and mental arithmetic are secure. In both primary and secondary schools, teachers should"
+    },
+    {
+      "code": "KS1-2-MA-066",
+      "description": "use their judgement about when ICT tools should be used."
+    },
+    {
+      "code": "KS1-2-MA-067",
+      "description": "Spoken language"
+    },
+    {
+      "code": "KS1-2-MA-068",
+      "description": "The national curriculum for mathematics reflects the importance of spoken language in"
+    },
+    {
+      "code": "KS1-2-MA-069",
+      "description": "pupils\u2019 development across the whole curriculum \u2013 cognitively, socially and linguistically."
+    },
+    {
+      "code": "KS1-2-MA-070",
+      "description": "The quality and variety of language that pupils hear and speak are key factors in"
+    },
+    {
+      "code": "KS1-2-MA-071",
+      "description": "developing their mathematical vocabulary and presenting a mathematical justification,"
+    },
+    {
+      "code": "KS1-2-MA-072",
+      "description": "argument or proof. They must be assisted in making their thinking clear to themselves as"
+    },
+    {
+      "code": "KS1-2-MA-073",
+      "description": "well as others and teachers should ensure that pupils build secure foundations by using"
+    },
+    {
+      "code": "KS1-2-MA-074",
+      "description": "discussion to probe and remedy their misconceptions."
+    },
+    {
+      "code": "KS1-2-MA-075",
+      "description": "School curriculum"
+    },
+    {
+      "code": "KS1-2-MA-076",
+      "description": "The programmes of study for mathematics are set out year-by-year for key stages 1 and 2."
+    },
+    {
+      "code": "KS1-2-MA-077",
+      "description": "Schools are, however, only required to teach the relevant programme of study by the end"
+    },
+    {
+      "code": "KS1-2-MA-078",
+      "description": "of the key stage. Within each key stage, schools therefore have the flexibility to introduce"
+    },
+    {
+      "code": "KS1-2-MA-079",
+      "description": "content earlier or later than set out in the programme of study. In addition, schools can"
+    },
+    {
+      "code": "KS1-2-MA-080",
+      "description": "introduce key stage content during an earlier key stage, if appropriate. All schools are also"
+    },
+    {
+      "code": "KS1-2-MA-081",
+      "description": "required to set out their school curriculum for mathematics on a year-by-year basis and"
+    },
+    {
+      "code": "KS1-2-MA-082",
+      "description": "make this information available online."
+    },
+    {
+      "code": "KS1-2-MA-083",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS1-2-MA-084",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS1-2-MA-085",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS1-2-MA-086",
+      "description": "Schools are not required by law to teach the example content in [square brackets]"
+    },
+    {
+      "code": "KS1-2-MA-087",
+      "description": "or the content indicated as being \u2018non-statutory\u2019."
+    },
+    {
+      "code": "KS1-2-MA-088",
+      "description": "4"
+    },
+    {
+      "code": "KS1-2-MA-089",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-090",
+      "description": "Key stage 1 \u2013 years 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-091",
+      "description": "The principal focus of mathematics teaching in key stage 1 is to ensure that pupils develop"
+    },
+    {
+      "code": "KS1-2-MA-092",
+      "description": "confidence and mental fluency with whole numbers, counting and place value. This should"
+    },
+    {
+      "code": "KS1-2-MA-093",
+      "description": "involve working with numerals, words and the four operations, including with practical"
+    },
+    {
+      "code": "KS1-2-MA-094",
+      "description": "resources [for example, concrete objects and measuring tools]."
+    },
+    {
+      "code": "KS1-2-MA-095",
+      "description": "At this stage, pupils should develop their ability to recognise, describe, draw, compare and"
+    },
+    {
+      "code": "KS1-2-MA-096",
+      "description": "sort different shapes and use the related vocabulary. Teaching should also involve using a"
+    },
+    {
+      "code": "KS1-2-MA-097",
+      "description": "range of measures to describe and compare different quantities such as length, mass,"
+    },
+    {
+      "code": "KS1-2-MA-098",
+      "description": "capacity/volume, time and money."
+    },
+    {
+      "code": "KS1-2-MA-099",
+      "description": "By the end of year 2, pupils should know the number bonds to 20 and be precise in using"
+    },
+    {
+      "code": "KS1-2-MA-100",
+      "description": "and understanding place value. An emphasis on practice at this early stage will aid"
+    },
+    {
+      "code": "KS1-2-MA-1000",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-1001",
+      "description": "31"
+    },
+    {
+      "code": "KS1-2-MA-1002",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1003",
+      "description": "Number \u2013 addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-1004",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1005",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1006",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1007",
+      "description": "add and subtract whole numbers with more than 4 digits, including using formal"
+    },
+    {
+      "code": "KS1-2-MA-1008",
+      "description": "written methods (columnar addition and subtraction)"
+    },
+    {
+      "code": "KS1-2-MA-1009",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-101",
+      "description": "fluency."
+    },
+    {
+      "code": "KS1-2-MA-1010",
+      "description": "add and subtract numbers mentally with increasingly large numbers"
+    },
+    {
+      "code": "KS1-2-MA-1011",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1012",
+      "description": "use rounding to check answers to calculations and determine, in the context of a"
+    },
+    {
+      "code": "KS1-2-MA-1013",
+      "description": "problem, levels of accuracy"
+    },
+    {
+      "code": "KS1-2-MA-1014",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1015",
+      "description": "solve addition and subtraction multi-step problems in contexts, deciding which"
+    },
+    {
+      "code": "KS1-2-MA-1016",
+      "description": "operations and methods to use and why."
+    },
+    {
+      "code": "KS1-2-MA-1017",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1018",
+      "description": "Pupils practise using the formal written methods of columnar addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-1019",
+      "description": "with increasingly large numbers to aid fluency (see Mathematics Appendix 1)."
+    },
+    {
+      "code": "KS1-2-MA-102",
+      "description": "Pupils should read and spell mathematical vocabulary, at a level consistent with their"
+    },
+    {
+      "code": "KS1-2-MA-1020",
+      "description": "They practise mental calculations with increasingly large numbers to aid fluency"
+    },
+    {
+      "code": "KS1-2-MA-1021",
+      "description": "(for example, 12 462 \u2013 2300 = 10 162)."
+    },
+    {
+      "code": "KS1-2-MA-1022",
+      "description": "Number \u2013 multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-1023",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1024",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1026",
+      "description": "identify multiples and factors, including finding all factor pairs of a number, and"
+    },
+    {
+      "code": "KS1-2-MA-1027",
+      "description": "common factors of two numbers"
+    },
+    {
+      "code": "KS1-2-MA-1028",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1029",
+      "description": "know and use the vocabulary of prime numbers, prime factors and composite (non-"
+    },
+    {
+      "code": "KS1-2-MA-103",
+      "description": "increasing word reading and spelling knowledge at key stage 1."
+    },
+    {
+      "code": "KS1-2-MA-1030",
+      "description": "prime) numbers"
+    },
+    {
+      "code": "KS1-2-MA-1031",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1032",
+      "description": "establish whether a number up to 100 is prime and recall prime numbers up to 19"
+    },
+    {
+      "code": "KS1-2-MA-1033",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1034",
+      "description": "multiply numbers up to 4 digits by a one- or two-digit number using a formal written"
+    },
+    {
+      "code": "KS1-2-MA-1035",
+      "description": "method, including long multiplication for two-digit numbers"
+    },
+    {
+      "code": "KS1-2-MA-1036",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1037",
+      "description": "multiply and divide numbers mentally drawing upon known facts"
+    },
+    {
+      "code": "KS1-2-MA-1038",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1039",
+      "description": "divide numbers up to 4 digits by a one-digit number using the formal written method"
+    },
+    {
+      "code": "KS1-2-MA-104",
+      "description": "5"
+    },
+    {
+      "code": "KS1-2-MA-1040",
+      "description": "of short division and interpret remainders appropriately for the context"
+    },
+    {
+      "code": "KS1-2-MA-1041",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1042",
+      "description": "multiply and divide whole numbers and those involving decimals by 10, 100 and 1000"
+    },
+    {
+      "code": "KS1-2-MA-1043",
+      "description": "32"
+    },
+    {
+      "code": "KS1-2-MA-1044",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1045",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1046",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1047",
+      "description": "recognise and use square numbers and cube numbers, and the notation for squared"
+    },
+    {
+      "code": "KS1-2-MA-1048",
+      "description": "(2) (3)"
+    },
+    {
+      "code": "KS1-2-MA-1049",
+      "description": "and cubed"
+    },
+    {
+      "code": "KS1-2-MA-105",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1050",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1051",
+      "description": "solve problems involving multiplication and division including using their knowledge"
+    },
+    {
+      "code": "KS1-2-MA-1052",
+      "description": "of factors and multiples, squares and cubes"
+    },
+    {
+      "code": "KS1-2-MA-1053",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1054",
+      "description": "solve problems involving addition, subtraction, multiplication and division and a"
+    },
+    {
+      "code": "KS1-2-MA-1055",
+      "description": "combination of these, including understanding the meaning of the equals sign"
+    },
+    {
+      "code": "KS1-2-MA-1056",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1057",
+      "description": "solve problems involving multiplication and division, including scaling by simple"
+    },
+    {
+      "code": "KS1-2-MA-1058",
+      "description": "fractions and problems involving simple rates."
+    },
+    {
+      "code": "KS1-2-MA-1059",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-106",
+      "description": "Year 1 programme of study"
+    },
+    {
+      "code": "KS1-2-MA-1060",
+      "description": "Pupils practise and extend their use of the formal written methods of short multiplication"
+    },
+    {
+      "code": "KS1-2-MA-1061",
+      "description": "and short division (see Mathematics Appendix 1). They apply all the multiplication tables"
+    },
+    {
+      "code": "KS1-2-MA-1062",
+      "description": "and related division facts frequently, commit them to memory and use them confidently"
+    },
+    {
+      "code": "KS1-2-MA-1063",
+      "description": "to make larger calculations."
+    },
+    {
+      "code": "KS1-2-MA-1064",
+      "description": "They use and understand the terms factor, multiple and prime, square and cube"
+    },
+    {
+      "code": "KS1-2-MA-1065",
+      "description": "numbers."
+    },
+    {
+      "code": "KS1-2-MA-1066",
+      "description": "Pupils interpret non-integer answers to division by expressing results in different ways"
+    },
+    {
+      "code": "KS1-2-MA-1067",
+      "description": "according to the context, including with remainders, as fractions, as decimals or by"
+    },
+    {
+      "code": "KS1-2-MA-1068",
+      "description": "241 =98"
+    },
+    {
+      "code": "KS1-2-MA-1069",
+      "description": "rounding (for example, 98 \u00f7 4 = 24 r 2 = = 24.5 \u2248 25)."
+    },
+    {
+      "code": "KS1-2-MA-107",
+      "description": "Number \u2013 number and place value"
+    },
+    {
+      "code": "KS1-2-MA-1070",
+      "description": "4"
+    },
+    {
+      "code": "KS1-2-MA-1071",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-1072",
+      "description": "Pupils use multiplication and division as inverses to support the introduction of ratio in"
+    },
+    {
+      "code": "KS1-2-MA-1073",
+      "description": "year 6, for example, by multiplying and dividing by powers of 10 in scale drawings or by"
+    },
+    {
+      "code": "KS1-2-MA-1074",
+      "description": "multiplying and dividing by powers of a 1000 in converting between units such as"
+    },
+    {
+      "code": "KS1-2-MA-1075",
+      "description": "kilometres and metres."
+    },
+    {
+      "code": "KS1-2-MA-1076",
+      "description": "Distributivity can be expressed as a(b + c) = ab + ac."
+    },
+    {
+      "code": "KS1-2-MA-1077",
+      "description": "They understand the terms factor, multiple and prime, square and cube numbers and"
+    },
+    {
+      "code": "KS1-2-MA-1078",
+      "description": "use them to construct equivalence statements (for example, 4 x 35 = 2 x 2 x 35;"
+    },
+    {
+      "code": "KS1-2-MA-1079",
+      "description": "92"
+    },
+    {
+      "code": "KS1-2-MA-108",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1080",
+      "description": "x 10). 3 x 270 = 3 x 3 x 9 x 10 ="
+    },
+    {
+      "code": "KS1-2-MA-1081",
+      "description": "Pupils use and explain the equals sign to indicate equivalence, including in missing"
+    },
+    {
+      "code": "KS1-2-MA-1082",
+      "description": "number problems (for example, 13 + 24 = 12 + 25; 33 = 5 x )."
+    },
+    {
+      "code": "KS1-2-MA-1083",
+      "description": "33"
+    },
+    {
+      "code": "KS1-2-MA-1084",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1085",
+      "description": "Number \u2013 fractions (including decimals and percentages)"
+    },
+    {
+      "code": "KS1-2-MA-1086",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1087",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1088",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1089",
+      "description": "compare and order fractions whose denominators are all multiples of the same"
+    },
+    {
+      "code": "KS1-2-MA-109",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1090",
+      "description": "number"
+    },
+    {
+      "code": "KS1-2-MA-1091",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1092",
+      "description": "identify, name and write equivalent fractions of a given fraction, represented visually,"
+    },
+    {
+      "code": "KS1-2-MA-1093",
+      "description": "including tenths and hundredths"
+    },
+    {
+      "code": "KS1-2-MA-1094",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1095",
+      "description": "recognise mixed numbers and improper fractions and convert from one form to the"
+    },
+    {
+      "code": "KS1-2-MA-1096",
+      "description": "2 4"
+    },
+    {
+      "code": "KS1-2-MA-1097",
+      "description": "other and write mathematical statements > 1 as a mixed number [for example, +"
+    },
+    {
+      "code": "KS1-2-MA-1098",
+      "description": "5 5"
+    },
+    {
+      "code": "KS1-2-MA-1099",
+      "description": "6"
+    },
+    {
+      "code": "KS1-2-MA-110",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1100",
+      "description": "11]"
+    },
+    {
+      "code": "KS1-2-MA-1101",
+      "description": "= ="
+    },
+    {
+      "code": "KS1-2-MA-1102",
+      "description": "5 5"
+    },
+    {
+      "code": "KS1-2-MA-1103",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1104",
+      "description": "add and subtract fractions with the same denominator and denominators that are"
+    },
+    {
+      "code": "KS1-2-MA-1105",
+      "description": "multiples of the same number"
+    },
+    {
+      "code": "KS1-2-MA-1106",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1107",
+      "description": "multiply proper fractions and mixed numbers by whole numbers, supported by"
+    },
+    {
+      "code": "KS1-2-MA-1108",
+      "description": "materials and diagrams"
+    },
+    {
+      "code": "KS1-2-MA-1109",
+      "description": "71"
+    },
+    {
+      "code": "KS1-2-MA-111",
+      "description": "count to and across 100, forwards and backwards, beginning with 0 or 1, or from any"
+    },
+    {
+      "code": "KS1-2-MA-1110",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1111",
+      "description": "read and write decimal numbers as fractions [for example, 0.71 = ]"
+    },
+    {
+      "code": "KS1-2-MA-1112",
+      "description": "100"
+    },
+    {
+      "code": "KS1-2-MA-1113",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1114",
+      "description": "recognise and use thousandths and relate them to tenths, hundredths and decimal"
+    },
+    {
+      "code": "KS1-2-MA-1115",
+      "description": "equivalents"
+    },
+    {
+      "code": "KS1-2-MA-1116",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1117",
+      "description": "round decimals with two decimal places to the nearest whole number and to one"
+    },
+    {
+      "code": "KS1-2-MA-1118",
+      "description": "decimal place"
+    },
+    {
+      "code": "KS1-2-MA-1119",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-112",
+      "description": "given number"
+    },
+    {
+      "code": "KS1-2-MA-1120",
+      "description": "read, write, order and compare numbers with up to three decimal places"
+    },
+    {
+      "code": "KS1-2-MA-1121",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1122",
+      "description": "solve problems involving number up to three decimal places"
+    },
+    {
+      "code": "KS1-2-MA-1123",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1124",
+      "description": "recognise the per cent symbol (%) and understand that per cent relates to \u2018number of"
+    },
+    {
+      "code": "KS1-2-MA-1125",
+      "description": "parts per hundred\u2019, and write percentages as a fraction with denominator 100, and as"
+    },
+    {
+      "code": "KS1-2-MA-1126",
+      "description": "a decimal"
+    },
+    {
+      "code": "KS1-2-MA-1127",
+      "description": "1, 1,"
+    },
+    {
+      "code": "KS1-2-MA-1128",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1129",
+      "description": "solve problems which require knowing percentage and decimal equivalents of"
+    },
+    {
+      "code": "KS1-2-MA-113",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1130",
+      "description": "2 4"
+    },
+    {
+      "code": "KS1-2-MA-1131",
+      "description": "4 1, 2,"
+    },
+    {
+      "code": "KS1-2-MA-1132",
+      "description": "and those fractions with a denominator of a multiple of 10 or 25."
+    },
+    {
+      "code": "KS1-2-MA-1133",
+      "description": "5 5 5"
+    },
+    {
+      "code": "KS1-2-MA-1134",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1135",
+      "description": "Pupils should be taught throughout that percentages, decimals and fractions are"
+    },
+    {
+      "code": "KS1-2-MA-1136",
+      "description": "different ways of expressing proportions."
+    },
+    {
+      "code": "KS1-2-MA-1137",
+      "description": "They extend their knowledge of fractions to thousandths and connect to decimals and"
+    },
+    {
+      "code": "KS1-2-MA-1138",
+      "description": "measures."
+    },
+    {
+      "code": "KS1-2-MA-1139",
+      "description": "34"
+    },
+    {
+      "code": "KS1-2-MA-114",
+      "description": "count, read and write numbers to 100 in numerals; count in multiples of twos, fives"
+    },
+    {
+      "code": "KS1-2-MA-1140",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1141",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1142",
+      "description": "Pupils connect equivalent fractions > 1 that simplify to integers with division and other"
+    },
+    {
+      "code": "KS1-2-MA-1143",
+      "description": "fractions > 1 to division with remainders, using the number line and other models, and"
+    },
+    {
+      "code": "KS1-2-MA-1144",
+      "description": "hence move from these to improper and mixed fractions."
+    },
+    {
+      "code": "KS1-2-MA-1145",
+      "description": "Pupils connect multiplication by a fraction to using fractions as operators (fractions of),"
+    },
+    {
+      "code": "KS1-2-MA-1146",
+      "description": "and to division, building on work from previous years. This relates to scaling by simple"
+    },
+    {
+      "code": "KS1-2-MA-1147",
+      "description": "fractions, including fractions > 1."
+    },
+    {
+      "code": "KS1-2-MA-1148",
+      "description": "Pupils practise adding and subtracting fractions to become fluent through a variety of"
+    },
+    {
+      "code": "KS1-2-MA-1149",
+      "description": "increasingly complex problems. They extend their understanding of adding and"
+    },
+    {
+      "code": "KS1-2-MA-115",
+      "description": "and tens"
+    },
+    {
+      "code": "KS1-2-MA-1150",
+      "description": "subtracting fractions to calculations that exceed 1 as a mixed number."
+    },
+    {
+      "code": "KS1-2-MA-1151",
+      "description": "Pupils continue to practise counting forwards and backwards in simple fractions."
+    },
+    {
+      "code": "KS1-2-MA-1152",
+      "description": "Pupils continue to develop their understanding of fractions as numbers, measures and"
+    },
+    {
+      "code": "KS1-2-MA-1153",
+      "description": "operators by finding fractions of numbers and quantities."
+    },
+    {
+      "code": "KS1-2-MA-1154",
+      "description": "Pupils extend counting from year 4, using decimals and fractions including bridging zero,"
+    },
+    {
+      "code": "KS1-2-MA-1155",
+      "description": "for example on a number line."
+    },
+    {
+      "code": "KS1-2-MA-1156",
+      "description": "Pupils say, read and write decimal fractions and related tenths, hundredths and"
+    },
+    {
+      "code": "KS1-2-MA-1157",
+      "description": "thousandths accurately and are confident in checking the reasonableness of their"
+    },
+    {
+      "code": "KS1-2-MA-1158",
+      "description": "answers to problems."
+    },
+    {
+      "code": "KS1-2-MA-1159",
+      "description": "They mentally add and subtract tenths, and one-digit whole numbers and tenths."
+    },
+    {
+      "code": "KS1-2-MA-116",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1160",
+      "description": "They practise adding and subtracting decimals, including a mix of whole numbers and"
+    },
+    {
+      "code": "KS1-2-MA-1161",
+      "description": "decimals, decimals with different numbers of decimal places, and complements of 1 (for"
+    },
+    {
+      "code": "KS1-2-MA-1162",
+      "description": "example, 0.83 + 0.17 = 1)."
+    },
+    {
+      "code": "KS1-2-MA-1163",
+      "description": "Pupils should go beyond the measurement and money models of decimals, for example,"
+    },
+    {
+      "code": "KS1-2-MA-1164",
+      "description": "by solving puzzles involving decimals."
+    },
+    {
+      "code": "KS1-2-MA-1165",
+      "description": "Pupils should make connections between percentages, fractions and decimals (for"
+    },
+    {
+      "code": "KS1-2-MA-1166",
+      "description": "50 25"
+    },
+    {
+      "code": "KS1-2-MA-1167",
+      "description": "1"
+    },
+    {
+      "code": "KS1-2-MA-1168",
+      "description": "example, 100% represents a whole quantity and 1% is , 50% is , 25% is ) and"
+    },
+    {
+      "code": "KS1-2-MA-1169",
+      "description": "100 100 100"
+    },
+    {
+      "code": "KS1-2-MA-117",
+      "description": "given a number, identify one more and one less"
+    },
+    {
+      "code": "KS1-2-MA-1170",
+      "description": "relate this to finding \u2018fractions of\u2019."
+    },
+    {
+      "code": "KS1-2-MA-1171",
+      "description": "35"
+    },
+    {
+      "code": "KS1-2-MA-1172",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1173",
+      "description": "Measurement"
+    },
+    {
+      "code": "KS1-2-MA-1174",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1175",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1176",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1177",
+      "description": "convert between different units of metric measure (for example, kilometre and metre;"
+    },
+    {
+      "code": "KS1-2-MA-1178",
+      "description": "centimetre and metre; centimetre and millimetre; gram and kilogram; litre and"
+    },
+    {
+      "code": "KS1-2-MA-1179",
+      "description": "millilitre)"
+    },
+    {
+      "code": "KS1-2-MA-118",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1180",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1181",
+      "description": "understand and use approximate equivalences between metric units and common"
+    },
+    {
+      "code": "KS1-2-MA-1182",
+      "description": "imperial units such as inches, pounds and pints"
+    },
+    {
+      "code": "KS1-2-MA-1183",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1184",
+      "description": "measure and calculate the perimeter of composite rectilinear shapes in centimetres"
+    },
+    {
+      "code": "KS1-2-MA-1185",
+      "description": "and metres"
+    },
+    {
+      "code": "KS1-2-MA-1186",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1187",
+      "description": "calculate and compare the area of rectangles (including squares), and including"
+    },
+    {
+      "code": "KS1-2-MA-1188",
+      "description": "(cm2) (m2)"
+    },
+    {
+      "code": "KS1-2-MA-1189",
+      "description": "using standard units, square centimetres and square metres and estimate"
+    },
+    {
+      "code": "KS1-2-MA-119",
+      "description": "identify and represent numbers using objects and pictorial representations including"
+    },
+    {
+      "code": "KS1-2-MA-1190",
+      "description": "the area of irregular shapes"
+    },
+    {
+      "code": "KS1-2-MA-1191",
+      "description": "cm3"
+    },
+    {
+      "code": "KS1-2-MA-1192",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1193",
+      "description": "estimate volume [for example, using 1 blocks to build cuboids (including cubes)]"
+    },
+    {
+      "code": "KS1-2-MA-1194",
+      "description": "and capacity [for example, using water]"
+    },
+    {
+      "code": "KS1-2-MA-1195",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1196",
+      "description": "solve problems involving converting between units of time"
+    },
+    {
+      "code": "KS1-2-MA-1197",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1198",
+      "description": "use all four operations to solve problems involving measure [for example, length,"
+    },
+    {
+      "code": "KS1-2-MA-1199",
+      "description": "mass, volume, money] using decimal notation, including scaling."
+    },
+    {
+      "code": "KS1-2-MA-120",
+      "description": "the number line, and use the language of: equal to, more than, less than (fewer),"
+    },
+    {
+      "code": "KS1-2-MA-1200",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1201",
+      "description": "Pupils use their knowledge of place value and multiplication and division to convert"
+    },
+    {
+      "code": "KS1-2-MA-1202",
+      "description": "between standard units."
+    },
+    {
+      "code": "KS1-2-MA-1203",
+      "description": "Pupils calculate the perimeter of rectangles and related composite shapes, including"
+    },
+    {
+      "code": "KS1-2-MA-1204",
+      "description": "using the relations of perimeter or area to find unknown lengths. Missing measures"
+    },
+    {
+      "code": "KS1-2-MA-1205",
+      "description": "questions such as these can be expressed algebraically, for example 4 + 2b = 20 for a"
+    },
+    {
+      "code": "KS1-2-MA-1206",
+      "description": "rectangle of sides 2 cm and b cm and perimeter of 20cm."
+    },
+    {
+      "code": "KS1-2-MA-1207",
+      "description": "Pupils calculate the area from scale drawings using given measurements."
+    },
+    {
+      "code": "KS1-2-MA-1208",
+      "description": "Pupils use all four operations in problems involving time and money, including"
+    },
+    {
+      "code": "KS1-2-MA-1209",
+      "description": "conversions (for example, days to weeks, expressing the answer as weeks and days)."
+    },
+    {
+      "code": "KS1-2-MA-121",
+      "description": "most, least"
+    },
+    {
+      "code": "KS1-2-MA-1210",
+      "description": "36"
+    },
+    {
+      "code": "KS1-2-MA-1211",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1212",
+      "description": "Geometry \u2013 properties of shapes"
+    },
+    {
+      "code": "KS1-2-MA-1213",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1214",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1215",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1216",
+      "description": "identify 3-D shapes, including cubes and other cuboids, from 2-D representations"
+    },
+    {
+      "code": "KS1-2-MA-1217",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1218",
+      "description": "know angles are measured in degrees: estimate and compare acute, obtuse and"
+    },
+    {
+      "code": "KS1-2-MA-1219",
+      "description": "reflex angles"
+    },
+    {
+      "code": "KS1-2-MA-122",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1220",
+      "description": "(o)"
+    },
+    {
+      "code": "KS1-2-MA-1221",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1222",
+      "description": "draw given angles, and measure them in degrees"
+    },
+    {
+      "code": "KS1-2-MA-1223",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1224",
+      "description": "identify:"
+    },
+    {
+      "code": "KS1-2-MA-1225",
+      "description": "360o)"
+    },
+    {
+      "code": "KS1-2-MA-1226",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1227",
+      "description": "angles at a point and one whole turn (total"
+    },
+    {
+      "code": "KS1-2-MA-1228",
+      "description": "180o)"
+    },
+    {
+      "code": "KS1-2-MA-1229",
+      "description": "1"
+    },
+    {
+      "code": "KS1-2-MA-123",
+      "description": "read and write numbers from 1 to 20 in numerals and words."
+    },
+    {
+      "code": "KS1-2-MA-1230",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1231",
+      "description": "angles at a point on a straight line and a turn (total"
+    },
+    {
+      "code": "KS1-2-MA-1232",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-1233",
+      "description": "90o"
+    },
+    {
+      "code": "KS1-2-MA-1234",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1235",
+      "description": "other multiples of"
+    },
+    {
+      "code": "KS1-2-MA-1236",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1237",
+      "description": "use the properties of rectangles to deduce related facts and find missing lengths and"
+    },
+    {
+      "code": "KS1-2-MA-1238",
+      "description": "angles"
+    },
+    {
+      "code": "KS1-2-MA-1239",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-124",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1240",
+      "description": "distinguish between regular and irregular polygons based on reasoning about equal"
+    },
+    {
+      "code": "KS1-2-MA-1241",
+      "description": "sides and angles."
+    },
+    {
+      "code": "KS1-2-MA-1242",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1243",
+      "description": "Pupils become accurate in drawing lines with a ruler to the nearest millimetre, and"
+    },
+    {
+      "code": "KS1-2-MA-1244",
+      "description": "measuring with a protractor. They use conventional markings for parallel lines and right"
+    },
+    {
+      "code": "KS1-2-MA-1245",
+      "description": "angles."
+    },
+    {
+      "code": "KS1-2-MA-1246",
+      "description": "Pupils use the term diagonal and make conjectures about the angles formed between"
+    },
+    {
+      "code": "KS1-2-MA-1247",
+      "description": "sides, and between diagonals and parallel sides, and other properties of quadrilaterals,"
+    },
+    {
+      "code": "KS1-2-MA-1248",
+      "description": "for example using dynamic geometry ICT tools."
+    },
+    {
+      "code": "KS1-2-MA-1249",
+      "description": "Pupils use angle sum facts and other properties to make deductions about missing"
+    },
+    {
+      "code": "KS1-2-MA-125",
+      "description": "Pupils practise counting (1, 2, 3\u2026), ordering (for example, first, second, third\u2026), and to"
+    },
+    {
+      "code": "KS1-2-MA-1250",
+      "description": "angles and relate these to missing number problems."
+    },
+    {
+      "code": "KS1-2-MA-1251",
+      "description": "Geometry \u2013 position and direction"
+    },
+    {
+      "code": "KS1-2-MA-1252",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1253",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1254",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1255",
+      "description": "identify, describe and represent the position of a shape following a reflection or"
+    },
+    {
+      "code": "KS1-2-MA-1256",
+      "description": "translation, using the appropriate language, and know that the shape has not changed."
+    },
+    {
+      "code": "KS1-2-MA-1257",
+      "description": "37"
+    },
+    {
+      "code": "KS1-2-MA-1258",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1259",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-126",
+      "description": "indicate a quantity (for example, 3 apples, 2 centimetres), including solving simple"
+    },
+    {
+      "code": "KS1-2-MA-1260",
+      "description": "Pupils recognise and use reflection and translation in a variety of diagrams, including"
+    },
+    {
+      "code": "KS1-2-MA-1261",
+      "description": "continuing to use a 2-D grid and coordinates in the first quadrant. Reflection should be in"
+    },
+    {
+      "code": "KS1-2-MA-1262",
+      "description": "lines that are parallel to the axes."
+    },
+    {
+      "code": "KS1-2-MA-1263",
+      "description": "Statistics"
+    },
+    {
+      "code": "KS1-2-MA-1264",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1265",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1266",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1267",
+      "description": "solve comparison, sum and difference problems using information presented in a line"
+    },
+    {
+      "code": "KS1-2-MA-1268",
+      "description": "graph"
+    },
+    {
+      "code": "KS1-2-MA-1269",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-127",
+      "description": "concrete problems, until they are fluent."
+    },
+    {
+      "code": "KS1-2-MA-1270",
+      "description": "complete, read and interpret information in tables, including timetables."
+    },
+    {
+      "code": "KS1-2-MA-1271",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1272",
+      "description": "Pupils connect their work on coordinates and scales to their interpretation of time graphs."
+    },
+    {
+      "code": "KS1-2-MA-1273",
+      "description": "They begin to decide which representations of data are most appropriate and why."
+    },
+    {
+      "code": "KS1-2-MA-1274",
+      "description": "38"
+    },
+    {
+      "code": "KS1-2-MA-1275",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1276",
+      "description": "Year 6 programme of study"
+    },
+    {
+      "code": "KS1-2-MA-1277",
+      "description": "Number \u2013 number and place value"
+    },
+    {
+      "code": "KS1-2-MA-1278",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1279",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-128",
+      "description": "Pupils begin to recognise place value in numbers beyond 20 by reading, writing,"
+    },
+    {
+      "code": "KS1-2-MA-1280",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1281",
+      "description": "read, write, order and compare numbers up to 10 000 000 and determine the value"
+    },
+    {
+      "code": "KS1-2-MA-1282",
+      "description": "of each digit"
+    },
+    {
+      "code": "KS1-2-MA-1283",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1284",
+      "description": "round any whole number to a required degree of accuracy"
+    },
+    {
+      "code": "KS1-2-MA-1285",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1286",
+      "description": "use negative numbers in context, and calculate intervals across zero"
+    },
+    {
+      "code": "KS1-2-MA-1287",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1288",
+      "description": "solve number and practical problems that involve all of the above."
+    },
+    {
+      "code": "KS1-2-MA-1289",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-129",
+      "description": "counting and comparing numbers up to 100, supported by objects and pictorial"
+    },
+    {
+      "code": "KS1-2-MA-1290",
+      "description": "Pupils use the whole number system, including saying, reading and writing numbers"
+    },
+    {
+      "code": "KS1-2-MA-1291",
+      "description": "accurately."
+    },
+    {
+      "code": "KS1-2-MA-1292",
+      "description": "Number \u2013 addition, subtraction, multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-1293",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1294",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1295",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1296",
+      "description": "multiply multi-digit numbers up to 4 digits by a two-digit whole number using the"
+    },
+    {
+      "code": "KS1-2-MA-1297",
+      "description": "formal written method of long multiplication"
+    },
+    {
+      "code": "KS1-2-MA-1298",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1299",
+      "description": "divide numbers up to 4 digits by a two-digit whole number using the formal written"
+    },
+    {
+      "code": "KS1-2-MA-130",
+      "description": "representations."
+    },
+    {
+      "code": "KS1-2-MA-1300",
+      "description": "method of long division, and interpret remainders as whole number remainders,"
+    },
+    {
+      "code": "KS1-2-MA-1301",
+      "description": "fractions, or by rounding, as appropriate for the context"
+    },
+    {
+      "code": "KS1-2-MA-1302",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1303",
+      "description": "divide numbers up to 4 digits by a two-digit number using the formal written method"
+    },
+    {
+      "code": "KS1-2-MA-1304",
+      "description": "of short division where appropriate, interpreting remainders according to the context"
+    },
+    {
+      "code": "KS1-2-MA-1305",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1306",
+      "description": "perform mental calculations, including with mixed operations and large numbers"
+    },
+    {
+      "code": "KS1-2-MA-1307",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1308",
+      "description": "identify common factors, common multiples and prime numbers"
+    },
+    {
+      "code": "KS1-2-MA-1309",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-131",
+      "description": "They practise counting as reciting numbers and counting as enumerating objects, and"
+    },
+    {
+      "code": "KS1-2-MA-1310",
+      "description": "use their knowledge of the order of operations to carry out calculations involving the"
+    },
+    {
+      "code": "KS1-2-MA-1311",
+      "description": "four operations"
+    },
+    {
+      "code": "KS1-2-MA-1312",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1313",
+      "description": "solve addition and subtraction multi-step problems in contexts, deciding which"
+    },
+    {
+      "code": "KS1-2-MA-1314",
+      "description": "operations and methods to use and why"
+    },
+    {
+      "code": "KS1-2-MA-1315",
+      "description": "39"
+    },
+    {
+      "code": "KS1-2-MA-1316",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1317",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1318",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1319",
+      "description": "solve problems involving addition, subtraction, multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-132",
+      "description": "counting in twos, fives and tens from different multiples to develop their recognition of"
+    },
+    {
+      "code": "KS1-2-MA-1320",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1321",
+      "description": "use estimation to check answers to calculations and determine, in the context of a"
+    },
+    {
+      "code": "KS1-2-MA-1322",
+      "description": "problem, an appropriate degree of accuracy."
+    },
+    {
+      "code": "KS1-2-MA-1323",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1324",
+      "description": "Pupils practise addition, subtraction, multiplication and division for larger numbers,"
+    },
+    {
+      "code": "KS1-2-MA-1325",
+      "description": "using the formal written methods of columnar addition and subtraction, short and long"
+    },
+    {
+      "code": "KS1-2-MA-1326",
+      "description": "multiplication, and short and long division (see Mathematics Appendix 1)."
+    },
+    {
+      "code": "KS1-2-MA-1327",
+      "description": "They undertake mental calculations with increasingly large numbers and more complex"
+    },
+    {
+      "code": "KS1-2-MA-1328",
+      "description": "calculations."
+    },
+    {
+      "code": "KS1-2-MA-1329",
+      "description": "Pupils continue to use all the multiplication tables to calculate mathematical statements"
+    },
+    {
+      "code": "KS1-2-MA-133",
+      "description": "patterns in the number system (for example, odd and even numbers), including varied"
+    },
+    {
+      "code": "KS1-2-MA-1330",
+      "description": "in order to maintain their fluency."
+    },
+    {
+      "code": "KS1-2-MA-1331",
+      "description": "Pupils round answers to a specified degree of accuracy, for example, to the nearest 10,"
+    },
+    {
+      "code": "KS1-2-MA-1332",
+      "description": "20, 50 etc., but not to a specified number of significant figures."
+    },
+    {
+      "code": "KS1-2-MA-1333",
+      "description": "Pupils explore the order of operations using brackets; for example, 2 + 1 x 3 = 5 and"
+    },
+    {
+      "code": "KS1-2-MA-1334",
+      "description": "(2 + 1) x 3 = 9."
+    },
+    {
+      "code": "KS1-2-MA-1335",
+      "description": "Common factors can be related to finding equivalent fractions."
+    },
+    {
+      "code": "KS1-2-MA-1336",
+      "description": "Number \u2013 fractions (including decimals and percentages)"
+    },
+    {
+      "code": "KS1-2-MA-1337",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1338",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1339",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-134",
+      "description": "and frequent practice through increasingly complex questions."
+    },
+    {
+      "code": "KS1-2-MA-1340",
+      "description": "use common factors to simplify fractions; use common multiples to express fractions"
+    },
+    {
+      "code": "KS1-2-MA-1341",
+      "description": "in the same denomination"
+    },
+    {
+      "code": "KS1-2-MA-1342",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1343",
+      "description": "compare and order fractions, including fractions > 1"
+    },
+    {
+      "code": "KS1-2-MA-1344",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1345",
+      "description": "add and subtract fractions with different denominators and mixed numbers, using the"
+    },
+    {
+      "code": "KS1-2-MA-1346",
+      "description": "concept of equivalent fractions"
+    },
+    {
+      "code": "KS1-2-MA-1347",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1348",
+      "description": "multiply simple pairs of proper fractions, writing the answer in its simplest form"
+    },
+    {
+      "code": "KS1-2-MA-1349",
+      "description": "1 1 1]"
+    },
+    {
+      "code": "KS1-2-MA-135",
+      "description": "They recognise and create repeating patterns with objects and with shapes."
+    },
+    {
+      "code": "KS1-2-MA-1350",
+      "description": "[for example, \u00d7 ="
+    },
+    {
+      "code": "KS1-2-MA-1351",
+      "description": "4 2 8"
+    },
+    {
+      "code": "KS1-2-MA-1352",
+      "description": "1 1]"
+    },
+    {
+      "code": "KS1-2-MA-1353",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1354",
+      "description": "divide proper fractions by whole numbers [for example, \u00f7 2 ="
+    },
+    {
+      "code": "KS1-2-MA-1355",
+      "description": "3 6"
+    },
+    {
+      "code": "KS1-2-MA-1356",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1357",
+      "description": "associate a fraction with division and calculate decimal fraction equivalents [for"
+    },
+    {
+      "code": "KS1-2-MA-1358",
+      "description": "3]"
+    },
+    {
+      "code": "KS1-2-MA-1359",
+      "description": "example, 0.375] for a simple fraction [for example,"
+    },
+    {
+      "code": "KS1-2-MA-136",
+      "description": "6"
+    },
+    {
+      "code": "KS1-2-MA-1360",
+      "description": "8"
+    },
+    {
+      "code": "KS1-2-MA-1361",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1362",
+      "description": "identify the value of each digit in numbers given to three decimal places and multiply"
+    },
+    {
+      "code": "KS1-2-MA-1363",
+      "description": "and divide numbers by 10, 100 and 1000 giving answers up to three decimal places"
+    },
+    {
+      "code": "KS1-2-MA-1364",
+      "description": "40"
+    },
+    {
+      "code": "KS1-2-MA-1365",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1366",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1367",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1368",
+      "description": "multiply one-digit numbers with up to two decimal places by whole numbers"
+    },
+    {
+      "code": "KS1-2-MA-1369",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-137",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1370",
+      "description": "use written division methods in cases where the answer has up to two decimal"
+    },
+    {
+      "code": "KS1-2-MA-1371",
+      "description": "places"
+    },
+    {
+      "code": "KS1-2-MA-1372",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1373",
+      "description": "solve problems which require answers to be rounded to specified degrees of"
+    },
+    {
+      "code": "KS1-2-MA-1374",
+      "description": "accuracy"
+    },
+    {
+      "code": "KS1-2-MA-1375",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1376",
+      "description": "recall and use equivalences between simple fractions, decimals and percentages,"
+    },
+    {
+      "code": "KS1-2-MA-1377",
+      "description": "including in different contexts."
+    },
+    {
+      "code": "KS1-2-MA-1378",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1379",
+      "description": "Pupils should practise, use and understand the addition and subtraction of fractions with"
+    },
+    {
+      "code": "KS1-2-MA-138",
+      "description": "Number \u2013 addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-1380",
+      "description": "different denominators by identifying equivalent fractions with the same denominator. They"
+    },
+    {
+      "code": "KS1-2-MA-1381",
+      "description": "should start with fractions where the denominator of one fraction is a multiple of the other"
+    },
+    {
+      "code": "KS1-2-MA-1382",
+      "description": "5)"
+    },
+    {
+      "code": "KS1-2-MA-1383",
+      "description": "1 1"
+    },
+    {
+      "code": "KS1-2-MA-1384",
+      "description": "(for example, + = and progress to varied and increasingly complex problems."
+    },
+    {
+      "code": "KS1-2-MA-1385",
+      "description": "8 8 2"
+    },
+    {
+      "code": "KS1-2-MA-1386",
+      "description": "Pupils should use a variety of images to support their understanding of multiplication"
+    },
+    {
+      "code": "KS1-2-MA-1387",
+      "description": "with fractions. This follows earlier work about fractions as operators (fractions of), as"
+    },
+    {
+      "code": "KS1-2-MA-1388",
+      "description": "numbers, and as equal parts of objects, for example as parts of a rectangle."
+    },
+    {
+      "code": "KS1-2-MA-1389",
+      "description": "Pupils use their understanding of the relationship between unit fractions and division to"
+    },
+    {
+      "code": "KS1-2-MA-139",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1390",
+      "description": "work backwards by multiplying a quantity that represents a unit fraction to find the whole"
+    },
+    {
+      "code": "KS1-2-MA-1391",
+      "description": "1"
+    },
+    {
+      "code": "KS1-2-MA-1392",
+      "description": "quantity (for example, if of a length is 36cm, then the whole length is 36 \u00d7 4 = 144cm)."
+    },
+    {
+      "code": "KS1-2-MA-1393",
+      "description": "4"
+    },
+    {
+      "code": "KS1-2-MA-1394",
+      "description": "They practise calculations with simple fractions and decimal fraction equivalents to aid"
+    },
+    {
+      "code": "KS1-2-MA-1395",
+      "description": "fluency, including listing equivalent fractions to identify fractions with common"
+    },
+    {
+      "code": "KS1-2-MA-1396",
+      "description": "denominators."
+    },
+    {
+      "code": "KS1-2-MA-1397",
+      "description": "Pupils can explore and make conjectures about converting a simple fraction to a decimal"
+    },
+    {
+      "code": "KS1-2-MA-1398",
+      "description": "fraction (for example, 3 \u00f7 8 = 0.375). For simple fractions with recurring decimal"
+    },
+    {
+      "code": "KS1-2-MA-1399",
+      "description": "equivalents, pupils learn about rounding the decimal to three decimal places, or other"
+    },
+    {
+      "code": "KS1-2-MA-140",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1400",
+      "description": "appropriate approximations depending on the context. Pupils multiply and divide"
+    },
+    {
+      "code": "KS1-2-MA-1401",
+      "description": "numbers with up to two decimal places by one-digit and two-digit whole numbers. Pupils"
+    },
+    {
+      "code": "KS1-2-MA-1402",
+      "description": "multiply decimals by whole numbers, starting with the simplest cases, such as 0.4 \u00d7 2 ="
+    },
+    {
+      "code": "KS1-2-MA-1403",
+      "description": "0.8, and in practical contexts, such as measures and money."
+    },
+    {
+      "code": "KS1-2-MA-1404",
+      "description": "Pupils are introduced to the division of decimal numbers by one-digit whole number,"
+    },
+    {
+      "code": "KS1-2-MA-1405",
+      "description": "initially, in practical contexts involving measures and money. They recognise division"
+    },
+    {
+      "code": "KS1-2-MA-1406",
+      "description": "calculations as the inverse of multiplication."
+    },
+    {
+      "code": "KS1-2-MA-1407",
+      "description": "Pupils also develop their skills of rounding and estimating as a means of predicting and"
+    },
+    {
+      "code": "KS1-2-MA-1408",
+      "description": "checking the order of magnitude of their answers to decimal calculations. This includes"
+    },
+    {
+      "code": "KS1-2-MA-1409",
+      "description": "rounding answers to a specified degree of accuracy and checking the reasonableness of"
+    },
+    {
+      "code": "KS1-2-MA-141",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1410",
+      "description": "their answers."
+    },
+    {
+      "code": "KS1-2-MA-1411",
+      "description": "41"
+    },
+    {
+      "code": "KS1-2-MA-1412",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1413",
+      "description": "Ratio and proportion"
+    },
+    {
+      "code": "KS1-2-MA-1414",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1415",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1416",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1417",
+      "description": "solve problems involving the relative sizes of two quantities where missing values"
+    },
+    {
+      "code": "KS1-2-MA-1418",
+      "description": "can be found by using integer multiplication and division facts"
+    },
+    {
+      "code": "KS1-2-MA-1419",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-142",
+      "description": "read, write and interpret mathematical statements involving addition (+), subtraction"
+    },
+    {
+      "code": "KS1-2-MA-1420",
+      "description": "solve problems involving the calculation of percentages [for example, of measures,"
+    },
+    {
+      "code": "KS1-2-MA-1421",
+      "description": "and such as 15% of 360] and the use of percentages for comparison"
+    },
+    {
+      "code": "KS1-2-MA-1422",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1423",
+      "description": "solve problems involving similar shapes where the scale factor is known or can be"
+    },
+    {
+      "code": "KS1-2-MA-1424",
+      "description": "found"
+    },
+    {
+      "code": "KS1-2-MA-1425",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1426",
+      "description": "solve problems involving unequal sharing and grouping using knowledge of fractions"
+    },
+    {
+      "code": "KS1-2-MA-1427",
+      "description": "and multiples."
+    },
+    {
+      "code": "KS1-2-MA-1428",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1429",
+      "description": "Pupils recognise proportionality in contexts when the relations between quantities are in"
+    },
+    {
+      "code": "KS1-2-MA-143",
+      "description": "(\u2013) and equals (=) signs"
+    },
+    {
+      "code": "KS1-2-MA-1430",
+      "description": "the same ratio (for example, similar shapes and recipes)."
+    },
+    {
+      "code": "KS1-2-MA-1431",
+      "description": "Pupils link percentages or 360\u00b0 to calculating angles of pie charts."
+    },
+    {
+      "code": "KS1-2-MA-1432",
+      "description": "Pupils should consolidate their understanding of ratio when comparing quantities, sizes"
+    },
+    {
+      "code": "KS1-2-MA-1433",
+      "description": "and scale drawings by solving a variety of problems. They might use the notation a:b to"
+    },
+    {
+      "code": "KS1-2-MA-1434",
+      "description": "record their work."
+    },
+    {
+      "code": "KS1-2-MA-1435",
+      "description": "Pupils solve problems involving unequal quantities, for example, \u2018for every egg you need"
+    },
+    {
+      "code": "KS1-2-MA-1436",
+      "description": "\u20183"
+    },
+    {
+      "code": "KS1-2-MA-1437",
+      "description": "three spoonfuls of flour\u2019, of the class are boys\u2019. These problems are the foundation for"
+    },
+    {
+      "code": "KS1-2-MA-1438",
+      "description": "5"
+    },
+    {
+      "code": "KS1-2-MA-1439",
+      "description": "later formal approaches to ratio and proportion."
+    },
+    {
+      "code": "KS1-2-MA-144",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1440",
+      "description": "Algebra"
+    },
+    {
+      "code": "KS1-2-MA-1441",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1442",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1443",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1444",
+      "description": "use simple formulae"
+    },
+    {
+      "code": "KS1-2-MA-1445",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1446",
+      "description": "generate and describe linear number sequences"
+    },
+    {
+      "code": "KS1-2-MA-1447",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1448",
+      "description": "express missing number problems algebraically"
+    },
+    {
+      "code": "KS1-2-MA-1449",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-145",
+      "description": "represent and use number bonds and related subtraction facts within 20"
+    },
+    {
+      "code": "KS1-2-MA-1450",
+      "description": "find pairs of numbers that satisfy an equation with two unknowns"
+    },
+    {
+      "code": "KS1-2-MA-1451",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1452",
+      "description": "enumerate possibilities of combinations of two variables."
+    },
+    {
+      "code": "KS1-2-MA-1453",
+      "description": "42"
+    },
+    {
+      "code": "KS1-2-MA-1454",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1455",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1456",
+      "description": "Pupils should be introduced to the use of symbols and letters to represent variables and"
+    },
+    {
+      "code": "KS1-2-MA-1457",
+      "description": "unknowns in mathematical situations that they already understand, such as:"
+    },
+    {
+      "code": "KS1-2-MA-1458",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1459",
+      "description": "missing numbers, lengths, coordinates and angles"
+    },
+    {
+      "code": "KS1-2-MA-146",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1460",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1461",
+      "description": "formulae in mathematics and science"
+    },
+    {
+      "code": "KS1-2-MA-1462",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1463",
+      "description": "equivalent expressions (for example, a + b = b + a)"
+    },
+    {
+      "code": "KS1-2-MA-1464",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1465",
+      "description": "generalisations of number patterns"
+    },
+    {
+      "code": "KS1-2-MA-1466",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1467",
+      "description": "number puzzles (for example, what two numbers can add up to)."
+    },
+    {
+      "code": "KS1-2-MA-1468",
+      "description": "Measurement"
+    },
+    {
+      "code": "KS1-2-MA-1469",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-147",
+      "description": "add and subtract one-digit and two-digit numbers to 20, including zero"
+    },
+    {
+      "code": "KS1-2-MA-1470",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1471",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1472",
+      "description": "solve problems involving the calculation and conversion of units of measure, using"
+    },
+    {
+      "code": "KS1-2-MA-1473",
+      "description": "decimal notation up to three decimal places where appropriate"
+    },
+    {
+      "code": "KS1-2-MA-1474",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1475",
+      "description": "use, read, write and convert between standard units, converting measurements of"
+    },
+    {
+      "code": "KS1-2-MA-1476",
+      "description": "length, mass, volume and time from a smaller unit of measure to a larger unit, and"
+    },
+    {
+      "code": "KS1-2-MA-1477",
+      "description": "vice versa, using decimal notation to up to three decimal places"
+    },
+    {
+      "code": "KS1-2-MA-1478",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1479",
+      "description": "convert between miles and kilometres"
+    },
+    {
+      "code": "KS1-2-MA-148",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1480",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1481",
+      "description": "recognise that shapes with the same areas can have different perimeters and vice"
+    },
+    {
+      "code": "KS1-2-MA-1482",
+      "description": "versa"
+    },
+    {
+      "code": "KS1-2-MA-1483",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1484",
+      "description": "recognise when it is possible to use formulae for area and volume of shapes"
+    },
+    {
+      "code": "KS1-2-MA-1485",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1486",
+      "description": "calculate the area of parallelograms and triangles"
+    },
+    {
+      "code": "KS1-2-MA-1487",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1488",
+      "description": "calculate, estimate and compare volume of cubes and cuboids using standard units,"
+    },
+    {
+      "code": "KS1-2-MA-1489",
+      "description": "(cm3) (m3),"
+    },
+    {
+      "code": "KS1-2-MA-149",
+      "description": "solve one-step problems that involve addition and subtraction, using concrete objects"
+    },
+    {
+      "code": "KS1-2-MA-1490",
+      "description": "including cubic centimetres and cubic metres and extending to other units"
+    },
+    {
+      "code": "KS1-2-MA-1491",
+      "description": "mm3 km3]."
+    },
+    {
+      "code": "KS1-2-MA-1492",
+      "description": "[for example, and"
+    },
+    {
+      "code": "KS1-2-MA-1493",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1494",
+      "description": "Pupils connect conversion (for example, from kilometres to miles) to a graphical"
+    },
+    {
+      "code": "KS1-2-MA-1495",
+      "description": "representation as preparation for understanding linear/proportional graphs."
+    },
+    {
+      "code": "KS1-2-MA-1496",
+      "description": "They know approximate conversions and are able to tell if an answer is sensible."
+    },
+    {
+      "code": "KS1-2-MA-1497",
+      "description": "Using the number line, pupils use, add and subtract positive and negative integers for"
+    },
+    {
+      "code": "KS1-2-MA-1498",
+      "description": "measures such as temperature."
+    },
+    {
+      "code": "KS1-2-MA-1499",
+      "description": "43"
+    },
+    {
+      "code": "KS1-2-MA-150",
+      "description": "and pictorial representations, and missing number problems such as 7 = \u2013 9."
+    },
+    {
+      "code": "KS1-2-MA-1500",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1501",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1502",
+      "description": "They relate the area of rectangles to parallelograms and triangles, for example, by"
+    },
+    {
+      "code": "KS1-2-MA-1503",
+      "description": "dissection, and calculate their areas, understanding and using the formulae (in words or"
+    },
+    {
+      "code": "KS1-2-MA-1504",
+      "description": "symbols) to do this."
+    },
+    {
+      "code": "KS1-2-MA-1505",
+      "description": "Pupils could be introduced to compound units for speed, such as miles per hour, and"
+    },
+    {
+      "code": "KS1-2-MA-1506",
+      "description": "apply their knowledge in science or other subjects as appropriate."
+    },
+    {
+      "code": "KS1-2-MA-1507",
+      "description": "Geometry \u2013 properties of shapes"
+    },
+    {
+      "code": "KS1-2-MA-1508",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1509",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-151",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1510",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1511",
+      "description": "draw 2-D shapes using given dimensions and angles"
+    },
+    {
+      "code": "KS1-2-MA-1512",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1513",
+      "description": "recognise, describe and build simple 3-D shapes, including making nets"
+    },
+    {
+      "code": "KS1-2-MA-1514",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1515",
+      "description": "compare and classify geometric shapes based on their properties and sizes and find"
+    },
+    {
+      "code": "KS1-2-MA-1516",
+      "description": "unknown angles in any triangles, quadrilaterals, and regular polygons"
+    },
+    {
+      "code": "KS1-2-MA-1517",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1518",
+      "description": "illustrate and name parts of circles, including radius, diameter and circumference and"
+    },
+    {
+      "code": "KS1-2-MA-1519",
+      "description": "know that the diameter is twice the radius"
+    },
+    {
+      "code": "KS1-2-MA-152",
+      "description": "Pupils memorise and reason with number bonds to 10 and 20 in several forms (for"
+    },
+    {
+      "code": "KS1-2-MA-1520",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1521",
+      "description": "recognise angles where they meet at a point, are on a straight line, or are vertically"
+    },
+    {
+      "code": "KS1-2-MA-1522",
+      "description": "opposite, and find missing angles."
+    },
+    {
+      "code": "KS1-2-MA-1523",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1524",
+      "description": "Pupils draw shapes and nets accurately, using measuring tools and conventional"
+    },
+    {
+      "code": "KS1-2-MA-1525",
+      "description": "markings and labels for lines and angles."
+    },
+    {
+      "code": "KS1-2-MA-1526",
+      "description": "Pupils describe the properties of shapes and explain how unknown angles and lengths"
+    },
+    {
+      "code": "KS1-2-MA-1527",
+      "description": "can be derived from known measurements."
+    },
+    {
+      "code": "KS1-2-MA-1528",
+      "description": "These relationships might be expressed algebraically for example, d = 2 \u00d7 r;"
+    },
+    {
+      "code": "KS1-2-MA-1529",
+      "description": "a = 180 \u2013 (b + c)."
+    },
+    {
+      "code": "KS1-2-MA-153",
+      "description": "example, 9 + 7 = 16; 16 \u2013 7 = 9; 7 = 16 \u2013 9). They should realise the effect of adding or"
+    },
+    {
+      "code": "KS1-2-MA-1530",
+      "description": "44"
+    },
+    {
+      "code": "KS1-2-MA-1531",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1532",
+      "description": "Geometry \u2013 position and direction"
+    },
+    {
+      "code": "KS1-2-MA-1533",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1534",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1535",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1536",
+      "description": "describe positions on the full coordinate grid (all four quadrants)"
+    },
+    {
+      "code": "KS1-2-MA-1537",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1538",
+      "description": "draw and translate simple shapes on the coordinate plane, and reflect them in the"
+    },
+    {
+      "code": "KS1-2-MA-1539",
+      "description": "axes."
+    },
+    {
+      "code": "KS1-2-MA-154",
+      "description": "subtracting zero. This establishes addition and subtraction as related operations."
+    },
+    {
+      "code": "KS1-2-MA-1540",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1541",
+      "description": "Pupils draw and label a pair of axes in all four quadrants with equal scaling. This"
+    },
+    {
+      "code": "KS1-2-MA-1542",
+      "description": "extends their knowledge of one quadrant to all four quadrants, including the use of"
+    },
+    {
+      "code": "KS1-2-MA-1543",
+      "description": "negative numbers."
+    },
+    {
+      "code": "KS1-2-MA-1544",
+      "description": "Pupils draw and label rectangles (including squares), parallelograms and rhombuses,"
+    },
+    {
+      "code": "KS1-2-MA-1545",
+      "description": "specified by coordinates in the four quadrants, predicting missing coordinates using the"
+    },
+    {
+      "code": "KS1-2-MA-1546",
+      "description": "properties of shapes. These might be expressed algebraically for example, translating"
+    },
+    {
+      "code": "KS1-2-MA-1547",
+      "description": "vertex (a, b) to (a \u2013 2, b + 3); (a, b) and (a + d, b + d) being opposite vertices of a square"
+    },
+    {
+      "code": "KS1-2-MA-1548",
+      "description": "of side d."
+    },
+    {
+      "code": "KS1-2-MA-1549",
+      "description": "Statistics"
+    },
+    {
+      "code": "KS1-2-MA-155",
+      "description": "Pupils combine and increase numbers, counting forwards and backwards."
+    },
+    {
+      "code": "KS1-2-MA-1550",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-1551",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-1552",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1553",
+      "description": "interpret and construct pie charts and line graphs and use these to solve problems"
+    },
+    {
+      "code": "KS1-2-MA-1554",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-1555",
+      "description": "calculate and interpret the mean as an average."
+    },
+    {
+      "code": "KS1-2-MA-1556",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-1557",
+      "description": "Pupils connect their work on angles, fractions and percentages to the interpretation of"
+    },
+    {
+      "code": "KS1-2-MA-1558",
+      "description": "pie charts."
+    },
+    {
+      "code": "KS1-2-MA-1559",
+      "description": "Pupils both encounter and draw graphs relating two variables, arising from their own"
+    },
+    {
+      "code": "KS1-2-MA-156",
+      "description": "They discuss and solve problems in familiar practical contexts, including using"
+    },
+    {
+      "code": "KS1-2-MA-1560",
+      "description": "enquiry and in other subjects."
+    },
+    {
+      "code": "KS1-2-MA-1561",
+      "description": "They should connect conversion from kilometres to miles in measurement to its"
+    },
+    {
+      "code": "KS1-2-MA-1562",
+      "description": "graphical representation."
+    },
+    {
+      "code": "KS1-2-MA-1563",
+      "description": "Pupils know when it is appropriate to find the mean of a data set."
+    },
+    {
+      "code": "KS1-2-MA-1564",
+      "description": "45"
+    },
+    {
+      "code": "KS1-2-MA-1565",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1566",
+      "description": "Mathematics Appendix 1: Examples of formal written"
+    },
+    {
+      "code": "KS1-2-MA-1567",
+      "description": "methods for addition, subtraction, multiplication and"
+    },
+    {
+      "code": "KS1-2-MA-1568",
+      "description": "division"
+    },
+    {
+      "code": "KS1-2-MA-1569",
+      "description": "This appendix sets out some examples of formal written methods for all four operations to"
+    },
+    {
+      "code": "KS1-2-MA-157",
+      "description": "quantities. Problems should include the terms: put together, add, altogether, total, take"
+    },
+    {
+      "code": "KS1-2-MA-1570",
+      "description": "illustrate the range of methods that could be taught. It is not intended to be an exhaustive"
+    },
+    {
+      "code": "KS1-2-MA-1571",
+      "description": "list, nor is it intended to show progression in formal written methods. For example, the"
+    },
+    {
+      "code": "KS1-2-MA-1572",
+      "description": "exact position of intermediate calculations (superscript and subscript digits) will vary"
+    },
+    {
+      "code": "KS1-2-MA-1573",
+      "description": "depending on the method and format used."
+    },
+    {
+      "code": "KS1-2-MA-1574",
+      "description": "For multiplication, some pupils may include an addition symbol when adding partial"
+    },
+    {
+      "code": "KS1-2-MA-1575",
+      "description": "products. For division, some pupils may include a subtraction symbol when subtracting"
+    },
+    {
+      "code": "KS1-2-MA-1576",
+      "description": "multiples of the divisor."
+    },
+    {
+      "code": "KS1-2-MA-1577",
+      "description": "Addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-1578",
+      "description": "Short multiplication"
+    },
+    {
+      "code": "KS1-2-MA-1579",
+      "description": "46"
+    },
+    {
+      "code": "KS1-2-MA-158",
+      "description": "away, distance between, difference between, more than and less than, so that pupils"
+    },
+    {
+      "code": "KS1-2-MA-1580",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-1581",
+      "description": "Long multiplication"
+    },
+    {
+      "code": "KS1-2-MA-1582",
+      "description": "Short division"
+    },
+    {
+      "code": "KS1-2-MA-1583",
+      "description": "Long division"
+    },
+    {
+      "code": "KS1-2-MA-1584",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS1-2-MA-1585",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under"
+    },
+    {
+      "code": "KS1-2-MA-1586",
+      "description": "the terms of the Open Government Licence."
+    },
+    {
+      "code": "KS1-2-MA-1587",
+      "description": "Reference: DFE-00180-2013"
+    },
+    {
+      "code": "KS1-2-MA-1588",
+      "description": "47"
+    },
+    {
+      "code": "KS1-2-MA-159",
+      "description": "develop the concept of addition and subtraction and are enabled to use these operations"
+    },
+    {
+      "code": "KS1-2-MA-160",
+      "description": "flexibly."
+    },
+    {
+      "code": "KS1-2-MA-161",
+      "description": "7"
+    },
+    {
+      "code": "KS1-2-MA-162",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-163",
+      "description": "Number \u2013 multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-164",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-165",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-166",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-167",
+      "description": "solve one-step problems involving multiplication and division, by calculating the"
+    },
+    {
+      "code": "KS1-2-MA-168",
+      "description": "answer using concrete objects, pictorial representations and arrays with the support"
+    },
+    {
+      "code": "KS1-2-MA-169",
+      "description": "of the teacher."
+    },
+    {
+      "code": "KS1-2-MA-170",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-171",
+      "description": "Through grouping and sharing small quantities, pupils begin to understand: multiplication"
+    },
+    {
+      "code": "KS1-2-MA-172",
+      "description": "and division; doubling numbers and quantities; and finding simple fractions of objects,"
+    },
+    {
+      "code": "KS1-2-MA-173",
+      "description": "numbers and quantities."
+    },
+    {
+      "code": "KS1-2-MA-174",
+      "description": "They make connections between arrays, number patterns, and counting in twos, fives"
+    },
+    {
+      "code": "KS1-2-MA-175",
+      "description": "and tens."
+    },
+    {
+      "code": "KS1-2-MA-176",
+      "description": "Number \u2013 fractions"
+    },
+    {
+      "code": "KS1-2-MA-177",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-178",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-179",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-180",
+      "description": "recognise, find and name a half as one of two equal parts of an object, shape or"
+    },
+    {
+      "code": "KS1-2-MA-181",
+      "description": "quantity"
+    },
+    {
+      "code": "KS1-2-MA-182",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-183",
+      "description": "recognise, find and name a quarter as one of four equal parts of an object, shape or"
+    },
+    {
+      "code": "KS1-2-MA-184",
+      "description": "quantity."
+    },
+    {
+      "code": "KS1-2-MA-185",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-186",
+      "description": "Pupils are taught half and quarter as \u2018fractions of\u2019 discrete and continuous quantities by"
+    },
+    {
+      "code": "KS1-2-MA-187",
+      "description": "solving problems using shapes, objects and quantities. For example, they could"
+    },
+    {
+      "code": "KS1-2-MA-188",
+      "description": "recognise and find half a length, quantity, set of objects or shape. Pupils connect halves"
+    },
+    {
+      "code": "KS1-2-MA-189",
+      "description": "and quarters to the equal sharing and grouping of sets of objects and to measures, as"
+    },
+    {
+      "code": "KS1-2-MA-190",
+      "description": "well as recognising and combining halves and quarters as parts of a whole."
+    },
+    {
+      "code": "KS1-2-MA-191",
+      "description": "8"
+    },
+    {
+      "code": "KS1-2-MA-192",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-193",
+      "description": "Measurement"
+    },
+    {
+      "code": "KS1-2-MA-194",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-195",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-196",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-197",
+      "description": "compare, describe and solve practical problems for:"
+    },
+    {
+      "code": "KS1-2-MA-198",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-199",
+      "description": "lengths and heights [for example, long/short, longer/shorter, tall/short,"
+    },
+    {
+      "code": "KS1-2-MA-200",
+      "description": "double/half]"
+    },
+    {
+      "code": "KS1-2-MA-201",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-202",
+      "description": "mass/weight [for example, heavy/light, heavier than, lighter than]"
+    },
+    {
+      "code": "KS1-2-MA-203",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-204",
+      "description": "capacity and volume [for example, full/empty, more than, less than, half,"
+    },
+    {
+      "code": "KS1-2-MA-205",
+      "description": "half full, quarter]"
+    },
+    {
+      "code": "KS1-2-MA-206",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-207",
+      "description": "time [for example, quicker, slower, earlier, later]"
+    },
+    {
+      "code": "KS1-2-MA-208",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-209",
+      "description": "measure and begin to record the following:"
+    },
+    {
+      "code": "KS1-2-MA-210",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-211",
+      "description": "lengths and heights"
+    },
+    {
+      "code": "KS1-2-MA-212",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-213",
+      "description": "mass/weight"
+    },
+    {
+      "code": "KS1-2-MA-214",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-215",
+      "description": "capacity and volume"
+    },
+    {
+      "code": "KS1-2-MA-216",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-217",
+      "description": "time (hours, minutes, seconds)"
+    },
+    {
+      "code": "KS1-2-MA-218",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-219",
+      "description": "recognise and know the value of different denominations of coins and notes"
+    },
+    {
+      "code": "KS1-2-MA-220",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-221",
+      "description": "sequence events in chronological order using language [for example, before and"
+    },
+    {
+      "code": "KS1-2-MA-222",
+      "description": "after, next, first, today, yesterday, tomorrow, morning, afternoon and evening]"
+    },
+    {
+      "code": "KS1-2-MA-223",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-224",
+      "description": "recognise and use language relating to dates, including days of the week, weeks,"
+    },
+    {
+      "code": "KS1-2-MA-225",
+      "description": "months and years"
+    },
+    {
+      "code": "KS1-2-MA-226",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-227",
+      "description": "tell the time to the hour and half past the hour and draw the hands on a clock face to"
+    },
+    {
+      "code": "KS1-2-MA-228",
+      "description": "show these times."
+    },
+    {
+      "code": "KS1-2-MA-229",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-230",
+      "description": "The pairs of terms: mass and weight, volume and capacity, are used interchangeably at"
+    },
+    {
+      "code": "KS1-2-MA-231",
+      "description": "this stage."
+    },
+    {
+      "code": "KS1-2-MA-232",
+      "description": "Pupils move from using and comparing different types of quantities and measures using"
+    },
+    {
+      "code": "KS1-2-MA-233",
+      "description": "non-standard units, including discrete (for example, counting) and continuous (for"
+    },
+    {
+      "code": "KS1-2-MA-234",
+      "description": "example, liquid) measurement, to using manageable common standard units."
+    },
+    {
+      "code": "KS1-2-MA-235",
+      "description": "In order to become familiar with standard measures, pupils begin to use measuring tools"
+    },
+    {
+      "code": "KS1-2-MA-236",
+      "description": "such as a ruler, weighing scales and containers."
+    },
+    {
+      "code": "KS1-2-MA-237",
+      "description": "Pupils use the language of time, including telling the time throughout the day, first using"
+    },
+    {
+      "code": "KS1-2-MA-238",
+      "description": "o\u2019clock and then half past."
+    },
+    {
+      "code": "KS1-2-MA-239",
+      "description": "9"
+    },
+    {
+      "code": "KS1-2-MA-240",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-241",
+      "description": "Geometry \u2013 properties of shapes"
+    },
+    {
+      "code": "KS1-2-MA-242",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-243",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-244",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-245",
+      "description": "recognise and name common 2-D and 3-D shapes, including:"
+    },
+    {
+      "code": "KS1-2-MA-246",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-247",
+      "description": "2-D shapes [for example, rectangles (including squares), circles and triangles]"
+    },
+    {
+      "code": "KS1-2-MA-248",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-249",
+      "description": "3-D shapes [for example, cuboids (including cubes), pyramids and spheres]."
+    },
+    {
+      "code": "KS1-2-MA-250",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-251",
+      "description": "Pupils handle common 2-D and 3-D shapes, naming these and related everyday objects"
+    },
+    {
+      "code": "KS1-2-MA-252",
+      "description": "fluently. They recognise these shapes in different orientations and sizes, and know that"
+    },
+    {
+      "code": "KS1-2-MA-253",
+      "description": "rectangles, triangles, cuboids and pyramids are not always similar to each other."
+    },
+    {
+      "code": "KS1-2-MA-254",
+      "description": "Geometry \u2013 position and direction"
+    },
+    {
+      "code": "KS1-2-MA-255",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-256",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-257",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-258",
+      "description": "describe position, direction and movement, including whole, half, quarter and three-"
+    },
+    {
+      "code": "KS1-2-MA-259",
+      "description": "quarter turns."
+    },
+    {
+      "code": "KS1-2-MA-260",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-261",
+      "description": "Pupils use the language of position, direction and motion, including: left and right, top,"
+    },
+    {
+      "code": "KS1-2-MA-262",
+      "description": "middle and bottom, on top of, in front of, above, between, around, near, close and far, up"
+    },
+    {
+      "code": "KS1-2-MA-263",
+      "description": "and down, forwards and backwards, inside and outside."
+    },
+    {
+      "code": "KS1-2-MA-264",
+      "description": "Pupils make whole, half, quarter and three-quarter turns in both directions and connect"
+    },
+    {
+      "code": "KS1-2-MA-265",
+      "description": "turning clockwise with movement on a clock face."
+    },
+    {
+      "code": "KS1-2-MA-266",
+      "description": "10"
+    },
+    {
+      "code": "KS1-2-MA-267",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-268",
+      "description": "Year 2 programme of study"
+    },
+    {
+      "code": "KS1-2-MA-269",
+      "description": "Number \u2013 number and place value"
+    },
+    {
+      "code": "KS1-2-MA-270",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-271",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-272",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-273",
+      "description": "count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and"
+    },
+    {
+      "code": "KS1-2-MA-274",
+      "description": "backward"
+    },
+    {
+      "code": "KS1-2-MA-275",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-276",
+      "description": "recognise the place value of each digit in a two-digit number (tens, ones)"
+    },
+    {
+      "code": "KS1-2-MA-277",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-278",
+      "description": "identify, represent and estimate numbers using different representations, including"
+    },
+    {
+      "code": "KS1-2-MA-279",
+      "description": "the number line"
+    },
+    {
+      "code": "KS1-2-MA-280",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-281",
+      "description": "compare and order numbers from 0 up to 100; use <, > and = signs"
+    },
+    {
+      "code": "KS1-2-MA-282",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-283",
+      "description": "read and write numbers to at least 100 in numerals and in words"
+    },
+    {
+      "code": "KS1-2-MA-284",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-285",
+      "description": "use place value and number facts to solve problems."
+    },
+    {
+      "code": "KS1-2-MA-286",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-287",
+      "description": "Using materials and a range of representations, pupils practise counting, reading, writing"
+    },
+    {
+      "code": "KS1-2-MA-288",
+      "description": "and comparing numbers to at least 100 and solving a variety of related problems to"
+    },
+    {
+      "code": "KS1-2-MA-289",
+      "description": "develop fluency. They count in multiples of three to support their later understanding of a"
+    },
+    {
+      "code": "KS1-2-MA-290",
+      "description": "third."
+    },
+    {
+      "code": "KS1-2-MA-291",
+      "description": "As they become more confident with numbers up to 100, pupils are introduced to larger"
+    },
+    {
+      "code": "KS1-2-MA-292",
+      "description": "numbers to develop further their recognition of patterns within the number system and"
+    },
+    {
+      "code": "KS1-2-MA-293",
+      "description": "represent them in different ways, including spatial representations."
+    },
+    {
+      "code": "KS1-2-MA-294",
+      "description": "Pupils should partition numbers in different ways (for example, 23 = 20 + 3 and"
+    },
+    {
+      "code": "KS1-2-MA-295",
+      "description": "23 = 10 + 13) to support subtraction. They become fluent and apply their knowledge of"
+    },
+    {
+      "code": "KS1-2-MA-296",
+      "description": "numbers to reason with, discuss and solve problems that emphasise the value of each"
+    },
+    {
+      "code": "KS1-2-MA-297",
+      "description": "digit in two-digit numbers. They begin to understand zero as a place holder."
+    },
+    {
+      "code": "KS1-2-MA-298",
+      "description": "11"
+    },
+    {
+      "code": "KS1-2-MA-299",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-300",
+      "description": "Number \u2013 addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-301",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-302",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-303",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-304",
+      "description": "solve problems with addition and subtraction:"
+    },
+    {
+      "code": "KS1-2-MA-305",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-306",
+      "description": "using concrete objects and pictorial representations, including those involving"
+    },
+    {
+      "code": "KS1-2-MA-307",
+      "description": "numbers, quantities and measures"
+    },
+    {
+      "code": "KS1-2-MA-308",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-309",
+      "description": "applying their increasing knowledge of mental and written methods"
+    },
+    {
+      "code": "KS1-2-MA-310",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-311",
+      "description": "recall and use addition and subtraction facts to 20 fluently, and derive and use"
+    },
+    {
+      "code": "KS1-2-MA-312",
+      "description": "related facts up to 100"
+    },
+    {
+      "code": "KS1-2-MA-313",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-314",
+      "description": "add and subtract numbers using concrete objects, pictorial representations, and"
+    },
+    {
+      "code": "KS1-2-MA-315",
+      "description": "mentally, including:"
+    },
+    {
+      "code": "KS1-2-MA-316",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-317",
+      "description": "a two-digit number and ones"
+    },
+    {
+      "code": "KS1-2-MA-318",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-319",
+      "description": "a two-digit number and tens"
+    },
+    {
+      "code": "KS1-2-MA-320",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-321",
+      "description": "two two-digit numbers"
+    },
+    {
+      "code": "KS1-2-MA-322",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-323",
+      "description": "adding three one-digit numbers"
+    },
+    {
+      "code": "KS1-2-MA-324",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-325",
+      "description": "show that addition of two numbers can be done in any order (commutative) and"
+    },
+    {
+      "code": "KS1-2-MA-326",
+      "description": "subtraction of one number from another cannot"
+    },
+    {
+      "code": "KS1-2-MA-327",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-328",
+      "description": "recognise and use the inverse relationship between addition and subtraction and use"
+    },
+    {
+      "code": "KS1-2-MA-329",
+      "description": "this to check calculations and solve missing number problems."
+    },
+    {
+      "code": "KS1-2-MA-330",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-331",
+      "description": "Pupils extend their understanding of the language of addition and subtraction to include"
+    },
+    {
+      "code": "KS1-2-MA-332",
+      "description": "sum and difference."
+    },
+    {
+      "code": "KS1-2-MA-333",
+      "description": "Pupils practise addition and subtraction to 20 to become increasingly fluent in deriving"
+    },
+    {
+      "code": "KS1-2-MA-334",
+      "description": "facts such as using 3 + 7 = 10; 10 \u2013 7 = 3 and 7 = 10 \u2013 3 to calculate"
+    },
+    {
+      "code": "KS1-2-MA-335",
+      "description": "30 + 70 = 100; 100 \u2013 70 = 30 and 70 = 100 \u2013 30. They check their calculations, including"
+    },
+    {
+      "code": "KS1-2-MA-336",
+      "description": "by adding to check subtraction and adding numbers in a different order to check addition"
+    },
+    {
+      "code": "KS1-2-MA-337",
+      "description": "(for example, 5 + 2 + 1 = 1 + 5 + 2 = 1 + 2 + 5). This establishes commutativity and"
+    },
+    {
+      "code": "KS1-2-MA-338",
+      "description": "associativity of addition."
+    },
+    {
+      "code": "KS1-2-MA-339",
+      "description": "Recording addition and subtraction in columns supports place value and prepares for"
+    },
+    {
+      "code": "KS1-2-MA-340",
+      "description": "formal written methods with larger numbers."
+    },
+    {
+      "code": "KS1-2-MA-341",
+      "description": "12"
+    },
+    {
+      "code": "KS1-2-MA-342",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-343",
+      "description": "Number \u2013 multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-344",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-345",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-346",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-347",
+      "description": "recall and use multiplication and division facts for the 2, 5 and 10 multiplication"
+    },
+    {
+      "code": "KS1-2-MA-348",
+      "description": "tables, including recognising odd and even numbers"
+    },
+    {
+      "code": "KS1-2-MA-349",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-350",
+      "description": "calculate mathematical statements for multiplication and division within the multiplication"
+    },
+    {
+      "code": "KS1-2-MA-351",
+      "description": "tables and write them using the multiplication (\u00d7), division (\u00f7) and equals (=) signs"
+    },
+    {
+      "code": "KS1-2-MA-352",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-353",
+      "description": "show that multiplication of two numbers can be done in any order (commutative) and"
+    },
+    {
+      "code": "KS1-2-MA-354",
+      "description": "division of one number by another cannot"
+    },
+    {
+      "code": "KS1-2-MA-355",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-356",
+      "description": "solve problems involving multiplication and division, using materials, arrays, repeated"
+    },
+    {
+      "code": "KS1-2-MA-357",
+      "description": "addition, mental methods, and multiplication and division facts, including problems in"
+    },
+    {
+      "code": "KS1-2-MA-358",
+      "description": "contexts."
+    },
+    {
+      "code": "KS1-2-MA-359",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-360",
+      "description": "Pupils use a variety of language to describe multiplication and division."
+    },
+    {
+      "code": "KS1-2-MA-361",
+      "description": "Pupils are introduced to the multiplication tables. They practise to become fluent in the"
+    },
+    {
+      "code": "KS1-2-MA-362",
+      "description": "2, 5 and 10 multiplication tables and connect them to each other. They connect the 10"
+    },
+    {
+      "code": "KS1-2-MA-363",
+      "description": "multiplication table to place value, and the 5 multiplication table to the divisions on the"
+    },
+    {
+      "code": "KS1-2-MA-364",
+      "description": "clock face. They begin to use other multiplication tables and recall multiplication facts,"
+    },
+    {
+      "code": "KS1-2-MA-365",
+      "description": "including using related division facts to perform written and mental calculations."
+    },
+    {
+      "code": "KS1-2-MA-366",
+      "description": "Pupils work with a range of materials and contexts in which multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-367",
+      "description": "relate to grouping and sharing discrete and continuous quantities, to arrays and to"
+    },
+    {
+      "code": "KS1-2-MA-368",
+      "description": "repeated addition. They begin to relate these to fractions and measures (for example, 40"
+    },
+    {
+      "code": "KS1-2-MA-369",
+      "description": "\u00f7 2 = 20, 20 is a half of 40). They use commutativity and inverse relations to develop"
+    },
+    {
+      "code": "KS1-2-MA-370",
+      "description": "multiplicative reasoning (for example, 4 \u00d7 5 = 20 and 20 \u00f7 5 = 4)."
+    },
+    {
+      "code": "KS1-2-MA-371",
+      "description": "Number \u2013 fractions"
+    },
+    {
+      "code": "KS1-2-MA-372",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-373",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-374",
+      "description": "2 1,"
+    },
+    {
+      "code": "KS1-2-MA-375",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-MA-376",
+      "description": "1,"
+    },
+    {
+      "code": "KS1-2-MA-377",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-378",
+      "description": "recognise, find, name and write fractions and of a length, shape, set of"
+    },
+    {
+      "code": "KS1-2-MA-379",
+      "description": "4"
+    },
+    {
+      "code": "KS1-2-MA-380",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-MA-381",
+      "description": "4 4"
+    },
+    {
+      "code": "KS1-2-MA-382",
+      "description": "objects or quantity"
+    },
+    {
+      "code": "KS1-2-MA-383",
+      "description": "2 1"
+    },
+    {
+      "code": "KS1-2-MA-384",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-385",
+      "description": "write simple fractions for example, of 6 = 3 and recognise the equivalence of"
+    },
+    {
+      "code": "KS1-2-MA-386",
+      "description": "4 2"
+    },
+    {
+      "code": "KS1-2-MA-387",
+      "description": "1."
+    },
+    {
+      "code": "KS1-2-MA-388",
+      "description": "and"
+    },
+    {
+      "code": "KS1-2-MA-389",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-390",
+      "description": "13"
+    },
+    {
+      "code": "KS1-2-MA-391",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-392",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-393",
+      "description": "Pupils use fractions as \u2018fractions of\u2019 discrete and continuous quantities by solving"
+    },
+    {
+      "code": "KS1-2-MA-394",
+      "description": "problems using shapes, objects and quantities. They connect unit fractions to equal"
+    },
+    {
+      "code": "KS1-2-MA-395",
+      "description": "sharing and grouping, to numbers when they can be calculated, and to measures,"
+    },
+    {
+      "code": "KS1-2-MA-396",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-MA-397",
+      "description": "finding fractions of lengths, quantities, sets of objects or shapes. They meet as the"
+    },
+    {
+      "code": "KS1-2-MA-398",
+      "description": "4"
+    },
+    {
+      "code": "KS1-2-MA-399",
+      "description": "first example of a non-unit fraction."
+    },
+    {
+      "code": "KS1-2-MA-400",
+      "description": "1"
+    },
+    {
+      "code": "KS1-2-MA-401",
+      "description": "and Pupils should count in fractions up to 10, starting from any number and using the"
+    },
+    {
+      "code": "KS1-2-MA-402",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-403",
+      "description": "13,"
+    },
+    {
+      "code": "KS1-2-MA-404",
+      "description": "2 11, 12 11),"
+    },
+    {
+      "code": "KS1-2-MA-405",
+      "description": "equivalence on the number line (for example, (or 2). This reinforces"
+    },
+    {
+      "code": "KS1-2-MA-406",
+      "description": "4 4 4 2 4"
+    },
+    {
+      "code": "KS1-2-MA-407",
+      "description": "the concept of fractions as numbers and that they can add up to more than one."
+    },
+    {
+      "code": "KS1-2-MA-408",
+      "description": "Measurement"
+    },
+    {
+      "code": "KS1-2-MA-409",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-410",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-411",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-412",
+      "description": "choose and use appropriate standard units to estimate and measure length/height in"
+    },
+    {
+      "code": "KS1-2-MA-413",
+      "description": "any direction (m/cm); mass (kg/g); temperature (\u00b0C); capacity (litres/ml) to the"
+    },
+    {
+      "code": "KS1-2-MA-414",
+      "description": "nearest appropriate unit, using rulers, scales, thermometers and measuring vessels"
+    },
+    {
+      "code": "KS1-2-MA-415",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-416",
+      "description": "compare and order lengths, mass, volume/capacity and record the results using >, <"
+    },
+    {
+      "code": "KS1-2-MA-417",
+      "description": "and ="
+    },
+    {
+      "code": "KS1-2-MA-418",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-419",
+      "description": "recognise and use symbols for pounds (\u00a3) and pence (p); combine amounts to make"
+    },
+    {
+      "code": "KS1-2-MA-420",
+      "description": "a particular value"
+    },
+    {
+      "code": "KS1-2-MA-421",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-422",
+      "description": "find different combinations of coins that equal the same amounts of money"
+    },
+    {
+      "code": "KS1-2-MA-423",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-424",
+      "description": "solve simple problems in a practical context involving addition and subtraction of"
+    },
+    {
+      "code": "KS1-2-MA-425",
+      "description": "money of the same unit, including giving change"
+    },
+    {
+      "code": "KS1-2-MA-426",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-427",
+      "description": "compare and sequence intervals of time"
+    },
+    {
+      "code": "KS1-2-MA-428",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-429",
+      "description": "tell and write the time to five minutes, including quarter past/to the hour and draw the"
+    },
+    {
+      "code": "KS1-2-MA-430",
+      "description": "hands on a clock face to show these times"
+    },
+    {
+      "code": "KS1-2-MA-431",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-432",
+      "description": "know the number of minutes in an hour and the number of hours in a day."
+    },
+    {
+      "code": "KS1-2-MA-433",
+      "description": "14"
+    },
+    {
+      "code": "KS1-2-MA-434",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-435",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-436",
+      "description": "Pupils use standard units of measurement with increasing accuracy, using their"
+    },
+    {
+      "code": "KS1-2-MA-437",
+      "description": "knowledge of the number system. They use the appropriate language and record using"
+    },
+    {
+      "code": "KS1-2-MA-438",
+      "description": "standard abbreviations."
+    },
+    {
+      "code": "KS1-2-MA-439",
+      "description": "Comparing measures includes simple multiples such as \u2018half as high\u2019; \u2018twice as wide\u2019."
+    },
+    {
+      "code": "KS1-2-MA-440",
+      "description": "They become fluent in telling the time on analogue clocks and recording it."
+    },
+    {
+      "code": "KS1-2-MA-441",
+      "description": "Pupils become fluent in counting and recognising coins. They read and say amounts of"
+    },
+    {
+      "code": "KS1-2-MA-442",
+      "description": "money confidently and use the symbols \u00a3 and p accurately, recording pounds and pence"
+    },
+    {
+      "code": "KS1-2-MA-443",
+      "description": "separately."
+    },
+    {
+      "code": "KS1-2-MA-444",
+      "description": "Geometry \u2013 properties of shapes"
+    },
+    {
+      "code": "KS1-2-MA-445",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-446",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-447",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-448",
+      "description": "identify and describe the properties of 2-D shapes, including the number of sides and"
+    },
+    {
+      "code": "KS1-2-MA-449",
+      "description": "line symmetry in a vertical line"
+    },
+    {
+      "code": "KS1-2-MA-450",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-451",
+      "description": "identify and describe the properties of 3-D shapes, including the number of edges,"
+    },
+    {
+      "code": "KS1-2-MA-452",
+      "description": "vertices and faces"
+    },
+    {
+      "code": "KS1-2-MA-453",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-454",
+      "description": "identify 2-D shapes on the surface of 3-D shapes, [for example, a circle on a cylinder"
+    },
+    {
+      "code": "KS1-2-MA-455",
+      "description": "and a triangle on a pyramid]"
+    },
+    {
+      "code": "KS1-2-MA-456",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-457",
+      "description": "compare and sort common 2-D and 3-D shapes and everyday objects."
+    },
+    {
+      "code": "KS1-2-MA-458",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-459",
+      "description": "Pupils handle and name a wide variety of common 2-D and 3-D shapes including:"
+    },
+    {
+      "code": "KS1-2-MA-460",
+      "description": "quadrilaterals and polygons, and cuboids, prisms and cones, and identify the properties"
+    },
+    {
+      "code": "KS1-2-MA-461",
+      "description": "of each shape (for example, number of sides, number of faces). Pupils identify, compare"
+    },
+    {
+      "code": "KS1-2-MA-462",
+      "description": "and sort shapes on the basis of their properties and use vocabulary precisely, such as"
+    },
+    {
+      "code": "KS1-2-MA-463",
+      "description": "sides, edges, vertices and faces."
+    },
+    {
+      "code": "KS1-2-MA-464",
+      "description": "Pupils read and write names for shapes that are appropriate for their word reading and"
+    },
+    {
+      "code": "KS1-2-MA-465",
+      "description": "spelling."
+    },
+    {
+      "code": "KS1-2-MA-466",
+      "description": "Pupils draw lines and shapes using a straight edge."
+    },
+    {
+      "code": "KS1-2-MA-467",
+      "description": "15"
+    },
+    {
+      "code": "KS1-2-MA-468",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-469",
+      "description": "Geometry \u2013 position and direction"
+    },
+    {
+      "code": "KS1-2-MA-470",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-471",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-472",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-473",
+      "description": "order and arrange combinations of mathematical objects in patterns and sequences"
+    },
+    {
+      "code": "KS1-2-MA-474",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-475",
+      "description": "use mathematical vocabulary to describe position, direction and movement, including"
+    },
+    {
+      "code": "KS1-2-MA-476",
+      "description": "movement in a straight line and distinguishing between rotation as a turn and in"
+    },
+    {
+      "code": "KS1-2-MA-477",
+      "description": "terms of right angles for quarter, half and three-quarter turns (clockwise and anti-"
+    },
+    {
+      "code": "KS1-2-MA-478",
+      "description": "clockwise)."
+    },
+    {
+      "code": "KS1-2-MA-479",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-480",
+      "description": "Pupils should work with patterns of shapes, including those in different orientations."
+    },
+    {
+      "code": "KS1-2-MA-481",
+      "description": "Pupils use the concept and language of angles to describe \u2018turn\u2019 by applying rotations,"
+    },
+    {
+      "code": "KS1-2-MA-482",
+      "description": "including in practical contexts (for example, pupils themselves moving in turns, giving"
+    },
+    {
+      "code": "KS1-2-MA-483",
+      "description": "instructions to other pupils to do so, and programming robots using instructions given in"
+    },
+    {
+      "code": "KS1-2-MA-484",
+      "description": "right angles)."
+    },
+    {
+      "code": "KS1-2-MA-485",
+      "description": "Statistics"
+    },
+    {
+      "code": "KS1-2-MA-486",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-487",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-488",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-489",
+      "description": "interpret and construct simple pictograms, tally charts, block diagrams and simple"
+    },
+    {
+      "code": "KS1-2-MA-490",
+      "description": "tables"
+    },
+    {
+      "code": "KS1-2-MA-491",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-492",
+      "description": "ask and answer simple questions by counting the number of objects in each category"
+    },
+    {
+      "code": "KS1-2-MA-493",
+      "description": "and sorting the categories by quantity"
+    },
+    {
+      "code": "KS1-2-MA-494",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-495",
+      "description": "ask and answer questions about totalling and comparing categorical data."
+    },
+    {
+      "code": "KS1-2-MA-496",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-497",
+      "description": "Pupils record, interpret, collate, organise and compare information (for example, using"
+    },
+    {
+      "code": "KS1-2-MA-498",
+      "description": "many-to-one correspondence in pictograms with simple ratios 2, 5, 10)."
+    },
+    {
+      "code": "KS1-2-MA-499",
+      "description": "16"
+    },
+    {
+      "code": "KS1-2-MA-500",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-501",
+      "description": "Lower key stage 2 \u2013 years 3 and 4"
+    },
+    {
+      "code": "KS1-2-MA-502",
+      "description": "The principal focus of mathematics teaching in lower key stage 2 is to ensure that pupils"
+    },
+    {
+      "code": "KS1-2-MA-503",
+      "description": "become increasingly fluent with whole numbers and the four operations, including number"
+    },
+    {
+      "code": "KS1-2-MA-504",
+      "description": "facts and the concept of place value. This should ensure that pupils develop efficient"
+    },
+    {
+      "code": "KS1-2-MA-505",
+      "description": "written and mental methods and perform calculations accurately with increasingly large"
+    },
+    {
+      "code": "KS1-2-MA-506",
+      "description": "whole numbers."
+    },
+    {
+      "code": "KS1-2-MA-507",
+      "description": "At this stage, pupils should develop their ability to solve a range of problems, including"
+    },
+    {
+      "code": "KS1-2-MA-508",
+      "description": "with simple fractions and decimal place value. Teaching should also ensure that pupils"
+    },
+    {
+      "code": "KS1-2-MA-509",
+      "description": "draw with increasing accuracy and develop mathematical reasoning so they can analyse"
+    },
+    {
+      "code": "KS1-2-MA-510",
+      "description": "shapes and their properties, and confidently describe the relationships between them. It"
+    },
+    {
+      "code": "KS1-2-MA-511",
+      "description": "should ensure that they can use measuring instruments with accuracy and make"
+    },
+    {
+      "code": "KS1-2-MA-512",
+      "description": "connections between measure and number."
+    },
+    {
+      "code": "KS1-2-MA-513",
+      "description": "By the end of year 4, pupils should have memorised their multiplication tables up to and"
+    },
+    {
+      "code": "KS1-2-MA-514",
+      "description": "including the 12 multiplication table and show precision and fluency in their work."
+    },
+    {
+      "code": "KS1-2-MA-515",
+      "description": "Pupils should read and spell mathematical vocabulary correctly and confidently, using their"
+    },
+    {
+      "code": "KS1-2-MA-516",
+      "description": "growing word reading knowledge and their knowledge of spelling."
+    },
+    {
+      "code": "KS1-2-MA-517",
+      "description": "17"
+    },
+    {
+      "code": "KS1-2-MA-518",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-519",
+      "description": "Year 3 programme of study"
+    },
+    {
+      "code": "KS1-2-MA-520",
+      "description": "Number \u2013 number and place value"
+    },
+    {
+      "code": "KS1-2-MA-521",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-522",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-523",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-524",
+      "description": "count from 0 in multiples of 4, 8, 50 and 100; find 10 or 100 more or less than a given"
+    },
+    {
+      "code": "KS1-2-MA-525",
+      "description": "number"
+    },
+    {
+      "code": "KS1-2-MA-526",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-527",
+      "description": "recognise the place value of each digit in a three-digit number (hundreds, tens, ones)"
+    },
+    {
+      "code": "KS1-2-MA-528",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-529",
+      "description": "compare and order numbers up to 1000"
+    },
+    {
+      "code": "KS1-2-MA-530",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-531",
+      "description": "identify, represent and estimate numbers using different representations"
+    },
+    {
+      "code": "KS1-2-MA-532",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-533",
+      "description": "read and write numbers up to 1000 in numerals and in words"
+    },
+    {
+      "code": "KS1-2-MA-534",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-535",
+      "description": "solve number problems and practical problems involving these ideas."
+    },
+    {
+      "code": "KS1-2-MA-536",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-537",
+      "description": "Pupils now use multiples of 2, 3, 4, 5, 8, 10, 50 and 100."
+    },
+    {
+      "code": "KS1-2-MA-538",
+      "description": "They use larger numbers to at least 1000, applying partitioning related to place value"
+    },
+    {
+      "code": "KS1-2-MA-539",
+      "description": "using varied and increasingly complex problems, building on work in year 2 (for"
+    },
+    {
+      "code": "KS1-2-MA-540",
+      "description": "example, 146 = 100 + 40 and 6, 146 = 130 + 16)."
+    },
+    {
+      "code": "KS1-2-MA-541",
+      "description": "Using a variety of representations, including those related to measure, pupils continue to"
+    },
+    {
+      "code": "KS1-2-MA-542",
+      "description": "count in ones, tens and hundreds, so that they become fluent in the order and place"
+    },
+    {
+      "code": "KS1-2-MA-543",
+      "description": "value of numbers to 1000."
+    },
+    {
+      "code": "KS1-2-MA-544",
+      "description": "18"
+    },
+    {
+      "code": "KS1-2-MA-545",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-546",
+      "description": "Number \u2013 addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-547",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-548",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-549",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-550",
+      "description": "add and subtract numbers mentally, including:"
+    },
+    {
+      "code": "KS1-2-MA-551",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-552",
+      "description": "a three-digit number and ones"
+    },
+    {
+      "code": "KS1-2-MA-553",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-554",
+      "description": "a three-digit number and tens"
+    },
+    {
+      "code": "KS1-2-MA-555",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-556",
+      "description": "a three-digit number and hundreds"
+    },
+    {
+      "code": "KS1-2-MA-557",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-558",
+      "description": "add and subtract numbers with up to three digits, using formal written methods of"
+    },
+    {
+      "code": "KS1-2-MA-559",
+      "description": "columnar addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-560",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-561",
+      "description": "estimate the answer to a calculation and use inverse operations to check answers"
+    },
+    {
+      "code": "KS1-2-MA-562",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-563",
+      "description": "solve problems, including missing number problems, using number facts, place"
+    },
+    {
+      "code": "KS1-2-MA-564",
+      "description": "value, and more complex addition and subtraction."
+    },
+    {
+      "code": "KS1-2-MA-565",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-566",
+      "description": "Pupils practise solving varied addition and subtraction questions. For mental calculations"
+    },
+    {
+      "code": "KS1-2-MA-567",
+      "description": "with two-digit numbers, the answers could exceed 100."
+    },
+    {
+      "code": "KS1-2-MA-568",
+      "description": "Pupils use their understanding of place value and partitioning, and practise using"
+    },
+    {
+      "code": "KS1-2-MA-569",
+      "description": "columnar addition and subtraction with increasingly large numbers up to three digits to"
+    },
+    {
+      "code": "KS1-2-MA-570",
+      "description": "become fluent (see Mathematics Appendix 1)."
+    },
+    {
+      "code": "KS1-2-MA-571",
+      "description": "Number \u2013 multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-572",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-573",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-574",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-575",
+      "description": "recall and use multiplication and division facts for the 3, 4 and 8 multiplication tables"
+    },
+    {
+      "code": "KS1-2-MA-576",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-577",
+      "description": "write and calculate mathematical statements for multiplication and division using the"
+    },
+    {
+      "code": "KS1-2-MA-578",
+      "description": "multiplication tables that they know, including for two-digit numbers times one-digit"
+    },
+    {
+      "code": "KS1-2-MA-579",
+      "description": "numbers, using mental and progressing to formal written methods"
+    },
+    {
+      "code": "KS1-2-MA-580",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-581",
+      "description": "solve problems, including missing number problems, involving multiplication and"
+    },
+    {
+      "code": "KS1-2-MA-582",
+      "description": "division, including positive integer scaling problems and correspondence problems in"
+    },
+    {
+      "code": "KS1-2-MA-583",
+      "description": "which n objects are connected to m objects."
+    },
+    {
+      "code": "KS1-2-MA-584",
+      "description": "19"
+    },
+    {
+      "code": "KS1-2-MA-585",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-586",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-587",
+      "description": "Pupils continue to practise their mental recall of multiplication tables when they are"
+    },
+    {
+      "code": "KS1-2-MA-588",
+      "description": "calculating mathematical statements in order to improve fluency. Through doubling, they"
+    },
+    {
+      "code": "KS1-2-MA-589",
+      "description": "connect the 2, 4 and 8 multiplication tables."
+    },
+    {
+      "code": "KS1-2-MA-590",
+      "description": "Pupils develop efficient mental methods, for example, using commutativity and"
+    },
+    {
+      "code": "KS1-2-MA-591",
+      "description": "associativity (for example, 4 \u00d7 12 \u00d7 5 = 4 \u00d7 5 \u00d7 12 = 20 \u00d7 12 = 240) and multiplication"
+    },
+    {
+      "code": "KS1-2-MA-592",
+      "description": "and division facts (for example, using 3 \u00d7 2 = 6, 6 \u00f7 3 = 2 and 2 = 6 \u00f7 3) to derive related"
+    },
+    {
+      "code": "KS1-2-MA-593",
+      "description": "facts (for example, 30 \u00d7 2 = 60, 60 \u00f7 3 = 20 and 20 = 60 \u00f7 3)."
+    },
+    {
+      "code": "KS1-2-MA-594",
+      "description": "Pupils develop reliable written methods for multiplication and division, starting with"
+    },
+    {
+      "code": "KS1-2-MA-595",
+      "description": "calculations of two-digit numbers by one-digit numbers and progressing to the formal"
+    },
+    {
+      "code": "KS1-2-MA-596",
+      "description": "written methods of short multiplication and division."
+    },
+    {
+      "code": "KS1-2-MA-597",
+      "description": "Pupils solve simple problems in contexts, deciding which of the four operations to use"
+    },
+    {
+      "code": "KS1-2-MA-598",
+      "description": "and why. These include measuring and scaling contexts, (for example, four times as"
+    },
+    {
+      "code": "KS1-2-MA-599",
+      "description": "high, eight times as long etc.) and correspondence problems in which m objects are"
+    },
+    {
+      "code": "KS1-2-MA-600",
+      "description": "connected to n objects (for example, 3 hats and 4 coats, how many different outfits?; 12"
+    },
+    {
+      "code": "KS1-2-MA-601",
+      "description": "sweets shared equally between 4 children; 4 cakes shared equally between 8 children)."
+    },
+    {
+      "code": "KS1-2-MA-602",
+      "description": "Number \u2013 fractions"
+    },
+    {
+      "code": "KS1-2-MA-603",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-604",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-605",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-606",
+      "description": "count up and down in tenths; recognise that tenths arise from dividing an object into"
+    },
+    {
+      "code": "KS1-2-MA-607",
+      "description": "10 equal parts and in dividing one-digit numbers or quantities by 10"
+    },
+    {
+      "code": "KS1-2-MA-608",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-609",
+      "description": "recognise, find and write fractions of a discrete set of objects: unit fractions and non-"
+    },
+    {
+      "code": "KS1-2-MA-610",
+      "description": "unit fractions with small denominators"
+    },
+    {
+      "code": "KS1-2-MA-611",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-612",
+      "description": "recognise and use fractions as numbers: unit fractions and non-unit fractions with"
+    },
+    {
+      "code": "KS1-2-MA-613",
+      "description": "small denominators"
+    },
+    {
+      "code": "KS1-2-MA-614",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-615",
+      "description": "recognise and show, using diagrams, equivalent fractions with small denominators"
+    },
+    {
+      "code": "KS1-2-MA-616",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-617",
+      "description": "add and subtract fractions with the same denominator within one whole [for example,"
+    },
+    {
+      "code": "KS1-2-MA-618",
+      "description": "5 6]"
+    },
+    {
+      "code": "KS1-2-MA-619",
+      "description": "1"
+    },
+    {
+      "code": "KS1-2-MA-620",
+      "description": "+ ="
+    },
+    {
+      "code": "KS1-2-MA-621",
+      "description": "7 7 7"
+    },
+    {
+      "code": "KS1-2-MA-622",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-623",
+      "description": "compare and order unit fractions, and fractions with the same denominators"
+    },
+    {
+      "code": "KS1-2-MA-624",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-625",
+      "description": "solve problems that involve all of the above."
+    },
+    {
+      "code": "KS1-2-MA-626",
+      "description": "20"
+    },
+    {
+      "code": "KS1-2-MA-627",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-628",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-629",
+      "description": "Pupils connect tenths to place value, decimal measures and to division by 10."
+    },
+    {
+      "code": "KS1-2-MA-630",
+      "description": "They begin to understand unit and non-unit fractions as numbers on the number line,"
+    },
+    {
+      "code": "KS1-2-MA-631",
+      "description": "and deduce relations between them, such as size and equivalence. They should go"
+    },
+    {
+      "code": "KS1-2-MA-632",
+      "description": "beyond the [0, 1] interval, including relating this to measure."
+    },
+    {
+      "code": "KS1-2-MA-633",
+      "description": "Pupils understand the relation between unit fractions as operators (fractions of), and"
+    },
+    {
+      "code": "KS1-2-MA-634",
+      "description": "division by integers."
+    },
+    {
+      "code": "KS1-2-MA-635",
+      "description": "They continue to recognise fractions in the context of parts of a whole, numbers,"
+    },
+    {
+      "code": "KS1-2-MA-636",
+      "description": "measurements, a shape, and unit fractions as a division of a quantity."
+    },
+    {
+      "code": "KS1-2-MA-637",
+      "description": "Pupils practise adding and subtracting fractions with the same denominator through a"
+    },
+    {
+      "code": "KS1-2-MA-638",
+      "description": "variety of increasingly complex problems to improve fluency."
+    },
+    {
+      "code": "KS1-2-MA-639",
+      "description": "Measurement"
+    },
+    {
+      "code": "KS1-2-MA-640",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-641",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-642",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-643",
+      "description": "measure, compare, add and subtract: lengths (m/cm/mm); mass (kg/g);"
+    },
+    {
+      "code": "KS1-2-MA-644",
+      "description": "volume/capacity (l/ml)"
+    },
+    {
+      "code": "KS1-2-MA-645",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-646",
+      "description": "measure the perimeter of simple 2-D shapes"
+    },
+    {
+      "code": "KS1-2-MA-647",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-648",
+      "description": "add and subtract amounts of money to give change, using both \u00a3 and p in practical"
+    },
+    {
+      "code": "KS1-2-MA-649",
+      "description": "contexts"
+    },
+    {
+      "code": "KS1-2-MA-650",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-651",
+      "description": "tell and write the time from an analogue clock, including using Roman numerals from"
+    },
+    {
+      "code": "KS1-2-MA-652",
+      "description": "I to XII, and 12-hour and 24-hour clocks"
+    },
+    {
+      "code": "KS1-2-MA-653",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-654",
+      "description": "estimate and read time with increasing accuracy to the nearest minute; record and"
+    },
+    {
+      "code": "KS1-2-MA-655",
+      "description": "compare time in terms of seconds, minutes and hours; use vocabulary such as"
+    },
+    {
+      "code": "KS1-2-MA-656",
+      "description": "o\u2019clock, a.m./p.m., morning, afternoon, noon and midnight"
+    },
+    {
+      "code": "KS1-2-MA-657",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-658",
+      "description": "know the number of seconds in a minute and the number of days in each month,"
+    },
+    {
+      "code": "KS1-2-MA-659",
+      "description": "year and leap year"
+    },
+    {
+      "code": "KS1-2-MA-660",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-661",
+      "description": "compare durations of events [for example to calculate the time taken by particular"
+    },
+    {
+      "code": "KS1-2-MA-662",
+      "description": "events or tasks]."
+    },
+    {
+      "code": "KS1-2-MA-663",
+      "description": "21"
+    },
+    {
+      "code": "KS1-2-MA-664",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-665",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-666",
+      "description": "Pupils continue to measure using the appropriate tools and units, progressing to using a"
+    },
+    {
+      "code": "KS1-2-MA-667",
+      "description": "wider range of measures, including comparing and using mixed units (for example, 1 kg"
+    },
+    {
+      "code": "KS1-2-MA-668",
+      "description": "and 200g) and simple equivalents of mixed units (for example, 5m = 500cm)."
+    },
+    {
+      "code": "KS1-2-MA-669",
+      "description": "The comparison of measures includes simple scaling by integers (for example, a given"
+    },
+    {
+      "code": "KS1-2-MA-670",
+      "description": "quantity or measure is twice as long or five times as high) and this connects to"
+    },
+    {
+      "code": "KS1-2-MA-671",
+      "description": "multiplication."
+    },
+    {
+      "code": "KS1-2-MA-672",
+      "description": "Pupils continue to become fluent in recognising the value of coins, by adding and"
+    },
+    {
+      "code": "KS1-2-MA-673",
+      "description": "subtracting amounts, including mixed units, and giving change using manageable"
+    },
+    {
+      "code": "KS1-2-MA-674",
+      "description": "amounts. They record \u00a3 and p separately. The decimal recording of money is introduced"
+    },
+    {
+      "code": "KS1-2-MA-675",
+      "description": "formally in year 4."
+    },
+    {
+      "code": "KS1-2-MA-676",
+      "description": "Pupils use both analogue and digital 12-hour clocks and record their times. In this way"
+    },
+    {
+      "code": "KS1-2-MA-677",
+      "description": "they become fluent in and prepared for using digital 24-hour clocks in year 4."
+    },
+    {
+      "code": "KS1-2-MA-678",
+      "description": "Geometry \u2013 properties of shapes"
+    },
+    {
+      "code": "KS1-2-MA-679",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-680",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-681",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-682",
+      "description": "draw 2-D shapes and make 3-D shapes using modelling materials; recognise 3-D"
+    },
+    {
+      "code": "KS1-2-MA-683",
+      "description": "shapes in different orientations and describe them"
+    },
+    {
+      "code": "KS1-2-MA-684",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-685",
+      "description": "recognise angles as a property of shape or a description of a turn"
+    },
+    {
+      "code": "KS1-2-MA-686",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-687",
+      "description": "identify right angles, recognise that two right angles make a half-turn, three make"
+    },
+    {
+      "code": "KS1-2-MA-688",
+      "description": "three quarters of a turn and four a complete turn; identify whether angles are greater"
+    },
+    {
+      "code": "KS1-2-MA-689",
+      "description": "than or less than a right angle"
+    },
+    {
+      "code": "KS1-2-MA-690",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-691",
+      "description": "identify horizontal and vertical lines and pairs of perpendicular and parallel lines."
+    },
+    {
+      "code": "KS1-2-MA-692",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-693",
+      "description": "Pupils\u2019 knowledge of the properties of shapes is extended at this stage to symmetrical"
+    },
+    {
+      "code": "KS1-2-MA-694",
+      "description": "and non-symmetrical polygons and polyhedra. Pupils extend their use of the properties"
+    },
+    {
+      "code": "KS1-2-MA-695",
+      "description": "of shapes. They should be able to describe the properties of 2-D and 3-D shapes using"
+    },
+    {
+      "code": "KS1-2-MA-696",
+      "description": "accurate language, including lengths of lines and acute and obtuse for angles greater or"
+    },
+    {
+      "code": "KS1-2-MA-697",
+      "description": "lesser than a right angle."
+    },
+    {
+      "code": "KS1-2-MA-698",
+      "description": "Pupils connect decimals and rounding to drawing and measuring straight lines in"
+    },
+    {
+      "code": "KS1-2-MA-699",
+      "description": "centimetres, in a variety of contexts."
+    },
+    {
+      "code": "KS1-2-MA-700",
+      "description": "22"
+    },
+    {
+      "code": "KS1-2-MA-701",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-702",
+      "description": "Statistics"
+    },
+    {
+      "code": "KS1-2-MA-703",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-704",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-705",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-706",
+      "description": "interpret and present data using bar charts, pictograms and tables"
+    },
+    {
+      "code": "KS1-2-MA-707",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-708",
+      "description": "solve one-step and two-step questions [for example, \u2018How many more?\u2019 and \u2018How"
+    },
+    {
+      "code": "KS1-2-MA-709",
+      "description": "many fewer?\u2019] using information presented in scaled bar charts and pictograms and"
+    },
+    {
+      "code": "KS1-2-MA-710",
+      "description": "tables."
+    },
+    {
+      "code": "KS1-2-MA-711",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-712",
+      "description": "Pupils understand and use simple scales (for example, 2, 5, 10 units per cm) in"
+    },
+    {
+      "code": "KS1-2-MA-713",
+      "description": "pictograms and bar charts with increasing accuracy."
+    },
+    {
+      "code": "KS1-2-MA-714",
+      "description": "They continue to interpret data presented in many contexts."
+    },
+    {
+      "code": "KS1-2-MA-715",
+      "description": "23"
+    },
+    {
+      "code": "KS1-2-MA-716",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-717",
+      "description": "Year 4 programme of study"
+    },
+    {
+      "code": "KS1-2-MA-718",
+      "description": "Number \u2013 number and place value"
+    },
+    {
+      "code": "KS1-2-MA-719",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-720",
+      "description": "Pupils should be taught to"
+    },
+    {
+      "code": "KS1-2-MA-721",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-722",
+      "description": "count in multiples of 6, 7, 9, 25 and 1000"
+    },
+    {
+      "code": "KS1-2-MA-723",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-724",
+      "description": "find 1000 more or less than a given number"
+    },
+    {
+      "code": "KS1-2-MA-725",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-726",
+      "description": "count backwards through zero to include negative numbers"
+    },
+    {
+      "code": "KS1-2-MA-727",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-728",
+      "description": "recognise the place value of each digit in a four-digit number (thousands, hundreds,"
+    },
+    {
+      "code": "KS1-2-MA-729",
+      "description": "tens, and ones)"
+    },
+    {
+      "code": "KS1-2-MA-730",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-731",
+      "description": "order and compare numbers beyond 1000"
+    },
+    {
+      "code": "KS1-2-MA-732",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-733",
+      "description": "identify, represent and estimate numbers using different representations"
+    },
+    {
+      "code": "KS1-2-MA-734",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-735",
+      "description": "round any number to the nearest 10, 100 or 1000"
+    },
+    {
+      "code": "KS1-2-MA-736",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-737",
+      "description": "solve number and practical problems that involve all of the above and with"
+    },
+    {
+      "code": "KS1-2-MA-738",
+      "description": "increasingly large positive numbers"
+    },
+    {
+      "code": "KS1-2-MA-739",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-740",
+      "description": "read Roman numerals to 100 (I to C) and know that over time, the numeral system"
+    },
+    {
+      "code": "KS1-2-MA-741",
+      "description": "changed to include the concept of zero and place value."
+    },
+    {
+      "code": "KS1-2-MA-742",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-743",
+      "description": "Using a variety of representations, including measures, pupils become fluent in the order"
+    },
+    {
+      "code": "KS1-2-MA-744",
+      "description": "and place value of numbers beyond 1000, including counting in tens and hundreds, and"
+    },
+    {
+      "code": "KS1-2-MA-745",
+      "description": "maintaining fluency in other multiples through varied and frequent practice."
+    },
+    {
+      "code": "KS1-2-MA-746",
+      "description": "They begin to extend their knowledge of the number system to include the decimal"
+    },
+    {
+      "code": "KS1-2-MA-747",
+      "description": "numbers and fractions that they have met so far."
+    },
+    {
+      "code": "KS1-2-MA-748",
+      "description": "They connect estimation and rounding numbers to the use of measuring instruments."
+    },
+    {
+      "code": "KS1-2-MA-749",
+      "description": "Roman numerals should be put in their historical context so pupils understand that there"
+    },
+    {
+      "code": "KS1-2-MA-750",
+      "description": "have been different ways to write whole numbers and that the important concepts of"
+    },
+    {
+      "code": "KS1-2-MA-751",
+      "description": "zero and place value were introduced over a period of time."
+    },
+    {
+      "code": "KS1-2-MA-752",
+      "description": "24"
+    },
+    {
+      "code": "KS1-2-MA-753",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-754",
+      "description": "Number \u2013 addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-755",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-756",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-757",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-758",
+      "description": "add and subtract numbers with up to 4 digits using the formal written methods of"
+    },
+    {
+      "code": "KS1-2-MA-759",
+      "description": "columnar addition and subtraction where appropriate"
+    },
+    {
+      "code": "KS1-2-MA-760",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-761",
+      "description": "estimate and use inverse operations to check answers to a calculation"
+    },
+    {
+      "code": "KS1-2-MA-762",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-763",
+      "description": "solve addition and subtraction two-step problems in contexts, deciding which"
+    },
+    {
+      "code": "KS1-2-MA-764",
+      "description": "operations and methods to use and why."
+    },
+    {
+      "code": "KS1-2-MA-765",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-766",
+      "description": "Pupils continue to practise both mental methods and columnar addition and subtraction"
+    },
+    {
+      "code": "KS1-2-MA-767",
+      "description": "with increasingly large numbers to aid fluency (see Mathematics Appendix 1)."
+    },
+    {
+      "code": "KS1-2-MA-768",
+      "description": "Number \u2013 multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-769",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-770",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-771",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-772",
+      "description": "recall multiplication and division facts for multiplication tables up to 12 \u00d7 12"
+    },
+    {
+      "code": "KS1-2-MA-773",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-774",
+      "description": "use place value, known and derived facts to multiply and divide mentally, including:"
+    },
+    {
+      "code": "KS1-2-MA-775",
+      "description": "multiplying by 0 and 1; dividing by 1; multiplying together three numbers"
+    },
+    {
+      "code": "KS1-2-MA-776",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-777",
+      "description": "recognise and use factor pairs and commutativity in mental calculations"
+    },
+    {
+      "code": "KS1-2-MA-778",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-779",
+      "description": "multiply two-digit and three-digit numbers by a one-digit number using formal written"
+    },
+    {
+      "code": "KS1-2-MA-780",
+      "description": "layout"
+    },
+    {
+      "code": "KS1-2-MA-781",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-782",
+      "description": "solve problems involving multiplying and adding, including using the distributive law"
+    },
+    {
+      "code": "KS1-2-MA-783",
+      "description": "to multiply two digit numbers by one digit, integer scaling problems and harder"
+    },
+    {
+      "code": "KS1-2-MA-784",
+      "description": "correspondence problems such as n objects are connected to m objects."
+    },
+    {
+      "code": "KS1-2-MA-785",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-786",
+      "description": "Pupils continue to practise recalling and using multiplication tables and related division"
+    },
+    {
+      "code": "KS1-2-MA-787",
+      "description": "facts to aid fluency."
+    },
+    {
+      "code": "KS1-2-MA-788",
+      "description": "Pupils practise mental methods and extend this to three-digit numbers to derive facts,"
+    },
+    {
+      "code": "KS1-2-MA-789",
+      "description": "(for example 600 \u00f7 3 = 200 can be derived from 2 x 3 = 6)."
+    },
+    {
+      "code": "KS1-2-MA-790",
+      "description": "25"
+    },
+    {
+      "code": "KS1-2-MA-791",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-792",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-793",
+      "description": "Pupils practise to become fluent in the formal written method of short multiplication and"
+    },
+    {
+      "code": "KS1-2-MA-794",
+      "description": "short division with exact answers (see Mathematics Appendix 1)."
+    },
+    {
+      "code": "KS1-2-MA-795",
+      "description": "Pupils write statements about the equality of expressions (for example, use the"
+    },
+    {
+      "code": "KS1-2-MA-796",
+      "description": "distributive law 39 \u00d7 7 = 30 \u00d7 7 + 9 \u00d7 7 and associative law (2 \u00d7 3) \u00d7 4 = 2 \u00d7 (3 \u00d7 4))."
+    },
+    {
+      "code": "KS1-2-MA-797",
+      "description": "They combine their knowledge of number facts and rules of arithmetic to solve mental"
+    },
+    {
+      "code": "KS1-2-MA-798",
+      "description": "and written calculations for example, 2 x 6 x 5 = 10 x 6 = 60."
+    },
+    {
+      "code": "KS1-2-MA-799",
+      "description": "Pupils solve two-step problems in contexts, choosing the appropriate operation, working"
+    },
+    {
+      "code": "KS1-2-MA-800",
+      "description": "with increasingly harder numbers. This should include correspondence questions such"
+    },
+    {
+      "code": "KS1-2-MA-801",
+      "description": "as the numbers of choices of a meal on a menu, or three cakes shared equally between"
+    },
+    {
+      "code": "KS1-2-MA-802",
+      "description": "10 children."
+    },
+    {
+      "code": "KS1-2-MA-803",
+      "description": "Number \u2013 fractions (including decimals)"
+    },
+    {
+      "code": "KS1-2-MA-804",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-805",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-806",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-807",
+      "description": "recognise and show, using diagrams, families of common equivalent fractions"
+    },
+    {
+      "code": "KS1-2-MA-808",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-809",
+      "description": "count up and down in hundredths; recognise that hundredths arise when dividing an"
+    },
+    {
+      "code": "KS1-2-MA-810",
+      "description": "object by one hundred and dividing tenths by ten."
+    },
+    {
+      "code": "KS1-2-MA-811",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-812",
+      "description": "solve problems involving increasingly harder fractions to calculate quantities, and"
+    },
+    {
+      "code": "KS1-2-MA-813",
+      "description": "fractions to divide quantities, including non-unit fractions where the answer is a whole"
+    },
+    {
+      "code": "KS1-2-MA-814",
+      "description": "number"
+    },
+    {
+      "code": "KS1-2-MA-815",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-816",
+      "description": "add and subtract fractions with the same denominator"
+    },
+    {
+      "code": "KS1-2-MA-817",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-818",
+      "description": "recognise and write decimal equivalents of any number of tenths or hundredths"
+    },
+    {
+      "code": "KS1-2-MA-819",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-MA-820",
+      "description": "1,"
+    },
+    {
+      "code": "KS1-2-MA-821",
+      "description": "1,"
+    },
+    {
+      "code": "KS1-2-MA-822",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-823",
+      "description": "recognise and write decimal equivalents to"
+    },
+    {
+      "code": "KS1-2-MA-824",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-825",
+      "description": "4 4"
+    },
+    {
+      "code": "KS1-2-MA-826",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-827",
+      "description": "find the effect of dividing a one- or two-digit number by 10 and 100, identifying the"
+    },
+    {
+      "code": "KS1-2-MA-828",
+      "description": "value of the digits in the answer as ones, tenths and hundredths"
+    },
+    {
+      "code": "KS1-2-MA-829",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-830",
+      "description": "round decimals with one decimal place to the nearest whole number"
+    },
+    {
+      "code": "KS1-2-MA-831",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-832",
+      "description": "compare numbers with the same number of decimal places up to two decimal places"
+    },
+    {
+      "code": "KS1-2-MA-833",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-834",
+      "description": "solve simple measure and money problems involving fractions and decimals to two"
+    },
+    {
+      "code": "KS1-2-MA-835",
+      "description": "decimal places."
+    },
+    {
+      "code": "KS1-2-MA-836",
+      "description": "26"
+    },
+    {
+      "code": "KS1-2-MA-837",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-838",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-839",
+      "description": "Pupils should connect hundredths to tenths and place value and decimal measure."
+    },
+    {
+      "code": "KS1-2-MA-840",
+      "description": "They extend the use of the number line to connect fractions, numbers and measures."
+    },
+    {
+      "code": "KS1-2-MA-841",
+      "description": "Pupils understand the relation between non-unit fractions and multiplication and division"
+    },
+    {
+      "code": "KS1-2-MA-842",
+      "description": "of quantities, with particular emphasis on tenths and hundredths."
+    },
+    {
+      "code": "KS1-2-MA-843",
+      "description": "Pupils make connections between fractions of a length, of a shape and as a"
+    },
+    {
+      "code": "KS1-2-MA-844",
+      "description": "representation of one whole or set of quantities. Pupils use factors and multiples to"
+    },
+    {
+      "code": "KS1-2-MA-845",
+      "description": "6"
+    },
+    {
+      "code": "KS1-2-MA-846",
+      "description": "2 1"
+    },
+    {
+      "code": "KS1-2-MA-847",
+      "description": "recognise equivalent fractions and simplify where appropriate (for example, = or"
+    },
+    {
+      "code": "KS1-2-MA-848",
+      "description": "3 4 9"
+    },
+    {
+      "code": "KS1-2-MA-849",
+      "description": "2)."
+    },
+    {
+      "code": "KS1-2-MA-850",
+      "description": "="
+    },
+    {
+      "code": "KS1-2-MA-851",
+      "description": "8"
+    },
+    {
+      "code": "KS1-2-MA-852",
+      "description": "Pupils continue to practise adding and subtracting fractions with the same denominator,"
+    },
+    {
+      "code": "KS1-2-MA-853",
+      "description": "to become fluent through a variety of increasingly complex problems beyond one whole."
+    },
+    {
+      "code": "KS1-2-MA-854",
+      "description": "Pupils are taught throughout that decimals and fractions are different ways of expressing"
+    },
+    {
+      "code": "KS1-2-MA-855",
+      "description": "numbers and proportions."
+    },
+    {
+      "code": "KS1-2-MA-856",
+      "description": "Pupils\u2019 understanding of the number system and decimal place value is extended at this"
+    },
+    {
+      "code": "KS1-2-MA-857",
+      "description": "stage to tenths and then hundredths. This includes relating the decimal notation to"
+    },
+    {
+      "code": "KS1-2-MA-858",
+      "description": "division of whole number by 10 and later 100."
+    },
+    {
+      "code": "KS1-2-MA-859",
+      "description": "They practise counting using simple fractions and decimals, both forwards and"
+    },
+    {
+      "code": "KS1-2-MA-860",
+      "description": "backwards."
+    },
+    {
+      "code": "KS1-2-MA-861",
+      "description": "Pupils learn decimal notation and the language associated with it, including in the"
+    },
+    {
+      "code": "KS1-2-MA-862",
+      "description": "context of measurements. They make comparisons and order decimal amounts and"
+    },
+    {
+      "code": "KS1-2-MA-863",
+      "description": "quantities that are expressed to the same number of decimal places. They should be"
+    },
+    {
+      "code": "KS1-2-MA-864",
+      "description": "able to represent numbers with one or two decimal places in several ways, such as on"
+    },
+    {
+      "code": "KS1-2-MA-865",
+      "description": "number lines."
+    },
+    {
+      "code": "KS1-2-MA-866",
+      "description": "Measurement"
+    },
+    {
+      "code": "KS1-2-MA-867",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-868",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-869",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-870",
+      "description": "Convert between different units of measure [for example, kilometre to metre; hour to"
+    },
+    {
+      "code": "KS1-2-MA-871",
+      "description": "minute]"
+    },
+    {
+      "code": "KS1-2-MA-872",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-873",
+      "description": "measure and calculate the perimeter of a rectilinear figure (including squares) in"
+    },
+    {
+      "code": "KS1-2-MA-874",
+      "description": "centimetres and metres"
+    },
+    {
+      "code": "KS1-2-MA-875",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-876",
+      "description": "find the area of rectilinear shapes by counting squares"
+    },
+    {
+      "code": "KS1-2-MA-877",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-878",
+      "description": "estimate, compare and calculate different measures, including money in pounds and"
+    },
+    {
+      "code": "KS1-2-MA-879",
+      "description": "pence"
+    },
+    {
+      "code": "KS1-2-MA-880",
+      "description": "27"
+    },
+    {
+      "code": "KS1-2-MA-881",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-882",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-883",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-884",
+      "description": "read, write and convert time between analogue and digital 12- and 24-hour clocks"
+    },
+    {
+      "code": "KS1-2-MA-885",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-886",
+      "description": "solve problems involving converting from hours to minutes; minutes to seconds;"
+    },
+    {
+      "code": "KS1-2-MA-887",
+      "description": "years to months; weeks to days."
+    },
+    {
+      "code": "KS1-2-MA-888",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-889",
+      "description": "Pupils build on their understanding of place value and decimal notation to record metric"
+    },
+    {
+      "code": "KS1-2-MA-890",
+      "description": "measures, including money."
+    },
+    {
+      "code": "KS1-2-MA-891",
+      "description": "They use multiplication to convert from larger to smaller units."
+    },
+    {
+      "code": "KS1-2-MA-892",
+      "description": "Perimeter can be expressed algebraically as 2(a + b) where a and b are the dimensions"
+    },
+    {
+      "code": "KS1-2-MA-893",
+      "description": "in the same unit."
+    },
+    {
+      "code": "KS1-2-MA-894",
+      "description": "They relate area to arrays and multiplication."
+    },
+    {
+      "code": "KS1-2-MA-895",
+      "description": "Geometry \u2013 properties of shapes"
+    },
+    {
+      "code": "KS1-2-MA-896",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-897",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-898",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-899",
+      "description": "compare and classify geometric shapes, including quadrilaterals and triangles, based"
+    },
+    {
+      "code": "KS1-2-MA-900",
+      "description": "on their properties and sizes"
+    },
+    {
+      "code": "KS1-2-MA-901",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-902",
+      "description": "identify acute and obtuse angles and compare and order angles up to two right"
+    },
+    {
+      "code": "KS1-2-MA-903",
+      "description": "angles by size"
+    },
+    {
+      "code": "KS1-2-MA-904",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-905",
+      "description": "identify lines of symmetry in 2-D shapes presented in different orientations"
+    },
+    {
+      "code": "KS1-2-MA-906",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-907",
+      "description": "complete a simple symmetric figure with respect to a specific line of symmetry."
+    },
+    {
+      "code": "KS1-2-MA-908",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-909",
+      "description": "Pupils continue to classify shapes using geometrical properties, extending to classifying"
+    },
+    {
+      "code": "KS1-2-MA-910",
+      "description": "different triangles (for example, isosceles, equilateral, scalene) and quadrilaterals"
+    },
+    {
+      "code": "KS1-2-MA-911",
+      "description": "(for example, parallelogram, rhombus, trapezium)."
+    },
+    {
+      "code": "KS1-2-MA-912",
+      "description": "Pupils compare and order angles in preparation for using a protractor and compare"
+    },
+    {
+      "code": "KS1-2-MA-913",
+      "description": "lengths and angles to decide if a polygon is regular or irregular."
+    },
+    {
+      "code": "KS1-2-MA-914",
+      "description": "Pupils draw symmetric patterns using a variety of media to become familiar with different"
+    },
+    {
+      "code": "KS1-2-MA-915",
+      "description": "orientations of lines of symmetry; and recognise line symmetry in a variety of diagrams,"
+    },
+    {
+      "code": "KS1-2-MA-916",
+      "description": "including where the line of symmetry does not dissect the original shape."
+    },
+    {
+      "code": "KS1-2-MA-917",
+      "description": "28"
+    },
+    {
+      "code": "KS1-2-MA-918",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-919",
+      "description": "Geometry \u2013 position and direction"
+    },
+    {
+      "code": "KS1-2-MA-920",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-921",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-922",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-923",
+      "description": "describe positions on a 2-D grid as coordinates in the first quadrant"
+    },
+    {
+      "code": "KS1-2-MA-924",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-925",
+      "description": "describe movements between positions as translations of a given unit to the left/right"
+    },
+    {
+      "code": "KS1-2-MA-926",
+      "description": "and up/down"
+    },
+    {
+      "code": "KS1-2-MA-927",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-928",
+      "description": "plot specified points and draw sides to complete a given polygon."
+    },
+    {
+      "code": "KS1-2-MA-929",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-930",
+      "description": "Pupils draw a pair of axes in one quadrant, with equal scales and integer labels. They"
+    },
+    {
+      "code": "KS1-2-MA-931",
+      "description": "read, write and use pairs of coordinates, for example (2, 5), including using coordinate-"
+    },
+    {
+      "code": "KS1-2-MA-932",
+      "description": "plotting ICT tools."
+    },
+    {
+      "code": "KS1-2-MA-933",
+      "description": "Statistics"
+    },
+    {
+      "code": "KS1-2-MA-934",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-935",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-936",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-937",
+      "description": "interpret and present discrete and continuous data using appropriate graphical"
+    },
+    {
+      "code": "KS1-2-MA-938",
+      "description": "methods, including bar charts and time graphs."
+    },
+    {
+      "code": "KS1-2-MA-939",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-940",
+      "description": "solve comparison, sum and difference problems using information presented in bar"
+    },
+    {
+      "code": "KS1-2-MA-941",
+      "description": "charts, pictograms, tables and other graphs."
+    },
+    {
+      "code": "KS1-2-MA-942",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-943",
+      "description": "Pupils understand and use a greater range of scales in their representations."
+    },
+    {
+      "code": "KS1-2-MA-944",
+      "description": "Pupils begin to relate the graphical representation of data to recording change over time."
+    },
+    {
+      "code": "KS1-2-MA-945",
+      "description": "29"
+    },
+    {
+      "code": "KS1-2-MA-946",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-947",
+      "description": "Upper key stage 2 \u2013 years 5 and 6"
+    },
+    {
+      "code": "KS1-2-MA-948",
+      "description": "The principal focus of mathematics teaching in upper key stage 2 is to ensure that pupils"
+    },
+    {
+      "code": "KS1-2-MA-949",
+      "description": "extend their understanding of the number system and place value to include larger"
+    },
+    {
+      "code": "KS1-2-MA-950",
+      "description": "integers. This should develop the connections that pupils make between multiplication and"
+    },
+    {
+      "code": "KS1-2-MA-951",
+      "description": "division with fractions, decimals, percentages and ratio."
+    },
+    {
+      "code": "KS1-2-MA-952",
+      "description": "At this stage, pupils should develop their ability to solve a wider range of problems,"
+    },
+    {
+      "code": "KS1-2-MA-953",
+      "description": "including increasingly complex properties of numbers and arithmetic, and problems"
+    },
+    {
+      "code": "KS1-2-MA-954",
+      "description": "demanding efficient written and mental methods of calculation. With this foundation in"
+    },
+    {
+      "code": "KS1-2-MA-955",
+      "description": "arithmetic, pupils are introduced to the language of algebra as a means for solving a"
+    },
+    {
+      "code": "KS1-2-MA-956",
+      "description": "variety of problems. Teaching in geometry and measures should consolidate and extend"
+    },
+    {
+      "code": "KS1-2-MA-957",
+      "description": "knowledge developed in number. Teaching should also ensure that pupils classify shapes"
+    },
+    {
+      "code": "KS1-2-MA-958",
+      "description": "with increasingly complex geometric properties and that they learn the vocabulary they"
+    },
+    {
+      "code": "KS1-2-MA-959",
+      "description": "need to describe them."
+    },
+    {
+      "code": "KS1-2-MA-960",
+      "description": "By the end of year 6, pupils should be fluent in written methods for all four operations,"
+    },
+    {
+      "code": "KS1-2-MA-961",
+      "description": "including long multiplication and division, and in working with fractions, decimals and"
+    },
+    {
+      "code": "KS1-2-MA-962",
+      "description": "percentages."
+    },
+    {
+      "code": "KS1-2-MA-963",
+      "description": "Pupils should read, spell and pronounce mathematical vocabulary correctly."
+    },
+    {
+      "code": "KS1-2-MA-964",
+      "description": "30"
+    },
+    {
+      "code": "KS1-2-MA-965",
+      "description": "Mathematics \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-MA-966",
+      "description": "Year 5 programme of study"
+    },
+    {
+      "code": "KS1-2-MA-967",
+      "description": "Number \u2013 number and place value"
+    },
+    {
+      "code": "KS1-2-MA-968",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-MA-969",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-MA-970",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-971",
+      "description": "read, write, order and compare numbers to at least 1 000 000 and determine the"
+    },
+    {
+      "code": "KS1-2-MA-972",
+      "description": "value of each digit"
+    },
+    {
+      "code": "KS1-2-MA-973",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-974",
+      "description": "count forwards or backwards in steps of powers of 10 for any given number up to"
+    },
+    {
+      "code": "KS1-2-MA-975",
+      "description": "1 000 000"
+    },
+    {
+      "code": "KS1-2-MA-976",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-977",
+      "description": "interpret negative numbers in context, count forwards and backwards with positive"
+    },
+    {
+      "code": "KS1-2-MA-978",
+      "description": "and negative whole numbers, including through zero"
+    },
+    {
+      "code": "KS1-2-MA-979",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-980",
+      "description": "round any number up to 1 000 000 to the nearest 10, 100, 1000, 10 000 and 100 000"
+    },
+    {
+      "code": "KS1-2-MA-981",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-982",
+      "description": "solve number problems and practical problems that involve all of the above"
+    },
+    {
+      "code": "KS1-2-MA-983",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-MA-984",
+      "description": "read Roman numerals to 1000 (M) and recognise years written in Roman numerals."
+    },
+    {
+      "code": "KS1-2-MA-985",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-MA-986",
+      "description": "Pupils identify the place value in large whole numbers."
+    },
+    {
+      "code": "KS1-2-MA-987",
+      "description": "They continue to use number in context, including measurement. Pupils extend and"
+    },
+    {
+      "code": "KS1-2-MA-988",
+      "description": "apply their understanding of the number system to the decimal numbers and fractions"
+    },
+    {
+      "code": "KS1-2-MA-989",
+      "description": "that they have met so far."
+    },
+    {
+      "code": "KS1-2-MA-990",
+      "description": "They should recognise and describe linear number sequences, including those involving"
+    },
+    {
+      "code": "KS1-2-MA-991",
+      "description": "fractions and decimals, and find the term-to-term rule."
+    },
+    {
+      "code": "KS1-2-MA-992",
+      "description": "31,"
+    },
+    {
+      "code": "KS1-2-MA-993",
+      "description": "They should recognise and describe linear number sequences (for example, 3, 4,"
+    },
+    {
+      "code": "KS1-2-MA-994",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-995",
+      "description": "41...),"
+    },
+    {
+      "code": "KS1-2-MA-996",
+      "description": "including those involving fractions and decimals, and find the term-to-term rule in"
+    },
+    {
+      "code": "KS1-2-MA-997",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-MA-998",
+      "description": "1)."
+    },
+    {
+      "code": "KS1-2-MA-999",
+      "description": "words (for example, add"
+    }
+  ]
+}

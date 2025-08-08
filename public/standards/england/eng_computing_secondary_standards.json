@@ -1,1 +1,384 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-CO-001",
+      "description": "Computing programmes of study:"
+    },
+    {
+      "code": "KS3-CO-002",
+      "description": "key stages 3 and 4"
+    },
+    {
+      "code": "KS3-CO-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-CO-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-CO-005",
+      "description": "A high-quality computing education equips pupils to use computational thinking and"
+    },
+    {
+      "code": "KS3-CO-006",
+      "description": "creativity to understand and change the world. Computing has deep links with"
+    },
+    {
+      "code": "KS3-CO-007",
+      "description": "mathematics, science, and design and technology, and provides insights into both natural"
+    },
+    {
+      "code": "KS3-CO-008",
+      "description": "and artificial systems. The core of computing is computer science, in which pupils are"
+    },
+    {
+      "code": "KS3-CO-009",
+      "description": "taught the principles of information and computation, how digital systems work, and how to"
+    },
+    {
+      "code": "KS3-CO-010",
+      "description": "put this knowledge to use through programming. Building on this knowledge and"
+    },
+    {
+      "code": "KS3-CO-011",
+      "description": "understanding, pupils are equipped to use information technology to create programs,"
+    },
+    {
+      "code": "KS3-CO-012",
+      "description": "systems and a range of content. Computing also ensures that pupils become digitally"
+    },
+    {
+      "code": "KS3-CO-013",
+      "description": "literate \u2013 able to use, and express themselves and develop their ideas through, information"
+    },
+    {
+      "code": "KS3-CO-014",
+      "description": "and communication technology \u2013 at a level suitable for the future workplace and as active"
+    },
+    {
+      "code": "KS3-CO-015",
+      "description": "participants in a digital world."
+    },
+    {
+      "code": "KS3-CO-016",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-CO-017",
+      "description": "The national curriculum for computing aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-CO-018",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-019",
+      "description": "can understand and apply the fundamental principles and concepts of computer"
+    },
+    {
+      "code": "KS3-CO-020",
+      "description": "science, including abstraction, logic, algorithms and data representation"
+    },
+    {
+      "code": "KS3-CO-021",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-022",
+      "description": "can analyse problems in computational terms, and have repeated practical experience"
+    },
+    {
+      "code": "KS3-CO-023",
+      "description": "of writing computer programs in order to solve such problems"
+    },
+    {
+      "code": "KS3-CO-024",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-025",
+      "description": "can evaluate and apply information technology, including new or unfamiliar"
+    },
+    {
+      "code": "KS3-CO-026",
+      "description": "technologies, analytically to solve problems"
+    },
+    {
+      "code": "KS3-CO-027",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-028",
+      "description": "are responsible, competent, confident and creative users of information and"
+    },
+    {
+      "code": "KS3-CO-029",
+      "description": "communication technology."
+    },
+    {
+      "code": "KS3-CO-030",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-CO-031",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS3-CO-032",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS3-CO-033",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS3-CO-034",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS3-CO-035",
+      "description": "Computing \u2013 key stages 3 and 4"
+    },
+    {
+      "code": "KS3-CO-036",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-CO-037",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-CO-038",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-CO-039",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-040",
+      "description": "design, use and evaluate computational abstractions that model the state and"
+    },
+    {
+      "code": "KS3-CO-041",
+      "description": "behaviour of real-world problems and physical systems"
+    },
+    {
+      "code": "KS3-CO-042",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-043",
+      "description": "understand several key algorithms that reflect computational thinking [for example,"
+    },
+    {
+      "code": "KS3-CO-044",
+      "description": "ones for sorting and searching]; use logical reasoning to compare the utility of"
+    },
+    {
+      "code": "KS3-CO-045",
+      "description": "alternative algorithms for the same problem"
+    },
+    {
+      "code": "KS3-CO-046",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-047",
+      "description": "use two or more programming languages, at least one of which is textual, to solve a"
+    },
+    {
+      "code": "KS3-CO-048",
+      "description": "variety of computational problems; make appropriate use of data structures [for"
+    },
+    {
+      "code": "KS3-CO-049",
+      "description": "example, lists, tables or arrays]; design and develop modular programs that use"
+    },
+    {
+      "code": "KS3-CO-050",
+      "description": "procedures or functions"
+    },
+    {
+      "code": "KS3-CO-051",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-052",
+      "description": "understand simple Boolean logic [for example, AND, OR and NOT] and some of its"
+    },
+    {
+      "code": "KS3-CO-053",
+      "description": "uses in circuits and programming; understand how numbers can be represented in"
+    },
+    {
+      "code": "KS3-CO-054",
+      "description": "binary, and be able to carry out simple operations on binary numbers [for example,"
+    },
+    {
+      "code": "KS3-CO-055",
+      "description": "binary addition, and conversion between binary and decimal]"
+    },
+    {
+      "code": "KS3-CO-056",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-057",
+      "description": "understand the hardware and software components that make up computer systems,"
+    },
+    {
+      "code": "KS3-CO-058",
+      "description": "and how they communicate with one another and with other systems"
+    },
+    {
+      "code": "KS3-CO-059",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-060",
+      "description": "understand how instructions are stored and executed within a computer system;"
+    },
+    {
+      "code": "KS3-CO-061",
+      "description": "understand how data of various types (including text, sounds and pictures) can be"
+    },
+    {
+      "code": "KS3-CO-062",
+      "description": "represented and manipulated digitally, in the form of binary digits"
+    },
+    {
+      "code": "KS3-CO-063",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-064",
+      "description": "undertake creative projects that involve selecting, using, and combining multiple"
+    },
+    {
+      "code": "KS3-CO-065",
+      "description": "applications, preferably across a range of devices, to achieve challenging goals,"
+    },
+    {
+      "code": "KS3-CO-066",
+      "description": "including collecting and analysing data and meeting the needs of known users"
+    },
+    {
+      "code": "KS3-CO-067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-068",
+      "description": "create, re-use, revise and re-purpose digital artefacts for a given audience, with"
+    },
+    {
+      "code": "KS3-CO-069",
+      "description": "attention to trustworthiness, design and usability"
+    },
+    {
+      "code": "KS3-CO-070",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-071",
+      "description": "understand a range of ways to use technology safely, respectfully, responsibly and"
+    },
+    {
+      "code": "KS3-CO-072",
+      "description": "securely, including protecting their online identity and privacy; recognise inappropriate"
+    },
+    {
+      "code": "KS3-CO-073",
+      "description": "content, contact and conduct and know how to report concerns."
+    },
+    {
+      "code": "KS3-CO-074",
+      "description": "2"
+    },
+    {
+      "code": "KS3-CO-075",
+      "description": "Computing \u2013 key stages 3 and 4"
+    },
+    {
+      "code": "KS3-CO-076",
+      "description": "Key stage 4"
+    },
+    {
+      "code": "KS3-CO-077",
+      "description": "All pupils must have the opportunity to study aspects of information technology and"
+    },
+    {
+      "code": "KS3-CO-078",
+      "description": "computer science at sufficient depth to allow them to progress to higher levels of study or"
+    },
+    {
+      "code": "KS3-CO-079",
+      "description": "to a professional career."
+    },
+    {
+      "code": "KS3-CO-080",
+      "description": "All pupils should be taught to:"
+    },
+    {
+      "code": "KS3-CO-081",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-082",
+      "description": "develop their capability, creativity and knowledge in computer science, digital media"
+    },
+    {
+      "code": "KS3-CO-083",
+      "description": "and information technology"
+    },
+    {
+      "code": "KS3-CO-084",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-085",
+      "description": "develop and apply their analytic, problem-solving, design, and computational thinking"
+    },
+    {
+      "code": "KS3-CO-086",
+      "description": "skills"
+    },
+    {
+      "code": "KS3-CO-087",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-CO-088",
+      "description": "understand how changes in technology affect safety, including new ways to protect"
+    },
+    {
+      "code": "KS3-CO-089",
+      "description": "their online privacy and identity, and how to identify and report a range of concerns."
+    },
+    {
+      "code": "KS3-CO-090",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-CO-091",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS3-CO-092",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS3-CO-093",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-CO-094",
+      "description": "Reference: DFE-00191-2013"
+    },
+    {
+      "code": "KS3-CO-095",
+      "description": "3"
+    }
+  ]
+}

@@ -1,1 +1,564 @@
-{}
+{
+  "KS1-2": [
+    {
+      "code": "KS1-2-DE-001",
+      "description": "Design and technology"
+    },
+    {
+      "code": "KS1-2-DE-002",
+      "description": "programmes of study:"
+    },
+    {
+      "code": "KS1-2-DE-003",
+      "description": "key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-DE-004",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS1-2-DE-005",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS1-2-DE-006",
+      "description": "Design and technology is an inspiring, rigorous and practical subject. Using creativity and"
+    },
+    {
+      "code": "KS1-2-DE-007",
+      "description": "imagination, pupils design and make products that solve real and relevant problems within"
+    },
+    {
+      "code": "KS1-2-DE-008",
+      "description": "a variety of contexts, considering their own and others\u2019 needs, wants and values. They"
+    },
+    {
+      "code": "KS1-2-DE-009",
+      "description": "acquire a broad range of subject knowledge and draw on disciplines such as mathematics,"
+    },
+    {
+      "code": "KS1-2-DE-010",
+      "description": "science, engineering, computing and art. Pupils learn how to take risks, becoming"
+    },
+    {
+      "code": "KS1-2-DE-011",
+      "description": "resourceful, innovative, enterprising and capable citizens. Through the evaluation of past"
+    },
+    {
+      "code": "KS1-2-DE-012",
+      "description": "and present design and technology, they develop a critical understanding of its impact on"
+    },
+    {
+      "code": "KS1-2-DE-013",
+      "description": "daily life and the wider world. High-quality design and technology education makes an"
+    },
+    {
+      "code": "KS1-2-DE-014",
+      "description": "essential contribution to the creativity, culture, wealth and well-being of the nation."
+    },
+    {
+      "code": "KS1-2-DE-015",
+      "description": "Aims"
+    },
+    {
+      "code": "KS1-2-DE-016",
+      "description": "The national curriculum for design and technology aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS1-2-DE-017",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-018",
+      "description": "develop the creative, technical and practical expertise needed to perform everyday"
+    },
+    {
+      "code": "KS1-2-DE-019",
+      "description": "tasks confidently and to participate successfully in an increasingly technological world"
+    },
+    {
+      "code": "KS1-2-DE-020",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-021",
+      "description": "build and apply a repertoire of knowledge, understanding and skills in order to design"
+    },
+    {
+      "code": "KS1-2-DE-022",
+      "description": "and make high-quality prototypes and products for a wide range of users"
+    },
+    {
+      "code": "KS1-2-DE-023",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-024",
+      "description": "critique, evaluate and test their ideas and products and the work of others"
+    },
+    {
+      "code": "KS1-2-DE-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-026",
+      "description": "understand and apply the principles of nutrition and learn how to cook."
+    },
+    {
+      "code": "KS1-2-DE-027",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS1-2-DE-028",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS1-2-DE-029",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS1-2-DE-030",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS1-2-DE-031",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS1-2-DE-032",
+      "description": "Design and technology \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-DE-033",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS1-2-DE-034",
+      "description": "Key stage 1"
+    },
+    {
+      "code": "KS1-2-DE-035",
+      "description": "Through a variety of creative and practical activities, pupils should be taught the"
+    },
+    {
+      "code": "KS1-2-DE-036",
+      "description": "knowledge, understanding and skills needed to engage in an iterative process of designing"
+    },
+    {
+      "code": "KS1-2-DE-037",
+      "description": "and making. They should work in a range of relevant contexts [for example, the home and"
+    },
+    {
+      "code": "KS1-2-DE-038",
+      "description": "school, gardens and playgrounds, the local community, industry and the wider"
+    },
+    {
+      "code": "KS1-2-DE-039",
+      "description": "environment]."
+    },
+    {
+      "code": "KS1-2-DE-040",
+      "description": "When designing and making, pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-DE-041",
+      "description": "Design"
+    },
+    {
+      "code": "KS1-2-DE-042",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-043",
+      "description": "design purposeful, functional, appealing products for themselves and other users"
+    },
+    {
+      "code": "KS1-2-DE-044",
+      "description": "based on design criteria"
+    },
+    {
+      "code": "KS1-2-DE-045",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-046",
+      "description": "generate, develop, model and communicate their ideas through talking, drawing,"
+    },
+    {
+      "code": "KS1-2-DE-047",
+      "description": "templates, mock-ups and, where appropriate, information and communication"
+    },
+    {
+      "code": "KS1-2-DE-048",
+      "description": "technology"
+    },
+    {
+      "code": "KS1-2-DE-049",
+      "description": "Make"
+    },
+    {
+      "code": "KS1-2-DE-050",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-051",
+      "description": "select from and use a range of tools and equipment to perform practical tasks [for"
+    },
+    {
+      "code": "KS1-2-DE-052",
+      "description": "example, cutting, shaping, joining and finishing]"
+    },
+    {
+      "code": "KS1-2-DE-053",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-054",
+      "description": "select from and use a wide range of materials and components, including construction"
+    },
+    {
+      "code": "KS1-2-DE-055",
+      "description": "materials, textiles and ingredients, according to their characteristics"
+    },
+    {
+      "code": "KS1-2-DE-056",
+      "description": "Evaluate"
+    },
+    {
+      "code": "KS1-2-DE-057",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-058",
+      "description": "explore and evaluate a range of existing products"
+    },
+    {
+      "code": "KS1-2-DE-059",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-060",
+      "description": "evaluate their ideas and products against design criteria"
+    },
+    {
+      "code": "KS1-2-DE-061",
+      "description": "Technical knowledge"
+    },
+    {
+      "code": "KS1-2-DE-062",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-063",
+      "description": "build structures, exploring how they can be made stronger, stiffer and more stable"
+    },
+    {
+      "code": "KS1-2-DE-064",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-065",
+      "description": "explore and use mechanisms [for example, levers, sliders, wheels and axles], in their"
+    },
+    {
+      "code": "KS1-2-DE-066",
+      "description": "products."
+    },
+    {
+      "code": "KS1-2-DE-067",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-DE-068",
+      "description": "Design and technology \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-DE-069",
+      "description": "Key stage 2"
+    },
+    {
+      "code": "KS1-2-DE-070",
+      "description": "Through a variety of creative and practical activities, pupils should be taught the"
+    },
+    {
+      "code": "KS1-2-DE-071",
+      "description": "knowledge, understanding and skills needed to engage in an iterative process of designing"
+    },
+    {
+      "code": "KS1-2-DE-072",
+      "description": "and making. They should work in a range of relevant contexts [for example, the home,"
+    },
+    {
+      "code": "KS1-2-DE-073",
+      "description": "school, leisure, culture, enterprise, industry and the wider environment]."
+    },
+    {
+      "code": "KS1-2-DE-074",
+      "description": "When designing and making, pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-DE-075",
+      "description": "Design"
+    },
+    {
+      "code": "KS1-2-DE-076",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-077",
+      "description": "use research and develop design criteria to inform the design of innovative, functional,"
+    },
+    {
+      "code": "KS1-2-DE-078",
+      "description": "appealing products that are fit for purpose, aimed at particular individuals or groups"
+    },
+    {
+      "code": "KS1-2-DE-079",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-080",
+      "description": "generate, develop, model and communicate their ideas through discussion, annotated"
+    },
+    {
+      "code": "KS1-2-DE-081",
+      "description": "sketches, cross-sectional and exploded diagrams, prototypes, pattern pieces and"
+    },
+    {
+      "code": "KS1-2-DE-082",
+      "description": "computer-aided design"
+    },
+    {
+      "code": "KS1-2-DE-083",
+      "description": "Make"
+    },
+    {
+      "code": "KS1-2-DE-084",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-085",
+      "description": "select from and use a wider range of tools and equipment to perform practical tasks"
+    },
+    {
+      "code": "KS1-2-DE-086",
+      "description": "[for example, cutting, shaping, joining and finishing], accurately"
+    },
+    {
+      "code": "KS1-2-DE-087",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-088",
+      "description": "select from and use a wider range of materials and components, including construction"
+    },
+    {
+      "code": "KS1-2-DE-089",
+      "description": "materials, textiles and ingredients, according to their functional properties and aesthetic"
+    },
+    {
+      "code": "KS1-2-DE-090",
+      "description": "qualities"
+    },
+    {
+      "code": "KS1-2-DE-091",
+      "description": "Evaluate"
+    },
+    {
+      "code": "KS1-2-DE-092",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-093",
+      "description": "investigate and analyse a range of existing products"
+    },
+    {
+      "code": "KS1-2-DE-094",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-095",
+      "description": "evaluate their ideas and products against their own design criteria and consider the"
+    },
+    {
+      "code": "KS1-2-DE-096",
+      "description": "views of others to improve their work"
+    },
+    {
+      "code": "KS1-2-DE-097",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-098",
+      "description": "understand how key events and individuals in design and technology have helped"
+    },
+    {
+      "code": "KS1-2-DE-099",
+      "description": "shape the world"
+    },
+    {
+      "code": "KS1-2-DE-100",
+      "description": "Technical knowledge"
+    },
+    {
+      "code": "KS1-2-DE-101",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-102",
+      "description": "apply their understanding of how to strengthen, stiffen and reinforce more complex"
+    },
+    {
+      "code": "KS1-2-DE-103",
+      "description": "structures"
+    },
+    {
+      "code": "KS1-2-DE-104",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-105",
+      "description": "understand and use mechanical systems in their products [for example, gears, pulleys,"
+    },
+    {
+      "code": "KS1-2-DE-106",
+      "description": "cams, levers and linkages]"
+    },
+    {
+      "code": "KS1-2-DE-107",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-108",
+      "description": "understand and use electrical systems in their products [for example, series circuits"
+    },
+    {
+      "code": "KS1-2-DE-109",
+      "description": "incorporating switches, bulbs, buzzers and motors]"
+    },
+    {
+      "code": "KS1-2-DE-110",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-111",
+      "description": "apply their understanding of computing to program, monitor and control their products."
+    },
+    {
+      "code": "KS1-2-DE-112",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-DE-113",
+      "description": "Design and technology \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-DE-114",
+      "description": "Cooking and nutrition"
+    },
+    {
+      "code": "KS1-2-DE-115",
+      "description": "As part of their work with food, pupils should be taught how to cook and apply the"
+    },
+    {
+      "code": "KS1-2-DE-116",
+      "description": "principles of nutrition and healthy eating. Instilling a love of cooking in pupils will also open"
+    },
+    {
+      "code": "KS1-2-DE-117",
+      "description": "a door to one of the great expressions of human creativity. Learning how to cook is a"
+    },
+    {
+      "code": "KS1-2-DE-118",
+      "description": "crucial life skill that enables pupils to feed themselves and others affordably and well, now"
+    },
+    {
+      "code": "KS1-2-DE-119",
+      "description": "and in later life."
+    },
+    {
+      "code": "KS1-2-DE-120",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-DE-121",
+      "description": "Key stage 1"
+    },
+    {
+      "code": "KS1-2-DE-122",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-123",
+      "description": "use the basic principles of a healthy and varied diet to prepare dishes"
+    },
+    {
+      "code": "KS1-2-DE-124",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-125",
+      "description": "understand where food comes from."
+    },
+    {
+      "code": "KS1-2-DE-126",
+      "description": "Key stage 2"
+    },
+    {
+      "code": "KS1-2-DE-127",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-128",
+      "description": "understand and apply the principles of a healthy and varied diet"
+    },
+    {
+      "code": "KS1-2-DE-129",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-130",
+      "description": "prepare and cook a variety of predominantly savoury dishes using a range of cooking"
+    },
+    {
+      "code": "KS1-2-DE-131",
+      "description": "techniques"
+    },
+    {
+      "code": "KS1-2-DE-132",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-DE-133",
+      "description": "understand seasonality, and know where and how a variety of ingredients are grown,"
+    },
+    {
+      "code": "KS1-2-DE-134",
+      "description": "reared, caught and processed."
+    },
+    {
+      "code": "KS1-2-DE-135",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS1-2-DE-136",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS1-2-DE-137",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS1-2-DE-138",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS1-2-DE-139",
+      "description": "Reference: DFE-00172-2013"
+    },
+    {
+      "code": "KS1-2-DE-140",
+      "description": "4"
+    }
+  ]
+}

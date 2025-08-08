@@ -1,1 +1,4348 @@
-{}
+{
+  "KS1-2": [
+    {
+      "code": "KS1-2-SC-001",
+      "description": "Science programmes"
+    },
+    {
+      "code": "KS1-2-SC-002",
+      "description": "of study: key stages"
+    },
+    {
+      "code": "KS1-2-SC-003",
+      "description": "1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-004",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS1-2-SC-005",
+      "description": "September 2013"
+    },
+    {
+      "code": "KS1-2-SC-006",
+      "description": "Contents"
+    },
+    {
+      "code": "KS1-2-SC-007",
+      "description": "Key stage 1 5"
+    },
+    {
+      "code": "KS1-2-SC-008",
+      "description": "Key stage 1 programme of study \u2013 years 1 and 2 6"
+    },
+    {
+      "code": "KS1-2-SC-009",
+      "description": "Year 1 programme of study 7"
+    },
+    {
+      "code": "KS1-2-SC-010",
+      "description": "Year 2 programme of study 10"
+    },
+    {
+      "code": "KS1-2-SC-011",
+      "description": "Lower key stage 2 \u2013 years 3 and 4 13"
+    },
+    {
+      "code": "KS1-2-SC-012",
+      "description": "Lower key stage 2 programme of study 14"
+    },
+    {
+      "code": "KS1-2-SC-013",
+      "description": "Year 3 programme of study 16"
+    },
+    {
+      "code": "KS1-2-SC-014",
+      "description": "Year 4 programme of study 20"
+    },
+    {
+      "code": "KS1-2-SC-015",
+      "description": "Upper key stage 2 \u2013 years 5 and 6 24"
+    },
+    {
+      "code": "KS1-2-SC-016",
+      "description": "Upper key stage 2 programme of study 25"
+    },
+    {
+      "code": "KS1-2-SC-017",
+      "description": "Year 5 programme of study 27"
+    },
+    {
+      "code": "KS1-2-SC-018",
+      "description": "Year 6 programme of study 31"
+    },
+    {
+      "code": "KS1-2-SC-019",
+      "description": "2"
+    },
+    {
+      "code": "KS1-2-SC-020",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-021",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS1-2-SC-022",
+      "description": "A high-quality science education provides the foundations for understanding the world"
+    },
+    {
+      "code": "KS1-2-SC-023",
+      "description": "through the specific disciplines of biology, chemistry and physics. Science has changed"
+    },
+    {
+      "code": "KS1-2-SC-024",
+      "description": "our lives and is vital to the world\u2019s future prosperity, and all pupils should be taught"
+    },
+    {
+      "code": "KS1-2-SC-025",
+      "description": "essential aspects of the knowledge, methods, processes and uses of science. Through"
+    },
+    {
+      "code": "KS1-2-SC-026",
+      "description": "building up a body of key foundational knowledge and concepts, pupils should be"
+    },
+    {
+      "code": "KS1-2-SC-027",
+      "description": "encouraged to recognise the power of rational explanation and develop a sense of"
+    },
+    {
+      "code": "KS1-2-SC-028",
+      "description": "excitement and curiosity about natural phenomena. They should be encouraged to"
+    },
+    {
+      "code": "KS1-2-SC-029",
+      "description": "understand how science can be used to explain what is occurring, predict how things will"
+    },
+    {
+      "code": "KS1-2-SC-030",
+      "description": "behave, and analyse causes."
+    },
+    {
+      "code": "KS1-2-SC-031",
+      "description": "Aims"
+    },
+    {
+      "code": "KS1-2-SC-032",
+      "description": "The national curriculum for science aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS1-2-SC-033",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-034",
+      "description": "develop through the specific"
+    },
+    {
+      "code": "KS1-2-SC-035",
+      "description": "scientific knowledge and conceptual understanding"
+    },
+    {
+      "code": "KS1-2-SC-036",
+      "description": "disciplines of biology, chemistry and physics"
+    },
+    {
+      "code": "KS1-2-SC-037",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-038",
+      "description": "develop understanding of the through"
+    },
+    {
+      "code": "KS1-2-SC-039",
+      "description": "nature, processes and methods of science"
+    },
+    {
+      "code": "KS1-2-SC-040",
+      "description": "different types of science enquiries that help them to answer scientific questions about"
+    },
+    {
+      "code": "KS1-2-SC-041",
+      "description": "the world around them"
+    },
+    {
+      "code": "KS1-2-SC-042",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-043",
+      "description": "are equipped with the scientific knowledge required to understand the"
+    },
+    {
+      "code": "KS1-2-SC-044",
+      "description": "uses and"
+    },
+    {
+      "code": "KS1-2-SC-045",
+      "description": "of science, today and for the future."
+    },
+    {
+      "code": "KS1-2-SC-046",
+      "description": "implications"
+    },
+    {
+      "code": "KS1-2-SC-047",
+      "description": "Scientific knowledge and conceptual understanding"
+    },
+    {
+      "code": "KS1-2-SC-048",
+      "description": "The programmes of study describe a sequence of knowledge and concepts. While it is"
+    },
+    {
+      "code": "KS1-2-SC-049",
+      "description": "important that pupils make progress, it is also vitally important that they develop secure"
+    },
+    {
+      "code": "KS1-2-SC-050",
+      "description": "understanding of each key block of knowledge and concepts in order to progress to the"
+    },
+    {
+      "code": "KS1-2-SC-051",
+      "description": "next stage. Insecure, superficial understanding will not allow genuine progression: pupils"
+    },
+    {
+      "code": "KS1-2-SC-052",
+      "description": "may struggle at key points of transition (such as between primary and secondary school),"
+    },
+    {
+      "code": "KS1-2-SC-053",
+      "description": "build up serious misconceptions, and/or have significant difficulties in understanding"
+    },
+    {
+      "code": "KS1-2-SC-054",
+      "description": "higher-order content."
+    },
+    {
+      "code": "KS1-2-SC-055",
+      "description": "Pupils should be able to describe associated processes and key characteristics in"
+    },
+    {
+      "code": "KS1-2-SC-056",
+      "description": "common language, but they should also be familiar with, and use, technical terminology"
+    },
+    {
+      "code": "KS1-2-SC-057",
+      "description": "accurately and precisely. They should build up an extended specialist vocabulary. They"
+    },
+    {
+      "code": "KS1-2-SC-058",
+      "description": "should also apply their mathematical knowledge to their understanding of science,"
+    },
+    {
+      "code": "KS1-2-SC-059",
+      "description": "including collecting, presenting and analysing data. The social and economic implications"
+    },
+    {
+      "code": "KS1-2-SC-060",
+      "description": "of science are important but, generally, they are taught most appropriately within the wider"
+    },
+    {
+      "code": "KS1-2-SC-061",
+      "description": "school curriculum: teachers will wish to use different contexts to maximise their pupils\u2019"
+    },
+    {
+      "code": "KS1-2-SC-062",
+      "description": "engagement with and motivation to study science."
+    },
+    {
+      "code": "KS1-2-SC-063",
+      "description": "3"
+    },
+    {
+      "code": "KS1-2-SC-064",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-065",
+      "description": "The nature, processes and methods of science"
+    },
+    {
+      "code": "KS1-2-SC-066",
+      "description": "\u2018Working scientifically\u2019 specifies the understanding of the nature, processes and methods"
+    },
+    {
+      "code": "KS1-2-SC-067",
+      "description": "of science for each year group. It should not be taught as a separate strand. The notes"
+    },
+    {
+      "code": "KS1-2-SC-068",
+      "description": "and guidance give examples of how \u2018working scientifically\u2019 might be embedded within the"
+    },
+    {
+      "code": "KS1-2-SC-069",
+      "description": "content of biology, chemistry and physics, focusing on the key features of scientific"
+    },
+    {
+      "code": "KS1-2-SC-070",
+      "description": "enquiry, so that pupils learn to use a variety of approaches to answer relevant scientific"
+    },
+    {
+      "code": "KS1-2-SC-071",
+      "description": "questions. These types of scientific enquiry should include: observing over time; pattern"
+    },
+    {
+      "code": "KS1-2-SC-072",
+      "description": "seeking; identifying, classifying and grouping; comparative and fair testing (controlled"
+    },
+    {
+      "code": "KS1-2-SC-073",
+      "description": "investigations); and researching using secondary sources. Pupils should seek answers to"
+    },
+    {
+      "code": "KS1-2-SC-074",
+      "description": "questions through collecting, analysing and presenting data. \u2018Working scientifically\u2019 will be"
+    },
+    {
+      "code": "KS1-2-SC-075",
+      "description": "developed further at key stages 3 and 4, once pupils have built up sufficient understanding"
+    },
+    {
+      "code": "KS1-2-SC-076",
+      "description": "of science to engage meaningfully in more sophisticated discussion of experimental design"
+    },
+    {
+      "code": "KS1-2-SC-077",
+      "description": "and control."
+    },
+    {
+      "code": "KS1-2-SC-078",
+      "description": "Spoken language"
+    },
+    {
+      "code": "KS1-2-SC-079",
+      "description": "The national curriculum for science reflects the importance of spoken language in pupils\u2019"
+    },
+    {
+      "code": "KS1-2-SC-080",
+      "description": "development across the whole curriculum \u2013 cognitively, socially and linguistically. The"
+    },
+    {
+      "code": "KS1-2-SC-081",
+      "description": "quality and variety of language that pupils hear and speak are key factors in developing"
+    },
+    {
+      "code": "KS1-2-SC-082",
+      "description": "their scientific vocabulary and articulating scientific concepts clearly and precisely. They"
+    },
+    {
+      "code": "KS1-2-SC-083",
+      "description": "must be assisted in making their thinking clear, both to themselves and others, and"
+    },
+    {
+      "code": "KS1-2-SC-084",
+      "description": "teachers should ensure that pupils build secure foundations by using discussion to probe"
+    },
+    {
+      "code": "KS1-2-SC-085",
+      "description": "and remedy their misconceptions."
+    },
+    {
+      "code": "KS1-2-SC-086",
+      "description": "School curriculum"
+    },
+    {
+      "code": "KS1-2-SC-087",
+      "description": "The programmes of study for science are set out year-by-year for key stages 1 and 2."
+    },
+    {
+      "code": "KS1-2-SC-088",
+      "description": "Schools are, however, only required to teach the relevant programme of study by the end"
+    },
+    {
+      "code": "KS1-2-SC-089",
+      "description": "of the key stage. Within each key stage, schools therefore have the flexibility to introduce"
+    },
+    {
+      "code": "KS1-2-SC-090",
+      "description": "content earlier or later than set out in the programme of study. In addition, schools can"
+    },
+    {
+      "code": "KS1-2-SC-091",
+      "description": "introduce key stage content during an earlier key stage if appropriate. All schools are also"
+    },
+    {
+      "code": "KS1-2-SC-092",
+      "description": "required to set out their school curriculum for science on a year-by-year basis and make"
+    },
+    {
+      "code": "KS1-2-SC-093",
+      "description": "this information available online."
+    },
+    {
+      "code": "KS1-2-SC-094",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS1-2-SC-095",
+      "description": "By the end of each key stage, pupils are expected to know, apply and understand the"
+    },
+    {
+      "code": "KS1-2-SC-096",
+      "description": "matters, skills and processes specified in the relevant programme of study."
+    },
+    {
+      "code": "KS1-2-SC-097",
+      "description": "Schools are not required by law to teach the content indicated as being \u2018non-statutory\u2019."
+    },
+    {
+      "code": "KS1-2-SC-098",
+      "description": "4"
+    },
+    {
+      "code": "KS1-2-SC-099",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-100",
+      "description": "Key stage 1"
+    },
+    {
+      "code": "KS1-2-SC-1000",
+      "description": "recognise that living things have changed over time and that fossils provide"
+    },
+    {
+      "code": "KS1-2-SC-1001",
+      "description": "information about living things that inhabited the Earth millions of years ago"
+    },
+    {
+      "code": "KS1-2-SC-1002",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-1003",
+      "description": "recognise that living things produce offspring of the same kind, but normally offspring"
+    },
+    {
+      "code": "KS1-2-SC-1004",
+      "description": "vary and are not identical to their parents"
+    },
+    {
+      "code": "KS1-2-SC-1005",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-1006",
+      "description": "identify how animals and plants are adapted to suit their environment in different"
+    },
+    {
+      "code": "KS1-2-SC-1007",
+      "description": "ways and that adaptation may lead to evolution."
+    },
+    {
+      "code": "KS1-2-SC-1008",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-1009",
+      "description": "Building on what they learned about fossils in the topic on rocks in year 3, pupils should"
+    },
+    {
+      "code": "KS1-2-SC-101",
+      "description": "The principal focus of science teaching in key stage 1 is to enable pupils to experience"
+    },
+    {
+      "code": "KS1-2-SC-1010",
+      "description": "find out more about how living things on earth have changed over time. They should be"
+    },
+    {
+      "code": "KS1-2-SC-1011",
+      "description": "introduced to the idea that characteristics are passed from parents to their offspring, for"
+    },
+    {
+      "code": "KS1-2-SC-1012",
+      "description": "instance by considering different breeds of dogs, and what happens when, for example,"
+    },
+    {
+      "code": "KS1-2-SC-1013",
+      "description": "labradors are crossed with poodles. They should also appreciate that variation in"
+    },
+    {
+      "code": "KS1-2-SC-1014",
+      "description": "offspring over time can make animals more or less able to survive in particular"
+    },
+    {
+      "code": "KS1-2-SC-1015",
+      "description": "environments, for example, by exploring how giraffes\u2019 necks got longer, or the"
+    },
+    {
+      "code": "KS1-2-SC-1016",
+      "description": "development of insulating fur on the arctic fox. Pupils might find out about the work of"
+    },
+    {
+      "code": "KS1-2-SC-1017",
+      "description": "palaeontologists such as Mary Anning and about how Charles Darwin and Alfred"
+    },
+    {
+      "code": "KS1-2-SC-1018",
+      "description": "Wallace developed their ideas on evolution."
+    },
+    {
+      "code": "KS1-2-SC-1019",
+      "description": "At this stage, pupils are not expected to understand how genes and"
+    },
+    {
+      "code": "KS1-2-SC-102",
+      "description": "and observe phenomena, looking more closely at the natural and humanly-constructed"
+    },
+    {
+      "code": "KS1-2-SC-1020",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-1021",
+      "description": "chromosomes work."
+    },
+    {
+      "code": "KS1-2-SC-1022",
+      "description": "32"
+    },
+    {
+      "code": "KS1-2-SC-1023",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-1024",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-1025",
+      "description": "Pupils might work scientifically by: observing and raising questions about local animals"
+    },
+    {
+      "code": "KS1-2-SC-1026",
+      "description": "and how they are adapted to their environment; comparing how some living things are"
+    },
+    {
+      "code": "KS1-2-SC-1027",
+      "description": "adapted to survive in extreme conditions, for example, cactuses, penguins and camels."
+    },
+    {
+      "code": "KS1-2-SC-1028",
+      "description": "They might analyse the advantages and disadvantages of specific adaptations, such as"
+    },
+    {
+      "code": "KS1-2-SC-1029",
+      "description": "being on two feet rather than four, having a long or a short beak, having gills or lungs,"
+    },
+    {
+      "code": "KS1-2-SC-103",
+      "description": "world around them. They should be encouraged to be curious and ask questions about"
+    },
+    {
+      "code": "KS1-2-SC-1030",
+      "description": "tendrils on climbing plants, brightly coloured and scented flowers."
+    },
+    {
+      "code": "KS1-2-SC-1031",
+      "description": "Light"
+    },
+    {
+      "code": "KS1-2-SC-1032",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-1033",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-1034",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-1035",
+      "description": "recognise that light appears to travel in straight lines"
+    },
+    {
+      "code": "KS1-2-SC-1036",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-1037",
+      "description": "use the idea that light travels in straight lines to explain that objects are seen"
+    },
+    {
+      "code": "KS1-2-SC-1038",
+      "description": "because they give out or reflect light into the eye"
+    },
+    {
+      "code": "KS1-2-SC-1039",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-104",
+      "description": "what they notice. They should be helped to develop their understanding of scientific ideas"
+    },
+    {
+      "code": "KS1-2-SC-1040",
+      "description": "explain that we see things because light travels from light sources to our eyes or"
+    },
+    {
+      "code": "KS1-2-SC-1041",
+      "description": "from light sources to objects and then to our eyes"
+    },
+    {
+      "code": "KS1-2-SC-1042",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-1043",
+      "description": "use the idea that light travels in straight lines to explain why shadows have the same"
+    },
+    {
+      "code": "KS1-2-SC-1044",
+      "description": "shape as the objects that cast them."
+    },
+    {
+      "code": "KS1-2-SC-1045",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-1046",
+      "description": "Pupils should build on the work on light in year 3, exploring the way that light behaves,"
+    },
+    {
+      "code": "KS1-2-SC-1047",
+      "description": "including light sources, reflection and shadows. They should talk about what happens"
+    },
+    {
+      "code": "KS1-2-SC-1048",
+      "description": "and make predictions."
+    },
+    {
+      "code": "KS1-2-SC-1049",
+      "description": "Pupils might work scientifically by: deciding where to place rear-view mirrors on cars;"
+    },
+    {
+      "code": "KS1-2-SC-105",
+      "description": "by using different types of scientific enquiry to answer their own questions, including"
+    },
+    {
+      "code": "KS1-2-SC-1050",
+      "description": "designing and making a periscope and using the idea that light appears to travel in"
+    },
+    {
+      "code": "KS1-2-SC-1051",
+      "description": "straight lines to explain how it works. They might investigate the relationship between"
+    },
+    {
+      "code": "KS1-2-SC-1052",
+      "description": "light sources, objects and shadows by using shadow puppets. They could extend their"
+    },
+    {
+      "code": "KS1-2-SC-1053",
+      "description": "experience of light by looking a range of phenomena including rainbows, colours on"
+    },
+    {
+      "code": "KS1-2-SC-1054",
+      "description": "soap bubbles, objects looking bent in water and coloured filters (they do not need to"
+    },
+    {
+      "code": "KS1-2-SC-1055",
+      "description": "explain why these phenomena occur)."
+    },
+    {
+      "code": "KS1-2-SC-1056",
+      "description": "33"
+    },
+    {
+      "code": "KS1-2-SC-1057",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-1058",
+      "description": "Electricity"
+    },
+    {
+      "code": "KS1-2-SC-1059",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-106",
+      "description": "observing changes over a period of time, noticing patterns, grouping and classifying"
+    },
+    {
+      "code": "KS1-2-SC-1060",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-1061",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-1062",
+      "description": "associate the brightness of a lamp or the volume of a buzzer with the number and"
+    },
+    {
+      "code": "KS1-2-SC-1063",
+      "description": "voltage of cells used in the circuit"
+    },
+    {
+      "code": "KS1-2-SC-1064",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-1065",
+      "description": "compare and give reasons for variations in how components function, including the"
+    },
+    {
+      "code": "KS1-2-SC-1066",
+      "description": "brightness of bulbs, the loudness of buzzers and the on/off position of switches"
+    },
+    {
+      "code": "KS1-2-SC-1067",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-1068",
+      "description": "use recognised symbols when representing a simple circuit in a diagram."
+    },
+    {
+      "code": "KS1-2-SC-1069",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-107",
+      "description": "things, carrying out simple comparative tests, and finding things out using secondary"
+    },
+    {
+      "code": "KS1-2-SC-1070",
+      "description": "Building on their work in year 4, pupils should construct simple series circuits, to help"
+    },
+    {
+      "code": "KS1-2-SC-1071",
+      "description": "them to answer questions about what happens when they try different components, for"
+    },
+    {
+      "code": "KS1-2-SC-1072",
+      "description": "example, switches, bulbs, buzzers and motors. They should learn how to represent a"
+    },
+    {
+      "code": "KS1-2-SC-1073",
+      "description": "simple circuit in a diagram using recognised symbols."
+    },
+    {
+      "code": "KS1-2-SC-1074",
+      "description": "Pupils are expected to learn only about series circuits, not parallel circuits. Pupils"
+    },
+    {
+      "code": "KS1-2-SC-1075",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-1076",
+      "description": "should be taught to take the necessary precautions for working safely with electricity."
+    },
+    {
+      "code": "KS1-2-SC-1077",
+      "description": "Pupils might work scientifically by: systematically identifying the effect of changing one"
+    },
+    {
+      "code": "KS1-2-SC-1078",
+      "description": "component at a time in a circuit; designing and making a set of traffic lights, a burglar"
+    },
+    {
+      "code": "KS1-2-SC-1079",
+      "description": "alarm or some other useful circuit."
+    },
+    {
+      "code": "KS1-2-SC-108",
+      "description": "sources of information. They should begin to use simple scientific language to talk about"
+    },
+    {
+      "code": "KS1-2-SC-1080",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS1-2-SC-1081",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under"
+    },
+    {
+      "code": "KS1-2-SC-1082",
+      "description": "the terms of the Open Government Licence. To view this licence, visit"
+    },
+    {
+      "code": "KS1-2-SC-1083",
+      "description": "or email: http://www.nationalarchives.gov.uk/doc/open-government-licence/"
+    },
+    {
+      "code": "KS1-2-SC-1084",
+      "description": "psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS1-2-SC-1085",
+      "description": "Reference: DFE-00182-2013"
+    },
+    {
+      "code": "KS1-2-SC-1086",
+      "description": "34"
+    },
+    {
+      "code": "KS1-2-SC-109",
+      "description": "what they have found out and communicate their ideas to a range of audiences in a variety"
+    },
+    {
+      "code": "KS1-2-SC-110",
+      "description": "of ways. Most of the learning about science should be done through the use of first-hand"
+    },
+    {
+      "code": "KS1-2-SC-111",
+      "description": "practical experiences, but there should also be some use of appropriate secondary"
+    },
+    {
+      "code": "KS1-2-SC-112",
+      "description": "sources, such as books, photographs and videos."
+    },
+    {
+      "code": "KS1-2-SC-113",
+      "description": "\u2018Working scientifically\u2019 is described separately in the programme of study, but must"
+    },
+    {
+      "code": "KS1-2-SC-114",
+      "description": "always"
+    },
+    {
+      "code": "KS1-2-SC-115",
+      "description": "be taught through and clearly related to the teaching of substantive science content in the"
+    },
+    {
+      "code": "KS1-2-SC-116",
+      "description": "programme of study. Throughout the notes and guidance, examples show how scientific"
+    },
+    {
+      "code": "KS1-2-SC-117",
+      "description": "methods and skills might be linked to specific elements of the content."
+    },
+    {
+      "code": "KS1-2-SC-118",
+      "description": "Pupils should read and spell scientific vocabulary at a level consistent with their increasing"
+    },
+    {
+      "code": "KS1-2-SC-119",
+      "description": "word reading and spelling knowledge at key stage 1."
+    },
+    {
+      "code": "KS1-2-SC-120",
+      "description": "5"
+    },
+    {
+      "code": "KS1-2-SC-121",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-122",
+      "description": "Key stage 1 programme of study \u2013 years 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-123",
+      "description": "Working scientifically"
+    },
+    {
+      "code": "KS1-2-SC-124",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-125",
+      "description": "During years 1 and 2, pupils should be taught to use the following practical scientific"
+    },
+    {
+      "code": "KS1-2-SC-126",
+      "description": "methods, processes and skills through the teaching of the programme of study content:"
+    },
+    {
+      "code": "KS1-2-SC-127",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-128",
+      "description": "asking simple questions and recognising that they can be answered in different ways"
+    },
+    {
+      "code": "KS1-2-SC-129",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-130",
+      "description": "observing closely, using simple equipment"
+    },
+    {
+      "code": "KS1-2-SC-131",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-132",
+      "description": "performing simple tests"
+    },
+    {
+      "code": "KS1-2-SC-133",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-134",
+      "description": "identifying and classifying"
+    },
+    {
+      "code": "KS1-2-SC-135",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-136",
+      "description": "using their observations and ideas to suggest answers to questions"
+    },
+    {
+      "code": "KS1-2-SC-137",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-138",
+      "description": "gathering and recording data to help in answering questions."
+    },
+    {
+      "code": "KS1-2-SC-139",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-140",
+      "description": "Pupils in years 1 and 2 should explore the world around them and raise their own"
+    },
+    {
+      "code": "KS1-2-SC-141",
+      "description": "questions. They should experience different types of scientific enquiries, including"
+    },
+    {
+      "code": "KS1-2-SC-142",
+      "description": "practical activities, and begin to recognise ways in which they might answer scientific"
+    },
+    {
+      "code": "KS1-2-SC-143",
+      "description": "questions. They should use simple features to compare objects, materials and living"
+    },
+    {
+      "code": "KS1-2-SC-144",
+      "description": "things and, with help, decide how to sort and group them, observe changes over time,"
+    },
+    {
+      "code": "KS1-2-SC-145",
+      "description": "and, with guidance, they should begin to notice patterns and relationships. They should"
+    },
+    {
+      "code": "KS1-2-SC-146",
+      "description": "ask people questions and use simple secondary sources to find answers. They should"
+    },
+    {
+      "code": "KS1-2-SC-147",
+      "description": "use simple measurements and equipment (for example, hand lenses, egg timers) to"
+    },
+    {
+      "code": "KS1-2-SC-148",
+      "description": "gather data, carry out simple tests, record simple data, and talk about what they have"
+    },
+    {
+      "code": "KS1-2-SC-149",
+      "description": "found out and how they found it out. With help, they should record and communicate"
+    },
+    {
+      "code": "KS1-2-SC-150",
+      "description": "their findings in a range of ways and begin to use simple scientific language."
+    },
+    {
+      "code": "KS1-2-SC-151",
+      "description": "These opportunities for working scientifically should be provided across years 1 and 2 so"
+    },
+    {
+      "code": "KS1-2-SC-152",
+      "description": "that the expectations in the programme of study can be met by the end of year 2. Pupils"
+    },
+    {
+      "code": "KS1-2-SC-153",
+      "description": "are not expected to cover each aspect for every area of study."
+    },
+    {
+      "code": "KS1-2-SC-154",
+      "description": "6"
+    },
+    {
+      "code": "KS1-2-SC-155",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-156",
+      "description": "Year 1 programme of study"
+    },
+    {
+      "code": "KS1-2-SC-157",
+      "description": "Plants"
+    },
+    {
+      "code": "KS1-2-SC-158",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-159",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-160",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-161",
+      "description": "identify and name a variety of common wild and garden plants, including deciduous"
+    },
+    {
+      "code": "KS1-2-SC-162",
+      "description": "and evergreen trees"
+    },
+    {
+      "code": "KS1-2-SC-163",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-164",
+      "description": "identify and describe the basic structure of a variety of common flowering plants,"
+    },
+    {
+      "code": "KS1-2-SC-165",
+      "description": "including trees."
+    },
+    {
+      "code": "KS1-2-SC-166",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-167",
+      "description": "Pupils should use the local environment throughout the year to explore and answer"
+    },
+    {
+      "code": "KS1-2-SC-168",
+      "description": "questions about plants growing in their habitat. Where possible, they should observe the"
+    },
+    {
+      "code": "KS1-2-SC-169",
+      "description": "growth of flowers and vegetables that they have planted."
+    },
+    {
+      "code": "KS1-2-SC-170",
+      "description": "They should become familiar with common names of flowers, examples of deciduous"
+    },
+    {
+      "code": "KS1-2-SC-171",
+      "description": "and evergreen trees, and plant structures (including leaves, flowers (blossom), petals,"
+    },
+    {
+      "code": "KS1-2-SC-172",
+      "description": "fruit, roots, bulb, seed, trunk, branches, stem)."
+    },
+    {
+      "code": "KS1-2-SC-173",
+      "description": "Pupils might work scientifically by: observing closely, perhaps using magnifying glasses,"
+    },
+    {
+      "code": "KS1-2-SC-174",
+      "description": "and comparing and contrasting familiar plants; describing how they were able to identify"
+    },
+    {
+      "code": "KS1-2-SC-175",
+      "description": "and group them, and drawing diagrams showing the parts of different plants including"
+    },
+    {
+      "code": "KS1-2-SC-176",
+      "description": "trees. Pupils might keep records of how plants have changed over time, for example the"
+    },
+    {
+      "code": "KS1-2-SC-177",
+      "description": "leaves falling off trees and buds opening; and compare and contrast what they have"
+    },
+    {
+      "code": "KS1-2-SC-178",
+      "description": "found out about different plants."
+    },
+    {
+      "code": "KS1-2-SC-179",
+      "description": "Animals, including humans"
+    },
+    {
+      "code": "KS1-2-SC-180",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-181",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-182",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-183",
+      "description": "identify and name a variety of common animals including fish, amphibians, reptiles,"
+    },
+    {
+      "code": "KS1-2-SC-184",
+      "description": "birds and mammals"
+    },
+    {
+      "code": "KS1-2-SC-185",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-186",
+      "description": "identify and name a variety of common animals that are carnivores, herbivores and"
+    },
+    {
+      "code": "KS1-2-SC-187",
+      "description": "omnivores"
+    },
+    {
+      "code": "KS1-2-SC-188",
+      "description": "7"
+    },
+    {
+      "code": "KS1-2-SC-189",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-190",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-191",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-192",
+      "description": "describe and compare the structure of a variety of common animals (fish,"
+    },
+    {
+      "code": "KS1-2-SC-193",
+      "description": "amphibians, reptiles, birds and mammals, including pets)"
+    },
+    {
+      "code": "KS1-2-SC-194",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-195",
+      "description": "identify, name, draw and label the basic parts of the human body and say which part"
+    },
+    {
+      "code": "KS1-2-SC-196",
+      "description": "of the body is associated with each sense."
+    },
+    {
+      "code": "KS1-2-SC-197",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-198",
+      "description": "Pupils should use the local environment throughout the year to explore and answer"
+    },
+    {
+      "code": "KS1-2-SC-199",
+      "description": "questions about animals in their habitat. They should understand how to take care of"
+    },
+    {
+      "code": "KS1-2-SC-200",
+      "description": "animals taken from their local environment and the need to return them safely after"
+    },
+    {
+      "code": "KS1-2-SC-201",
+      "description": "study. Pupils should become familiar with the common names of some fish, amphibians,"
+    },
+    {
+      "code": "KS1-2-SC-202",
+      "description": "reptiles, birds and mammals, including those that are kept as pets."
+    },
+    {
+      "code": "KS1-2-SC-203",
+      "description": "Pupils should have plenty of opportunities to learn the names of the main body parts"
+    },
+    {
+      "code": "KS1-2-SC-204",
+      "description": "(including head, neck, arms, elbows, legs, knees, face, ears, eyes, hair, mouth, teeth)"
+    },
+    {
+      "code": "KS1-2-SC-205",
+      "description": "through games, actions, songs and rhymes."
+    },
+    {
+      "code": "KS1-2-SC-206",
+      "description": "Pupils might work scientifically by: using their observations to compare and contrast"
+    },
+    {
+      "code": "KS1-2-SC-207",
+      "description": "animals at first hand or through videos and photographs, describing how they identify"
+    },
+    {
+      "code": "KS1-2-SC-208",
+      "description": "and group them; grouping animals according to what they eat; and using their senses to"
+    },
+    {
+      "code": "KS1-2-SC-209",
+      "description": "compare different textures, sounds and smells."
+    },
+    {
+      "code": "KS1-2-SC-210",
+      "description": "Everyday materials"
+    },
+    {
+      "code": "KS1-2-SC-211",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-212",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-213",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-214",
+      "description": "distinguish between an object and the material from which it is made"
+    },
+    {
+      "code": "KS1-2-SC-215",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-216",
+      "description": "identify and name a variety of everyday materials, including wood, plastic, glass,"
+    },
+    {
+      "code": "KS1-2-SC-217",
+      "description": "metal, water, and rock"
+    },
+    {
+      "code": "KS1-2-SC-218",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-219",
+      "description": "describe the simple physical properties of a variety of everyday materials"
+    },
+    {
+      "code": "KS1-2-SC-220",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-221",
+      "description": "compare and group together a variety of everyday materials on the basis of their"
+    },
+    {
+      "code": "KS1-2-SC-222",
+      "description": "simple physical properties."
+    },
+    {
+      "code": "KS1-2-SC-223",
+      "description": "8"
+    },
+    {
+      "code": "KS1-2-SC-224",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-225",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-226",
+      "description": "Pupils should explore, name, discuss and raise and answer questions about everyday"
+    },
+    {
+      "code": "KS1-2-SC-227",
+      "description": "materials so that they become familiar with the names of materials and properties such"
+    },
+    {
+      "code": "KS1-2-SC-228",
+      "description": "as: hard/soft; stretchy/stiff; shiny/dull; rough/smooth; bendy/not bendy; waterproof/not"
+    },
+    {
+      "code": "KS1-2-SC-229",
+      "description": "waterproof; absorbent/not absorbent; opaque/transparent. Pupils should explore and"
+    },
+    {
+      "code": "KS1-2-SC-230",
+      "description": "experiment with a wide variety of materials, not only those listed in the programme of"
+    },
+    {
+      "code": "KS1-2-SC-231",
+      "description": "study, but including for example: brick, paper, fabrics, elastic, foil."
+    },
+    {
+      "code": "KS1-2-SC-232",
+      "description": "Pupils might work scientifically by: performing simple tests to explore questions,"
+    },
+    {
+      "code": "KS1-2-SC-233",
+      "description": "for example: \u2018What is the best material for an umbrella? ...for lining a dog basket?"
+    },
+    {
+      "code": "KS1-2-SC-234",
+      "description": "...for curtains? ...for a bookshelf? ...for a gymnast\u2019s leotard?\u2019"
+    },
+    {
+      "code": "KS1-2-SC-235",
+      "description": "Seasonal changes"
+    },
+    {
+      "code": "KS1-2-SC-236",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-237",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-238",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-239",
+      "description": "observe changes across the four seasons"
+    },
+    {
+      "code": "KS1-2-SC-240",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-241",
+      "description": "observe and describe weather associated with the seasons and how day length"
+    },
+    {
+      "code": "KS1-2-SC-242",
+      "description": "varies."
+    },
+    {
+      "code": "KS1-2-SC-243",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-244",
+      "description": "Pupils should observe and talk about changes in the weather and the seasons."
+    },
+    {
+      "code": "KS1-2-SC-245",
+      "description": "Pupils should be warned that it is not safe to look directly at the Sun, even when"
+    },
+    {
+      "code": "KS1-2-SC-246",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-247",
+      "description": "wearing dark glasses."
+    },
+    {
+      "code": "KS1-2-SC-248",
+      "description": "Pupils might work scientifically by: making tables and charts about the weather; and"
+    },
+    {
+      "code": "KS1-2-SC-249",
+      "description": "making displays of what happens in the world around them, including day length, as the"
+    },
+    {
+      "code": "KS1-2-SC-250",
+      "description": "seasons change."
+    },
+    {
+      "code": "KS1-2-SC-251",
+      "description": "9"
+    },
+    {
+      "code": "KS1-2-SC-252",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-253",
+      "description": "Year 2 programme of study"
+    },
+    {
+      "code": "KS1-2-SC-254",
+      "description": "Living things and their habitats"
+    },
+    {
+      "code": "KS1-2-SC-255",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-256",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-257",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-258",
+      "description": "explore and compare the differences between things that are living, dead, and things"
+    },
+    {
+      "code": "KS1-2-SC-259",
+      "description": "that have never been alive"
+    },
+    {
+      "code": "KS1-2-SC-260",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-261",
+      "description": "identify that most living things live in habitats to which they are suited and describe"
+    },
+    {
+      "code": "KS1-2-SC-262",
+      "description": "how different habitats provide for the basic needs of different kinds of animals and"
+    },
+    {
+      "code": "KS1-2-SC-263",
+      "description": "plants, and how they depend on each other"
+    },
+    {
+      "code": "KS1-2-SC-264",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-265",
+      "description": "identify and name a variety of plants and animals in their habitats, including micro-"
+    },
+    {
+      "code": "KS1-2-SC-266",
+      "description": "habitats"
+    },
+    {
+      "code": "KS1-2-SC-267",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-268",
+      "description": "describe how animals obtain their food from plants and other animals, using the idea"
+    },
+    {
+      "code": "KS1-2-SC-269",
+      "description": "of a simple food chain, and identify and name different sources of food."
+    },
+    {
+      "code": "KS1-2-SC-270",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-271",
+      "description": "Pupils should be introduced to the idea that all living things have certain characteristics"
+    },
+    {
+      "code": "KS1-2-SC-272",
+      "description": "that are essential for keeping them alive and healthy. They should raise and answer"
+    },
+    {
+      "code": "KS1-2-SC-273",
+      "description": "questions that help them to become familiar with the life processes that are common to"
+    },
+    {
+      "code": "KS1-2-SC-274",
+      "description": "all living things. Pupils should be introduced to the terms \u2018habitat\u2019 (a natural environment"
+    },
+    {
+      "code": "KS1-2-SC-275",
+      "description": "or home of a variety of plants and animals) and \u2018micro-habitat\u2019 (a very small habitat, for"
+    },
+    {
+      "code": "KS1-2-SC-276",
+      "description": "example for woodlice under stones, logs or leaf litter). They should raise and answer"
+    },
+    {
+      "code": "KS1-2-SC-277",
+      "description": "questions about the local environment that help them to identify and study a variety of"
+    },
+    {
+      "code": "KS1-2-SC-278",
+      "description": "plants and animals within their habitat and observe how living things depend on each"
+    },
+    {
+      "code": "KS1-2-SC-279",
+      "description": "other, for example, plants serving as a source of food and shelter for animals. Pupils"
+    },
+    {
+      "code": "KS1-2-SC-280",
+      "description": "should compare animals in familiar habitats with animals found in less familiar habitats,"
+    },
+    {
+      "code": "KS1-2-SC-281",
+      "description": "for example, on the seashore, in woodland, in the ocean, in the rainforest."
+    },
+    {
+      "code": "KS1-2-SC-282",
+      "description": "Pupils might work scientifically by: sorting and classifying things according to whether"
+    },
+    {
+      "code": "KS1-2-SC-283",
+      "description": "they are living, dead or were never alive, and recording their findings using charts. They"
+    },
+    {
+      "code": "KS1-2-SC-284",
+      "description": "should describe how they decided where to place things, exploring questions for"
+    },
+    {
+      "code": "KS1-2-SC-285",
+      "description": "example: \u2018Is a flame alive? Is a deciduous tree dead in winter?\u2019 and talk about ways of"
+    },
+    {
+      "code": "KS1-2-SC-286",
+      "description": "answering their questions. They could construct a simple food chain that includes"
+    },
+    {
+      "code": "KS1-2-SC-287",
+      "description": "humans (e.g. grass, cow, human). They could describe the conditions in different"
+    },
+    {
+      "code": "KS1-2-SC-288",
+      "description": "habitats and micro-habitats (under log, on stony path, under bushes) and find out how"
+    },
+    {
+      "code": "KS1-2-SC-289",
+      "description": "the conditions affect the number and type(s) of plants and animals that live there."
+    },
+    {
+      "code": "KS1-2-SC-290",
+      "description": "10"
+    },
+    {
+      "code": "KS1-2-SC-291",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-292",
+      "description": "Plants"
+    },
+    {
+      "code": "KS1-2-SC-293",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-294",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-295",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-296",
+      "description": "observe and describe how seeds and bulbs grow into mature plants"
+    },
+    {
+      "code": "KS1-2-SC-297",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-298",
+      "description": "find out and describe how plants need water, light and a suitable temperature to grow"
+    },
+    {
+      "code": "KS1-2-SC-299",
+      "description": "and stay healthy."
+    },
+    {
+      "code": "KS1-2-SC-300",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-301",
+      "description": "Pupils should use the local environment throughout the year to observe how different"
+    },
+    {
+      "code": "KS1-2-SC-302",
+      "description": "plants grow. Pupils should be introduced to the requirements of plants for germination,"
+    },
+    {
+      "code": "KS1-2-SC-303",
+      "description": "growth and survival, as well as to the processes of reproduction and growth in plants."
+    },
+    {
+      "code": "KS1-2-SC-304",
+      "description": "Seeds and bulbs need water to grow but most do not need light; seeds and bulbs"
+    },
+    {
+      "code": "KS1-2-SC-305",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-306",
+      "description": "have a store of food inside them."
+    },
+    {
+      "code": "KS1-2-SC-307",
+      "description": "Pupils might work scientifically by: observing and recording, with some accuracy, the"
+    },
+    {
+      "code": "KS1-2-SC-308",
+      "description": "growth of a variety of plants as they change over time from a seed or bulb, or observing"
+    },
+    {
+      "code": "KS1-2-SC-309",
+      "description": "similar plants at different stages of growth; setting up a comparative test to show that"
+    },
+    {
+      "code": "KS1-2-SC-310",
+      "description": "plants need light and water to stay healthy."
+    },
+    {
+      "code": "KS1-2-SC-311",
+      "description": "Animals, including humans"
+    },
+    {
+      "code": "KS1-2-SC-312",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-313",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-314",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-315",
+      "description": "notice that animals, including humans, have offspring which grow into adults"
+    },
+    {
+      "code": "KS1-2-SC-316",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-317",
+      "description": "find out about and describe the basic needs of animals, including humans, for"
+    },
+    {
+      "code": "KS1-2-SC-318",
+      "description": "survival (water, food and air)"
+    },
+    {
+      "code": "KS1-2-SC-319",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-320",
+      "description": "describe the importance for humans of exercise, eating the right amounts of different"
+    },
+    {
+      "code": "KS1-2-SC-321",
+      "description": "types of food, and hygiene."
+    },
+    {
+      "code": "KS1-2-SC-322",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-323",
+      "description": "Pupils should be introduced to the basic needs of animals for survival, as well as the"
+    },
+    {
+      "code": "KS1-2-SC-324",
+      "description": "importance of exercise and nutrition for humans. They should also be introduced to the"
+    },
+    {
+      "code": "KS1-2-SC-325",
+      "description": "processes of reproduction and growth in animals. The focus at this stage should be on"
+    },
+    {
+      "code": "KS1-2-SC-326",
+      "description": "questions that help pupils to recognise growth; they should not be expected to"
+    },
+    {
+      "code": "KS1-2-SC-327",
+      "description": "understand how reproduction occurs."
+    },
+    {
+      "code": "KS1-2-SC-328",
+      "description": "11"
+    },
+    {
+      "code": "KS1-2-SC-329",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-330",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-331",
+      "description": "The following examples might be used: egg, chick, chicken; egg, caterpillar, pupa,"
+    },
+    {
+      "code": "KS1-2-SC-332",
+      "description": "butterfly; spawn, tadpole, frog; lamb, sheep. Growing into adults can include reference to"
+    },
+    {
+      "code": "KS1-2-SC-333",
+      "description": "baby, toddler, child, teenager, adult."
+    },
+    {
+      "code": "KS1-2-SC-334",
+      "description": "Pupils might work scientifically by: observing, through video or first-hand observation"
+    },
+    {
+      "code": "KS1-2-SC-335",
+      "description": "and measurement, how different animals, including humans, grow; asking questions"
+    },
+    {
+      "code": "KS1-2-SC-336",
+      "description": "about what things animals need for survival and what humans need to stay healthy; and"
+    },
+    {
+      "code": "KS1-2-SC-337",
+      "description": "suggesting ways to find answers to their questions."
+    },
+    {
+      "code": "KS1-2-SC-338",
+      "description": "Uses of everyday materials"
+    },
+    {
+      "code": "KS1-2-SC-339",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-340",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-341",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-342",
+      "description": "identify and compare the suitability of a variety of everyday materials, including"
+    },
+    {
+      "code": "KS1-2-SC-343",
+      "description": "wood, metal, plastic, glass, brick, rock, paper and cardboard for particular uses"
+    },
+    {
+      "code": "KS1-2-SC-344",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-345",
+      "description": "find out how the shapes of solid objects made from some materials can be changed"
+    },
+    {
+      "code": "KS1-2-SC-346",
+      "description": "by squashing, bending, twisting and stretching."
+    },
+    {
+      "code": "KS1-2-SC-347",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-348",
+      "description": "Pupils should identify and discuss the uses of different everyday materials so that they"
+    },
+    {
+      "code": "KS1-2-SC-349",
+      "description": "become familiar with how some materials are used for more than one thing (metal can"
+    },
+    {
+      "code": "KS1-2-SC-350",
+      "description": "be used for coins, cans, cars and table legs; wood can be used for matches, floors, and"
+    },
+    {
+      "code": "KS1-2-SC-351",
+      "description": "telegraph poles) or different materials are used for the same thing (spoons can be made"
+    },
+    {
+      "code": "KS1-2-SC-352",
+      "description": "from plastic, wood, metal, but not normally from glass). They should think about the"
+    },
+    {
+      "code": "KS1-2-SC-353",
+      "description": "properties of materials that make them suitable or unsuitable for particular purposes and"
+    },
+    {
+      "code": "KS1-2-SC-354",
+      "description": "they should be encouraged to think about unusual and creative uses for everyday"
+    },
+    {
+      "code": "KS1-2-SC-355",
+      "description": "materials. Pupils might find out about people who have developed useful new materials,"
+    },
+    {
+      "code": "KS1-2-SC-356",
+      "description": "for example John Dunlop, Charles Macintosh or John McAdam."
+    },
+    {
+      "code": "KS1-2-SC-357",
+      "description": "Pupils might work scientifically by: comparing the uses of everyday materials in and"
+    },
+    {
+      "code": "KS1-2-SC-358",
+      "description": "around the school with materials found in other places (at home, the journey to school,"
+    },
+    {
+      "code": "KS1-2-SC-359",
+      "description": "on visits, and in stories, rhymes and songs); observing closely, identifying and"
+    },
+    {
+      "code": "KS1-2-SC-360",
+      "description": "classifying the uses of different materials, and recording their observations."
+    },
+    {
+      "code": "KS1-2-SC-361",
+      "description": "12"
+    },
+    {
+      "code": "KS1-2-SC-362",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-363",
+      "description": "Lower key stage 2 \u2013 years 3 and 4"
+    },
+    {
+      "code": "KS1-2-SC-364",
+      "description": "The principal focus of science teaching in lower key stage 2 is to enable pupils to broaden"
+    },
+    {
+      "code": "KS1-2-SC-365",
+      "description": "their scientific view of the world around them. They should do this through exploring,"
+    },
+    {
+      "code": "KS1-2-SC-366",
+      "description": "talking about, testing and developing ideas about everyday phenomena and the"
+    },
+    {
+      "code": "KS1-2-SC-367",
+      "description": "relationships between living things and familiar environments, and by beginning to develop"
+    },
+    {
+      "code": "KS1-2-SC-368",
+      "description": "their ideas about functions, relationships and interactions. They should ask their own"
+    },
+    {
+      "code": "KS1-2-SC-369",
+      "description": "questions about what they observe and make some decisions about which types of"
+    },
+    {
+      "code": "KS1-2-SC-370",
+      "description": "scientific enquiry are likely to be the best ways of answering them, including observing"
+    },
+    {
+      "code": "KS1-2-SC-371",
+      "description": "changes over time, noticing patterns, grouping and classifying things, carrying out simple"
+    },
+    {
+      "code": "KS1-2-SC-372",
+      "description": "comparative and fair tests and finding things out using secondary sources of information."
+    },
+    {
+      "code": "KS1-2-SC-373",
+      "description": "They should draw simple conclusions and use some scientific language, first, to talk about"
+    },
+    {
+      "code": "KS1-2-SC-374",
+      "description": "and, later, to write about what they have found out."
+    },
+    {
+      "code": "KS1-2-SC-375",
+      "description": "\u2018Working scientifically\u2019 is described separately at the beginning of the programme of study,"
+    },
+    {
+      "code": "KS1-2-SC-376",
+      "description": "but must be taught through and clearly related to substantive science content in"
+    },
+    {
+      "code": "KS1-2-SC-377",
+      "description": "always"
+    },
+    {
+      "code": "KS1-2-SC-378",
+      "description": "the programme of study. Throughout the notes and guidance, examples show how"
+    },
+    {
+      "code": "KS1-2-SC-379",
+      "description": "scientific methods and skills might be linked to specific elements of the content."
+    },
+    {
+      "code": "KS1-2-SC-380",
+      "description": "Pupils should read and spell scientific vocabulary correctly and with confidence, using their"
+    },
+    {
+      "code": "KS1-2-SC-381",
+      "description": "growing word reading and spelling knowledge."
+    },
+    {
+      "code": "KS1-2-SC-382",
+      "description": "13"
+    },
+    {
+      "code": "KS1-2-SC-383",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-384",
+      "description": "Lower key stage 2 programme of study"
+    },
+    {
+      "code": "KS1-2-SC-385",
+      "description": "Working scientifically"
+    },
+    {
+      "code": "KS1-2-SC-386",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-387",
+      "description": "During years 3 and 4, pupils should be taught to use the following practical scientific"
+    },
+    {
+      "code": "KS1-2-SC-388",
+      "description": "methods, processes and skills through the teaching of the programme of study content:"
+    },
+    {
+      "code": "KS1-2-SC-389",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-390",
+      "description": "asking relevant questions and using different types of scientific enquiries to answer"
+    },
+    {
+      "code": "KS1-2-SC-391",
+      "description": "them"
+    },
+    {
+      "code": "KS1-2-SC-392",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-393",
+      "description": "setting up simple practical enquiries, comparative and fair tests"
+    },
+    {
+      "code": "KS1-2-SC-394",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-395",
+      "description": "making systematic and careful observations and, where appropriate, taking accurate"
+    },
+    {
+      "code": "KS1-2-SC-396",
+      "description": "measurements using standard units, using a range of equipment, including"
+    },
+    {
+      "code": "KS1-2-SC-397",
+      "description": "thermometers and data loggers"
+    },
+    {
+      "code": "KS1-2-SC-398",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-399",
+      "description": "gathering, recording, classifying and presenting data in a variety of ways to help in"
+    },
+    {
+      "code": "KS1-2-SC-400",
+      "description": "answering questions"
+    },
+    {
+      "code": "KS1-2-SC-401",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-402",
+      "description": "recording findings using simple scientific language, drawings, labelled diagrams,"
+    },
+    {
+      "code": "KS1-2-SC-403",
+      "description": "keys, bar charts, and tables"
+    },
+    {
+      "code": "KS1-2-SC-404",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-405",
+      "description": "reporting on findings from enquiries, including oral and written explanations, displays"
+    },
+    {
+      "code": "KS1-2-SC-406",
+      "description": "or presentations of results and conclusions"
+    },
+    {
+      "code": "KS1-2-SC-407",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-408",
+      "description": "using results to draw simple conclusions, make predictions for new values, suggest"
+    },
+    {
+      "code": "KS1-2-SC-409",
+      "description": "improvements and raise further questions"
+    },
+    {
+      "code": "KS1-2-SC-410",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-411",
+      "description": "identifying differences, similarities or changes related to simple scientific ideas and"
+    },
+    {
+      "code": "KS1-2-SC-412",
+      "description": "processes"
+    },
+    {
+      "code": "KS1-2-SC-413",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-414",
+      "description": "using straightforward scientific evidence to answer questions or to support their"
+    },
+    {
+      "code": "KS1-2-SC-415",
+      "description": "findings."
+    },
+    {
+      "code": "KS1-2-SC-416",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-417",
+      "description": "Pupils in years 3 and 4 should be given a range of scientific experiences to enable them"
+    },
+    {
+      "code": "KS1-2-SC-418",
+      "description": "to raise their own questions about the world around them. They should start to make"
+    },
+    {
+      "code": "KS1-2-SC-419",
+      "description": "their own decisions about the most appropriate type of scientific enquiry they might use"
+    },
+    {
+      "code": "KS1-2-SC-420",
+      "description": "to answer questions; recognise when a simple fair test is necessary and help to decide"
+    },
+    {
+      "code": "KS1-2-SC-421",
+      "description": "how to set it up; talk about criteria for grouping, sorting and classifying; and use simple"
+    },
+    {
+      "code": "KS1-2-SC-422",
+      "description": "keys. They should begin to look for naturally occurring patterns and relationships and"
+    },
+    {
+      "code": "KS1-2-SC-423",
+      "description": "decide what data to collect to identify them. They should help to make decisions about"
+    },
+    {
+      "code": "KS1-2-SC-424",
+      "description": "what observations to make, how long to make them for and the type of simple"
+    },
+    {
+      "code": "KS1-2-SC-425",
+      "description": "equipment that might be used."
+    },
+    {
+      "code": "KS1-2-SC-426",
+      "description": "14"
+    },
+    {
+      "code": "KS1-2-SC-427",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-428",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-429",
+      "description": "They should learn how to use new equipment, such as data loggers, appropriately. They"
+    },
+    {
+      "code": "KS1-2-SC-430",
+      "description": "should collect data from their own observations and measurements, using notes, simple"
+    },
+    {
+      "code": "KS1-2-SC-431",
+      "description": "tables and standard units, and help to make decisions about how to record and analyse"
+    },
+    {
+      "code": "KS1-2-SC-432",
+      "description": "this data. With help, pupils should look for changes, patterns, similarities and differences"
+    },
+    {
+      "code": "KS1-2-SC-433",
+      "description": "in their data in order to draw simple conclusions and answer questions. With support,"
+    },
+    {
+      "code": "KS1-2-SC-434",
+      "description": "they should identify new questions arising from the data, making predictions for new"
+    },
+    {
+      "code": "KS1-2-SC-435",
+      "description": "values within or beyond the data they have collected and finding ways of improving what"
+    },
+    {
+      "code": "KS1-2-SC-436",
+      "description": "they have already done. They should also recognise when and how secondary sources"
+    },
+    {
+      "code": "KS1-2-SC-437",
+      "description": "might help them to answer questions that cannot be answered through practical"
+    },
+    {
+      "code": "KS1-2-SC-438",
+      "description": "investigations. Pupils should use relevant scientific language to discuss their ideas and"
+    },
+    {
+      "code": "KS1-2-SC-439",
+      "description": "communicate their findings in ways that are appropriate for different audiences."
+    },
+    {
+      "code": "KS1-2-SC-440",
+      "description": "These opportunities for working scientifically should be provided across years 3 and 4 so"
+    },
+    {
+      "code": "KS1-2-SC-441",
+      "description": "that the expectations in the programme of study can be met by the end of year 4. Pupils"
+    },
+    {
+      "code": "KS1-2-SC-442",
+      "description": "are not expected to cover each aspect for every area of study."
+    },
+    {
+      "code": "KS1-2-SC-443",
+      "description": "15"
+    },
+    {
+      "code": "KS1-2-SC-444",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-445",
+      "description": "Year 3 programme of study"
+    },
+    {
+      "code": "KS1-2-SC-446",
+      "description": "Plants"
+    },
+    {
+      "code": "KS1-2-SC-447",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-448",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-449",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-450",
+      "description": "identify and describe the functions of different parts of flowering plants: roots,"
+    },
+    {
+      "code": "KS1-2-SC-451",
+      "description": "stem/trunk, leaves and flowers"
+    },
+    {
+      "code": "KS1-2-SC-452",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-453",
+      "description": "explore the requirements of plants for life and growth (air, light, water, nutrients from"
+    },
+    {
+      "code": "KS1-2-SC-454",
+      "description": "soil, and room to grow) and how they vary from plant to plant"
+    },
+    {
+      "code": "KS1-2-SC-455",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-456",
+      "description": "investigate the way in which water is transported within plants"
+    },
+    {
+      "code": "KS1-2-SC-457",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-458",
+      "description": "explore the part that flowers play in the life cycle of flowering plants, including"
+    },
+    {
+      "code": "KS1-2-SC-459",
+      "description": "pollination, seed formation and seed dispersal."
+    },
+    {
+      "code": "KS1-2-SC-460",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-461",
+      "description": "Pupils should be introduced to the relationship between structure and function: the idea"
+    },
+    {
+      "code": "KS1-2-SC-462",
+      "description": "that every part has a job to do. They should explore questions that focus on the role of"
+    },
+    {
+      "code": "KS1-2-SC-463",
+      "description": "the roots and stem in nutrition and support, leaves for nutrition and flowers for"
+    },
+    {
+      "code": "KS1-2-SC-464",
+      "description": "reproduction."
+    },
+    {
+      "code": "KS1-2-SC-465",
+      "description": "Pupils can be introduced to the idea that plants can make their own food, but at"
+    },
+    {
+      "code": "KS1-2-SC-466",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-467",
+      "description": "this stage they do not need to understand how this happens."
+    },
+    {
+      "code": "KS1-2-SC-468",
+      "description": "Pupils might work scientifically by: comparing the effect of different factors on plant"
+    },
+    {
+      "code": "KS1-2-SC-469",
+      "description": "growth, for example, the amount of light, the amount of fertiliser; discovering how seeds"
+    },
+    {
+      "code": "KS1-2-SC-470",
+      "description": "are formed by observing the different stages of plant life cycles over a period of time;"
+    },
+    {
+      "code": "KS1-2-SC-471",
+      "description": "looking for patterns in the structure of fruits that relate to how the seeds are dispersed."
+    },
+    {
+      "code": "KS1-2-SC-472",
+      "description": "They might observe how water is transported in plants, for example, by putting cut, white"
+    },
+    {
+      "code": "KS1-2-SC-473",
+      "description": "carnations into coloured water and observing how water travels up the stem to the"
+    },
+    {
+      "code": "KS1-2-SC-474",
+      "description": "flowers."
+    },
+    {
+      "code": "KS1-2-SC-475",
+      "description": "16"
+    },
+    {
+      "code": "KS1-2-SC-476",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-477",
+      "description": "Animals, including humans"
+    },
+    {
+      "code": "KS1-2-SC-478",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-479",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-480",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-481",
+      "description": "identify that animals, including humans, need the right types and amount of nutrition,"
+    },
+    {
+      "code": "KS1-2-SC-482",
+      "description": "and that they cannot make their own food; they get nutrition from what they eat"
+    },
+    {
+      "code": "KS1-2-SC-483",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-484",
+      "description": "identify that humans and some other animals have skeletons and muscles for"
+    },
+    {
+      "code": "KS1-2-SC-485",
+      "description": "support, protection and movement."
+    },
+    {
+      "code": "KS1-2-SC-486",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-487",
+      "description": "Pupils should continue to learn about the importance of nutrition and should be"
+    },
+    {
+      "code": "KS1-2-SC-488",
+      "description": "introduced to the main body parts associated with the skeleton and muscles, finding out"
+    },
+    {
+      "code": "KS1-2-SC-489",
+      "description": "how different parts of the body have special functions."
+    },
+    {
+      "code": "KS1-2-SC-490",
+      "description": "Pupils might work scientifically by: identifying and grouping animals with and without"
+    },
+    {
+      "code": "KS1-2-SC-491",
+      "description": "skeletons and observing and comparing their movement; exploring ideas about what"
+    },
+    {
+      "code": "KS1-2-SC-492",
+      "description": "would happen if humans did not have skeletons. They might compare and contrast the"
+    },
+    {
+      "code": "KS1-2-SC-493",
+      "description": "diets of different animals (including their pets) and decide ways of grouping them"
+    },
+    {
+      "code": "KS1-2-SC-494",
+      "description": "according to what they eat. They might research different food groups and how they"
+    },
+    {
+      "code": "KS1-2-SC-495",
+      "description": "keep us healthy and design meals based on what they find out."
+    },
+    {
+      "code": "KS1-2-SC-496",
+      "description": "Rocks"
+    },
+    {
+      "code": "KS1-2-SC-497",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-498",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-499",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-500",
+      "description": "compare and group together different kinds of rocks on the basis of their appearance"
+    },
+    {
+      "code": "KS1-2-SC-501",
+      "description": "and simple physical properties"
+    },
+    {
+      "code": "KS1-2-SC-502",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-503",
+      "description": "describe in simple terms how fossils are formed when things that have lived are"
+    },
+    {
+      "code": "KS1-2-SC-504",
+      "description": "trapped within rock"
+    },
+    {
+      "code": "KS1-2-SC-505",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-506",
+      "description": "recognise that soils are made from rocks and organic matter."
+    },
+    {
+      "code": "KS1-2-SC-507",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-508",
+      "description": "Linked with work in geography, pupils should explore different kinds of rocks and soils,"
+    },
+    {
+      "code": "KS1-2-SC-509",
+      "description": "including those in the local environment."
+    },
+    {
+      "code": "KS1-2-SC-510",
+      "description": "17"
+    },
+    {
+      "code": "KS1-2-SC-511",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-512",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-513",
+      "description": "Pupils might work scientifically by: observing rocks, including those used in buildings"
+    },
+    {
+      "code": "KS1-2-SC-514",
+      "description": "and gravestones, and exploring how and why they might have changed over time; using"
+    },
+    {
+      "code": "KS1-2-SC-515",
+      "description": "a hand lens or microscope to help them to identify and classify rocks according to"
+    },
+    {
+      "code": "KS1-2-SC-516",
+      "description": "whether they have grains or crystals, and whether they have fossils in them. Pupils"
+    },
+    {
+      "code": "KS1-2-SC-517",
+      "description": "might research and discuss the different kinds of living things whose fossils are found in"
+    },
+    {
+      "code": "KS1-2-SC-518",
+      "description": "sedimentary rock and explore how fossils are formed. Pupils could explore different soils"
+    },
+    {
+      "code": "KS1-2-SC-519",
+      "description": "and identify similarities and differences between them and investigate what happens"
+    },
+    {
+      "code": "KS1-2-SC-520",
+      "description": "when rocks are rubbed together or what changes occur when they are in water. They"
+    },
+    {
+      "code": "KS1-2-SC-521",
+      "description": "can raise and answer questions about the way soils are formed."
+    },
+    {
+      "code": "KS1-2-SC-522",
+      "description": "Light"
+    },
+    {
+      "code": "KS1-2-SC-523",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-524",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-525",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-526",
+      "description": "recognise that they need light in order to see things and that dark is the absence of"
+    },
+    {
+      "code": "KS1-2-SC-527",
+      "description": "light"
+    },
+    {
+      "code": "KS1-2-SC-528",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-529",
+      "description": "notice that light is reflected from surfaces"
+    },
+    {
+      "code": "KS1-2-SC-530",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-531",
+      "description": "recognise that light from the sun can be dangerous and that there are ways to protect"
+    },
+    {
+      "code": "KS1-2-SC-532",
+      "description": "their eyes"
+    },
+    {
+      "code": "KS1-2-SC-533",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-534",
+      "description": "recognise that shadows are formed when the light from a light source is blocked by"
+    },
+    {
+      "code": "KS1-2-SC-535",
+      "description": "an opaque object"
+    },
+    {
+      "code": "KS1-2-SC-536",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-537",
+      "description": "find patterns in the way that the size of shadows change."
+    },
+    {
+      "code": "KS1-2-SC-538",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-539",
+      "description": "Pupils should explore what happens when light reflects off a mirror or other reflective"
+    },
+    {
+      "code": "KS1-2-SC-540",
+      "description": "surfaces, including playing mirror games to help them to answer questions about how"
+    },
+    {
+      "code": "KS1-2-SC-541",
+      "description": "light behaves. They should think about why it is important to protect their eyes from"
+    },
+    {
+      "code": "KS1-2-SC-542",
+      "description": "bright lights. They should look for, and measure, shadows, and find out how they are"
+    },
+    {
+      "code": "KS1-2-SC-543",
+      "description": "formed and what might cause the shadows to change."
+    },
+    {
+      "code": "KS1-2-SC-544",
+      "description": "Pupils should be warned that it is not safe to look directly at the Sun, even when"
+    },
+    {
+      "code": "KS1-2-SC-545",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-546",
+      "description": "wearing dark glasses."
+    },
+    {
+      "code": "KS1-2-SC-547",
+      "description": "Pupils might work scientifically by: looking for patterns in what happens to shadows"
+    },
+    {
+      "code": "KS1-2-SC-548",
+      "description": "when the light source moves or the distance between the light source and the object"
+    },
+    {
+      "code": "KS1-2-SC-549",
+      "description": "changes."
+    },
+    {
+      "code": "KS1-2-SC-550",
+      "description": "18"
+    },
+    {
+      "code": "KS1-2-SC-551",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-552",
+      "description": "Forces and magnets"
+    },
+    {
+      "code": "KS1-2-SC-553",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-554",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-555",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-556",
+      "description": "compare how things move on different surfaces"
+    },
+    {
+      "code": "KS1-2-SC-557",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-558",
+      "description": "notice that some forces need contact between two objects, but magnetic forces can"
+    },
+    {
+      "code": "KS1-2-SC-559",
+      "description": "act at a distance"
+    },
+    {
+      "code": "KS1-2-SC-560",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-561",
+      "description": "observe how magnets attract or repel each other and attract some materials and not"
+    },
+    {
+      "code": "KS1-2-SC-562",
+      "description": "others"
+    },
+    {
+      "code": "KS1-2-SC-563",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-564",
+      "description": "compare and group together a variety of everyday materials on the basis of whether"
+    },
+    {
+      "code": "KS1-2-SC-565",
+      "description": "they are attracted to a magnet, and identify some magnetic materials"
+    },
+    {
+      "code": "KS1-2-SC-566",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-567",
+      "description": "describe magnets as having two poles"
+    },
+    {
+      "code": "KS1-2-SC-568",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-569",
+      "description": "predict whether two magnets will attract or repel each other, depending on which"
+    },
+    {
+      "code": "KS1-2-SC-570",
+      "description": "poles are facing."
+    },
+    {
+      "code": "KS1-2-SC-571",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-572",
+      "description": "Pupils should observe that magnetic forces can act without direct contact, unlike most"
+    },
+    {
+      "code": "KS1-2-SC-573",
+      "description": "forces, where direct contact is necessary (for example, opening a door, pushing a"
+    },
+    {
+      "code": "KS1-2-SC-574",
+      "description": "swing). They should explore the behaviour and everyday uses of different magnets (for"
+    },
+    {
+      "code": "KS1-2-SC-575",
+      "description": "example, bar, ring, button and horseshoe)."
+    },
+    {
+      "code": "KS1-2-SC-576",
+      "description": "Pupils might work scientifically by: comparing how different things move and grouping"
+    },
+    {
+      "code": "KS1-2-SC-577",
+      "description": "them; raising questions and carrying out tests to find out how far things move on"
+    },
+    {
+      "code": "KS1-2-SC-578",
+      "description": "different surfaces and gathering and recording data to find answers their questions;"
+    },
+    {
+      "code": "KS1-2-SC-579",
+      "description": "exploring the strengths of different magnets and finding a fair way to compare them;"
+    },
+    {
+      "code": "KS1-2-SC-580",
+      "description": "sorting materials into those that are magnetic and those that are not; looking for patterns"
+    },
+    {
+      "code": "KS1-2-SC-581",
+      "description": "in the way that magnets behave in relation to each other and what might affect this, for"
+    },
+    {
+      "code": "KS1-2-SC-582",
+      "description": "example, the strength of the magnet or which pole faces another; identifying how these"
+    },
+    {
+      "code": "KS1-2-SC-583",
+      "description": "properties make magnets useful in everyday items and suggesting creative uses for"
+    },
+    {
+      "code": "KS1-2-SC-584",
+      "description": "different magnets."
+    },
+    {
+      "code": "KS1-2-SC-585",
+      "description": "19"
+    },
+    {
+      "code": "KS1-2-SC-586",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-587",
+      "description": "Year 4 programme of study"
+    },
+    {
+      "code": "KS1-2-SC-588",
+      "description": "Living things and their habitats"
+    },
+    {
+      "code": "KS1-2-SC-589",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-590",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-591",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-592",
+      "description": "recognise that living things can be grouped in a variety of ways"
+    },
+    {
+      "code": "KS1-2-SC-593",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-594",
+      "description": "explore and use classification keys to help group, identify and name a variety of living"
+    },
+    {
+      "code": "KS1-2-SC-595",
+      "description": "things in their local and wider environment"
+    },
+    {
+      "code": "KS1-2-SC-596",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-597",
+      "description": "recognise that environments can change and that this can sometimes pose dangers"
+    },
+    {
+      "code": "KS1-2-SC-598",
+      "description": "to living things."
+    },
+    {
+      "code": "KS1-2-SC-599",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-600",
+      "description": "Pupils should use the local environment throughout the year to raise and answer"
+    },
+    {
+      "code": "KS1-2-SC-601",
+      "description": "questions that help them to identify and study plants and animals in their habitat. They"
+    },
+    {
+      "code": "KS1-2-SC-602",
+      "description": "should identify how the habitat changes throughout the year. Pupils should explore"
+    },
+    {
+      "code": "KS1-2-SC-603",
+      "description": "possible ways of grouping a wide selection of living things that include animals and"
+    },
+    {
+      "code": "KS1-2-SC-604",
+      "description": "flowering plants and non-flowering plants. Pupils could begin to put vertebrate animals"
+    },
+    {
+      "code": "KS1-2-SC-605",
+      "description": "into groups such as fish, amphibians, reptiles, birds, and mammals; and invertebrates"
+    },
+    {
+      "code": "KS1-2-SC-606",
+      "description": "into snails and slugs, worms, spiders, and insects."
+    },
+    {
+      "code": "KS1-2-SC-607",
+      "description": "Plants can be grouped into categories such as flowering plants (including"
+    },
+    {
+      "code": "KS1-2-SC-608",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-609",
+      "description": "grasses) and non-flowering plants, such as ferns and mosses."
+    },
+    {
+      "code": "KS1-2-SC-610",
+      "description": "Pupils should explore examples of human impact (both positive and negative) on"
+    },
+    {
+      "code": "KS1-2-SC-611",
+      "description": "environments, for example, the positive effects of nature reserves, ecologically planned"
+    },
+    {
+      "code": "KS1-2-SC-612",
+      "description": "parks, or garden ponds, and the negative effects of population and development, litter or"
+    },
+    {
+      "code": "KS1-2-SC-613",
+      "description": "deforestation."
+    },
+    {
+      "code": "KS1-2-SC-614",
+      "description": "Pupils might work scientifically by: using and making simple guides or keys to explore"
+    },
+    {
+      "code": "KS1-2-SC-615",
+      "description": "and identify local plants and animals; making a guide to local living things; raising and"
+    },
+    {
+      "code": "KS1-2-SC-616",
+      "description": "answering questions based on their observations of animals and what they have found"
+    },
+    {
+      "code": "KS1-2-SC-617",
+      "description": "out about other animals that they have researched."
+    },
+    {
+      "code": "KS1-2-SC-618",
+      "description": "20"
+    },
+    {
+      "code": "KS1-2-SC-619",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-620",
+      "description": "Animals, including humans"
+    },
+    {
+      "code": "KS1-2-SC-621",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-622",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-623",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-624",
+      "description": "describe the simple functions of the basic parts of the digestive system in humans"
+    },
+    {
+      "code": "KS1-2-SC-625",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-626",
+      "description": "identify the different types of teeth in humans and their simple functions"
+    },
+    {
+      "code": "KS1-2-SC-627",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-628",
+      "description": "construct and interpret a variety of food chains, identifying producers, predators and"
+    },
+    {
+      "code": "KS1-2-SC-629",
+      "description": "prey."
+    },
+    {
+      "code": "KS1-2-SC-630",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-631",
+      "description": "Pupils should be introduced to the main body parts associated with the digestive system,"
+    },
+    {
+      "code": "KS1-2-SC-632",
+      "description": "for example, mouth, tongue, teeth, oesophagus, stomach and small and large intestine"
+    },
+    {
+      "code": "KS1-2-SC-633",
+      "description": "and explore questions that help them to understand their special functions."
+    },
+    {
+      "code": "KS1-2-SC-634",
+      "description": "Pupils might work scientifically by: comparing the teeth of carnivores and herbivores,"
+    },
+    {
+      "code": "KS1-2-SC-635",
+      "description": "and suggesting reasons for differences; finding out what damages teeth and how to look"
+    },
+    {
+      "code": "KS1-2-SC-636",
+      "description": "after them. They might draw and discuss their ideas about the digestive system and"
+    },
+    {
+      "code": "KS1-2-SC-637",
+      "description": "compare them with models or images."
+    },
+    {
+      "code": "KS1-2-SC-638",
+      "description": "States of matter"
+    },
+    {
+      "code": "KS1-2-SC-639",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-640",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-641",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-642",
+      "description": "compare and group materials together, according to whether they are solids, liquids"
+    },
+    {
+      "code": "KS1-2-SC-643",
+      "description": "or gases"
+    },
+    {
+      "code": "KS1-2-SC-644",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-645",
+      "description": "observe that some materials change state when they are heated or cooled, and"
+    },
+    {
+      "code": "KS1-2-SC-646",
+      "description": "measure or research the temperature at which this happens in degrees Celsius (\u00b0C)"
+    },
+    {
+      "code": "KS1-2-SC-647",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-648",
+      "description": "identify the part played by evaporation and condensation in the water cycle and"
+    },
+    {
+      "code": "KS1-2-SC-649",
+      "description": "associate the rate of evaporation with temperature."
+    },
+    {
+      "code": "KS1-2-SC-650",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-651",
+      "description": "Pupils should explore a variety of everyday materials and develop simple descriptions of"
+    },
+    {
+      "code": "KS1-2-SC-652",
+      "description": "the states of matter (solids hold their shape; liquids form a pool not a pile; gases escape"
+    },
+    {
+      "code": "KS1-2-SC-653",
+      "description": "from an unsealed container). Pupils should observe water as a solid, a liquid and a gas"
+    },
+    {
+      "code": "KS1-2-SC-654",
+      "description": "and should note the changes to water when it is heated or cooled."
+    },
+    {
+      "code": "KS1-2-SC-655",
+      "description": "21"
+    },
+    {
+      "code": "KS1-2-SC-656",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-657",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-658",
+      "description": "Teachers should avoid using materials where heating is associated with chemical"
+    },
+    {
+      "code": "KS1-2-SC-659",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-660",
+      "description": "change, for example, through baking or burning."
+    },
+    {
+      "code": "KS1-2-SC-661",
+      "description": "Pupils might work scientifically by: grouping and classifying a variety of different"
+    },
+    {
+      "code": "KS1-2-SC-662",
+      "description": "materials; exploring the effect of temperature on substances such as chocolate, butter,"
+    },
+    {
+      "code": "KS1-2-SC-663",
+      "description": "cream (for example, to make food such as chocolate crispy cakes and ice-cream for a"
+    },
+    {
+      "code": "KS1-2-SC-664",
+      "description": "party). They could research the temperature at which materials change state, for"
+    },
+    {
+      "code": "KS1-2-SC-665",
+      "description": "example, when iron melts or when oxygen condenses into a liquid. They might observe"
+    },
+    {
+      "code": "KS1-2-SC-666",
+      "description": "and record evaporation over a period of time, for example, a puddle in the playground or"
+    },
+    {
+      "code": "KS1-2-SC-667",
+      "description": "washing on a line, and investigate the effect of temperature on washing drying or"
+    },
+    {
+      "code": "KS1-2-SC-668",
+      "description": "snowmen melting."
+    },
+    {
+      "code": "KS1-2-SC-669",
+      "description": "Sound"
+    },
+    {
+      "code": "KS1-2-SC-670",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-671",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-672",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-673",
+      "description": "identify how sounds are made, associating some of them with something vibrating"
+    },
+    {
+      "code": "KS1-2-SC-674",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-675",
+      "description": "recognise that vibrations from sounds travel through a medium to the ear"
+    },
+    {
+      "code": "KS1-2-SC-676",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-677",
+      "description": "find patterns between the pitch of a sound and features of the object that produced it"
+    },
+    {
+      "code": "KS1-2-SC-678",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-679",
+      "description": "find patterns between the volume of a sound and the strength of the vibrations that"
+    },
+    {
+      "code": "KS1-2-SC-680",
+      "description": "produced it"
+    },
+    {
+      "code": "KS1-2-SC-681",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-682",
+      "description": "recognise that sounds get fainter as the distance from the sound source increases."
+    },
+    {
+      "code": "KS1-2-SC-683",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-684",
+      "description": "Pupils should explore and identify the way sound is made through vibration in a range of"
+    },
+    {
+      "code": "KS1-2-SC-685",
+      "description": "different musical instruments from around the world; and find out how the pitch and"
+    },
+    {
+      "code": "KS1-2-SC-686",
+      "description": "volume of sounds can be changed in a variety of ways."
+    },
+    {
+      "code": "KS1-2-SC-687",
+      "description": "Pupils might work scientifically by: finding patterns in the sounds that are made by"
+    },
+    {
+      "code": "KS1-2-SC-688",
+      "description": "different objects such as saucepan lids of different sizes or elastic bands of different"
+    },
+    {
+      "code": "KS1-2-SC-689",
+      "description": "thicknesses. They might make earmuffs from a variety of different materials to"
+    },
+    {
+      "code": "KS1-2-SC-690",
+      "description": "investigate which provides the best insulation against sound. They could make and play"
+    },
+    {
+      "code": "KS1-2-SC-691",
+      "description": "their own instruments by using what they have found out about pitch and volume."
+    },
+    {
+      "code": "KS1-2-SC-692",
+      "description": "22"
+    },
+    {
+      "code": "KS1-2-SC-693",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-694",
+      "description": "Electricity"
+    },
+    {
+      "code": "KS1-2-SC-695",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-696",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-697",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-698",
+      "description": "identify common appliances that run on electricity"
+    },
+    {
+      "code": "KS1-2-SC-699",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-700",
+      "description": "construct a simple series electrical circuit, identifying and naming its basic parts,"
+    },
+    {
+      "code": "KS1-2-SC-701",
+      "description": "including cells, wires, bulbs, switches and buzzers"
+    },
+    {
+      "code": "KS1-2-SC-702",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-703",
+      "description": "identify whether or not a lamp will light in a simple series circuit, based on whether or"
+    },
+    {
+      "code": "KS1-2-SC-704",
+      "description": "not the lamp is part of a complete loop with a battery"
+    },
+    {
+      "code": "KS1-2-SC-705",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-706",
+      "description": "recognise that a switch opens and closes a circuit and associate this with whether or"
+    },
+    {
+      "code": "KS1-2-SC-707",
+      "description": "not a lamp lights in a simple series circuit"
+    },
+    {
+      "code": "KS1-2-SC-708",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-709",
+      "description": "recognise some common conductors and insulators, and associate metals with being"
+    },
+    {
+      "code": "KS1-2-SC-710",
+      "description": "good conductors."
+    },
+    {
+      "code": "KS1-2-SC-711",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-712",
+      "description": "Pupils should construct simple series circuits, trying different components, for example,"
+    },
+    {
+      "code": "KS1-2-SC-713",
+      "description": "bulbs, buzzers and motors, and including switches, and use their circuits to create"
+    },
+    {
+      "code": "KS1-2-SC-714",
+      "description": "simple devices. Pupils should draw the circuit as a pictorial representation, not"
+    },
+    {
+      "code": "KS1-2-SC-715",
+      "description": "necessarily using conventional circuit symbols at this stage; these will be introduced in"
+    },
+    {
+      "code": "KS1-2-SC-716",
+      "description": "year 6."
+    },
+    {
+      "code": "KS1-2-SC-717",
+      "description": "Pupils might use the terms current and voltage, but these should not be"
+    },
+    {
+      "code": "KS1-2-SC-718",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-719",
+      "description": "introduced or defined formally at this stage. Pupils should be taught about precautions"
+    },
+    {
+      "code": "KS1-2-SC-720",
+      "description": "for working safely with electricity."
+    },
+    {
+      "code": "KS1-2-SC-721",
+      "description": "Pupils might work scientifically by: observing patterns, for example, that bulbs get"
+    },
+    {
+      "code": "KS1-2-SC-722",
+      "description": "brighter if more cells are added, that metals tend to be conductors of electricity, and that"
+    },
+    {
+      "code": "KS1-2-SC-723",
+      "description": "some materials can and some cannot be used to connect across a gap in a circuit."
+    },
+    {
+      "code": "KS1-2-SC-724",
+      "description": "23"
+    },
+    {
+      "code": "KS1-2-SC-725",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-726",
+      "description": "Upper key stage 2 \u2013 years 5 and 6"
+    },
+    {
+      "code": "KS1-2-SC-727",
+      "description": "The principal focus of science teaching in upper key stage 2 is to enable pupils to develop"
+    },
+    {
+      "code": "KS1-2-SC-728",
+      "description": "a deeper understanding of a wide range of scientific ideas. They should do this through"
+    },
+    {
+      "code": "KS1-2-SC-729",
+      "description": "exploring and talking about their ideas; asking their own questions about scientific"
+    },
+    {
+      "code": "KS1-2-SC-730",
+      "description": "phenomena; and analysing functions, relationships and interactions more systematically."
+    },
+    {
+      "code": "KS1-2-SC-731",
+      "description": "At upper key stage 2, they should encounter more abstract ideas and begin to recognise"
+    },
+    {
+      "code": "KS1-2-SC-732",
+      "description": "how these ideas help them to understand and predict how the world operates. They should"
+    },
+    {
+      "code": "KS1-2-SC-733",
+      "description": "also begin to recognise that scientific ideas change and develop over time. They should"
+    },
+    {
+      "code": "KS1-2-SC-734",
+      "description": "select the most appropriate ways to answer science questions using different types of"
+    },
+    {
+      "code": "KS1-2-SC-735",
+      "description": "scientific enquiry, including observing changes over different periods of time, noticing"
+    },
+    {
+      "code": "KS1-2-SC-736",
+      "description": "patterns, grouping and classifying things, carrying out comparative and fair tests and"
+    },
+    {
+      "code": "KS1-2-SC-737",
+      "description": "finding things out using a wide range of secondary sources of information. Pupils should"
+    },
+    {
+      "code": "KS1-2-SC-738",
+      "description": "draw conclusions based on their data and observations, use evidence to justify their ideas,"
+    },
+    {
+      "code": "KS1-2-SC-739",
+      "description": "and use their scientific knowledge and understanding to explain their findings."
+    },
+    {
+      "code": "KS1-2-SC-740",
+      "description": "\u2018Working and thinking scientifically\u2019 is described separately at the beginning of the"
+    },
+    {
+      "code": "KS1-2-SC-741",
+      "description": "programme of study, but must be taught through and clearly related to substantive"
+    },
+    {
+      "code": "KS1-2-SC-742",
+      "description": "always"
+    },
+    {
+      "code": "KS1-2-SC-743",
+      "description": "science content in the programme of study. Throughout the notes and guidance, examples"
+    },
+    {
+      "code": "KS1-2-SC-744",
+      "description": "show how scientific methods and skills might be linked to specific elements of the content."
+    },
+    {
+      "code": "KS1-2-SC-745",
+      "description": "Pupils should read, spell and pronounce scientific vocabulary correctly."
+    },
+    {
+      "code": "KS1-2-SC-746",
+      "description": "24"
+    },
+    {
+      "code": "KS1-2-SC-747",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-748",
+      "description": "Upper key stage 2 programme of study"
+    },
+    {
+      "code": "KS1-2-SC-749",
+      "description": "Working scientifically"
+    },
+    {
+      "code": "KS1-2-SC-750",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-751",
+      "description": "During years 5 and 6, pupils should be taught to use the following practical scientific"
+    },
+    {
+      "code": "KS1-2-SC-752",
+      "description": "methods, processes and skills through the teaching of the programme of study content:"
+    },
+    {
+      "code": "KS1-2-SC-753",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-754",
+      "description": "planning different types of scientific enquiries to answer questions, including"
+    },
+    {
+      "code": "KS1-2-SC-755",
+      "description": "recognising and controlling variables where necessary"
+    },
+    {
+      "code": "KS1-2-SC-756",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-757",
+      "description": "taking measurements, using a range of scientific equipment, with increasing"
+    },
+    {
+      "code": "KS1-2-SC-758",
+      "description": "accuracy and precision, taking repeat readings when appropriate"
+    },
+    {
+      "code": "KS1-2-SC-759",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-760",
+      "description": "recording data and results of increasing complexity using scientific diagrams and"
+    },
+    {
+      "code": "KS1-2-SC-761",
+      "description": "labels, classification keys, tables, scatter graphs, bar and line graphs"
+    },
+    {
+      "code": "KS1-2-SC-762",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-763",
+      "description": "using test results to make predictions to set up further comparative and fair tests"
+    },
+    {
+      "code": "KS1-2-SC-764",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-765",
+      "description": "reporting and presenting findings from enquiries, including conclusions, causal"
+    },
+    {
+      "code": "KS1-2-SC-766",
+      "description": "relationships and explanations of and degree of trust in results, in oral and written"
+    },
+    {
+      "code": "KS1-2-SC-767",
+      "description": "forms such as displays and other presentations"
+    },
+    {
+      "code": "KS1-2-SC-768",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-769",
+      "description": "identifying scientific evidence that has been used to support or refute ideas or"
+    },
+    {
+      "code": "KS1-2-SC-770",
+      "description": "arguments."
+    },
+    {
+      "code": "KS1-2-SC-771",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-772",
+      "description": "Pupils in years 5 and 6 should use their science experiences to: explore ideas and raise"
+    },
+    {
+      "code": "KS1-2-SC-773",
+      "description": "different kinds of questions; select and plan the most appropriate type of scientific"
+    },
+    {
+      "code": "KS1-2-SC-774",
+      "description": "enquiry to use to answer scientific questions; recognise when and how to set up"
+    },
+    {
+      "code": "KS1-2-SC-775",
+      "description": "comparative and fair tests and explain which variables need to be controlled and why."
+    },
+    {
+      "code": "KS1-2-SC-776",
+      "description": "They should use and develop keys and other information records to identify, classify and"
+    },
+    {
+      "code": "KS1-2-SC-777",
+      "description": "describe living things and materials, and identify patterns that might be found in the"
+    },
+    {
+      "code": "KS1-2-SC-778",
+      "description": "natural environment. They should make their own decisions about what observations to"
+    },
+    {
+      "code": "KS1-2-SC-779",
+      "description": "make, what measurements to use and how long to make them for, and whether to"
+    },
+    {
+      "code": "KS1-2-SC-780",
+      "description": "repeat them; choose the most appropriate equipment to make measurements and"
+    },
+    {
+      "code": "KS1-2-SC-781",
+      "description": "explain how to use it accurately. They should decide how to record data from a choice of"
+    },
+    {
+      "code": "KS1-2-SC-782",
+      "description": "familiar approaches; look for different causal relationships in their data and identify"
+    },
+    {
+      "code": "KS1-2-SC-783",
+      "description": "evidence that refutes or supports their ideas. They should use their results to identify"
+    },
+    {
+      "code": "KS1-2-SC-784",
+      "description": "when further tests and observations might be needed; recognise which secondary"
+    },
+    {
+      "code": "KS1-2-SC-785",
+      "description": "sources will be most useful to research their ideas and begin to separate opinion from"
+    },
+    {
+      "code": "KS1-2-SC-786",
+      "description": "fact. They should use relevant scientific language and illustrations to discuss,"
+    },
+    {
+      "code": "KS1-2-SC-787",
+      "description": "communicate and justify their scientific ideas and should talk about how scientific ideas"
+    },
+    {
+      "code": "KS1-2-SC-788",
+      "description": "have developed over time."
+    },
+    {
+      "code": "KS1-2-SC-789",
+      "description": "25"
+    },
+    {
+      "code": "KS1-2-SC-790",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-791",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-792",
+      "description": "These opportunities for working scientifically should be provided across years 5 and 6 so"
+    },
+    {
+      "code": "KS1-2-SC-793",
+      "description": "that the expectations in the programme of study can be met by the end of year 6. Pupils"
+    },
+    {
+      "code": "KS1-2-SC-794",
+      "description": "are not expected to cover each aspect for every area of study."
+    },
+    {
+      "code": "KS1-2-SC-795",
+      "description": "26"
+    },
+    {
+      "code": "KS1-2-SC-796",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-797",
+      "description": "Year 5 programme of study"
+    },
+    {
+      "code": "KS1-2-SC-798",
+      "description": "Living things and their habitats"
+    },
+    {
+      "code": "KS1-2-SC-799",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-800",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-801",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-802",
+      "description": "describe the differences in the life cycles of a mammal, an amphibian, an insect and"
+    },
+    {
+      "code": "KS1-2-SC-803",
+      "description": "a bird"
+    },
+    {
+      "code": "KS1-2-SC-804",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-805",
+      "description": "describe the life process of reproduction in some plants and animals."
+    },
+    {
+      "code": "KS1-2-SC-806",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-807",
+      "description": "Pupils should study and raise questions about their local environment throughout the"
+    },
+    {
+      "code": "KS1-2-SC-808",
+      "description": "year. They should observe life-cycle changes in a variety of living things, for example,"
+    },
+    {
+      "code": "KS1-2-SC-809",
+      "description": "plants in the vegetable garden or flower border, and animals in the local environment."
+    },
+    {
+      "code": "KS1-2-SC-810",
+      "description": "They should find out about the work of naturalists and animal behaviourists, for example,"
+    },
+    {
+      "code": "KS1-2-SC-811",
+      "description": "David Attenborough and Jane Goodall."
+    },
+    {
+      "code": "KS1-2-SC-812",
+      "description": "Pupils should find out about different types of reproduction, including sexual and asexual"
+    },
+    {
+      "code": "KS1-2-SC-813",
+      "description": "reproduction in plants, and sexual reproduction in animals."
+    },
+    {
+      "code": "KS1-2-SC-814",
+      "description": "Pupils might work scientifically by: observing and comparing the life cycles of plants and"
+    },
+    {
+      "code": "KS1-2-SC-815",
+      "description": "animals in their local environment with other plants and animals around the world (in the"
+    },
+    {
+      "code": "KS1-2-SC-816",
+      "description": "rainforest, in the oceans, in desert areas and in prehistoric times), asking pertinent"
+    },
+    {
+      "code": "KS1-2-SC-817",
+      "description": "questions and suggesting reasons for similarities and differences. They might try to"
+    },
+    {
+      "code": "KS1-2-SC-818",
+      "description": "grow new plants from different parts of the parent plant, for example, seeds, stem and"
+    },
+    {
+      "code": "KS1-2-SC-819",
+      "description": "root cuttings, tubers, bulbs. They might observe changes in an animal over a period of"
+    },
+    {
+      "code": "KS1-2-SC-820",
+      "description": "time (for example, by hatching and rearing chicks), comparing how different animals"
+    },
+    {
+      "code": "KS1-2-SC-821",
+      "description": "reproduce and grow."
+    },
+    {
+      "code": "KS1-2-SC-822",
+      "description": "Animals, including humans"
+    },
+    {
+      "code": "KS1-2-SC-823",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-824",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-825",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-826",
+      "description": "describe the changes as humans develop to old age."
+    },
+    {
+      "code": "KS1-2-SC-827",
+      "description": "27"
+    },
+    {
+      "code": "KS1-2-SC-828",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-829",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-830",
+      "description": "Pupils should draw a timeline to indicate stages in the growth and development of"
+    },
+    {
+      "code": "KS1-2-SC-831",
+      "description": "humans. They should learn about the changes experienced in puberty."
+    },
+    {
+      "code": "KS1-2-SC-832",
+      "description": "Pupils could work scientifically by researching the gestation periods of other animals and"
+    },
+    {
+      "code": "KS1-2-SC-833",
+      "description": "comparing them with humans; by finding out and recording the length and mass of a"
+    },
+    {
+      "code": "KS1-2-SC-834",
+      "description": "baby as it grows."
+    },
+    {
+      "code": "KS1-2-SC-835",
+      "description": "Properties and changes of materials"
+    },
+    {
+      "code": "KS1-2-SC-836",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-837",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-838",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-839",
+      "description": "compare and group together everyday materials on the basis of their properties,"
+    },
+    {
+      "code": "KS1-2-SC-840",
+      "description": "including their hardness, solubility, transparency, conductivity (electrical and"
+    },
+    {
+      "code": "KS1-2-SC-841",
+      "description": "thermal), and response to magnets"
+    },
+    {
+      "code": "KS1-2-SC-842",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-843",
+      "description": "know that some materials will dissolve in liquid to form a solution, and describe how"
+    },
+    {
+      "code": "KS1-2-SC-844",
+      "description": "to recover a substance from a solution"
+    },
+    {
+      "code": "KS1-2-SC-845",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-846",
+      "description": "use knowledge of solids, liquids and gases to decide how mixtures might be"
+    },
+    {
+      "code": "KS1-2-SC-847",
+      "description": "separated, including through filtering, sieving and evaporating"
+    },
+    {
+      "code": "KS1-2-SC-848",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-849",
+      "description": "give reasons, based on evidence from comparative and fair tests, for the particular"
+    },
+    {
+      "code": "KS1-2-SC-850",
+      "description": "uses of everyday materials, including metals, wood and plastic"
+    },
+    {
+      "code": "KS1-2-SC-851",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-852",
+      "description": "demonstrate that dissolving, mixing and changes of state are reversible changes"
+    },
+    {
+      "code": "KS1-2-SC-853",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-854",
+      "description": "explain that some changes result in the formation of new materials, and that this kind"
+    },
+    {
+      "code": "KS1-2-SC-855",
+      "description": "of change is not usually reversible, including changes associated with burning and"
+    },
+    {
+      "code": "KS1-2-SC-856",
+      "description": "the action of acid on bicarbonate of soda."
+    },
+    {
+      "code": "KS1-2-SC-857",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-858",
+      "description": "Pupils should build a more systematic understanding of materials by exploring and"
+    },
+    {
+      "code": "KS1-2-SC-859",
+      "description": "comparing the properties of a broad range of materials, including relating these to what"
+    },
+    {
+      "code": "KS1-2-SC-860",
+      "description": "they learnt about magnetism in year 3 and about electricity in year 4. They should"
+    },
+    {
+      "code": "KS1-2-SC-861",
+      "description": "explore reversible changes, including, evaporating, filtering, sieving, melting and"
+    },
+    {
+      "code": "KS1-2-SC-862",
+      "description": "dissolving, recognising that melting and dissolving are different processes. Pupils should"
+    },
+    {
+      "code": "KS1-2-SC-863",
+      "description": "explore changes that are difficult to reverse, for example, burning, rusting and other"
+    },
+    {
+      "code": "KS1-2-SC-864",
+      "description": "reactions, for example, vinegar with bicarbonate of soda. They should find out about"
+    },
+    {
+      "code": "KS1-2-SC-865",
+      "description": "how chemists create new materials, for example, Spencer Silver, who invented the glue"
+    },
+    {
+      "code": "KS1-2-SC-866",
+      "description": "for sticky notes or Ruth Benerito, who invented wrinkle-free cotton."
+    },
+    {
+      "code": "KS1-2-SC-867",
+      "description": "28"
+    },
+    {
+      "code": "KS1-2-SC-868",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-869",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-870",
+      "description": "Pupils are not required to make quantitative measurements about conductivity"
+    },
+    {
+      "code": "KS1-2-SC-871",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-872",
+      "description": "and insulation at this stage. It is sufficient for them to observe that some conductors will"
+    },
+    {
+      "code": "KS1-2-SC-873",
+      "description": "produce a brighter bulb in a circuit than others and that some materials will feel hotter"
+    },
+    {
+      "code": "KS1-2-SC-874",
+      "description": "than others when a heat source is placed against them. Safety guidelines should be"
+    },
+    {
+      "code": "KS1-2-SC-875",
+      "description": "followed when burning materials."
+    },
+    {
+      "code": "KS1-2-SC-876",
+      "description": "Pupils might work scientifically by: carrying out tests to answer questions, for example,"
+    },
+    {
+      "code": "KS1-2-SC-877",
+      "description": "\u2018Which materials would be the most effective for making a warm jacket, for wrapping ice"
+    },
+    {
+      "code": "KS1-2-SC-878",
+      "description": "cream to stop it melting, or for making blackout curtains?\u2019 They might compare materials"
+    },
+    {
+      "code": "KS1-2-SC-879",
+      "description": "in order to make a switch in a circuit. They could observe and compare the changes that"
+    },
+    {
+      "code": "KS1-2-SC-880",
+      "description": "take place, for example, when burning different materials or baking bread or cakes. They"
+    },
+    {
+      "code": "KS1-2-SC-881",
+      "description": "might research and discuss how chemical changes have an impact on our lives, for"
+    },
+    {
+      "code": "KS1-2-SC-882",
+      "description": "example, cooking, and discuss the creative use of new materials such as polymers,"
+    },
+    {
+      "code": "KS1-2-SC-883",
+      "description": "super-sticky and super-thin materials."
+    },
+    {
+      "code": "KS1-2-SC-884",
+      "description": "Earth and space"
+    },
+    {
+      "code": "KS1-2-SC-885",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-886",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-887",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-888",
+      "description": "describe the movement of the Earth, and other planets, relative to the Sun in the"
+    },
+    {
+      "code": "KS1-2-SC-889",
+      "description": "solar system"
+    },
+    {
+      "code": "KS1-2-SC-890",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-891",
+      "description": "describe the movement of the Moon relative to the Earth"
+    },
+    {
+      "code": "KS1-2-SC-892",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-893",
+      "description": "describe the Sun, Earth and Moon as approximately spherical bodies"
+    },
+    {
+      "code": "KS1-2-SC-894",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-895",
+      "description": "use the idea of the Earth\u2019s rotation to explain day and night and the apparent"
+    },
+    {
+      "code": "KS1-2-SC-896",
+      "description": "movement of the sun across the sky."
+    },
+    {
+      "code": "KS1-2-SC-897",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-898",
+      "description": "Pupils should be introduced to a model of the Sun and Earth that enables them to"
+    },
+    {
+      "code": "KS1-2-SC-899",
+      "description": "explain day and night. Pupils should learn that the Sun is a star at the centre of our solar"
+    },
+    {
+      "code": "KS1-2-SC-900",
+      "description": "system and that it has eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn,"
+    },
+    {
+      "code": "KS1-2-SC-901",
+      "description": "Uranus and Neptune (Pluto was reclassified as a \u2018dwarf planet\u2019 in 2006). They should"
+    },
+    {
+      "code": "KS1-2-SC-902",
+      "description": "understand that a moon is a celestial body that orbits a planet (Earth has one moon;"
+    },
+    {
+      "code": "KS1-2-SC-903",
+      "description": "Jupiter has four large moons and numerous smaller ones)."
+    },
+    {
+      "code": "KS1-2-SC-904",
+      "description": "Pupils should be warned that it is not safe to look directly at the Sun, even when"
+    },
+    {
+      "code": "KS1-2-SC-905",
+      "description": "Note:"
+    },
+    {
+      "code": "KS1-2-SC-906",
+      "description": "wearing dark glasses."
+    },
+    {
+      "code": "KS1-2-SC-907",
+      "description": "29"
+    },
+    {
+      "code": "KS1-2-SC-908",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-909",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-910",
+      "description": "Pupils should find out about the way that ideas about the solar system have developed,"
+    },
+    {
+      "code": "KS1-2-SC-911",
+      "description": "understanding how the geocentric model of the solar system gave way to the"
+    },
+    {
+      "code": "KS1-2-SC-912",
+      "description": "heliocentric model by considering the work of scientists such as Ptolemy, Alhazen and"
+    },
+    {
+      "code": "KS1-2-SC-913",
+      "description": "Copernicus."
+    },
+    {
+      "code": "KS1-2-SC-914",
+      "description": "Pupils might work scientifically by: comparing the time of day at different places on the"
+    },
+    {
+      "code": "KS1-2-SC-915",
+      "description": "Earth through internet links and direct communication; creating simple models of the"
+    },
+    {
+      "code": "KS1-2-SC-916",
+      "description": "solar system; constructing simple shadow clocks and sundials, calibrated to show"
+    },
+    {
+      "code": "KS1-2-SC-917",
+      "description": "midday and the start and end of the school day; finding out why some people think that"
+    },
+    {
+      "code": "KS1-2-SC-918",
+      "description": "structures such as Stonehenge might have been used as astronomical clocks."
+    },
+    {
+      "code": "KS1-2-SC-919",
+      "description": "Forces"
+    },
+    {
+      "code": "KS1-2-SC-920",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-921",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-922",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-923",
+      "description": "explain that unsupported objects fall towards the Earth because of the force of"
+    },
+    {
+      "code": "KS1-2-SC-924",
+      "description": "gravity acting between the Earth and the falling object"
+    },
+    {
+      "code": "KS1-2-SC-925",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-926",
+      "description": "identify the effects of air resistance, water resistance and friction, that act between"
+    },
+    {
+      "code": "KS1-2-SC-927",
+      "description": "moving surfaces"
+    },
+    {
+      "code": "KS1-2-SC-928",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-929",
+      "description": "recognise that some mechanisms, including levers, pulleys and gears, allow a"
+    },
+    {
+      "code": "KS1-2-SC-930",
+      "description": "smaller force to have a greater effect."
+    },
+    {
+      "code": "KS1-2-SC-931",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-932",
+      "description": "Pupils should explore falling objects and raise questions about the effects of air"
+    },
+    {
+      "code": "KS1-2-SC-933",
+      "description": "resistance. They should explore the effects of air resistance by observing how different"
+    },
+    {
+      "code": "KS1-2-SC-934",
+      "description": "objects such as parachutes and sycamore seeds fall. They should experience forces"
+    },
+    {
+      "code": "KS1-2-SC-935",
+      "description": "that make things begin to move, get faster or slow down. Pupils should explore the"
+    },
+    {
+      "code": "KS1-2-SC-936",
+      "description": "effects of friction on movement and find out how it slows or stops moving objects, for"
+    },
+    {
+      "code": "KS1-2-SC-937",
+      "description": "example, by observing the effects of a brake on a bicycle wheel. Pupils should explore"
+    },
+    {
+      "code": "KS1-2-SC-938",
+      "description": "the effects of levers, pulleys and simple machines on movement. Pupils might find out"
+    },
+    {
+      "code": "KS1-2-SC-939",
+      "description": "how scientists, for example, Galileo Galilei and Isaac Newton helped to develop the"
+    },
+    {
+      "code": "KS1-2-SC-940",
+      "description": "theory of gravitation."
+    },
+    {
+      "code": "KS1-2-SC-941",
+      "description": "Pupils might work scientifically by: exploring falling paper cones or cup-cake cases, and"
+    },
+    {
+      "code": "KS1-2-SC-942",
+      "description": "designing and making a variety of parachutes and carrying out fair tests to determine"
+    },
+    {
+      "code": "KS1-2-SC-943",
+      "description": "which designs are the most effective. They might explore resistance in water by making"
+    },
+    {
+      "code": "KS1-2-SC-944",
+      "description": "and testing boats of different shapes. They might design and make products that use"
+    },
+    {
+      "code": "KS1-2-SC-945",
+      "description": "levers, pulleys, gears and/or springs and explore their effects."
+    },
+    {
+      "code": "KS1-2-SC-946",
+      "description": "30"
+    },
+    {
+      "code": "KS1-2-SC-947",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-948",
+      "description": "Year 6 programme of study"
+    },
+    {
+      "code": "KS1-2-SC-949",
+      "description": "Living things and their habitats"
+    },
+    {
+      "code": "KS1-2-SC-950",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-951",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-952",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-953",
+      "description": "describe how living things are classified into broad groups according to common"
+    },
+    {
+      "code": "KS1-2-SC-954",
+      "description": "observable characteristics and based on similarities and differences, including micro-"
+    },
+    {
+      "code": "KS1-2-SC-955",
+      "description": "organisms, plants and animals"
+    },
+    {
+      "code": "KS1-2-SC-956",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-957",
+      "description": "give reasons for classifying plants and animals based on specific characteristics."
+    },
+    {
+      "code": "KS1-2-SC-958",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-959",
+      "description": "Pupils should build on their learning about grouping living things in year 4 by looking at"
+    },
+    {
+      "code": "KS1-2-SC-960",
+      "description": "the classification system in more detail. They should be introduced to the idea that broad"
+    },
+    {
+      "code": "KS1-2-SC-961",
+      "description": "groupings, such as micro-organisms, plants and animals can be subdivided. Through"
+    },
+    {
+      "code": "KS1-2-SC-962",
+      "description": "direct observations where possible, they should classify animals into commonly found"
+    },
+    {
+      "code": "KS1-2-SC-963",
+      "description": "invertebrates (such as insects, spiders, snails, worms) and vertebrates (fish,"
+    },
+    {
+      "code": "KS1-2-SC-964",
+      "description": "amphibians, reptiles, birds and mammals). They should discuss reasons why living"
+    },
+    {
+      "code": "KS1-2-SC-965",
+      "description": "things are placed in one group and not another."
+    },
+    {
+      "code": "KS1-2-SC-966",
+      "description": "Pupils might find out about the significance of the work of scientists such as Carl"
+    },
+    {
+      "code": "KS1-2-SC-967",
+      "description": "Linnaeus, a pioneer of classification."
+    },
+    {
+      "code": "KS1-2-SC-968",
+      "description": "Pupils might work scientifically by: using classification systems and keys to identify some"
+    },
+    {
+      "code": "KS1-2-SC-969",
+      "description": "animals and plants in the immediate environment. They could research unfamiliar"
+    },
+    {
+      "code": "KS1-2-SC-970",
+      "description": "animals and plants from a broad range of other habitats and decide where they belong"
+    },
+    {
+      "code": "KS1-2-SC-971",
+      "description": "in the classification system."
+    },
+    {
+      "code": "KS1-2-SC-972",
+      "description": "Animals including humans"
+    },
+    {
+      "code": "KS1-2-SC-973",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-974",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-975",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-976",
+      "description": "identify and name the main parts of the human circulatory system, and describe the"
+    },
+    {
+      "code": "KS1-2-SC-977",
+      "description": "functions of the heart, blood vessels and blood"
+    },
+    {
+      "code": "KS1-2-SC-978",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-979",
+      "description": "recognise the impact of diet, exercise, drugs and lifestyle on the way their bodies"
+    },
+    {
+      "code": "KS1-2-SC-980",
+      "description": "function"
+    },
+    {
+      "code": "KS1-2-SC-981",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS1-2-SC-982",
+      "description": "describe the ways in which nutrients and water are transported within animals,"
+    },
+    {
+      "code": "KS1-2-SC-983",
+      "description": "including humans."
+    },
+    {
+      "code": "KS1-2-SC-984",
+      "description": "31"
+    },
+    {
+      "code": "KS1-2-SC-985",
+      "description": "Science \u2013 key stages 1 and 2"
+    },
+    {
+      "code": "KS1-2-SC-986",
+      "description": "Notes and guidance (non-statutory)"
+    },
+    {
+      "code": "KS1-2-SC-987",
+      "description": "Pupils should build on their learning from years 3 and 4 about the main body parts and"
+    },
+    {
+      "code": "KS1-2-SC-988",
+      "description": "internal organs (skeletal, muscular and digestive system) to explore and answer"
+    },
+    {
+      "code": "KS1-2-SC-989",
+      "description": "questions that help them to understand how the circulatory system enables the body to"
+    },
+    {
+      "code": "KS1-2-SC-990",
+      "description": "function."
+    },
+    {
+      "code": "KS1-2-SC-991",
+      "description": "Pupils should learn how to keep their bodies healthy and how their bodies might be"
+    },
+    {
+      "code": "KS1-2-SC-992",
+      "description": "damaged \u2013 including how some drugs and other substances can be harmful to the"
+    },
+    {
+      "code": "KS1-2-SC-993",
+      "description": "human body."
+    },
+    {
+      "code": "KS1-2-SC-994",
+      "description": "Pupils might work scientifically by: exploring the work of scientists and scientific research"
+    },
+    {
+      "code": "KS1-2-SC-995",
+      "description": "about the relationship between diet, exercise, drugs, lifestyle and health."
+    },
+    {
+      "code": "KS1-2-SC-996",
+      "description": "Evolution and inheritance"
+    },
+    {
+      "code": "KS1-2-SC-997",
+      "description": "Statutory requirements"
+    },
+    {
+      "code": "KS1-2-SC-998",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS1-2-SC-999",
+      "description": "\uf0a7"
+    }
+  ]
+}

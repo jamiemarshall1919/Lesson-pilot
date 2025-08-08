@@ -1,1 +1,1808 @@
-{}
+{
+  "KS4": [
+    {
+      "code": "KS4-SC-001",
+      "description": "Science programmes"
+    },
+    {
+      "code": "KS4-SC-002",
+      "description": "of study: key stage 4"
+    },
+    {
+      "code": "KS4-SC-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS4-SC-004",
+      "description": "December 2014"
+    },
+    {
+      "code": "KS4-SC-005",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-006",
+      "description": "Contents"
+    },
+    {
+      "code": "KS4-SC-007",
+      "description": "Introduction 3"
+    },
+    {
+      "code": "KS4-SC-008",
+      "description": "Working scientifically 5"
+    },
+    {
+      "code": "KS4-SC-009",
+      "description": "Subject content \u2013 Biology 7"
+    },
+    {
+      "code": "KS4-SC-010",
+      "description": "Subject content \u2013 Chemistry 11"
+    },
+    {
+      "code": "KS4-SC-011",
+      "description": "Subject content \u2013 Physics 14"
+    },
+    {
+      "code": "KS4-SC-012",
+      "description": "2"
+    },
+    {
+      "code": "KS4-SC-013",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-014",
+      "description": "Introduction"
+    },
+    {
+      "code": "KS4-SC-015",
+      "description": "Teaching in the sciences in key stage 4 continues with the process of building upon and"
+    },
+    {
+      "code": "KS4-SC-016",
+      "description": "deepening scientific knowledge and the understanding of ideas developed in earlier key"
+    },
+    {
+      "code": "KS4-SC-017",
+      "description": "stages in the subject disciplines of biology, chemistry and physics."
+    },
+    {
+      "code": "KS4-SC-018",
+      "description": "For some students, studying the sciences in key stage 4 provides the platform for more"
+    },
+    {
+      "code": "KS4-SC-019",
+      "description": "advanced studies, establishing the basis for a wide range of careers. For others, it will be"
+    },
+    {
+      "code": "KS4-SC-020",
+      "description": "their last formal study of subjects that provide the foundations for understanding the"
+    },
+    {
+      "code": "KS4-SC-021",
+      "description": "natural world and will enhance their lives in an increasingly technological society."
+    },
+    {
+      "code": "KS4-SC-022",
+      "description": "Science is changing our lives and is vital to the world\u2019s future prosperity, and all students"
+    },
+    {
+      "code": "KS4-SC-023",
+      "description": "should be taught essential aspects of the knowledge, methods, processes and uses of"
+    },
+    {
+      "code": "KS4-SC-024",
+      "description": "science. They should be helped to appreciate the achievements of science in showing"
+    },
+    {
+      "code": "KS4-SC-025",
+      "description": "how the complex and diverse phenomena of the natural world can be described in terms"
+    },
+    {
+      "code": "KS4-SC-026",
+      "description": "of a number of key ideas relating to the sciences which are inter-linked, and which are of"
+    },
+    {
+      "code": "KS4-SC-027",
+      "description": "universal application. These key ideas include:"
+    },
+    {
+      "code": "KS4-SC-028",
+      "description": "\u2022 the use of conceptual models and theories to make sense of the observed"
+    },
+    {
+      "code": "KS4-SC-029",
+      "description": "diversity of natural phenomena"
+    },
+    {
+      "code": "KS4-SC-030",
+      "description": "\u2022 the assumption that every effect has one or more cause"
+    },
+    {
+      "code": "KS4-SC-031",
+      "description": "\u2022 that change is driven by interactions between different objects and systems"
+    },
+    {
+      "code": "KS4-SC-032",
+      "description": "\u2022 that many such interactions occur over a distance and over time"
+    },
+    {
+      "code": "KS4-SC-033",
+      "description": "\u2022 that science progresses through a cycle of hypothesis, practical"
+    },
+    {
+      "code": "KS4-SC-034",
+      "description": "experimentation, observation, theory development and review"
+    },
+    {
+      "code": "KS4-SC-035",
+      "description": "\u2022 that quantitative analysis is a central element both of many theories and of"
+    },
+    {
+      "code": "KS4-SC-036",
+      "description": "scientific methods of inquiry."
+    },
+    {
+      "code": "KS4-SC-037",
+      "description": "The sciences should be taught in ways that ensure students have the knowledge to"
+    },
+    {
+      "code": "KS4-SC-038",
+      "description": "enable them to develop curiosity about the natural world, insight into working"
+    },
+    {
+      "code": "KS4-SC-039",
+      "description": "scientifically, and appreciation of the relevance of science to their everyday lives, so that"
+    },
+    {
+      "code": "KS4-SC-040",
+      "description": "students:"
+    },
+    {
+      "code": "KS4-SC-041",
+      "description": "\u2022 develop scientific knowledge and conceptual understanding through the"
+    },
+    {
+      "code": "KS4-SC-042",
+      "description": "specific disciplines of biology, chemistry and physics;"
+    },
+    {
+      "code": "KS4-SC-043",
+      "description": "\u2022 develop understanding of the nature, processes and methods of science,"
+    },
+    {
+      "code": "KS4-SC-044",
+      "description": "through different types of scientific enquiry that help them to answer scientific"
+    },
+    {
+      "code": "KS4-SC-045",
+      "description": "questions about the world around them;"
+    },
+    {
+      "code": "KS4-SC-046",
+      "description": "\u2022 develop and learn to apply observational, practical, modelling, enquiry,"
+    },
+    {
+      "code": "KS4-SC-047",
+      "description": "problem-solving skills and mathematical skills, both in the laboratory, in the"
+    },
+    {
+      "code": "KS4-SC-048",
+      "description": "field and in other environments;"
+    },
+    {
+      "code": "KS4-SC-049",
+      "description": "3"
+    },
+    {
+      "code": "KS4-SC-050",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-051",
+      "description": "\u2022 develop their ability to evaluate claims based on science through critical"
+    },
+    {
+      "code": "KS4-SC-052",
+      "description": "analysis of the methodology, evidence and conclusions, both qualitatively and"
+    },
+    {
+      "code": "KS4-SC-053",
+      "description": "quantitatively."
+    },
+    {
+      "code": "KS4-SC-054",
+      "description": "Curricula at key stage 4 should comprise approximately equal proportions of biology,"
+    },
+    {
+      "code": "KS4-SC-055",
+      "description": "chemistry and physics. The relevant mathematical skills required are covered in the"
+    },
+    {
+      "code": "KS4-SC-056",
+      "description": "programme of study for mathematics and should be embedded in the science context."
+    },
+    {
+      "code": "KS4-SC-057",
+      "description": "\u2018Working scientifically\u2019 is described separately at the beginning of the programme of"
+    },
+    {
+      "code": "KS4-SC-058",
+      "description": "study, but must always be taught through and clearly related to substantive science"
+    },
+    {
+      "code": "KS4-SC-059",
+      "description": "content in the programme of study. Teachers should feel free to choose examples that"
+    },
+    {
+      "code": "KS4-SC-060",
+      "description": "serve a variety of purposes, from showing how scientific ideas have developed"
+    },
+    {
+      "code": "KS4-SC-061",
+      "description": "historically to reflecting modern developments in science and informing students of the"
+    },
+    {
+      "code": "KS4-SC-062",
+      "description": "role of science in understanding the causes of and solutions to some of the challenges"
+    },
+    {
+      "code": "KS4-SC-063",
+      "description": "facing society."
+    },
+    {
+      "code": "KS4-SC-064",
+      "description": "The scope and nature of their study should be broad, coherent, practical and rigorous, so"
+    },
+    {
+      "code": "KS4-SC-065",
+      "description": "that students are inspired and challenged by the subject and its achievements."
+    },
+    {
+      "code": "KS4-SC-066",
+      "description": "4"
+    },
+    {
+      "code": "KS4-SC-067",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-068",
+      "description": "Working scientifically"
+    },
+    {
+      "code": "KS4-SC-069",
+      "description": "Through the content across all three disciplines, students should be taught so that they"
+    },
+    {
+      "code": "KS4-SC-070",
+      "description": "develop understanding and first-hand experience of:"
+    },
+    {
+      "code": "KS4-SC-071",
+      "description": "1. The development of scientific thinking"
+    },
+    {
+      "code": "KS4-SC-072",
+      "description": "\u2022 the ways in which scientific methods and theories develop over time"
+    },
+    {
+      "code": "KS4-SC-073",
+      "description": "\u2022 using a variety of concepts and models to develop scientific explanations and"
+    },
+    {
+      "code": "KS4-SC-074",
+      "description": "understanding"
+    },
+    {
+      "code": "KS4-SC-075",
+      "description": "\u2022 appreciating the power and limitations of science and considering ethical"
+    },
+    {
+      "code": "KS4-SC-076",
+      "description": "issues which may arise"
+    },
+    {
+      "code": "KS4-SC-077",
+      "description": "\u2022 explaining everyday and technological applications of science; evaluating"
+    },
+    {
+      "code": "KS4-SC-078",
+      "description": "associated personal, social, economic and environmental implications; and"
+    },
+    {
+      "code": "KS4-SC-079",
+      "description": "making decisions based on the evaluation of evidence and arguments"
+    },
+    {
+      "code": "KS4-SC-080",
+      "description": "\u2022 evaluating risks both in practical science and the wider societal context,"
+    },
+    {
+      "code": "KS4-SC-081",
+      "description": "including perception of risk"
+    },
+    {
+      "code": "KS4-SC-082",
+      "description": "\u2022 recognising the importance of peer review of results and of communication of"
+    },
+    {
+      "code": "KS4-SC-083",
+      "description": "results to a range of audiences."
+    },
+    {
+      "code": "KS4-SC-084",
+      "description": "2. Experimental skills and strategies"
+    },
+    {
+      "code": "KS4-SC-085",
+      "description": "\u2022 using scientific theories and explanations to develop hypotheses"
+    },
+    {
+      "code": "KS4-SC-086",
+      "description": "\u2022 planning experiments to make observations, test hypotheses or explore"
+    },
+    {
+      "code": "KS4-SC-087",
+      "description": "phenomena"
+    },
+    {
+      "code": "KS4-SC-088",
+      "description": "\u2022 applying a knowledge of a range of techniques, apparatus, and materials to"
+    },
+    {
+      "code": "KS4-SC-089",
+      "description": "select those appropriate both for fieldwork and for experiments"
+    },
+    {
+      "code": "KS4-SC-090",
+      "description": "\u2022 carrying out experiments appropriately, having due regard to the correct"
+    },
+    {
+      "code": "KS4-SC-091",
+      "description": "manipulation of apparatus, the accuracy of measurements and health and"
+    },
+    {
+      "code": "KS4-SC-092",
+      "description": "safety considerations"
+    },
+    {
+      "code": "KS4-SC-093",
+      "description": "\u2022 recognising when to apply a knowledge of sampling techniques to ensure any"
+    },
+    {
+      "code": "KS4-SC-094",
+      "description": "samples collected are representative"
+    },
+    {
+      "code": "KS4-SC-095",
+      "description": "\u2022 making and recording observations and measurements using a range of"
+    },
+    {
+      "code": "KS4-SC-096",
+      "description": "apparatus and methods"
+    },
+    {
+      "code": "KS4-SC-097",
+      "description": "\u2022 evaluating methods and suggesting possible improvements and further"
+    },
+    {
+      "code": "KS4-SC-098",
+      "description": "investigations."
+    },
+    {
+      "code": "KS4-SC-099",
+      "description": "5"
+    },
+    {
+      "code": "KS4-SC-100",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-101",
+      "description": "3. Analysis and evaluation"
+    },
+    {
+      "code": "KS4-SC-102",
+      "description": "\u2022 applying the cycle of collecting, presenting and analysing data, including:"
+    },
+    {
+      "code": "KS4-SC-103",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-104",
+      "description": "presenting observations and other data using appropriate methods"
+    },
+    {
+      "code": "KS4-SC-105",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-106",
+      "description": "translating data from one form to another"
+    },
+    {
+      "code": "KS4-SC-107",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-108",
+      "description": "carrying out and representing mathematical and statistical analysis"
+    },
+    {
+      "code": "KS4-SC-109",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-110",
+      "description": "representing distributions of results and making estimations of"
+    },
+    {
+      "code": "KS4-SC-111",
+      "description": "uncertainty"
+    },
+    {
+      "code": "KS4-SC-112",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-113",
+      "description": "interpreting observations and other data, including identifying patterns"
+    },
+    {
+      "code": "KS4-SC-114",
+      "description": "and trends, making inferences and drawing conclusions"
+    },
+    {
+      "code": "KS4-SC-115",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-116",
+      "description": "presenting reasoned explanations, including relating data to hypotheses"
+    },
+    {
+      "code": "KS4-SC-117",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-118",
+      "description": "being objective, evaluating data in terms of accuracy, precision,"
+    },
+    {
+      "code": "KS4-SC-119",
+      "description": "repeatability and reproducibility and identifying potential sources of"
+    },
+    {
+      "code": "KS4-SC-120",
+      "description": "random and systematic error"
+    },
+    {
+      "code": "KS4-SC-121",
+      "description": "\u2022 communicating the scientific rationale for investigations, including the methods"
+    },
+    {
+      "code": "KS4-SC-122",
+      "description": "used, the findings and reasoned conclusions, using paper-based and"
+    },
+    {
+      "code": "KS4-SC-123",
+      "description": "electronic reports and presentations."
+    },
+    {
+      "code": "KS4-SC-124",
+      "description": "4. Vocabulary, units, symbols and nomenclature"
+    },
+    {
+      "code": "KS4-SC-125",
+      "description": "\u2022 developing their use of scientific vocabulary and nomenclature"
+    },
+    {
+      "code": "KS4-SC-126",
+      "description": "\u2022 recognising the importance of scientific quantities and understanding how they"
+    },
+    {
+      "code": "KS4-SC-127",
+      "description": "are determined"
+    },
+    {
+      "code": "KS4-SC-128",
+      "description": "\u2022 using SI units and IUPAC chemical nomenclature unless inappropriate"
+    },
+    {
+      "code": "KS4-SC-129",
+      "description": "\u2022 using prefixes and powers of ten for orders of magnitude (e.g. tera, giga,"
+    },
+    {
+      "code": "KS4-SC-130",
+      "description": "mega, kilo, centi, milli, micro and nano)"
+    },
+    {
+      "code": "KS4-SC-131",
+      "description": "\u2022 interconverting units"
+    },
+    {
+      "code": "KS4-SC-132",
+      "description": "\u2022 using an appropriate number of significant figures in calculations."
+    },
+    {
+      "code": "KS4-SC-133",
+      "description": "6"
+    },
+    {
+      "code": "KS4-SC-134",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-135",
+      "description": "Subject content \u2013 Biology"
+    },
+    {
+      "code": "KS4-SC-136",
+      "description": "Biology is the science of living organisms (including animals, plants, fungi and"
+    },
+    {
+      "code": "KS4-SC-137",
+      "description": "microorganisms) and their interactions with each other and the environment. The study of"
+    },
+    {
+      "code": "KS4-SC-138",
+      "description": "biology involves collecting and interpreting information about the natural world to identify"
+    },
+    {
+      "code": "KS4-SC-139",
+      "description": "patterns and relate possible cause and effect. Biology is used to help humans improve"
+    },
+    {
+      "code": "KS4-SC-140",
+      "description": "their own lives and to understand the world around them."
+    },
+    {
+      "code": "KS4-SC-141",
+      "description": "Students should be helped to understand how, through the ideas of biology, the complex"
+    },
+    {
+      "code": "KS4-SC-142",
+      "description": "and diverse phenomena of the natural world can be described in terms of a number of"
+    },
+    {
+      "code": "KS4-SC-143",
+      "description": "key ideas which are of universal application, and which can be illustrated in the separate"
+    },
+    {
+      "code": "KS4-SC-144",
+      "description": "topics set out below. These ideas include:"
+    },
+    {
+      "code": "KS4-SC-145",
+      "description": "\u2022 life processes depend on molecules whose structure is related to their function"
+    },
+    {
+      "code": "KS4-SC-146",
+      "description": "\u2022 the fundamental units of living organisms are cells, which may be part of highly"
+    },
+    {
+      "code": "KS4-SC-147",
+      "description": "adapted structures including tissues, organs and organ systems, enabling life"
+    },
+    {
+      "code": "KS4-SC-148",
+      "description": "processes to be performed more effectively"
+    },
+    {
+      "code": "KS4-SC-149",
+      "description": "\u2022 living organisms may form populations of single species, communities of many"
+    },
+    {
+      "code": "KS4-SC-150",
+      "description": "species and ecosystems, interacting with each other, with the environment and"
+    },
+    {
+      "code": "KS4-SC-151",
+      "description": "with humans in many different ways"
+    },
+    {
+      "code": "KS4-SC-152",
+      "description": "\u2022 living organisms are interdependent and show adaptations to their environment"
+    },
+    {
+      "code": "KS4-SC-153",
+      "description": "\u2022 life on Earth is dependent on photosynthesis in which green plants and algae"
+    },
+    {
+      "code": "KS4-SC-154",
+      "description": "trap light from the Sun to fix carbon dioxide and combine it with hydrogen from"
+    },
+    {
+      "code": "KS4-SC-155",
+      "description": "water to make organic compounds and oxygen"
+    },
+    {
+      "code": "KS4-SC-156",
+      "description": "\u2022 organic compounds are used as fuels in cellular respiration to allow the other"
+    },
+    {
+      "code": "KS4-SC-157",
+      "description": "chemical reactions necessary for life"
+    },
+    {
+      "code": "KS4-SC-158",
+      "description": "\u2022 the chemicals in ecosystems are continually cycling through the natural world"
+    },
+    {
+      "code": "KS4-SC-159",
+      "description": "\u2022 the characteristics of a living organism are influenced by its genome and its"
+    },
+    {
+      "code": "KS4-SC-160",
+      "description": "interaction with the environment"
+    },
+    {
+      "code": "KS4-SC-161",
+      "description": "\u2022 evolution occurs by the process of natural selection and accounts both for"
+    },
+    {
+      "code": "KS4-SC-162",
+      "description": "biodiversity and how organisms are all related to varying degrees."
+    },
+    {
+      "code": "KS4-SC-163",
+      "description": "Students should be taught about:"
+    },
+    {
+      "code": "KS4-SC-164",
+      "description": "Cell biology"
+    },
+    {
+      "code": "KS4-SC-165",
+      "description": "\u2022 cells as the basic structural unit of all organisms; adaptations of cells related to"
+    },
+    {
+      "code": "KS4-SC-166",
+      "description": "their functions; the main sub-cellular structures of eukaryotic and prokaryotic"
+    },
+    {
+      "code": "KS4-SC-167",
+      "description": "cells"
+    },
+    {
+      "code": "KS4-SC-168",
+      "description": "\u2022 stem cells in animals and meristems in plants"
+    },
+    {
+      "code": "KS4-SC-169",
+      "description": "7"
+    },
+    {
+      "code": "KS4-SC-170",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-171",
+      "description": "\u2022 enzymes"
+    },
+    {
+      "code": "KS4-SC-172",
+      "description": "\u2022 factors affecting the rate of enzymatic reactions"
+    },
+    {
+      "code": "KS4-SC-173",
+      "description": "\u2022 the importance of cellular respiration; the processes of aerobic and anaerobic"
+    },
+    {
+      "code": "KS4-SC-174",
+      "description": "respiration"
+    },
+    {
+      "code": "KS4-SC-175",
+      "description": "\u2022 carbohydrates, proteins, nucleic acids and lipids as key biological molecules."
+    },
+    {
+      "code": "KS4-SC-176",
+      "description": "Transport systems"
+    },
+    {
+      "code": "KS4-SC-177",
+      "description": "\u2022 the need for transport systems in multicellular organisms, including plants"
+    },
+    {
+      "code": "KS4-SC-178",
+      "description": "\u2022 the relationship between the structure and functions of the human circulatory"
+    },
+    {
+      "code": "KS4-SC-179",
+      "description": "system."
+    },
+    {
+      "code": "KS4-SC-180",
+      "description": "Health, disease and the development of medicines"
+    },
+    {
+      "code": "KS4-SC-181",
+      "description": "\u2022 the relationship between health and disease"
+    },
+    {
+      "code": "KS4-SC-182",
+      "description": "\u2022 communicable diseases including sexually transmitted infections in humans"
+    },
+    {
+      "code": "KS4-SC-183",
+      "description": "(including HIV/AIDs)"
+    },
+    {
+      "code": "KS4-SC-184",
+      "description": "\u2022 non-communicable diseases"
+    },
+    {
+      "code": "KS4-SC-185",
+      "description": "\u2022 bacteria, viruses and fungi as pathogens in animals and plants"
+    },
+    {
+      "code": "KS4-SC-186",
+      "description": "\u2022 body defences against pathogens and the role of the immune system against"
+    },
+    {
+      "code": "KS4-SC-187",
+      "description": "disease"
+    },
+    {
+      "code": "KS4-SC-188",
+      "description": "\u2022 reducing and preventing the spread of infectious diseases in animals and"
+    },
+    {
+      "code": "KS4-SC-189",
+      "description": "plants"
+    },
+    {
+      "code": "KS4-SC-190",
+      "description": "\u2022 the process of discovery and development of new medicines"
+    },
+    {
+      "code": "KS4-SC-191",
+      "description": "\u2022 the impact of lifestyle factors on the incidence of non-communicable diseases."
+    },
+    {
+      "code": "KS4-SC-192",
+      "description": "Coordination and control"
+    },
+    {
+      "code": "KS4-SC-193",
+      "description": "\u2022 principles of nervous coordination and control in humans"
+    },
+    {
+      "code": "KS4-SC-194",
+      "description": "\u2022 the relationship between the structure and function of the human nervous"
+    },
+    {
+      "code": "KS4-SC-195",
+      "description": "system"
+    },
+    {
+      "code": "KS4-SC-196",
+      "description": "\u2022 the relationship between structure and function in a reflex arc"
+    },
+    {
+      "code": "KS4-SC-197",
+      "description": "\u2022 principles of hormonal coordination and control in humans"
+    },
+    {
+      "code": "KS4-SC-198",
+      "description": "\u2022 hormones in human reproduction, hormonal and non-hormonal methods of"
+    },
+    {
+      "code": "KS4-SC-199",
+      "description": "contraception"
+    },
+    {
+      "code": "KS4-SC-200",
+      "description": "8"
+    },
+    {
+      "code": "KS4-SC-201",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-202",
+      "description": "\u2022 homeostasis."
+    },
+    {
+      "code": "KS4-SC-203",
+      "description": "Photosynthesis"
+    },
+    {
+      "code": "KS4-SC-204",
+      "description": "\u2022 photosynthesis as the key process for food production and therefore biomass"
+    },
+    {
+      "code": "KS4-SC-205",
+      "description": "for life"
+    },
+    {
+      "code": "KS4-SC-206",
+      "description": "\u2022 the process of photosynthesis"
+    },
+    {
+      "code": "KS4-SC-207",
+      "description": "\u2022 factors affecting the rate of photosynthesis."
+    },
+    {
+      "code": "KS4-SC-208",
+      "description": "Ecosystems"
+    },
+    {
+      "code": "KS4-SC-209",
+      "description": "\u2022 levels of organisation within an ecosystem"
+    },
+    {
+      "code": "KS4-SC-210",
+      "description": "\u2022 some abiotic and biotic factors which affect communities; the importance of"
+    },
+    {
+      "code": "KS4-SC-211",
+      "description": "interactions between organisms in a community"
+    },
+    {
+      "code": "KS4-SC-212",
+      "description": "\u2022 how materials cycle through abiotic and biotic components of ecosystems"
+    },
+    {
+      "code": "KS4-SC-213",
+      "description": "\u2022 the role of microorganisms (decomposers) in the cycling of materials through"
+    },
+    {
+      "code": "KS4-SC-214",
+      "description": "an ecosystem"
+    },
+    {
+      "code": "KS4-SC-215",
+      "description": "\u2022 organisms are interdependent and are adapted to their environment"
+    },
+    {
+      "code": "KS4-SC-216",
+      "description": "\u2022 the importance of biodiversity"
+    },
+    {
+      "code": "KS4-SC-217",
+      "description": "\u2022 methods of identifying species and measuring distribution, frequency and"
+    },
+    {
+      "code": "KS4-SC-218",
+      "description": "abundance of species within a habitat"
+    },
+    {
+      "code": "KS4-SC-219",
+      "description": "\u2022 positive and negative human interactions with ecosystems."
+    },
+    {
+      "code": "KS4-SC-220",
+      "description": "Evolution, inheritance and variation"
+    },
+    {
+      "code": "KS4-SC-221",
+      "description": "\u2022 the genome as the entire genetic material of an organism"
+    },
+    {
+      "code": "KS4-SC-222",
+      "description": "\u2022 how the genome, and its interaction with the environment, influence the"
+    },
+    {
+      "code": "KS4-SC-223",
+      "description": "development of the phenotype of an organism"
+    },
+    {
+      "code": "KS4-SC-224",
+      "description": "\u2022 the potential impact of genomics on medicine"
+    },
+    {
+      "code": "KS4-SC-225",
+      "description": "\u2022 most phenotypic features being the result of multiple, rather than single, genes"
+    },
+    {
+      "code": "KS4-SC-226",
+      "description": "\u2022 single gene inheritance and single gene crosses with dominant and recessive"
+    },
+    {
+      "code": "KS4-SC-227",
+      "description": "phenotypes"
+    },
+    {
+      "code": "KS4-SC-228",
+      "description": "\u2022 sex determination in humans"
+    },
+    {
+      "code": "KS4-SC-229",
+      "description": "\u2022 genetic variation in populations of a species"
+    },
+    {
+      "code": "KS4-SC-230",
+      "description": "\u2022 the process of natural selection leading to evolution"
+    },
+    {
+      "code": "KS4-SC-231",
+      "description": "9"
+    },
+    {
+      "code": "KS4-SC-232",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-233",
+      "description": "\u2022 the evidence for evolution"
+    },
+    {
+      "code": "KS4-SC-234",
+      "description": "\u2022 developments in biology affecting classification"
+    },
+    {
+      "code": "KS4-SC-235",
+      "description": "\u2022 the importance of selective breeding of plants and animals in agriculture"
+    },
+    {
+      "code": "KS4-SC-236",
+      "description": "\u2022 the uses of modern biotechnology including gene technology; some of the"
+    },
+    {
+      "code": "KS4-SC-237",
+      "description": "practical and ethical considerations of modern biotechnology."
+    },
+    {
+      "code": "KS4-SC-238",
+      "description": "10"
+    },
+    {
+      "code": "KS4-SC-239",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-240",
+      "description": "Subject content \u2013 Chemistry"
+    },
+    {
+      "code": "KS4-SC-241",
+      "description": "Chemistry is the science of the composition, structure, properties and reactions of matter,"
+    },
+    {
+      "code": "KS4-SC-242",
+      "description": "understood in terms of atoms, atomic particles and the way they are arranged and link"
+    },
+    {
+      "code": "KS4-SC-243",
+      "description": "together. It is concerned with the synthesis, formulation, analysis and characteristic"
+    },
+    {
+      "code": "KS4-SC-244",
+      "description": "properties of substances and materials of all kinds."
+    },
+    {
+      "code": "KS4-SC-245",
+      "description": "Students should be helped to appreciate the achievements of chemistry in showing how"
+    },
+    {
+      "code": "KS4-SC-246",
+      "description": "the complex and diverse phenomena of both the natural and man-made worlds can be"
+    },
+    {
+      "code": "KS4-SC-247",
+      "description": "described in terms of a number of key ideas which are of universal application, and which"
+    },
+    {
+      "code": "KS4-SC-248",
+      "description": "can be illustrated in the separate topics set out below. These ideas include:"
+    },
+    {
+      "code": "KS4-SC-249",
+      "description": "\u2022 matter is composed of tiny particles called atoms and there are about 100"
+    },
+    {
+      "code": "KS4-SC-250",
+      "description": "different naturally-occurring types of atoms called elements"
+    },
+    {
+      "code": "KS4-SC-251",
+      "description": "\u2022 elements show periodic relationships in their chemical and physical properties"
+    },
+    {
+      "code": "KS4-SC-252",
+      "description": "\u2022 these periodic properties can be explained in terms of the atomic structure of"
+    },
+    {
+      "code": "KS4-SC-253",
+      "description": "the elements"
+    },
+    {
+      "code": "KS4-SC-254",
+      "description": "\u2022 atoms bond either by transferring electrons from one atom to another or by"
+    },
+    {
+      "code": "KS4-SC-255",
+      "description": "sharing electrons"
+    },
+    {
+      "code": "KS4-SC-256",
+      "description": "\u2022 the shapes of molecules (groups of atoms bonded together) and the way giant"
+    },
+    {
+      "code": "KS4-SC-257",
+      "description": "structures are arranged is of great importance in terms of the way they behave"
+    },
+    {
+      "code": "KS4-SC-258",
+      "description": "\u2022 reactions can occur when molecules collide and do so at different rates due to"
+    },
+    {
+      "code": "KS4-SC-259",
+      "description": "differences in molecular collisions"
+    },
+    {
+      "code": "KS4-SC-260",
+      "description": "\u2022 chemical reactions take place in only three different ways:"
+    },
+    {
+      "code": "KS4-SC-261",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-262",
+      "description": "proton transfer"
+    },
+    {
+      "code": "KS4-SC-263",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-264",
+      "description": "electron transfer"
+    },
+    {
+      "code": "KS4-SC-265",
+      "description": "\u2022"
+    },
+    {
+      "code": "KS4-SC-266",
+      "description": "electron sharing"
+    },
+    {
+      "code": "KS4-SC-267",
+      "description": "\u2022 energy is conserved in chemical reactions so can therefore be neither created"
+    },
+    {
+      "code": "KS4-SC-268",
+      "description": "nor destroyed."
+    },
+    {
+      "code": "KS4-SC-269",
+      "description": "Students should be taught about:"
+    },
+    {
+      "code": "KS4-SC-270",
+      "description": "Atomic structure and the Periodic Table"
+    },
+    {
+      "code": "KS4-SC-271",
+      "description": "\u2022 a simple model of the atom consisting of the nucleus and electrons, relative"
+    },
+    {
+      "code": "KS4-SC-272",
+      "description": "atomic mass, electronic charge and isotopes"
+    },
+    {
+      "code": "KS4-SC-273",
+      "description": "\u2022 the number of particles in a given mass of a substance"
+    },
+    {
+      "code": "KS4-SC-274",
+      "description": "11"
+    },
+    {
+      "code": "KS4-SC-275",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-276",
+      "description": "\u2022 the modern Periodic Table, showing elements arranged in order of atomic"
+    },
+    {
+      "code": "KS4-SC-277",
+      "description": "number"
+    },
+    {
+      "code": "KS4-SC-278",
+      "description": "\u2022 position of elements in the Periodic Table in relation to their atomic structure"
+    },
+    {
+      "code": "KS4-SC-279",
+      "description": "and arrangement of outer electrons"
+    },
+    {
+      "code": "KS4-SC-280",
+      "description": "\u2022 properties and trends in properties of elements in the same group"
+    },
+    {
+      "code": "KS4-SC-281",
+      "description": "\u2022 characteristic properties of metals and non-metals"
+    },
+    {
+      "code": "KS4-SC-282",
+      "description": "\u2022 chemical reactivity of elements in relation to their position in the Periodic Table."
+    },
+    {
+      "code": "KS4-SC-283",
+      "description": "Structure, bonding and the properties of matter"
+    },
+    {
+      "code": "KS4-SC-284",
+      "description": "\u2022 changes of state of matter in terms of particle kinetics, energy transfers and the"
+    },
+    {
+      "code": "KS4-SC-285",
+      "description": "relative strength of chemical bonds and intermolecular forces"
+    },
+    {
+      "code": "KS4-SC-286",
+      "description": "\u2022 types of chemical bonding: ionic, covalent, and metallic"
+    },
+    {
+      "code": "KS4-SC-287",
+      "description": "\u2022 bulk properties of materials related to bonding and intermolecular forces"
+    },
+    {
+      "code": "KS4-SC-288",
+      "description": "\u2022 bonding of carbon leading to the vast array of natural and synthetic organic"
+    },
+    {
+      "code": "KS4-SC-289",
+      "description": "compounds that occur due to the ability of carbon to form families of similar"
+    },
+    {
+      "code": "KS4-SC-290",
+      "description": "compounds, chains and rings"
+    },
+    {
+      "code": "KS4-SC-291",
+      "description": "\u2022 structures, bonding and properties of diamond, graphite, fullerenes and"
+    },
+    {
+      "code": "KS4-SC-292",
+      "description": "graphene."
+    },
+    {
+      "code": "KS4-SC-293",
+      "description": "Chemical changes"
+    },
+    {
+      "code": "KS4-SC-294",
+      "description": "\u2022 determination of empirical formulae from the ratio of atoms of different kinds"
+    },
+    {
+      "code": "KS4-SC-295",
+      "description": "\u2022 balanced chemical equations, ionic equations and state symbols"
+    },
+    {
+      "code": "KS4-SC-296",
+      "description": "\u2022 identification of common gases"
+    },
+    {
+      "code": "KS4-SC-297",
+      "description": "\u2022 the chemistry of acids; reactions with some metals and carbonates"
+    },
+    {
+      "code": "KS4-SC-298",
+      "description": "\u2022 pH as a measure of hydrogen ion concentration and its numerical scale"
+    },
+    {
+      "code": "KS4-SC-299",
+      "description": "\u2022 electrolysis of molten ionic liquids and aqueous ionic solutions"
+    },
+    {
+      "code": "KS4-SC-300",
+      "description": "\u2022 reduction and oxidation in terms of loss or gain of oxygen."
+    },
+    {
+      "code": "KS4-SC-301",
+      "description": "Energy changes in chemistry"
+    },
+    {
+      "code": "KS4-SC-302",
+      "description": "\u2022 Measurement of energy changes in chemical reactions (qualitative)"
+    },
+    {
+      "code": "KS4-SC-303",
+      "description": "\u2022 Bond breaking, bond making, activation energy and reaction profiles"
+    },
+    {
+      "code": "KS4-SC-304",
+      "description": "(qualitative)."
+    },
+    {
+      "code": "KS4-SC-305",
+      "description": "12"
+    },
+    {
+      "code": "KS4-SC-306",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-307",
+      "description": "Rate and extent of chemical change"
+    },
+    {
+      "code": "KS4-SC-308",
+      "description": "\u2022 factors that influence the rate of reaction: varying temperature or concentration,"
+    },
+    {
+      "code": "KS4-SC-309",
+      "description": "changing the surface area of a solid reactant or by adding a catalyst"
+    },
+    {
+      "code": "KS4-SC-310",
+      "description": "\u2022 factors affecting reversible reactions."
+    },
+    {
+      "code": "KS4-SC-311",
+      "description": "Chemical analysis"
+    },
+    {
+      "code": "KS4-SC-312",
+      "description": "\u2022 distinguishing between pure and impure substances"
+    },
+    {
+      "code": "KS4-SC-313",
+      "description": "\u2022 separation techniques for mixtures of substances: filtration, crystallisation,"
+    },
+    {
+      "code": "KS4-SC-314",
+      "description": "chromatography, simple and fractional distillation"
+    },
+    {
+      "code": "KS4-SC-315",
+      "description": "\u2022 quantitative interpretation of balanced equations"
+    },
+    {
+      "code": "KS4-SC-316",
+      "description": "\u2022 concentrations of solutions in relation to mass of solute and volume of solvent."
+    },
+    {
+      "code": "KS4-SC-317",
+      "description": "Chemical and allied industries"
+    },
+    {
+      "code": "KS4-SC-318",
+      "description": "\u2022 life cycle assessment and recycling to assess environmental impacts"
+    },
+    {
+      "code": "KS4-SC-319",
+      "description": "associated with all the stages of a product's life"
+    },
+    {
+      "code": "KS4-SC-320",
+      "description": "\u2022 the viability of recycling of certain materials"
+    },
+    {
+      "code": "KS4-SC-321",
+      "description": "\u2022 carbon compounds, both as fuels and feedstock, and the competing demands"
+    },
+    {
+      "code": "KS4-SC-322",
+      "description": "for limited resources"
+    },
+    {
+      "code": "KS4-SC-323",
+      "description": "\u2022 fractional distillation of crude oil and cracking to make more useful materials"
+    },
+    {
+      "code": "KS4-SC-324",
+      "description": "\u2022 extraction and purification of metals related to the position of carbon in a"
+    },
+    {
+      "code": "KS4-SC-325",
+      "description": "reactivity series."
+    },
+    {
+      "code": "KS4-SC-326",
+      "description": "Earth and atmospheric science"
+    },
+    {
+      "code": "KS4-SC-327",
+      "description": "\u2022 evidence for composition and evolution of the Earth\u2019s atmosphere since its"
+    },
+    {
+      "code": "KS4-SC-328",
+      "description": "formation"
+    },
+    {
+      "code": "KS4-SC-329",
+      "description": "\u2022 evidence, and uncertainties in evidence, for additional anthropogenic causes of"
+    },
+    {
+      "code": "KS4-SC-330",
+      "description": "climate change"
+    },
+    {
+      "code": "KS4-SC-331",
+      "description": "\u2022 potential effects of, and mitigation of, increased levels of carbon dioxide and"
+    },
+    {
+      "code": "KS4-SC-332",
+      "description": "methane on the Earth\u2019s climate"
+    },
+    {
+      "code": "KS4-SC-333",
+      "description": "\u2022 common atmospheric pollutants: sulphur dioxide, oxides of nitrogen,"
+    },
+    {
+      "code": "KS4-SC-334",
+      "description": "particulates and their sources"
+    },
+    {
+      "code": "KS4-SC-335",
+      "description": "\u2022 the Earth\u2019s water resources and obtaining potable water."
+    },
+    {
+      "code": "KS4-SC-336",
+      "description": "13"
+    },
+    {
+      "code": "KS4-SC-337",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-338",
+      "description": "Subject content \u2013 Physics"
+    },
+    {
+      "code": "KS4-SC-339",
+      "description": "Physics is the science of the fundamental concepts of field, force, radiation and particle"
+    },
+    {
+      "code": "KS4-SC-340",
+      "description": "structures, which are inter-linked to form unified models of the behaviour of the material"
+    },
+    {
+      "code": "KS4-SC-341",
+      "description": "universe. From such models, a wide range of ideas, from the broadest issue of the"
+    },
+    {
+      "code": "KS4-SC-342",
+      "description": "development of the universe over time to the numerous and detailed ways in which new"
+    },
+    {
+      "code": "KS4-SC-343",
+      "description": "technologies may be invented, have emerged. These have enriched both our basic"
+    },
+    {
+      "code": "KS4-SC-344",
+      "description": "understanding of, and our many adaptations to, our material environment."
+    },
+    {
+      "code": "KS4-SC-345",
+      "description": "Students should be helped to understand how, through the ideas of physics, the complex"
+    },
+    {
+      "code": "KS4-SC-346",
+      "description": "and diverse phenomena of the natural world can be described in terms of a number of"
+    },
+    {
+      "code": "KS4-SC-347",
+      "description": "key ideas which are of universal application and which can be illustrated in the separate"
+    },
+    {
+      "code": "KS4-SC-348",
+      "description": "topics set out below. These ideas include:"
+    },
+    {
+      "code": "KS4-SC-349",
+      "description": "\u2022 the use of models, as in the particle model of matter or the wave models of"
+    },
+    {
+      "code": "KS4-SC-350",
+      "description": "light and of sound"
+    },
+    {
+      "code": "KS4-SC-351",
+      "description": "\u2022 the concept of cause and effect in explaining such links as those between force"
+    },
+    {
+      "code": "KS4-SC-352",
+      "description": "and acceleration, or between changes in atomic nuclei and radioactive"
+    },
+    {
+      "code": "KS4-SC-353",
+      "description": "emissions"
+    },
+    {
+      "code": "KS4-SC-354",
+      "description": "\u2022 the phenomena of \u2018action at a distance\u2019 and the related concept of the field as"
+    },
+    {
+      "code": "KS4-SC-355",
+      "description": "the key to analysing electrical, magnetic and gravitational effects"
+    },
+    {
+      "code": "KS4-SC-356",
+      "description": "\u2022 that differences, for example between pressures or temperatures or electrical"
+    },
+    {
+      "code": "KS4-SC-357",
+      "description": "potentials, are the drivers of change"
+    },
+    {
+      "code": "KS4-SC-358",
+      "description": "\u2022 that proportionality, for example between weight and mass of an object or"
+    },
+    {
+      "code": "KS4-SC-359",
+      "description": "between force and extension in a spring, is an important aspect of many"
+    },
+    {
+      "code": "KS4-SC-360",
+      "description": "models in science."
+    },
+    {
+      "code": "KS4-SC-361",
+      "description": "Students should be taught about:"
+    },
+    {
+      "code": "KS4-SC-362",
+      "description": "Energy"
+    },
+    {
+      "code": "KS4-SC-363",
+      "description": "\u2022 energy changes in a system involving heating, doing work using forces, or"
+    },
+    {
+      "code": "KS4-SC-364",
+      "description": "doing work using an electric current: calculating the stored energies and"
+    },
+    {
+      "code": "KS4-SC-365",
+      "description": "energy changes involved"
+    },
+    {
+      "code": "KS4-SC-366",
+      "description": "\u2022 power as the rate of transfer of energy"
+    },
+    {
+      "code": "KS4-SC-367",
+      "description": "\u2022 conservation of energy in a closed system, dissipation"
+    },
+    {
+      "code": "KS4-SC-368",
+      "description": "\u2022 calculating energy efficiency for any energy transfers"
+    },
+    {
+      "code": "KS4-SC-369",
+      "description": "\u2022 renewable and non-renewable energy sources used on Earth, changes in how"
+    },
+    {
+      "code": "KS4-SC-370",
+      "description": "these are used."
+    },
+    {
+      "code": "KS4-SC-371",
+      "description": "14"
+    },
+    {
+      "code": "KS4-SC-372",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-373",
+      "description": "Forces"
+    },
+    {
+      "code": "KS4-SC-374",
+      "description": "\u2022 forces and fields: electrostatic, magnetic, gravity"
+    },
+    {
+      "code": "KS4-SC-375",
+      "description": "\u2022 forces as vectors"
+    },
+    {
+      "code": "KS4-SC-376",
+      "description": "\u2022 calculating work done as force x distance; elastic and inelastic stretching"
+    },
+    {
+      "code": "KS4-SC-377",
+      "description": "\u2022 pressure in fluids acts in all directions: variation in Earth\u2019s atmosphere with"
+    },
+    {
+      "code": "KS4-SC-378",
+      "description": "height, with depth for liquids, up-thrust force (qualitative)."
+    },
+    {
+      "code": "KS4-SC-379",
+      "description": "Forces and motion"
+    },
+    {
+      "code": "KS4-SC-380",
+      "description": "\u2022 speed of sound, estimating speeds and accelerations in everyday contexts"
+    },
+    {
+      "code": "KS4-SC-381",
+      "description": "\u2022 interpreting quantitatively graphs of distance, time, and speed"
+    },
+    {
+      "code": "KS4-SC-382",
+      "description": "\u2022 acceleration caused by forces; Newton\u2019s First Law"
+    },
+    {
+      "code": "KS4-SC-383",
+      "description": "\u2022 weight and gravitational field strength"
+    },
+    {
+      "code": "KS4-SC-384",
+      "description": "\u2022 decelerations and braking distances involved on roads, safety."
+    },
+    {
+      "code": "KS4-SC-385",
+      "description": "Wave motion"
+    },
+    {
+      "code": "KS4-SC-386",
+      "description": "\u2022 amplitude, wavelength, frequency, relating velocity to frequency and"
+    },
+    {
+      "code": "KS4-SC-387",
+      "description": "wavelength"
+    },
+    {
+      "code": "KS4-SC-388",
+      "description": "\u2022 transverse and longitudinal waves"
+    },
+    {
+      "code": "KS4-SC-389",
+      "description": "\u2022 electromagnetic waves, velocity in vacuum; waves transferring energy;"
+    },
+    {
+      "code": "KS4-SC-390",
+      "description": "wavelengths and frequencies from radio to gamma-rays"
+    },
+    {
+      "code": "KS4-SC-391",
+      "description": "\u2022 velocities differing between media: absorption, reflection, refraction effects"
+    },
+    {
+      "code": "KS4-SC-392",
+      "description": "\u2022 production and detection, by electrical circuits, or by changes in atoms and"
+    },
+    {
+      "code": "KS4-SC-393",
+      "description": "nuclei"
+    },
+    {
+      "code": "KS4-SC-394",
+      "description": "\u2022 uses in the radio, microwave, infra-red, visible, ultra-violet, X-ray and gamma-"
+    },
+    {
+      "code": "KS4-SC-395",
+      "description": "ray regions, hazardous effects on bodily tissues."
+    },
+    {
+      "code": "KS4-SC-396",
+      "description": "Electricity"
+    },
+    {
+      "code": "KS4-SC-397",
+      "description": "\u2022 measuring resistance using p.d. and current measurements"
+    },
+    {
+      "code": "KS4-SC-398",
+      "description": "\u2022 exploring current, resistance and voltage relationships for different circuit"
+    },
+    {
+      "code": "KS4-SC-399",
+      "description": "elements; including their graphical representations"
+    },
+    {
+      "code": "KS4-SC-400",
+      "description": "\u2022 quantity of charge flowing as the product of current and time"
+    },
+    {
+      "code": "KS4-SC-401",
+      "description": "15"
+    },
+    {
+      "code": "KS4-SC-402",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-403",
+      "description": "\u2022 drawing circuit diagrams; exploring equivalent resistance for resistors in series"
+    },
+    {
+      "code": "KS4-SC-404",
+      "description": "\u2022 the domestic a.c. supply; live, neutral and earth mains wires, safety measures"
+    },
+    {
+      "code": "KS4-SC-405",
+      "description": "\u2022 power transfer related to p.d. and current, or current and resistance."
+    },
+    {
+      "code": "KS4-SC-406",
+      "description": "Magnetism and electromagnetism"
+    },
+    {
+      "code": "KS4-SC-407",
+      "description": "\u2022 exploring the magnetic fields of permanent and induced magnets, and the"
+    },
+    {
+      "code": "KS4-SC-408",
+      "description": "Earth\u2019s magnetic field, using a compass"
+    },
+    {
+      "code": "KS4-SC-409",
+      "description": "\u2022 magnetic effects of currents, how solenoids enhance the effect"
+    },
+    {
+      "code": "KS4-SC-410",
+      "description": "\u2022 how transformers are used in the national grid and the reasons for their use."
+    },
+    {
+      "code": "KS4-SC-411",
+      "description": "The structure of matter"
+    },
+    {
+      "code": "KS4-SC-412",
+      "description": "\u2022 relating models of arrangements and motions of the molecules in solid, liquid"
+    },
+    {
+      "code": "KS4-SC-413",
+      "description": "and gas phases to their densities"
+    },
+    {
+      "code": "KS4-SC-414",
+      "description": "\u2022 melting, evaporation, and sublimation as reversible changes"
+    },
+    {
+      "code": "KS4-SC-415",
+      "description": "\u2022 calculating energy changes involved on heating, using specific heat capacity;"
+    },
+    {
+      "code": "KS4-SC-416",
+      "description": "and those involved in changes of state, using specific latent heat"
+    },
+    {
+      "code": "KS4-SC-417",
+      "description": "\u2022 links between pressure and temperature of a gas at constant volume, related"
+    },
+    {
+      "code": "KS4-SC-418",
+      "description": "to the motion of its particles (qualitative)."
+    },
+    {
+      "code": "KS4-SC-419",
+      "description": "Atomic structure"
+    },
+    {
+      "code": "KS4-SC-420",
+      "description": "\u2022 the nuclear model and its development in the light of changing evidence"
+    },
+    {
+      "code": "KS4-SC-421",
+      "description": "\u2022 masses and sizes of nuclei, atoms and small molecules"
+    },
+    {
+      "code": "KS4-SC-422",
+      "description": "\u2022 differences in numbers of protons, and neutrons related to masses and"
+    },
+    {
+      "code": "KS4-SC-423",
+      "description": "identities of nuclei, isotope characteristics and equations to represent changes"
+    },
+    {
+      "code": "KS4-SC-424",
+      "description": "\u2022 ionisation; absorption or emission of radiation related to changes in electron"
+    },
+    {
+      "code": "KS4-SC-425",
+      "description": "orbits"
+    },
+    {
+      "code": "KS4-SC-426",
+      "description": "\u2022 radioactive nuclei: emission of alpha or beta particles, neutrons, or gamma-"
+    },
+    {
+      "code": "KS4-SC-427",
+      "description": "rays, related to changes in the nuclear mass and/or charge"
+    },
+    {
+      "code": "KS4-SC-428",
+      "description": "\u2022 radioactive materials, half-life, irradiation, contamination and their associated"
+    },
+    {
+      "code": "KS4-SC-429",
+      "description": "hazardous effects, waste disposal"
+    },
+    {
+      "code": "KS4-SC-430",
+      "description": "\u2022 nuclear fission, nuclear fusion and our Sun\u2019s energy"
+    },
+    {
+      "code": "KS4-SC-431",
+      "description": "Space physics"
+    },
+    {
+      "code": "KS4-SC-432",
+      "description": "16"
+    },
+    {
+      "code": "KS4-SC-433",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-434",
+      "description": "\u2022 the main features of the solar system."
+    },
+    {
+      "code": "KS4-SC-435",
+      "description": "17"
+    },
+    {
+      "code": "KS4-SC-436",
+      "description": "Science \u2013 key stage 4"
+    },
+    {
+      "code": "KS4-SC-437",
+      "description": "\u00a9 Crown copyright 2014"
+    },
+    {
+      "code": "KS4-SC-438",
+      "description": "You may re-use this document/publication (not including logos) free of charge in any"
+    },
+    {
+      "code": "KS4-SC-439",
+      "description": "format or medium, under the terms of the Open Government Licence v2.0. Where we"
+    },
+    {
+      "code": "KS4-SC-440",
+      "description": "have identified any third party copyright information you will need to obtain permission"
+    },
+    {
+      "code": "KS4-SC-441",
+      "description": "from the copyright holders concerned."
+    },
+    {
+      "code": "KS4-SC-442",
+      "description": "To view this licence:"
+    },
+    {
+      "code": "KS4-SC-443",
+      "description": "visit www.nationalarchives.gov.uk/doc/open-government-licence/version/2"
+    },
+    {
+      "code": "KS4-SC-444",
+      "description": "email psi@nationalarchives.gsi.gov.uk"
+    },
+    {
+      "code": "KS4-SC-445",
+      "description": "About this publication:"
+    },
+    {
+      "code": "KS4-SC-446",
+      "description": "enquiries www.education.gov.uk/contactus"
+    },
+    {
+      "code": "KS4-SC-447",
+      "description": "download www.gov.uk/government/publications"
+    },
+    {
+      "code": "KS4-SC-448",
+      "description": "Reference: DFE-00677-2014"
+    },
+    {
+      "code": "KS4-SC-449",
+      "description": "Follow us on Twitter: Like us on Facebook:"
+    },
+    {
+      "code": "KS4-SC-450",
+      "description": "@educationgovuk facebook.com/educationgovuk"
+    },
+    {
+      "code": "KS4-SC-451",
+      "description": "18"
+    }
+  ]
+}

@@ -1,1 +1,72 @@
-{}
+{
+  "KS?": [
+    {
+      "code": "KS?-MA-001",
+      "description": "Mathematics Appendix 1: Examples of formal written"
+    },
+    {
+      "code": "KS?-MA-002",
+      "description": "methods for addition, subtraction, multiplication and"
+    },
+    {
+      "code": "KS?-MA-003",
+      "description": "division"
+    },
+    {
+      "code": "KS?-MA-004",
+      "description": "This appendix sets out some examples of formal written methods for all four operations to"
+    },
+    {
+      "code": "KS?-MA-005",
+      "description": "illustrate the range of methods that could be taught. It is not intended to be an exhaustive"
+    },
+    {
+      "code": "KS?-MA-006",
+      "description": "list, nor is it intended to show progression in formal written methods. For example, the"
+    },
+    {
+      "code": "KS?-MA-007",
+      "description": "exact position of intermediate calculations (superscript and subscript digits) will vary"
+    },
+    {
+      "code": "KS?-MA-008",
+      "description": "depending on the method and format used."
+    },
+    {
+      "code": "KS?-MA-009",
+      "description": "For multiplication, some pupils may include an addition symbol when adding partial"
+    },
+    {
+      "code": "KS?-MA-010",
+      "description": "products. For division, some pupils may include a subtraction symbol when subtracting"
+    },
+    {
+      "code": "KS?-MA-011",
+      "description": "multiples of the divisor."
+    },
+    {
+      "code": "KS?-MA-012",
+      "description": "Addition and subtraction"
+    },
+    {
+      "code": "KS?-MA-013",
+      "description": "Short multiplication"
+    },
+    {
+      "code": "KS?-MA-014",
+      "description": "Long multiplication"
+    },
+    {
+      "code": "KS?-MA-015",
+      "description": "Short division"
+    },
+    {
+      "code": "KS?-MA-016",
+      "description": "Long division"
+    },
+    {
+      "code": "KS?-MA-017",
+      "description": "\u00a9 Crown copyright 2013"
+    }
+  ]
+}

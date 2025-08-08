@@ -1,1 +1,412 @@
-{}
+{
+  "KS3": [
+    {
+      "code": "KS3-GE-001",
+      "description": "Geography programmes of study:"
+    },
+    {
+      "code": "KS3-GE-002",
+      "description": "key stage 3"
+    },
+    {
+      "code": "KS3-GE-003",
+      "description": "National curriculum in England"
+    },
+    {
+      "code": "KS3-GE-004",
+      "description": "Purpose of study"
+    },
+    {
+      "code": "KS3-GE-005",
+      "description": "A high-quality geography education should inspire in pupils a curiosity and fascination"
+    },
+    {
+      "code": "KS3-GE-006",
+      "description": "about the world and its people that will remain with them for the rest of their lives."
+    },
+    {
+      "code": "KS3-GE-007",
+      "description": "Teaching should equip pupils with knowledge about diverse places, people, resources and"
+    },
+    {
+      "code": "KS3-GE-008",
+      "description": "natural and human environments, together with a deep understanding of the Earth\u2019s key"
+    },
+    {
+      "code": "KS3-GE-009",
+      "description": "physical and human processes. As pupils progress, their growing knowledge about the"
+    },
+    {
+      "code": "KS3-GE-010",
+      "description": "world should help them to deepen their understanding of the interaction between physical"
+    },
+    {
+      "code": "KS3-GE-011",
+      "description": "and human processes, and of the formation and use of landscapes and environments."
+    },
+    {
+      "code": "KS3-GE-012",
+      "description": "Geographical knowledge, understanding and skills provide the frameworks and"
+    },
+    {
+      "code": "KS3-GE-013",
+      "description": "approaches that explain how the Earth\u2019s features at different scales are shaped,"
+    },
+    {
+      "code": "KS3-GE-014",
+      "description": "interconnected and change over time."
+    },
+    {
+      "code": "KS3-GE-015",
+      "description": "Aims"
+    },
+    {
+      "code": "KS3-GE-016",
+      "description": "The national curriculum for geography aims to ensure that all pupils:"
+    },
+    {
+      "code": "KS3-GE-017",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-018",
+      "description": "develop contextual knowledge of the location of globally significant places \u2013 both"
+    },
+    {
+      "code": "KS3-GE-019",
+      "description": "terrestrial and marine \u2013 including their defining physical and human characteristics and"
+    },
+    {
+      "code": "KS3-GE-020",
+      "description": "how these provide a geographical context for understanding the actions of processes"
+    },
+    {
+      "code": "KS3-GE-021",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-022",
+      "description": "understand the processes that give rise to key physical and human geographical"
+    },
+    {
+      "code": "KS3-GE-023",
+      "description": "features of the world, how these are interdependent and how they bring about spatial"
+    },
+    {
+      "code": "KS3-GE-024",
+      "description": "variation and change over time"
+    },
+    {
+      "code": "KS3-GE-025",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-026",
+      "description": "are competent in the geographical skills needed to:"
+    },
+    {
+      "code": "KS3-GE-027",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-028",
+      "description": "collect, analyse and communicate with a range of data gathered through"
+    },
+    {
+      "code": "KS3-GE-029",
+      "description": "experiences of fieldwork that deepen their understanding of geographical"
+    },
+    {
+      "code": "KS3-GE-030",
+      "description": "processes"
+    },
+    {
+      "code": "KS3-GE-031",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-032",
+      "description": "interpret a range of sources of geographical information, including maps, diagrams,"
+    },
+    {
+      "code": "KS3-GE-033",
+      "description": "globes, aerial photographs and Geographical Information Systems (GIS)"
+    },
+    {
+      "code": "KS3-GE-034",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-035",
+      "description": "communicate geographical information in a variety of ways, including through"
+    },
+    {
+      "code": "KS3-GE-036",
+      "description": "maps, numerical and quantitative skills and writing at length."
+    },
+    {
+      "code": "KS3-GE-037",
+      "description": "Published: September 2013"
+    },
+    {
+      "code": "KS3-GE-038",
+      "description": "Geography \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-GE-039",
+      "description": "Attainment targets"
+    },
+    {
+      "code": "KS3-GE-040",
+      "description": "By the end of key stage 3, pupils are expected to know, apply and understand the matters,"
+    },
+    {
+      "code": "KS3-GE-041",
+      "description": "skills and processes specified in the programme of study."
+    },
+    {
+      "code": "KS3-GE-042",
+      "description": "Schools are not required by law to teach the example content in [square brackets]."
+    },
+    {
+      "code": "KS3-GE-043",
+      "description": "Subject content"
+    },
+    {
+      "code": "KS3-GE-044",
+      "description": "Key stage 3"
+    },
+    {
+      "code": "KS3-GE-045",
+      "description": "Pupils should consolidate and extend their knowledge of the world\u2019s major countries and"
+    },
+    {
+      "code": "KS3-GE-046",
+      "description": "their physical and human features. They should understand how geographical processes"
+    },
+    {
+      "code": "KS3-GE-047",
+      "description": "interact to create distinctive human and physical landscapes that change over time. In"
+    },
+    {
+      "code": "KS3-GE-048",
+      "description": "doing so, they should become aware of increasingly complex geographical systems in the"
+    },
+    {
+      "code": "KS3-GE-049",
+      "description": "world around them. They should develop greater competence in using geographical"
+    },
+    {
+      "code": "KS3-GE-050",
+      "description": "knowledge, approaches and concepts [such as models and theories] and geographical"
+    },
+    {
+      "code": "KS3-GE-051",
+      "description": "skills in analysing and interpreting different data sources. In this way pupils will continue to"
+    },
+    {
+      "code": "KS3-GE-052",
+      "description": "enrich their locational knowledge and spatial and environmental understanding."
+    },
+    {
+      "code": "KS3-GE-053",
+      "description": "Pupils should be taught to:"
+    },
+    {
+      "code": "KS3-GE-054",
+      "description": "Locational knowledge"
+    },
+    {
+      "code": "KS3-GE-055",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-056",
+      "description": "extend their locational knowledge and deepen their spatial awareness of the world\u2019s"
+    },
+    {
+      "code": "KS3-GE-057",
+      "description": "countries using maps of the world to focus on Africa, Russia, Asia (including China and"
+    },
+    {
+      "code": "KS3-GE-058",
+      "description": "India), and the Middle East, focusing on their environmental regions, including polar"
+    },
+    {
+      "code": "KS3-GE-059",
+      "description": "and hot deserts, key physical and human characteristics, countries and major cities"
+    },
+    {
+      "code": "KS3-GE-060",
+      "description": "Place Knowledge"
+    },
+    {
+      "code": "KS3-GE-061",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-062",
+      "description": "understand geographical similarities, differences and links between places through the"
+    },
+    {
+      "code": "KS3-GE-063",
+      "description": "study of human and physical geography of a region within Africa, and of a region within"
+    },
+    {
+      "code": "KS3-GE-064",
+      "description": "Asia"
+    },
+    {
+      "code": "KS3-GE-065",
+      "description": "Human and physical geography"
+    },
+    {
+      "code": "KS3-GE-066",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-067",
+      "description": "understand, through the use of detailed place-based exemplars at a variety of scales,"
+    },
+    {
+      "code": "KS3-GE-068",
+      "description": "the key processes in:"
+    },
+    {
+      "code": "KS3-GE-069",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-070",
+      "description": "physical geography relating to: geological timescales and plate tectonics; rocks,"
+    },
+    {
+      "code": "KS3-GE-071",
+      "description": "weathering and soils; weather and climate, including the change in climate from"
+    },
+    {
+      "code": "KS3-GE-072",
+      "description": "the Ice Age to the present; and glaciation, hydrology and coasts"
+    },
+    {
+      "code": "KS3-GE-073",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-074",
+      "description": "human geography relating to: population and urbanisation; international"
+    },
+    {
+      "code": "KS3-GE-075",
+      "description": "development; economic activity in the primary, secondary, tertiary and quaternary"
+    },
+    {
+      "code": "KS3-GE-076",
+      "description": "sectors; and the use of natural resources"
+    },
+    {
+      "code": "KS3-GE-077",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-078",
+      "description": "understand how human and physical processes interact to influence, and change"
+    },
+    {
+      "code": "KS3-GE-079",
+      "description": "landscapes, environments and the climate; and how human activity relies on effective"
+    },
+    {
+      "code": "KS3-GE-080",
+      "description": "functioning of natural systems"
+    },
+    {
+      "code": "KS3-GE-081",
+      "description": "2"
+    },
+    {
+      "code": "KS3-GE-082",
+      "description": "Geography \u2013 key stage 3"
+    },
+    {
+      "code": "KS3-GE-083",
+      "description": "Geographical skills and fieldwork"
+    },
+    {
+      "code": "KS3-GE-084",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-085",
+      "description": "build on their knowledge of globes, maps and atlases and apply and develop this"
+    },
+    {
+      "code": "KS3-GE-086",
+      "description": "knowledge routinely in the classroom and in the field"
+    },
+    {
+      "code": "KS3-GE-087",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-088",
+      "description": "interpret Ordnance Survey maps in the classroom and the field, including using grid"
+    },
+    {
+      "code": "KS3-GE-089",
+      "description": "references and scale, topographical and other thematic mapping, and aerial and"
+    },
+    {
+      "code": "KS3-GE-090",
+      "description": "satellite photographs"
+    },
+    {
+      "code": "KS3-GE-091",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-092",
+      "description": "use Geographical Information Systems (GIS) to view, analyse and interpret places and"
+    },
+    {
+      "code": "KS3-GE-093",
+      "description": "data"
+    },
+    {
+      "code": "KS3-GE-094",
+      "description": "\uf0a7"
+    },
+    {
+      "code": "KS3-GE-095",
+      "description": "use fieldwork in contrasting locations to collect, analyse and draw conclusions from"
+    },
+    {
+      "code": "KS3-GE-096",
+      "description": "geographical data, using multiple sources of increasingly complex information."
+    },
+    {
+      "code": "KS3-GE-097",
+      "description": "\u00a9 Crown copyright 2013"
+    },
+    {
+      "code": "KS3-GE-098",
+      "description": "You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of"
+    },
+    {
+      "code": "KS3-GE-099",
+      "description": "the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-"
+    },
+    {
+      "code": "KS3-GE-100",
+      "description": "government-licence/ or email: psi@nationalarchives.gsi.gov.uk."
+    },
+    {
+      "code": "KS3-GE-101",
+      "description": "Reference: DFE-00193-2013"
+    },
+    {
+      "code": "KS3-GE-102",
+      "description": "3"
+    }
+  ]
+}
